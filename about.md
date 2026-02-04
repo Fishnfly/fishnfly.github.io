@@ -5,12 +5,15 @@ title: About
 
 ## About Fish n Fly
 
-I’m Mike — an angler who believes the best trips combine water, movement, and a bit of uncertainty.
+I’m Mike — a traveler drawn to places that feel a little off the main route.
 
-Fish n Fly is where I document our travels, whether fishing is top of mind or just exploring countries, coastlines where access, timing, and local knowledge matter just as much as cultrural diversity.
+Fish n Fly is a travel journal focused on moving through countries, regions, and landscapes with curiosity and intention. Sometimes that involves fishing, sometimes it doesn’t — but it always involves slowing down enough to understand a place beyond the highlights.
 
 This site is about:
-- Traveling with fishing as the purpose
-- Learning new lands
-- The gear, planning, and mistakes along the way
-- Stories worth telling, even when the fishing is slow
+- Traveling through countries, not just visiting them
+- Learning how places work on the ground
+- Long days, unexpected detours, and small details
+- Experiences that don’t fit neatly into an itinerary
+
+Fishing shows up here when it’s part of the story — as one way of connecting to water, people, and place — but the heart of Fish n Fly is travel itself.
+
