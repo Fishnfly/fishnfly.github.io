@@ -3,16 +3,18 @@ layout: page
 title: Travel
 ---
 
-## Traveling Through Countries, Not Just To Them
+Travel, for us, isn’t about moving quickly or seeing as much as possible. It’s about paying attention.
 
-Travel, for us, is about movement — across borders, through regions, and into the quieter parts of a place that don’t always show up on a map.
+We’re drawn to places where the experience comes from being present — where understanding a region means moving through it slowly, noticing how people live, and allowing plans to change once you’re on the ground.
 
-This site approaches travel as something experienced over time, not consumed in highlights. Countries are explored through daily rhythms, long walks, local decisions, and the small moments that only show up when you stay a little longer than planned.
+Our trips are shaped less by itineraries and more by observation. We care about how landscapes influence daily life, how transportation really works, and what you miss when you only skim the surface of a place.
 
-Here you’ll find:
-- Country‑focused travel stories
-- Observations from moving slowly through places
-- Lessons learned on the ground, not from itineraries
-- Notes on logistics, timing, and travel flow
+This section focuses on:
+- Traveling *through* countries rather than hopping between highlights
+- Moving at a pace that allows places to reveal themselves
+- The small, often overlooked details that define a journey
+- Detours, delays, and moments that reshape the original plan
 
-Some trips include fishing, water, or time spent near the coast or rivers — but those are just one way of connecting to a place. The focus here is always the country itself: how it feels, how it moves, and what stays with you after you leave.
+Fishing appears here when it fits naturally into that rhythm — as a way of slowing down even further, spending time with water, and connecting with people and places from a different perspective. Sometimes it’s central to the experience; other times it’s absent entirely.
+
+These aren’t destination guides or recommendations. They’re reflections and field notes — written for travelers who value curiosity over efficiency and depth over distance.
