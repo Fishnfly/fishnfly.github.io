@@ -7,3 +7,4 @@ layout: home
 Fish n Fly is about exploring new places through fishing — fly fishing, coastal water, and backcountry travel.
 
 This site documents trips, lessons learned, and moments worth remembering.
+
