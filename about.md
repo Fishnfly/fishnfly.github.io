@@ -5,7 +5,7 @@ title: About
 
 ## About Fish n Fly
 
-I’m Mike — a traveler drawn to places that feel a little off the main route.
+We're Mike & Birgitte — travelers drawn to places that feel a little off the main route.
 
 Fish n Fly is a travel journal focused on moving through countries, regions, and landscapes with curiosity and intention. Sometimes that involves fishing, sometimes it doesn’t — but it always involves slowing down enough to understand a place beyond the highlights.
 
