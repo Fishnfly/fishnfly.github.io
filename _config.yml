@@ -1,3 +1,10 @@
-title: Fish n Fly
+Title: Fish n Fly
 description: Traveling farther. Fishing better. Stories from the water.
 theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - travel.md
+  - stories.md
+
