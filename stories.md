@@ -2,6 +2,7 @@
 --
 layout: page
 title: Stories
+permalink: /stories/
 ---
 
 Stories are how travel becomes meaningful.
