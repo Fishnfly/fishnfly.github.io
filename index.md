@@ -2,9 +2,9 @@
 layout: home
 ---
 
-**Travel farther. Fish better. Tell better stories.**
+**Travel farther. Tell better stories. Fish Better.**
 
-Fish n Fly is about exploring new places through fishing — fly fishing, coastal water, and backcountry travel.
+Fish n Fly is about exploring new places through country travels, and the occasional fishing opportunities that may present themselves along the way.
 
 This site documents trips, lessons learned, and moments worth remembering.
 
