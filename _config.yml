@@ -8,3 +8,6 @@ header_pages:
   - stories.md
   - contact.md
 
+footer:
+  show_powered_by: false
+
