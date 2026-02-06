@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-We’re Mike and Birgitte — travelers drawn to places that feel a little off the main route.
+We’re Mike and Birgitte — travelers drawn to major cities and covering all the countries in the world with some that may feel a little off the well-trodden path.
 
 **Fish n Fly** is a travel journal shaped by movement through countries, regions, and landscapes with curiosity and intention. Sometimes that movement involves fishing, sometimes it doesn’t — but it always involves slowing down enough to understand a place beyond the highlights.
 
