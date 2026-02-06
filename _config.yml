@@ -11,11 +11,10 @@ header_pages:
 footer:
   show_powered_by: false
 
-# Make all "pages" use the styled Minima page layout by default
 defaults:
   - scope:
-      path: ""         # applies to the whole site
-      type: "pages"    # only to pages (not posts)
+      path: ""
+      type: "pages"
     values:
       layout: page
 
