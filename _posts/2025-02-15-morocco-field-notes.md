@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Morocco: Moving Slowly Through Distance"
@@ -18,7 +17,7 @@ Before getting into the moments that stayed with us, here’s the framework we m
 
 **February 2–15**
 
-Rabat → Fez → Erfoud → Sahara (Merzouga) → Aït Benhaddou → Marrakesh → Essaouira → Casablanca [1](https://travelnfish-my.sharepoint.com/personal/mike_fishnfly_net/Documents/Microsoft%20Copilot%20Chat%20Files/TRAVELDOCUMENTS%20-%203003462%20-%201d23b802.pdf)
+Rabat → Fez → Erfoud → Sahara (Merzouga) → Aït Benhaddou → Marrakesh → Essaouira → Casablanca.
 
 This route mattered less for the stops themselves than for what changed between them.
 
