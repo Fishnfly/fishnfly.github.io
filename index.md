@@ -1,5 +1,6 @@
 ---
 title: Fishnfly
+layout: home
 ---
 
 ### Travel farther. Stay longer. Notice more.
