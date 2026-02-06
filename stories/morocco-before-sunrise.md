@@ -23,6 +23,8 @@ Once airborne, the world shrank quickly.
 
 Villages, tracks, fields — all reduced to patterns rather than places. From above, nothing demanded attention. There were no landmarks asking to be named, no directions to follow. Just movement, air, and the steady patience of the balloon drifting wherever the morning allowed.
 
+![Balloon ride](/assets/images/morocco/balloons.jpg)
+
 The silence up there was different. Not the absence of noise, but a kind of agreement — between the people in the basket, the land below, and the sun climbing reluctantly into view.
 
 As the light grew stronger, details sharpened. Texture returned. The geometry of the land became clearer. What had felt abstract slowly reassumed meaning, and with it came the understanding that the day was about to begin in earnest — with traffic, voices, heat, and plans.
