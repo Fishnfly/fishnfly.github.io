@@ -2,6 +2,8 @@ Title: Fish n Fly
 description: Traveling farther. Fishing better. Stories around the world.
 theme: minima
 
+google_analytics: G-MV5Q0TKPF9
+
 header_pages:
   - about.md
   - travel.md
