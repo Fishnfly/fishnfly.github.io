@@ -1,4 +1,4 @@
-Title: Fish n Fly
+title: Fish n Fly
 description: Traveling farther. Fishing better. Stories around the world.
 theme: minima
 
@@ -10,4 +10,12 @@ header_pages:
 
 footer:
   show_powered_by: false
+
+# Make all "pages" use the styled Minima page layout by default
+defaults:
+  - scope:
+      path: ""         # applies to the whole site
+      type: "pages"    # only to pages (not posts)
+    values:
+      layout: page
 
