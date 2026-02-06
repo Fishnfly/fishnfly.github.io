@@ -1,5 +1,6 @@
 ---
 title: Stories
+layout: home
 permalink: /stories/
 ---
 
