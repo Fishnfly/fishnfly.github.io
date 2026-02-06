@@ -17,3 +17,9 @@ Here you’ll find:
 - Moments that felt ordinary at the time, but lasting in memory
 
 These stories are written for travelers who value depth over distance — and who believe the best parts of a journey rarely announce themselves.
+
+---
+
+### Morocco
+
+- [Before Sunrise Over Morocco](/stories/morocco-before-sunrise)
