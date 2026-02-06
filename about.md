@@ -1,7 +1,8 @@
 ---
-layout: page
 title: About
+layout: page
 ---
+
 
 We’re Mike and Birgitte — travelers drawn to major cities and covering all the countries in the world with some that may feel a little off the well-trodden path.
 
