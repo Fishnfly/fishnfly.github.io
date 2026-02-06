@@ -122,6 +122,8 @@ Travel north to Casablanca with a panoramic city drive, including Mohammed V Squ
 ### Day 15 · Departure  
 Transfer to the airport and depart Morocco.
 
+</details>
+
 ---
 
 ## What Changed as We Moved
