@@ -27,6 +27,8 @@ The silence up there was different. Not the absence of noise, but a kind of agre
 
 As the light grew stronger, details sharpened. Texture returned. The geometry of the land became clearer. What had felt abstract slowly reassumed meaning, and with it came the understanding that the day was about to begin in earnest — with traffic, voices, heat, and plans.
 
+![Balloon ride](/assets/images/morocco/single-balloon.jpg)
+
 But for a while longer, none of that applied.
 
 That morning stayed with us not because it was spectacular, but because it was quiet and unforced. There was no sense of performance, no rush to document every second. Just the feeling of being briefly suspended between arrival and departure, watching a country wake itself without our involvement.
