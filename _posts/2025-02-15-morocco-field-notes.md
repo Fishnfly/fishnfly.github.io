@@ -81,7 +81,7 @@ City highlights include Majorelle Gardens, Koutoubia Mosque, Bahia Palace, Saadi
 ---
 
 **Day 11 · Marrakesh (Open Day)**  
-An unstructured day. Optional sunrise balloon flight or independent wandering through neighborhoods, cafés, and markets.  
+An unstructured day. Optional sunrise balloon flight (wish we took) or independent wandering through neighborhoods, cafés, and markets.  
 **Overnight:** Marrakesh
 
 ---
