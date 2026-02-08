@@ -13,7 +13,7 @@ The balloon waited in a wide, open stretch of land, its shape barely visible unt
 
 As the balloon filled, the horizon began to loosen.
 
-![Preparing the balloon before sunrise](/assets/images/morocco/burners-light-40.jpg)
+![Preparing the balloon before sunrise](/assets/images/morocco/burners-light-30.jpg)
 
 There’s a moment before sunrise that’s easy to miss if you’re not looking for it — when the sky shifts color not all at once, but in layers. Dust in the air softened the light, muting everything into pale oranges and quiet blues. Morocco unfolded slowly below us, low and wide and calm in a way that felt entirely detached from the day that would follow.
 
