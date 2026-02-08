@@ -21,91 +21,104 @@ The route mattered not because of the stops themselves, but because of how each 
 
 ---
 
+
 ## The Itinerary (Reference)
 
-<details>
-<summary><strong>View full day‑by‑day itinerary</strong></summary>
+---
 
 **Day 1–2 · Arrival → Rabat**  
-Arrive in Casablanca and transfer north to Rabat. The first afternoon is intentionally unstructured — time to walk, orient, and adjust.  
+Arrive in Casablanca and transfer north to Rabat. The first afternoon is intentionally unstructured — time to walk, orient, and adjust. An evening orientation and dinner mark the beginning of the trip.
+
 **Overnight:** Rabat
 
 ---
 
 **Day 3 · Rabat**  
-A guided exploration of the capital, balanced by open time and slower movement through gardens and historic quarters.  
+A guided exploration of Morocco’s capital: views of the Royal Palace, Bab Rouah, Hassan Tower, and the Kasbah of the Udayas. Time in the Andalusian gardens provides a quieter contrast to the city’s formality. The afternoon remains open.
+
 **Overnight:** Rabat
 
 ---
 
 **Day 4 · Volubilis & Meknes → Fez**  
-Roman ruins, imperial gates, and a long eastward drive into Fez.  
+Travel inland to the Roman ruins of Volubilis, once an administrative center of the empire in North Africa. Continue to Meknes to see the Bab Mansour gate before heading east toward Fez.
+
 **Overnight:** Fez
 
 ---
 
 **Day 5 · Fez**  
-A full day on foot in the medina — tight alleys, workshops, sound, and vertical density.  
+A full walking day through Fez’s medina. Enter through Bab Boujloud, visit religious schools, tanneries, craft workshops, and the mellah. The city feels layered vertically — sound, color, labor, and movement stacked tightly together.
+
 **Overnight:** Fez
 
 ---
 
 **Day 6 · Middle Atlas → Erfoud**  
-The landscape opens as elevation and temperature shift toward the Sahara.  
+Cross the Middle Atlas Mountains, stopping in Ifrane and Midelt before descending toward the Sahara. Landscapes widen, temperatures shift, and the road becomes part of the experience.
+
 **Overnight:** Erfoud
 
 ---
 
 **Day 7 · Rissani → Sahara Camp**  
-Market town, tea with locals, dunes at sunset, and a night under canvas.  
-**Overnight:** Sahara camp
+Visit the market town of Rissani and nearby ksar, then continue into the desert. Tea with locals in a Berber tent precedes arrival at the dunes. Sunset, open space, and a night under canvas in the Sahara.
+
+**Overnight:** Sahara camp (Merzouga)
 
 ---
 
 **Day 8 · Todra Gorge → Aït Benhaddou**  
-Rock walls close in, then release into fortified villages and open valleys.  
-**Overnight:** Aït Benhaddou region
+Leave the desert and travel through Todra Gorge, where rock walls close in tightly around the road. Continue west toward Aït Benhaddou, a fortified ksar along a former caravan route.
+
+**Overnight:** Aït Benhaddou / Ouarzazate region
 
 ---
 
 **Day 9 · Aït Benhaddou → Marrakesh**  
-Morning in the ksar, then across the High Atlas into the city.  
+Explore the ksar in the morning, then cross the High Atlas Mountains toward Marrakesh. The transition from stone villages to dense city life is abrupt and striking.
+
 **Overnight:** Marrakesh
 
 ---
 
 **Day 10 · Marrakesh**  
-Gardens, palaces, squares, and the city’s constant motion.  
+City highlights include Majorelle Gardens, Koutoubia Mosque, Bahia Palace, Saadian Tombs, and time in Djemaa el‑Fna. In the evening, dinner with a local family offers a more personal view of daily life.
+
 **Overnight:** Marrakesh
 
 ---
 
 **Day 11 · Marrakesh (Open Day)**  
-An unstructured day for wandering, pausing, or rising early.  
+An unstructured day. Optional sunrise balloon flight or independent wandering through neighborhoods, cafés, and markets.
+
 **Overnight:** Marrakesh
 
 ---
 
 **Day 12 · Marrakesh → Essaouira**  
-Cooking, road west, and Atlantic air.  
+Begin with a cooking class in a traditional riad, then travel west toward the Atlantic coast. Stop at an argan oil cooperative before arriving in Essaouira.
+
 **Overnight:** Essaouira
 
 ---
 
 **Day 13 · Essaouira**  
-Medina, port, and an evening of rhythm and music.  
+Explore the medina and port, visit the fish market, and spend the afternoon at leisure. In the evening, experience Gnawa music and performance — rhythmic, grounded, and communal.
+
 **Overnight:** Essaouira
 
 ---
 
 **Day 14 · Essaouira → Casablanca**  
-Final contrasts and closing the loop.  
+Travel north to Casablanca with a panoramic city drive, including Mohammed V Square and the Hassan II Mosque when open. A final dinner marks the end of the journey.
+
 **Overnight:** Casablanca
 
 ---
 
 **Day 15 · Departure**  
-Transfer and departure.
+Transfer to the airport and depart Morocco.
 
 </details>
 
