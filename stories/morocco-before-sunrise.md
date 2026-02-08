@@ -15,9 +15,7 @@ As the balloon filled, the horizon began to loosen.
 
 ![Preparing the balloon before sunrise](/assets/images/morocco/burners-light-20.jpg)
 
-There’s a moment before sunrise that’s easy to miss if you’re not looking for it — when the sky shifts color not all at once, but in layers. Dust in the air softened the light, muting everything into pale oranges and quiet blues. Morocco unfolded slowly below us, low and wide and calm in a way that felt entirely detached from the day that would follow.
-
-Once airborne, the world shrank quickly.
+There’s a moment before sunrise that’s easy to miss if you’re not looking for it — when the sky shifts color not all at once, but in layers. Dust in the air softened the light, muting everything into pale oranges and quiet blues. Morocco unfolded slowly below us, low and wide and calm in a way that felt entirely detached from the day that would follow. Once airborne, the world shrank quickly.
 
 ![Sunrise over the Atlas Mountains](/assets/images/morocco/sunrise_morocco.jpg)
 
