@@ -26,6 +26,8 @@ The route mattered not because of the stops themselves, but because of how each 
 <details>
 <summary><strong>View full day‑by‑day itinerary</strong></summary>
 
+---
+
 **Day 1–2 · Arrival → Rabat**  
 Arrive in Casablanca and transfer north to Rabat. The first afternoon is intentionally unstructured — time to walk, orient, and adjust. An evening orientation and dinner mark the beginning of the trip.
 
