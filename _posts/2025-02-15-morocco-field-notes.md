@@ -28,28 +28,28 @@ This route mattered not because of the stops themselves, but because of how each
 <details>
 <summary><strong>View full day‑by‑day itinerary</strong></summary>
 
-### Day 1–2 · Arrival → Rabat  
+## Day 1–2 · Arrival → Rabat  
 Arrive in Casablanca and transfer north to Rabat. The first afternoon is intentionally unstructured — time to walk, orient, and adjust. An evening orientation and dinner mark the beginning of the trip.
 
 **Overnight:** Rabat
 
 ---
 
-### Day 3 · Rabat  
+## Day 3 · Rabat  
 A guided exploration of Morocco’s capital: views of the Royal Palace, Bab Rouah, Hassan Tower, and the Kasbah of the Udayas. Time in the Andalusian gardens provides a quieter contrast to the city’s formality. The afternoon remains open.
 
 **Overnight:** Rabat
 
 ---
 
-### Day 4 · Volubilis & Meknes → Fez  
+## Day 4 · Volubilis & Meknes → Fez  
 Travel inland to the Roman ruins of Volubilis, once an administrative center of the empire in North Africa. Continue to Meknes to see the Bab Mansour gate before heading east toward Fez.
 
 **Overnight:** Fez
 
 ---
 
-### Day 5 · Fez  
+## Day 5 · Fez  
 A full walking day through Fez’s medina. Enter through Bab Boujloud, visit religious schools, tanneries, craft workshops, and the mellah. The city feels layered vertically — sound, color, labor, and movement stacked tightly together.
 
 **Overnight:** Fez
