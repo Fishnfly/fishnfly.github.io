@@ -27,7 +27,7 @@ The silence up there was different. Not the absence of noise, but a kind of agre
 
 As the light grew stronger, details sharpened. Texture returned. The geometry of the land became clearer. What had felt abstract slowly reassumed meaning, and with it came the understanding that the day was about to begin in earnest — with traffic, voices, heat, and plans.
 
-![Balloon ride](/assets/images/morocco/single-balloon-20.jpg)
+![Balloon ride](/assets/images/morocco/single-balloon-40.jpg)
 
 But for a while longer, none of that applied.
 
