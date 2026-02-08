@@ -19,7 +19,7 @@ There’s a moment before sunrise that’s easy to miss if you’re not looking 
 
 Once airborne, the world shrank quickly.
 
-![Sunrise over the Atlas Mountains](/assets/images/morocco/sunrise-morocco.jpg)
+![Sunrise over the Atlas Mountains](/assets/images/morocco/sunrise_morocco.jpg)
 
 Villages, tracks, fields — all reduced to patterns rather than places. From above, nothing demanded attention. There were no landmarks asking to be named, no directions to follow. Just movement, air, and the steady patience of the balloon drifting wherever the morning allowed.
 
