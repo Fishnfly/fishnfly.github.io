@@ -9,7 +9,7 @@ Not the theatrical kind of dark — no stars putting on a show — just a quiet,
 
 The balloon waited in a wide, open stretch of land, its shape barely visible until the burners came alive. Suddenly there was movement, sound, heat — a brief reminder that this was going to happen whether we were fully awake or not.
 
-![Before sunrise over Morocco](/assets/images/morocco/balloon-before-sunrise-40.jpg)
+![Before sunrise over Morocco](/assets/images/morocco/balloon-before-sunrise-30.jpg)
 
 As the balloon filled, the horizon began to loosen.
 
