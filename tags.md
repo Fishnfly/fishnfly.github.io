@@ -7,7 +7,7 @@ permalink: /tags/
 <a id="top"></a>
 <p class="note">Browse stories by tag. Click a tag to jump to its section.</p>
 
-<!-- Featured quick-jump tags (edit or remove this block if you like) -->
+<!-- Featured quick-jump tags -->
 <ul class="tag-cloud">
   <li>#morocco#morocco</a></li>
   <li>#north-africa#north-africa</a></li>
@@ -19,13 +19,9 @@ permalink: /tags/
 
 <hr />
 
-{%- comment -%}
-Make a string-only list of tag names so filters like "slugify" operate on strings.
-site.tags is a map of [tag_name, posts_array], so map: "first" extracts just names.
-{%- endcomment -%}
 {%- assign tag_names = site.tags | map: "first" | sort_natural -%}
 
-<!-- All tags with counts (auto) -->
+<!-- All tags (auto) -->
 <ul class="tag-cloud all-tags">
   {%- for tag_name in tag_names -%}
     <li>
@@ -37,7 +33,7 @@ site.tags is a map of [tag_name, posts_array], so map: "first" extracts just nam
 
 <hr />
 
-<!-- Sections per tag (newest posts first) -->
+<!-- Sections per tag (newest first) -->
 {%- for tag_name in tag_names -%}
   <h2 id="{{ tag_name | slugify }}">{{ tag_name }}</h2>
 
