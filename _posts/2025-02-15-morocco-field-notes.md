@@ -62,6 +62,8 @@ Cross the Middle Atlas Mountains, stopping in Ifrane and Midelt before descendin
 **Day 7 · Rissani → Sahara Camp**  
 Visit the market town of Rissani and nearby ksar, then continue into the desert. Tea with locals in a Berber tent precedes arrival at the dunes. Sunset, open space, and a night under canvas in the Sahara.  
 
+![Camp](/assets/images/morocco/berber-tent-30.jpg)
+
 ![Dessert](/assets/images/morocco/dessert-scene.jpg)
 
 **Overnight:** Sahara camp (Merzouga)
