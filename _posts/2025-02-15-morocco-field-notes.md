@@ -47,7 +47,7 @@ Travel inland to the Roman ruins of Volubilis, once an administrative center of 
 **Day 5 · Fez**  
 A full walking day through Fez’s medina. Enter through Bab Boujloud, visit religious schools, tanneries, craft workshops, and the mellah. The city feels layered vertically — sound, color, labor, and movement stacked tightly together.  Tannery Pic. 
 
-![Fez](/assets/images/morocco/tannery-30.jpg)
+![Fez](/assets/images/morocco/tannery-20.jpg)
 
 **Overnight:** Fez
 
