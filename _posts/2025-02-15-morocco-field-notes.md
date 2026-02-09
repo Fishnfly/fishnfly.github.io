@@ -129,6 +129,16 @@ Cities compressed time. The desert stretched it. The coast released it.
 
 Fishing wasn’t the goal of this trip. When it appeared, it functioned as a pause — a way to recalibrate attention rather than measure success.
 
+{%- if page.tags and page.tags != empty -%}
+<p class="post-tags">
+  <strong>Tags:</strong>
+  {%- for t in page.tags -%}
+    {{ {{ t }}</a>{% unless forloop.last %}, {% endunless %}
+  {%- endfor -%}
+</p>
+{%- endif -%}
+
+
 ---
 
 ## Afterthoughts
