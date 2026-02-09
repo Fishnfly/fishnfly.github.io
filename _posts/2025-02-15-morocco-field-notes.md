@@ -27,26 +27,27 @@ The route mattered not because of the stops themselves, but because of how each 
 <summary><strong>View full day‑by‑day itinerary</strong></summary>
 
 **Day 1–2 · Arrival → Rabat**  
-Arrive in Casablanca and transfer north to Rabat. The first afternoon is intentionally unstructured — time to walk, orient, and adjust. An evening orientation and dinner mark the beginning of the trip.  
+Arrive in Casablanca and transfer north to Rabat. The afternoon is unstructured — time to walk, orient, and adjust.  
 **Overnight:** Rabat
 
 ---
 
 **Day 3 · Rabat**  
-A guided exploration of Morocco’s capital: views of the Royal Palace, Bab Rouah, Hassan Tower, and the Kasbah of the Udayas. Time in the Andalusian gardens provides a quieter contrast to the city’s formality. The afternoon remains open.  
+A guided exploration of Morocco’s capital: Royal Palace area, Bab Rouah, Hassan Tower, Kasbah of the Udayas, and Andalusian gardens.  
 **Overnight:** Rabat
 
 ---
 
 **Day 4 · Volubilis & Meknes → Fez**  
-Travel inland to the Roman ruins of Volubilis, once an administrative center of the empire in North Africa. Continue to Meknes to see the Bab Mansour gate before heading east toward Fez.  
+Travel inland to the Roman ruins of Volubilis, continue to Meknes to see Bab Mansour, and arrive in Fez.  
 **Overnight:** Fez
 
 ---
 
 **Day 5 · Fez**  
-A full walking day through Fez’s medina. Enter through Bab Boujloud, visit religious schools, tanneries, craft workshops, and the mellah. The city feels layered vertically — sound, color, labor, and movement stacked tightly together.  Tannery Pic. 
-
+A full day in Fez’s medina — Bab Boujloud, workshops, madrassas, tanneries, and the mellah.  
+  
+**Tannery Pic**  
 ![Fez](/assets/images/morocco/tannery-20.jpg)
 
 **Overnight:** Fez
@@ -54,60 +55,57 @@ A full walking day through Fez’s medina. Enter through Bab Boujloud, visit rel
 ---
 
 **Day 6 · Middle Atlas → Erfoud**  
-Cross the Middle Atlas Mountains, stopping in Ifrane and Midelt before descending toward the Sahara. Landscapes widen, temperatures shift, and the road becomes part of the experience.  
+Cross Ifrane and Midelt before descending into the desert landscape surrounding Erfoud.  
 **Overnight:** Erfoud
 
 ---
 
 **Day 7 · Rissani → Sahara Camp**  
-Visit the market town of Rissani and nearby ksar, then continue into the desert. Tea with locals in a Berber tent precedes arrival at the dunes. Sunset, open space, camel ride to sunset, and a night under canvas in the Sahara.  
-
-![Camp](/assets/images/morocco/berber-tent-30.jpg)
-
-![Dessert](/assets/images/morocco/desert-scene-30.jpg)
-
+Visit Rissani, meet locals in a Berber tent, and ride into the Sahara dunes.  
+![Camp](/assets/images/morocco/berber-tent-30.jpg)  
+![Desert](/assets/images/morocco/desert-scene-30.jpg)  
 **Overnight:** Sahara camp (Merzouga)
 
 ---
 
 **Day 8 · Todra Gorge → Aït Benhaddou**  
-Leave the desert and travel through Todra Gorge, where rock walls close in tightly around the road. Continue west toward Aït Benhaddou, a fortified ksar along a former caravan route.  
+Drive through Todra Gorge, then continue west toward the fortified ksar of Aït Benhaddou.  
 **Overnight:** Aït Benhaddou / Ouarzazate region
 
 ---
 
 **Day 9 · Aït Benhaddou → Marrakesh**  
-Explore the ksar in the morning, then cross the High Atlas Mountains toward Marrakesh. The transition from stone villages to dense city life is abrupt and striking.  
+Explore the ksar, then cross the High Atlas into Marrakesh.  
 **Overnight:** Marrakesh
 
 ---
 
 **Day 10 · Marrakesh**  
-City highlights include Majorelle Gardens, Koutoubia Mosque, Bahia Palace, Saadian Tombs, and time in Djemaa el‑Fna. In the evening, dinner with a local family offers a more personal view of daily life.  
+Majorelle Gardens, Koutoubia, Bahia Palace, Saadian Tombs, and Djemaa el‑Fna.  
 **Overnight:** Marrakesh
 
 ---
 
 **Day 11 · Marrakesh (Open Day)**  
-An unstructured day. Optional sunrise balloon flight (which we took) or independent wandering through neighborhoods, cafés, and markets.  
+Optional sunrise hot‑air balloon flight (we took this) or open exploration.  
 **Overnight:** Marrakesh
 
 ---
 
 **Day 12 · Marrakesh → Essaouira**  
-Begin with a cooking class in a traditional riad, then travel west toward the Atlantic coast. Stop at an argan oil cooperative before arriving in Essaouira.  
+Cooking class in a riad, then west to young coastal winds and open space.  
 **Overnight:** Essaouira
 
 ---
 
 **Day 13 · Essaouira**  
-Explore the medina and port, visit the fish market, and spend the afternoon at leisure. In the evening, experience Gnawa music and performance — rhythmic, grounded, and communal.  
+Medina, port, fish market, and Gnawa music in the evening.  
 **Overnight:** Essaouira
 
 ---
 
 **Day 14 · Essaouira → Casablanca**  
-Travel north to Casablanca with a panoramic city drive, including Mohammed V Square and the Hassan II Mosque when open. A final dinner marks the end of the journey.  
+Drive north to Casablanca with a city overview including the Hassan II Mosque.  
 **Overnight:** Casablanca
 
 ---
@@ -121,26 +119,19 @@ Transfer to the airport and depart Morocco.
 
 ## What Changed as We Moved
 
-Cities compressed time. The desert stretched it. The coast released it.
+Cities compressed time — intense, narrow attention.  
+The desert stretched it — silence and distance.  
+The coast released it — wind and ease.
 
 ---
 
 ## Fishing, When It Fit
 
-Fishing wasn’t the goal of this trip. When it appeared, it functioned as a pause — a way to recalibrate attention rather than measure success.
-
-{%- if page.tags and page.tags != empty -%}
-<p class="post-tags">
-  <strong>Tags:</strong>
-  {%- for t in page.tags -%}
-    {{ {{ t }}</a>{% unless forloop.last %}, {% endunless %}
-  {%- endfor -%}
-</p>
-{%- endif -%}
-
+Fishing wasn’t the focus of this trip. When it appeared, it served as a pause — a way to reset attention rather than measure success.
 
 ---
 
 ## Afterthoughts
 
-The itinerary explains how we moved. It doesn’t explain what stayed. Those moments lived in the spaces between plans.
+The itinerary explains movement. It doesn’t explain what stayed with us.  
+Those moments lived in the margins, between plans.
