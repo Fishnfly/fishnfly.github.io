@@ -7,25 +7,29 @@ permalink: /tags/
 <a id="top"></a>
 <p class="note">Browse stories by tag. Click a tag to jump to its section.</p>
 
-<!-- Featured quick-jump tags -->
+<!-- Featured quick-jump tags (edit or remove this block if you like) -->
 <ul class="tag-cloud">
-  <li><a href="#morocco">#morocco</a></li>
-  <li><a href="#north-africa">#north-africa</a></li>
-  <li><a href="#desert">#desert</a></li>
-  <li><a href="#medina">#medina</a></li>
-  <li><a href="#slow-travel">#slow-travel</a></li>
-  <li><a href="#hot-air-balloons">#hot-air-balloons</a></li>
+  <li>#morocco#morocco</a></li>
+  <li>#north-africa#north-africa</a></li>
+  <li>#desert#desert</a></li>
+  <li>#medina#medina</a></li>
+  <li>#slow-travel#slow-travel</a></li>
+  <li>#hot-air-balloons#hot-air-balloons</a></li>
 </ul>
 
 <hr />
 
+{%- comment -%}
+Make a string-only list of tag names so filters like "slugify" operate on strings.
+site.tags is a map of [tag_name, posts_array], so map: "first" extracts just names.
+{%- endcomment -%}
 {%- assign tag_names = site.tags | map: "first" | sort_natural -%}
 
-<!-- All tags with counts -->
+<!-- All tags with counts (auto) -->
 <ul class="tag-cloud all-tags">
   {%- for tag_name in tag_names -%}
     <li>
-      <a href="#{{ tag_name | slugify }}">#{{ tag_name }}</a>
+      #{{ tag_name | slugify }}#{{ tag_name }}</a>
       <span class="count">{{ site.tags[tag_name] | size }}</span>
     </li>
   {%- endfor -%}
@@ -33,21 +37,20 @@ permalink: /tags/
 
 <hr />
 
-<!-- Sections per tag -->
+<!-- Sections per tag (newest posts first) -->
 {%- for tag_name in tag_names -%}
   <h2 id="{{ tag_name | slugify }}">{{ tag_name }}</h2>
 
   {%- assign posts_for_tag = site.tags[tag_name] | sort: "date" | reverse -%}
-
   <ul class="tag-list">
     {%- for post in posts_for_tag -%}
       <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {{ post.url | relative_url }}{{ post.title }}</a>
         <span class="meta"> — {{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
     {%- endfor -%}
   </ul>
 
-  <p class="back-to-top"><a href="#top">Back to top ↑</a></p>
+  <p class="back-to-top">#topBack to top ↑</a></p>
   <hr />
 {%- endfor -%}
