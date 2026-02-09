@@ -15,15 +15,15 @@ layout: base
     {{ content }}
   </div>
 
-  <footer class="post-footer">
-    {%- if page.tags and page.tags != empty -%}
-      <p class="post-tags">
-        <strong>Tags:</strong>
-        {%- for t in page.tags -%}
-          <a href="{{ '/tags/#' | append: t | slugify | relative_url }}">{{ t }}</a>{% unless forloop.last %}, {% endunless %}
-        {%- endfor -%}
-      </p>
-    {%- endif -%}
-  </footer>
+ <footer class="post-footer">
+  {%- if page.tags and page.tags != empty -%}
+    <p class="post-tags">
+      <strong>Tags:</strong>
+      {%- for t in page.tags -%}
+        {{ {{ t }}</a>{% unless forloop.last %}, {% endunless %}
+      {%- endfor -%}
+    </p>
+  {%- endif -%}
+</footer>
 
 </article>
