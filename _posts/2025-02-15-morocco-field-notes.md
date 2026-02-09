@@ -2,7 +2,7 @@
 layout: post
 title: "Morocco: Moving Slowly Through Distance"
 categories: [travel]
-tags: [morocco, north-africa, dessert, medina, slow-travel, hot-air-balloons, casablanca, marrakesh]
+tags: [morocco, north-africa, dessert, medina, slow-travel, hot-air-balloons]
 ---
 
 Morocco doesn’t reveal itself all at once. It arrives in layers — noise before quiet, density before space, movement before stillness.
