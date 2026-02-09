@@ -7,26 +7,29 @@ permalink: /tags/
 <a id="top"></a>
 <p class="note">Browse stories by tag. Click a tag to jump to its section.</p>
 
-<!-- Optional: highlight a small set of “featured” tags first -->
+<!-- (Optional) Curated quick-jump tags you care about most -->
 <ul class="tag-cloud">
-  <li><a href="#morocco">#morocco</a></li>
-  <li><a href="#north-africa">#north-africa</a></li>
-  <li><a href="#desert">#desert</a></li>
-  <li><a href="#medina">#medina</a></li>
-  <li><a href="#slow-travel">#slow-travel</a></li>
-  <li><a href="#hot-air-balloons">#hot-air-balloons</a></li>
+  <li>#morocco#morocco</a></li>
+  <li>#north-africa#north-africa</a></li>
+  <li>#desert#desert</a></li>
+  <li>#medina#medina</a></li>
+  <li>#slow-travel#slow-travel</a></li>
+  <li>#hot-air-balloons#hot-air-balloons</a></li>
 </ul>
 
 <hr />
 
-<!-- Build a list of tag names (strings only), sorted alphabetically -->
+{%- comment -%}
+Build a simple, string-only list of tag names to avoid calling string filters
+on arrays (site.tags is a map of [tag_name, posts_array]).
+{%- endcomment -%}
 {%- assign tag_names = site.tags | map: "first" | sort_natural -%}
 
-<!-- All tags with counts -->
+<!-- All tags (auto) with post counts -->
 <ul class="tag-cloud all-tags">
   {%- for tag_name in tag_names -%}
     <li>
-      <a href="#{{ tag_name | slugify }}">#{{ tag_name }}</a>
+      #{{ tag_name | slugify }}#{{ tag_name }}</a>
       <span class="count">{{ site.tags[tag_name] | size }}</span>
     </li>
   {%- endfor -%}
@@ -41,11 +44,11 @@ permalink: /tags/
   <ul class="tag-list">
     {%- for post in posts_for_tag -%}
       <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        {{ post.url | relative_url }}{{ post.title }}</a>
         <span class="meta"> — {{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
     {%- endfor -%}
   </ul>
-  <p class="back-to-top"><a href="#top">Back to top ↑</a></p>
+  <p class="back-to-top">#topBack to top ↑</a></p>
   <hr />
 {%- endfor -%}
