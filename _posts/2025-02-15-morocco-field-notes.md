@@ -64,7 +64,7 @@ Visit the market town of Rissani and nearby ksar, then continue into the desert.
 
 ![Camp](/assets/images/morocco/berber-tent-30.jpg)
 
-![Dessert](/assets/images/morocco/dessert-scene.jpg)
+![Dessert](/assets/images/morocco/desert-scene-30.jpg)
 
 **Overnight:** Sahara camp (Merzouga)
 
