@@ -2,7 +2,7 @@
 layout: post
 title: "Morocco: Moving Slowly Through Distance"
 categories: [travel]
-tags: [morocco, north-africa, desert, medina, slow-travel, hot-air-balloons, casablanca, marrakesh]
+tags: [morocco, north-africa, dessert, medina, slow-travel, hot-air-balloons, casablanca, marrakesh]
 ---
 
 Morocco doesn’t reveal itself all at once. It arrives in layers — noise before quiet, density before space, movement before stillness.
@@ -60,7 +60,7 @@ Cross the Middle Atlas Mountains, stopping in Ifrane and Midelt before descendin
 ---
 
 **Day 7 · Rissani → Sahara Camp**  
-Visit the market town of Rissani and nearby ksar, then continue into the desert. Tea with locals in a Berber tent precedes arrival at the dunes. Sunset, open space, and a night under canvas in the Sahara.  
+Visit the market town of Rissani and nearby ksar, then continue into the desert. Tea with locals in a Berber tent precedes arrival at the dunes. Sunset, open space, camel ride to sunset, and a night under canvas in the Sahara.  
 
 ![Camp](/assets/images/morocco/berber-tent-30.jpg)
 
