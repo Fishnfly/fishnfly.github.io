@@ -42,5 +42,4 @@ But the memory didn’t.
 **Related**
 - [All Stories](/stories/)
 - [Travel Index](/travel.html)
-- [Earlier Morocco Notes](/stories/morocco-before-sunrise.html)
 
