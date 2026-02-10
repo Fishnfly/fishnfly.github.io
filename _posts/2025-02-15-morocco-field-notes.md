@@ -140,6 +140,6 @@ Those moments lived in the margins, between plans.
 **Related**
 - [All Stories](/stories/)
 - [Travel Index](/travel.html)
-- [Earlier Morocco Notes](/stories/morocco-before-sunrise.html)
+- [Morocco: Moving Slowly Through Distance](/travel/2025/02/15/morocco-field-notes.html)
 
 
