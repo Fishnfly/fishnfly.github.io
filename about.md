@@ -17,4 +17,10 @@ This site is about:
 
 Fishing appears here when it’s part of the story — as one way of connecting to water, people, and place. It’s not the focus of every trip, but when it fits, it adds texture and perspective.
 
+---
+
+**Related**
+- [All Stories](/stories/)
+- [Travel Index](/travel.html)
+- [Earlier Morocco Notes](/stories/morocco-before-sunrise.html)
 
