@@ -64,7 +64,6 @@ Cross Ifrane and Midelt before descending into the desert landscape surrounding 
 Visit Rissani, meet locals in a Berber tent, and ride into the Sahara dunes.  
 ![Camp](/assets/images/morocco/berber-tent-30.jpg)  
 
-![Desert](/assets/images/morocco/desert-scene-30.jpg)  
 **Overnight:** Sahara camp (Merzouga)
 
 ---
