@@ -131,6 +131,11 @@ Fishing wasn’t the focus of this trip. When it appeared, it served as a pause 
 
 ---
 
+**Related stories**  
+- Earlier notes from Morocco → /stories/morocco-before-sunrise.html  
+- More research on pacing travel → /travel/
+
+
 ## Afterthoughts
 
 The itinerary explains movement. It doesn’t explain what stayed with us.  
