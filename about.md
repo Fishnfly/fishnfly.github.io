@@ -22,5 +22,4 @@ Fishing appears here when it’s part of the story — as one way of connecting 
 **Related**
 - [All Stories](/stories/)
 - [Travel Index](/travel.html)
-- [Earlier Morocco Notes](/stories/morocco-before-sunrise.html)
 
