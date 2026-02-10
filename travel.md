@@ -22,6 +22,4 @@ These aren’t destination guides or recommendations. They’re reflections and 
 
 **Related**
 - [All Stories](/stories/)
-- [Earlier Morocco Notes](/stories/morocco-before-sunrise.html)
-- [Morocco: Moving Slowly Through Distance](/travel/2025/02/15/morocco-field-notes.html)
 
