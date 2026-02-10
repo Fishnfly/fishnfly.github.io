@@ -23,5 +23,6 @@ These stories are written for travelers who value depth over distance — and wh
 ### Morocco
 
 **Related**
-- [All Stories](/stories/)
+- [Earlier Morocco Notes](/stories/morocco-before-sunrise.html)
+- [Morocco: Moving Slowly Through Distance](/travel/2025/02/15/morocco-field-notes.html)
 
