@@ -1,6 +1,7 @@
 title: Fish n Fly
 description: Traveling farther. Fishing better. Stories around the world.
 theme: minima
+url: "https://fishnfly.net"
 
 header_pages:
   - about.md
@@ -23,4 +24,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-url: "https://fishnfly.net"
