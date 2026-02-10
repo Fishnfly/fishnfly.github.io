@@ -23,4 +23,3 @@ These aren’t destination guides or recommendations. They’re reflections and 
 **Related**
 - [All Stories](/stories/)
 - [Earlier Morocco Notes](/stories/morocco-before-sunrise.html)
-
