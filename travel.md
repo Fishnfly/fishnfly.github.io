@@ -17,3 +17,11 @@ This section focuses on:
 Fishing appears here when it fits naturally into that rhythm — as a way of slowing down even further, spending time with water, and connecting with people and places from a different perspective. Sometimes it’s central to the experience; other times it’s absent entirely.
 
 These aren’t destination guides or recommendations. They’re reflections and field notes — written for travelers who value curiosity over efficiency and depth over distance.
+
+---
+
+**Related**
+- [All Stories](/stories/)
+- [Travel Index](/travel.html)
+- [Earlier Morocco Notes](/stories/morocco-before-sunrise.html)
+
