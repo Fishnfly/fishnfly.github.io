@@ -5,6 +5,7 @@ layout: home
 
 ### Travel farther. Stay longer. Notice more.
 
-Fish n Fly is a travel journal focused on moving through countries and regions with curiosity and intention — not chasing highlights, but paying attention to how places actually feel once you’re there.
+Fish n Fly**  
+Slow-travel stories from the road, the water, and the quiet places in between. We cross countries deliberately—cities, deserts, coasts—paying attention to how movement shapes experience. Sometimes that includes fishing; always, it includes time.
 
-Sometimes that movement includes fishing, sometimes it doesn’t. What matters is time on the ground, changing plans, and the small moments that shape a journey more than any itinerary.
+**Start here →** /stories/
