@@ -141,3 +141,9 @@ Fishing wasn’t the focus of this trip. When it appeared, it served as a pause 
 
 The itinerary explains movement. It doesn’t explain what stayed with us.  
 Those moments lived in the margins, between plans.
+
+**Related reading**
+- Earlier Morocco notes → /stories/morocco-before-sunrise.html
+- All Stories → /stories/
+- What we mean by “travel through” → /travel.html
+
