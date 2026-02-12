@@ -39,6 +39,7 @@ Continue inland to **Chefchaouen**, the Blue City, where everything slows: indig
 
 **Blue City Pic**
 ![Blue City](/assets/images/morocco/blue-city=50.jpg)
+
 **Overnight:** back in Casablanca
 
 ---
