@@ -3,6 +3,10 @@ description: Traveling farther. Fishing better. Stories around the world.
 theme: minima
 url: "https://fishnfly.net"
 
+logo: /assets/images/social/fishnfly-og.jpg
+social:
+  image: /assets/images/social/fishnfly-og.jpg
+
 header_pages:
   - about.md
   - travel.md
