@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="home">
+
   {{ content }}
 
   <h2 class="post-list-heading">Stories</h2>
@@ -10,12 +11,12 @@ layout: default
     {%- for post in site.posts -%}
       <li>
         <h3>
-          {{ post.url | relative_url }}
+          <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
       </li>
     {%- endfor -%}
   </ul>
-</div>
 
+</div>
