@@ -14,7 +14,7 @@ This trip wasn’t designed around efficiency. It was shaped around movement: ho
 
 ## The Route (Context)
 
-**February 2–15**
+**15 Days**
 
 Rabat → Fez → Erfoud → Sahara (Merzouga) → Aït Benhaddou → Marrakesh → Essaouira → Casablanca
 
@@ -27,7 +27,7 @@ The route mattered not because of the stops themselves, but because of how each 
 <details markdown="1">
 <summary><strong>View full day‑by‑day itinerary</strong></summary>
 
-**Day 1 · Arrival → to Rabat Day 4**  
+**Day 1 · Arrival → to Rabat on Day 4**  
 Arrive in Casablanca. The afternoon is unstructured — time to walk, orient, and adjust.  
 
 ---
