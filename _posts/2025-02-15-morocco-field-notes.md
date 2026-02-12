@@ -38,6 +38,7 @@ Begin in **Tangier** — whitewashed cliffs, sea light, and the blend of Spanish
 Continue inland to **Chefchaouen**, the Blue City, where everything slows: indigo steps, painted alleys, cats asleep in doorways. It’s an easy place to exhale and let the trip begin gently.  
 
 **Blue City Pic**
+
 ![Blue City](/assets/images/morocco/blue-city-50.jpg)
 
 **Overnight:** back in Casablanca
