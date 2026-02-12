@@ -16,7 +16,7 @@ This trip wasn’t designed around efficiency. It was shaped around movement: ho
 
 **15 Days**
 
-Rabat → Fez → Erfoud → Sahara (Merzouga) → Aït Benhaddou → Marrakesh → Essaouira → Casablanca
+Casablanca → Rabat → Fez → Erfoud → Sahara (Merzouga) → Aït Benhaddou → Marrakesh → Essaouira → Casablanca
 
 The route mattered not because of the stops themselves, but because of how each transition changed the pace of the days.
 
