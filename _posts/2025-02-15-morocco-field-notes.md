@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Morocco: Moving Slowly Through Distance"
+title: "Morocco Trip"
 categories: [travel]
 tags: [morocco, north-africa, desert, medina, slow-travel, hot-air-balloons]
 xcerpt: "A slow crossing of Morocco—from cities to desert to coast—showing how landscapes, pacing, and movement shape a deeper travel experience."
