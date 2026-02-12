@@ -1,8 +1,7 @@
 ---
-title: Fishnfly
 layout: home
+title: Fish n Fly
 image: /assets/images/social/fishnfly-og.jpg
-
 ---
 
 ### Travel farther. Stay longer. Notice more.
