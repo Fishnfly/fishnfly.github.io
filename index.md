@@ -4,6 +4,8 @@ title: Fish n Fly
 image: /assets/images/social/fishnfly-og.jpg
 ---
 
+![Fish n Fly Cover Image](/assets/images/social/fishnfly-og.jpg){: .homepage-hero }
+
 ### Travel farther. Stay longer. Notice more.
 
 **Fish n Fly**  
