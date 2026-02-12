@@ -27,9 +27,19 @@ The route mattered not because of the stops themselves, but because of how each 
 <details markdown="1">
 <summary><strong>View full day‑by‑day itinerary</strong></summary>
 
-**Day 1–2 · Arrival → Rabat**  
+**Day 1 · Arrival → Rabat**  
 Arrive in Casablanca and transfer north to Rabat. The afternoon is unstructured — time to walk, orient, and adjust.  
-**Overnight:** Rabat
+
+---
+
+**Day 2 · Tangier & Chefchaouen**  
+Travel to Morocco’s northern edge, where Europe feels only an arm’s length away.  
+Begin in **Tangier** — whitewashed cliffs, sea light, and the blend of Spanish, Moroccan, and Mediterranean influences that always feels slightly unreal.  
+Continue inland to **Chefchaouen**, the Blue City, where everything slows: indigo steps, painted alleys, cats asleep in doorways. It’s an easy place to exhale and let the trip begin gently.  
+
+**Blue City Pic**
+![Blue City](/assets/images/morocco/blue-city=50.jpg)
+**Overnight:** back in Casablanca
 
 ---
 
