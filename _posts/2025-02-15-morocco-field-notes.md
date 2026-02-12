@@ -114,6 +114,7 @@ Cooking class in a riad, then west to young coastal winds and open space.
 
 **Day 14 · Essaouira**  
 Medina, port, fish market, and Gnawa music in the evening.  
+![Port City](/assets/images/morocco/beach-sunset-50.jpg)  
 **Overnight:** Essaouira
 
 ---
