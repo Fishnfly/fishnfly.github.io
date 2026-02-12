@@ -12,5 +12,5 @@ Slow-travel stories from the road, the water, and the quiet places in between. W
 
 **Related**
 - [Travel Index](/travel.html)
-- [Earlier Morocco Notes](/stories/morocco-before-sunrise.html)
+- [Morocco Notes](/stories/morocco-before-sunrise.html)
 
