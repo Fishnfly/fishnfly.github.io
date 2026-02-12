@@ -27,8 +27,8 @@ The route mattered not because of the stops themselves, but because of how each 
 <details markdown="1">
 <summary><strong>View full day‑by‑day itinerary</strong></summary>
 
-**Day 1 · Arrival → Rabat**  
-Arrive in Casablanca and transfer north to Rabat. The afternoon is unstructured — time to walk, orient, and adjust.  
+**Day 1 · Arrival → to Rabat Day 4**  
+Arrive in Casablanca. The afternoon is unstructured — time to walk, orient, and adjust.  
 
 ---
 
@@ -45,19 +45,19 @@ Continue inland to **Chefchaouen**, the Blue City, where everything slows: indig
 
 ---
 
-**Day 3 · Rabat**  
+**Day 4 · Rabat**  
 A guided exploration of Morocco’s capital: Royal Palace area, Bab Rouah, Hassan Tower, Kasbah of the Udayas, and Andalusian gardens.  
 **Overnight:** Rabat
 
 ---
 
-**Day 4 · Volubilis & Meknes → Fez**  
+**Day 5 · Volubilis & Meknes → Fez**  
 Travel inland to the Roman ruins of Volubilis, continue to Meknes to see Bab Mansour, and arrive in Fez.  
 **Overnight:** Fez
 
 ---
 
-**Day 5 · Fez**  
+**Day 6 · Fez**  
 A full day in Fez’s medina — Bab Boujloud, workshops, madrassas, tanneries, and the mellah.  
   
 **Tannery Pic**  
@@ -67,13 +67,13 @@ A full day in Fez’s medina — Bab Boujloud, workshops, madrassas, tanneries, 
 
 ---
 
-**Day 6 · Middle Atlas → Erfoud**  
+**Day 7 · Middle Atlas → Erfoud**  
 Cross Ifrane and Midelt before descending into the desert landscape surrounding Erfoud.  
 **Overnight:** Erfoud
 
 ---
 
-**Day 7 · Rissani → Sahara Camp**  
+**Day 8 · Rissani → Sahara Camp**  
 Visit Rissani, meet locals in a Berber tent, and ride into the Sahara dunes.  
 ![Camp](/assets/images/morocco/berber-tent-30.jpg)  
 
@@ -81,50 +81,50 @@ Visit Rissani, meet locals in a Berber tent, and ride into the Sahara dunes.
 
 ---
 
-**Day 8 · Todra Gorge → Aït Benhaddou**  
+**Day 9 · Todra Gorge → Aït Benhaddou**  
 Drive through Todra Gorge, then continue west toward the fortified ksar of Aït Benhaddou.  
 **Overnight:** Aït Benhaddou / Ouarzazate region
 
 ---
 
-**Day 9 · Aït Benhaddou → Marrakesh**  
+**Day 10 · Aït Benhaddou → Marrakesh**  
 Explore the ksar, then cross the High Atlas into Marrakesh.  
 **Overnight:** Marrakesh
 
 ---
 
-**Day 10 · Marrakesh**  
+**Day 11 · Marrakesh**  
 Majorelle Gardens, Koutoubia, Bahia Palace, Saadian Tombs, and Djemaa el‑Fna.  
 **Overnight:** Marrakesh
 
 ---
 
-**Day 11 · Marrakesh (Open Day)**  
+**Day 12 · Marrakesh (Open Day)**  
 Optional sunrise hot‑air balloon flight (see link) or open exploration.  
 - [Balloon Ride](/stories/morocco-before-sunrise.html)
-  **Overnight:** Marrakesh
+**Overnight:** Marrakesh
 
 ---
 
-**Day 12 · Marrakesh → Essaouira**  
+**Day 13 · Marrakesh → Essaouira**  
 Cooking class in a riad, then west to young coastal winds and open space.  
 **Overnight:** Essaouira
 
 ---
 
-**Day 13 · Essaouira**  
+**Day 14 · Essaouira**  
 Medina, port, fish market, and Gnawa music in the evening.  
 **Overnight:** Essaouira
 
 ---
 
-**Day 14 · Essaouira → Casablanca**  
+**Day 15 · Essaouira → Casablanca**  
 Drive north to Casablanca with a city overview including the Hassan II Mosque.  
 **Overnight:** Casablanca
 
 ---
 
-**Day 15 · Departure**  
+**Day 16 · Departure**  
 Transfer to the airport and depart Morocco.
 
 </details>
