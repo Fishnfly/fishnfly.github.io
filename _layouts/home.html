@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 ---
 
 <div class="home">
@@ -10,7 +10,7 @@ layout: base
     {%- for post in site.posts -%}
       <li>
         <h3>
-          <a href="{{ post.url | relative_url }}">
+          {{ post.url | relative_url }}
             {{ post.title | escape }}
           </a>
         </h3>
@@ -18,3 +18,4 @@ layout: base
     {%- endfor -%}
   </ul>
 </div>
+
