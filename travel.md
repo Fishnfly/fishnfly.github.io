@@ -26,8 +26,11 @@ These aren’t destination guides or recommendations. They’re reflections and 
 
   <!-- Morocco (LIVE) -->
   <article class="trip-card">
-    {{ 
-      {{ 
+    <a class="trip-card-link" href="{{ '/travel/2025/02/15/morocco-field-notes.html' | relative_url }}">
+      <img
+        class="trip-card-img"
+        src="{{ '/assets/images/morocco/anchor.jpg' | relative_url }}"
+        alt="Morocco Trip cover">
       <div class="trip-card-body">
         <h3 class="trip-card-title">Morocco Trip</h3>
         <p class="trip-card-meta">— Morocco —</p>
@@ -36,7 +39,7 @@ These aren’t destination guides or recommendations. They’re reflections and 
     </a>
   </article>
 
-  <!-- Jordan & Egypt (COMING SOON) -->
+  <!-- Jordan & Egypt (COMING SOON; no link yet) -->
   <article class="trip-card">
     <div class="trip-card-img placeholder" aria-hidden="true"></div>
     <div class="trip-card-body">
@@ -46,7 +49,7 @@ These aren’t destination guides or recommendations. They’re reflections and 
     </div>
   </article>
 
-  <!-- UAE (COMING SOON) -->
+  <!-- UAE (COMING SOON; no link yet) -->
   <article class="trip-card">
     <div class="trip-card-img placeholder" aria-hidden="true"></div>
     <div class="trip-card-body">
