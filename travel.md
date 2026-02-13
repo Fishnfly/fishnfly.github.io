@@ -26,7 +26,7 @@ These aren’t destination guides or recommendations. They’re reflections and 
 
   <!-- Morocco -->
   <li class="trip-item">
-    /travel/2025/02/15/morocco-field-notes.htmlMorocco Trip</a>
+    <a href="/travel/2025/02/15/morocco-field-notes.html">Morocco Trip</a>
     <span class="trip-meta">— Morocco —</span>
     <span class="trip-badge live">Live</span>
   </li>
