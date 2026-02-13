@@ -20,6 +20,29 @@ These aren’t destination guides or recommendations. They’re reflections and 
 
 ---
 
-**Related**
-- [All Stories](/stories/)
+## Trips
 
+<ul class="trip-list">
+
+  <!-- Morocco (LIVE example) -->
+  <li class="trip-item">
+    /travel/2025/02/15/morocco-field-notes.htmlMorocco Trip</a>
+    <span class="trip-meta">— Morocco —</span>
+    <span class="trip-badge live">Live</span>
+  </li>
+
+  <!-- Jordan & Egypt (COMING SOON) -->
+  <li class="trip-item">
+    <span class="trip-title">Jordan &amp; Egypt — Field Notes</span>
+    <span class="trip-meta">— Jordan, Egypt —</span>
+    <span class="trip-badge soon">Coming&nbsp;soon</span>
+  </li>
+
+  <!-- UAE (COMING SOON) -->
+  <li class="trip-item">
+    <span class="trip-title">UAE — Field Notes</span>
+    <span class="trip-meta">— Dubai, Abu Dhabi —</span>
+    <span class="trip-badge soon">Coming&nbsp;soon</span>
+  </li>
+
+</ul>
