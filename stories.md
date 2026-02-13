@@ -23,6 +23,6 @@ Stories are how travel becomes meaningful. These are not guides or recommendatio
       </a>
     </article>
   {%- endfor -%}
-</
+</div>
 
 ---
