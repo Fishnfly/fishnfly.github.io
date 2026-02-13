@@ -1,6 +1,6 @@
 ---
+layout: page
 title: Stories
-layout: home
 permalink: /stories/
 ---
 
