@@ -31,6 +31,20 @@
   text-shadow: 0 2px 6px rgba(0,0,0,0.5);
 }
 
+/* Ensure the header stays ON TOP of the hero on mobile */
+@media (max-width: 768px) {
+  .site-header {
+    position: relative;
+    z-index: 2000;
+  }
+
+  .hero {
+    position: relative;
+    z-index: 1;
+    margin-top: 80px; /* pushes image down so header is visible */
+  }
+}
+
 /* MOBILE REFINEMENTS FOR HERO */
 @media (max-width: 768px) {
 
