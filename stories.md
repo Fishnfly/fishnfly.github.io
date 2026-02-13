@@ -11,17 +11,18 @@ Stories are how travel becomes meaningful. These are not guides or recommendatio
 <div class="card-grid">
   {%- for post in site.posts -%}
     <article class="card">
-      <a class="card-link" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
+      {{ post.url | relative_url }}
         {%- if post.image -%}
-          <img class="card-img" src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
+          {{ post.image | relative_url }}
         {%- else -%}
           <div class="card-img placeholder" aria-hidden="true"></div>
         {%- endif -%}
+
         <h3 class="card-title">{{ post.title | escape }}</h3>
         <p class="card-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
       </a>
     </article>
   {%- endfor -%}
-</div>
+</
 
 ---
