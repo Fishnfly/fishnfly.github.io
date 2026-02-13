@@ -30,7 +30,7 @@ These aren’t destination guides or recommendations. They’re reflections and 
       <img
         class="trip-card-img"
         src="{{ '/assets/images/morocco/anchor.jpg' | relative_url }}"
-        alt="Morocco Trip cover">
+        alt="Morocco — trip cover thumbnail">
       <div class="trip-card-body">
         <h3 class="trip-card-title">Morocco Trip</h3>
         <p class="trip-card-meta">— Morocco —</p>
