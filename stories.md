@@ -11,9 +11,9 @@ Stories are how travel becomes meaningful. These are not guides or recommendatio
 <div class="card-grid">
   {%- for post in site.posts -%}
     <article class="card">
-      {{ post.url | relative_url }}
+      <a class="card-link" href="{{ post.url | relative_url }}">
         {%- if post.image -%}
-          {{ post.image | relative_url }}
+          <img class="card-img" src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}">
         {%- else -%}
           <div class="card-img placeholder" aria-hidden="true"></div>
         {%- endif -%}
