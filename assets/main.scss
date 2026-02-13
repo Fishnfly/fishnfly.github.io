@@ -3,8 +3,10 @@
 
 @import "minima";
 
-/* HERO SECTION */
-.hero {
+/* ===========================
+   HERO SECTION (HOME PAGE ONLY)
+   =========================== */
+.home .hero {
   position: relative;
   width: 100%;
   max-width: 1400px;
@@ -13,7 +15,7 @@
   border-radius: 8px;
 }
 
-.hero-image {
+.home .hero-image {
   width: 100%;
   height: auto;
   display: block;
@@ -22,7 +24,7 @@
   filter: brightness(0.85);
 }
 
-.hero-overlay {
+.home .hero-overlay {
   position: absolute;
   bottom: 2rem;
   left: 2rem;
@@ -31,61 +33,67 @@
   text-shadow: 0 2px 6px rgba(0,0,0,0.5);
 }
 
-/* Ensure the header stays ON TOP of the hero on mobile */
-@media (max-width: 768px) {
-  .site-header {
-    position: relative;
-    z-index: 2000;
-  }
-
-  .hero {
-    position: relative;
-    z-index: 1;
-    margin-top: 80px; /* pushes image down so header is visible */
-  }
-}
-
-/* MOBILE REFINEMENTS FOR HERO */
-@media (max-width: 768px) {
-
-  .hero {
-    margin-bottom: 2rem;
-  }
-
-  .hero-image {
-    max-height: 300px; /* taller than before, gives more image space */
-    object-fit: cover;
-    filter: brightness(0.75); /* darken slightly so text is readable */
-  }
-
-  .hero-overlay {
-    bottom: 1.2rem;
-    left: 1rem;
-    right: 1rem;
-    text-align: center; /* center the text on small screens */
-  }
-
-  .hero-title {
-    font-size: 2rem; /* shrink from 3rem -> 2rem */
-    margin-bottom: 0.4rem;
-  }
-
-  .hero-subtitle {
-    font-size: 1rem;
-    max-width: 90%;
-    margin: 0 auto;
-    line-height: 1.4;
-  }
-}
-
-.hero-title {
+.home .hero-title {
   font-size: 3rem;
   font-weight: 700;
   margin: 0;
 }
 
-.hero-subtitle {
+.home .hero-subtitle {
   font-size: 1.3rem;
   max-width: 600px;
   margin-top: .5rem;
+}
+
+/* ===========================
+   HEADER / STACKING
+   Keep header above hero globally
+   =========================== */
+.site-header {
+  position: relative;
+  z-index: 2000;
+}
+
+/* Ensure hero content sits below header */
+.home .hero {
+  position: relative;
+  z-index: 1;
+}
+
+/* ===========================
+   MOBILE REFINEMENTS
+   Scoped to the home page hero
+   =========================== */
+@media (max-width: 768px) {
+
+  /* Give space so header never overlaps hero on mobile */
+  .home .hero {
+    margin-top: 80px;     /* adjust to 60px if you prefer tighter spacing */
+    margin-bottom: 2rem;
+  }
+
+  .home .hero-image {
+    max-height: 300px;    /* more image presence on phones */
+    object-fit: cover;
+    filter: brightness(0.75); /* slightly darker for text readability */
+  }
+
+  .home .hero-overlay {
+    bottom: 1.2rem;
+    left: 1rem;
+    right: 1rem;
+    text-align: center;   /* centered text on smaller screens */
+  }
+
+  .home .hero-title {
+    font-size: 2rem;      /* down from 3rem */
+    margin-bottom: 0.4rem;
+  }
+
+  .home .hero-subtitle {
+    font-size: 1rem;
+    max-width: 90%;
+    margin: 0 auto;
+    line-height: 1.4;
+  }
 }
