@@ -26,9 +26,8 @@ These aren’t destination guides or recommendations. They’re reflections and 
 
   <!-- Morocco (LIVE) -->
   <article class="trip-card">
-    /travel/2025/02/15/morocco-field-notes.html
-      <!-- optional image; remove if you don't want a thumbnail -->
-      /assets/images/morocco/anchor.jpg
+    {{ "/travel/2025/02/15/morocco-field-notes.html" | relative_url }}
+      <img src="/assets/images/morocco/anchor.jpg" alt="Morocco Trip" class="trip-card-img">
       <div class="trip-card-body">
         <h3 class="trip-card-title">Morocco Trip</h3>
         <p class="trip-card-meta">— Morocco —</p>
@@ -37,9 +36,9 @@ These aren’t destination guides or recommendations. They’re reflections and 
     </a>
   </article>
 
-  <!-- Jordan & Egypt (COMING SOON; not a link yet) -->
+  <!-- Jordan & Egypt (COMING SOON) -->
   <article class="trip-card">
-    <div class="trip-card-img placeholder" aria-hidden="true"></div>
+    <div class="trip-card-img placeholder"></div>
     <div class="trip-card-body">
       <h3 class="trip-card-title">Jordan &amp; Egypt — Field Notes</h3>
       <p class="trip-card-meta">— Jordan, Egypt —</p>
@@ -47,9 +46,9 @@ These aren’t destination guides or recommendations. They’re reflections and 
     </div>
   </article>
 
-  <!-- UAE (COMING SOON; not a link yet) -->
+  <!-- UAE (COMING SOON) -->
   <article class="trip-card">
-    <div class="trip-card-img placeholder" aria-hidden="true"></div>
+    <div class="trip-card-img placeholder"></div>
     <div class="trip-card-body">
       <h3 class="trip-card-title">UAE — Field Notes</h3>
       <p class="trip-card-meta">— Dubai, Abu Dhabi —</p>
@@ -58,8 +57,3 @@ These aren’t destination guides or recommendations. They’re reflections and 
   </article>
 
 </div>
-
-    <span class="trip-badge soon">Coming&nbsp;soon</span>
-  </li>
-
-</ul>
