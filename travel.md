@@ -22,26 +22,43 @@ These aren’t destination guides or recommendations. They’re reflections and 
 
 ## Trips
 
-<ul class="trip-list">
+<div class="trip-grid">
 
-  <!-- Morocco -->
-  <li class="trip-item">
-    <a href="/travel/2025/02/15/morocco-field-notes.html">Morocco Trip</a>
-    <span class="trip-meta">— Morocco —</span>
-    <span class="trip-badge live">Live</span>
-  </li>
+  <!-- Morocco (LIVE) -->
+  <article class="trip-card">
+    /travel/2025/02/15/morocco-field-notes.html
+      <!-- optional image; remove if you don't want a thumbnail -->
+      /assets/images/morocco/anchor.jpg
+      <div class="trip-card-body">
+        <h3 class="trip-card-title">Morocco Trip</h3>
+        <p class="trip-card-meta">— Morocco —</p>
+        <span class="trip-badge live">Live</span>
+      </div>
+    </a>
+  </article>
 
-  <!-- Jordan & Egypt (COMING SOON) -->
-  <li class="trip-item">
-    <span class="trip-title">Jordan &amp; Egypt — Field Notes</span>
-    <span class="trip-meta">— Jordan, Egypt —</span>
-    <span class="trip-badge soon">Coming&nbsp;soon</span>
-  </li>
+  <!-- Jordan & Egypt (COMING SOON; not a link yet) -->
+  <article class="trip-card">
+    <div class="trip-card-img placeholder" aria-hidden="true"></div>
+    <div class="trip-card-body">
+      <h3 class="trip-card-title">Jordan &amp; Egypt — Field Notes</h3>
+      <p class="trip-card-meta">— Jordan, Egypt —</p>
+      <span class="trip-badge soon">Coming&nbsp;soon</span>
+    </div>
+  </article>
 
-  <!-- UAE (COMING SOON) -->
-  <li class="trip-item">
-    <span class="trip-title">UAE — Field Notes</span>
-    <span class="trip-meta">— Dubai, Abu Dhabi —</span>
+  <!-- UAE (COMING SOON; not a link yet) -->
+  <article class="trip-card">
+    <div class="trip-card-img placeholder" aria-hidden="true"></div>
+    <div class="trip-card-body">
+      <h3 class="trip-card-title">UAE — Field Notes</h3>
+      <p class="trip-card-meta">— Dubai, Abu Dhabi —</p>
+      <span class="trip-badge soon">Coming&nbsp;soon</span>
+    </div>
+  </article>
+
+</div>
+
     <span class="trip-badge soon">Coming&nbsp;soon</span>
   </li>
 
