@@ -4,16 +4,14 @@ title: Fish n Fly
 image: /assets/images/social/fishnfly-og.jpg
 ---
 
-![Fish n Fly Cover Image](/assets/images/social/fishnfly-og.jpg){: .homepage-hero }
+<div class="hero">
+  <img src="/assets/images/social/fishnfly-og.jpg" alt="Fish n Fly" class="hero-image">
+  <div class="hero-overlay">
+    <h1 class="hero-title">Fish n Fly</h1>
+    <p class="hero-subtitle">
+      Traveling farther. Fishing better. Stories from the quiet places between movement.
+    </p>
+  </div>
+</div>
 
-### Travel farther. Stay longer. Notice more.
-
-**Fish n Fly**  
-Slow-travel stories from the road, the water, and the quiet places in between. We cross countries deliberately—cities, deserts, coasts—paying attention to how movement shapes experience. Sometimes that includes fishing; always, it includes time.
-
-**Start here →** - [All Stories](/stories/)
-
-**Related**
-- [Travel Index](/travel.html)
-- [Morocco Notes](/stories/morocco-before-sunrise.html)
-
+## Latest Stories
