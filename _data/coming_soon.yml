@@ -1,0 +1,7 @@
+- location: "Jordan"
+  title: "Across Wadi Rum"
+  dek: "Wind, sand, and long distances."
+  img:
+    base: "/assets/img/coming-soon/jordan-wadi-rum-960.jpg"
+    alt: "Desert landscape in Wadi Rum, Jordan"
+  url: "#"
