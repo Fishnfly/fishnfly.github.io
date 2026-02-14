@@ -4,6 +4,11 @@ title: "Travel"
 permalink: /travel.html
 ---
 
+<section class="travel-intro" aria-label="Travel intro">
+  <h2>Traveling farther. <em>Fishing better.</em> Stories around the world.</h2>
+  <p><strong>Moving slowly, noticing more.</strong> Stories from places where time lingers.</p>
+</section>
+
 <!-- 1) Dynamic Travel Grid -->
 <section aria-labelledby="travel-grid-heading">
   <h2 id="travel-grid-heading" class="sr-only">Stories in Travel</h2>
