@@ -306,5 +306,32 @@
   border: 1px solid rgba(0,0,0,.06);
 }
 
+* Make the grid robust; use minmax to prevent column collapse */
+.card-grid{
+  display:grid;
+  grid-template-columns:repeat(12, minmax(0, 1fr));
+  gap:clamp(14px, 2.5vw, 24px);
+  align-items:start;
+}
+
+/* The direct children of .card-grid are <a class="card-thumb"> */
+.card-grid > a.card-thumb{
+  grid-column:span 6;        /* 2-up desktop/tablet */
+}
+
+@media (max-width: 720px){
+  .card-grid > a.card-thumb{ grid-column:1 / -1; }  /* 1-up on mobile */
+}
+
+/* Ensure the media fills its card nicely */
+.card-thumb__media picture,
+.card-thumb__media img{
+  display:block;
+  width:100%;
+  height:auto;
+  aspect-ratio:16/10;
+  object-fit:cover;
+}
+
 
 
