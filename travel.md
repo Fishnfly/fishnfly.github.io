@@ -59,21 +59,34 @@ permalink: /travel.html
   <h2 id="coming-soon-heading">Coming Soon</h2>
   <div class="card-grid">
     {% for item in site.data.coming_soon %}
-      <a href="{{ item.url | default: '#' }}" {% if item.url == '#' %}aria-disabled="true"{% endif %} class="card-thumb">
+      <a href="{{ item.url }}" aria-disabled="true">
         <figure class="card-thumb__media">
-          <img
-            src="{{ item.img.base | replace: '/assets/images/', '/assets/img/' | relative_url }}"
-            alt="{{ item.img.alt | escape }}"
-            loading="lazy"
-            decoding="async" />
+          {% if item.img and item.img.base %}
+            <img
+              src="{{ item.img.base | replace: '/assets/images/', '/assets/img/' | relative_url }}"
+              alt="{{ item.img.alt | default: item.title }}"
+            >
+          {% else %}
+            <div class="card-thumb__placeholder" aria-hidden="true">
+              <span>Image coming soon</span>
+            </div>
+          {% endif %}
+
           {% if item.location %}
             <figcaption class="card-thumb__label">{{ item.location }}</figcaption>
           {% endif %}
         </figure>
+
         <div class="card-thumb__body">
           <h3 class="card-thumb__title">{{ item.title }}</h3>
           {% if item.dek %}<p class="card-thumb__dek">{{ item.dek }}</p>{% endif %}
         </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
       </a>
     {% endfor %}
   </div>
