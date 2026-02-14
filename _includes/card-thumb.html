@@ -1,0 +1,17 @@
+<a class="card-thumb" href="{{ include.url }}">
+  <figure class="card-thumb__media">
+    <img
+      src="{{ include.img_src }}"
+      srcset="{{ include.img_src_640 }} 640w, {{ include.img_src_960 }} 960w, {{ include.img_src_1280 }} 1280w"
+      sizes="(max-width: 720px) 100vw, 48vw"
+      width="960" height="600" loading="lazy" decoding="async"
+      alt="{{ include.alt | escape }}" />
+    <figcaption class="card-thumb__label">{{ include.location }}</figcaption>
+  </figure>
+  <div class="card-thumb__body">
+    <h3 class="card-thumb__title">{{ include.title }}</h3>
+    {% if include.dek %}
+    <p class="card-thumb__dek">{{ include.dek }}</p>
+    {% endif %}
+  </div>
+</a>
