@@ -1,0 +1,51 @@
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: clamp(14px, 2.5vw, 24px);
+  align-items: start;
+}
+.card-grid > * {
+  grid-column: span 6; /* 2-up on desktop */
+}
+@media (max-width: 720px) {
+  .card-grid > * { grid-column: 1 / -1; } /* 1-up on mobile */
+}
+
+.card-thumb {
+  --radius: 8px;
+  --overlay: color-mix(in oklab, #000 30%, transparent);
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+.card-thumb__media {
+  position: relative;
+  margin: 0 0 10px;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.card-thumb__media img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10; /* consistent ratio */
+  object-fit: cover;
+  filter: saturate(0.92) contrast(0.98);
+}
+.card-thumb__media::after {
+  content: "";
+  position: absolute; inset: 0;
+  background: linear-gradient(to top, var(--overlay), transparent 55%);
+}
+.card-thumb__label {
+  position: absolute; left: 12px; top: 10px;
+  padding: 4px 8px; font-size: 12px; letter-spacing: .02em;
+  color: #fff; background: rgba(0,0,0,.35); border-radius: 6px;
+}
+.card-thumb__title {
+  margin: 2px 0 4px; font-size: clamp(18px, 2.2vw, 22px);
+  line-height: 1.25; font-weight: 700;
+}
+.card-thumb__dek {
+  margin: 0; color: #4b5563; font-size: 14px;
+}
+.card-thumb:hover .card-thumb__title { text-decoration: underline; }
