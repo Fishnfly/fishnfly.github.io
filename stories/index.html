@@ -1,0 +1,22 @@
+---
+layout: page
+title: "All Stories"
+permalink: /stories/
+---
+
+<div class="card-grid">
+  {% assign allstories = site.posts | sort: 'date' | reverse %}
+  {% for post in allstories %}
+    {% include card-thumb.html
+      url=post.url
+      img_src=post.thumbnail.base
+      img_src_640=post.thumbnail.w640
+      img_src_960=post.thumbnail.w960
+      img_src_1280=post.thumbnail.w1280
+      alt=post.thumbnail.alt
+      location=post.location
+      title=post.title
+      dek=post.dek
+    %}
+  {% endfor %}
+</div>
