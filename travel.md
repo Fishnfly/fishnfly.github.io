@@ -72,3 +72,25 @@ These aren’t destination guides or recommendations. They’re reflections and 
   </article>
 
 </div>
+
+{% if site.data.coming_soon and site.data.coming_soon.size > 0 %}
+<section aria-labelledby="coming-soon-heading" class="coming-soon">
+  <h2 id="coming-soon-heading">Coming Soon</h2>
+  <div class="card-grid">
+    {% for item in site.data.coming_soon %}
+      <a href="{{ item.url }}" aria-disabled="true">
+        <figure class="card-thumb__media">
+          <img src="{{ item.img.base }}" alt="{{ item.img.alt }}">
+          <figcaption class="card-thumb__label">{{ item.location }}</figcaption>
+        </figure>
+        <div class="card-thumb__body">
+          <h3 class="card-thumb__title">{{ item.title }}</h3>
+          {% if item.dek %}
+            <p class="card-thumb__dek">{{ item.dek }}</p>
+          {% endif %}
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
