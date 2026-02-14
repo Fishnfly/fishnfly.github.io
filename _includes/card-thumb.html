@@ -1,31 +1,26 @@
 {%- comment -%}
-Minimal card-thumb to verify images render (no path rewriting).
+card-thumb.html — Overlay title+dek on image.
 Inputs from {% include %}:
   url, title, dek, location, alt
-  img_src, img_src_640, img_src_960, img_src_1280
+  img_src, img_src_640, img_src_960, img_src_1280  (only img_src is required)
 {%- endcomment -%}
 
 {%- assign alt_text  = include.alt | default: include.title | escape -%}
 {%- assign img_final = include.img_src | default: include.img_src_960 | default: include.img_src_640 -%}
 
-<a href="{{ include.url | relative_url }}" class="card-thumb">
+{{ include.url | relative_url }}
   <figure class="card-thumb__media">
-    <img
-      src="{{ img_final | relative_url }}"
-      alt="{{ alt_text }}"
-      loading="lazy"
-      width="960"
-      height="600"
-    />
+    {{ img_final | relative_url }}
+
     {% if include.location %}
       <figcaption class="card-thumb__label">{{ include.location }}</figcaption>
     {% endif %}
-  </figure>
 
-  <div class="card-thumb__body">
-    <h3 class="card-thumb__title">{{ include.title }}</h3>
-    {% if include.dek %}
-      <p class="card-thumb__dek">{{ include.dek }}</p>
-    {% endif %}
-  </div>
+    <figcaption class="card-thumb__overlay">
+      <h3 class="card-thumb__title">{{ include.title }}</h3>
+      {% if include.dek %}
+        <p class="card-thumb__dek">{{ include.dek }}</p>
+      {% endif %}
+    </figcaption>
+  </figure>
 </a>
