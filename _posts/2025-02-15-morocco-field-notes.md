@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Morocco Trip"
-categories: [travel]
-tags: [morocco, north-africa, desert, medina, slow-travel, hot-air-balloons]
-image: /assets/images/morocco/anchor.jpg
-xcerpt: "A slow crossing of Morocco—from cities to desert to coast—showing how landscapes, pacing, and movement shape a deeper travel experience."
+title: "Before Sunrise Over Morocco"
+categories: ["travel"]
+location: "Morocco"
+dek: "Drifting quietly above the waking desert."
+thumbnail:
+  base: /assets/img/morocco/balloon-960.jpg
+  w640: /assets/img/morocco/balloon-640.jpg
+  w960: /assets/img/morocco/balloon-960.jpg
+  w1280: /assets/img/morocco/balloon-1280.jpg
+  alt: "Hot-air balloon at dawn over Morocco’s desert"
 ---
 
 Morocco doesn’t reveal itself all at once. It arrives in layers — noise before quiet, density before space, movement before stillness.
