@@ -22,41 +22,29 @@ These aren’t destination guides or recommendations. They’re reflections and 
 
 ## Trips
 
-<div class="trip-grid">
+<div class="card-grid">
 
   <!-- Morocco (LIVE) -->
-  <article class="trip-card">
-    <a class="trip-card-link" href="{{ '/travel/2025/02/15/morocco-field-notes.html' | relative_url }}">
-      <img
-        class="trip-card-img"
-        src="{{ '/assets/images/morocco/anchor.jpg' | relative_url }}"
-        alt="Morocco — trip cover thumbnail">
-      <div class="trip-card-body">
-        <h3 class="trip-card-title">Morocco Trip</h3>
-        <p class="trip-card-meta">— Morocco —</p>
-        <span class="trip-badge live">Live</span>
-      </div>
+  <article class="card">
+    <a class="card-link" href="{{ '/travel/2025/02/15/morocco-field-notes.html' | relative_url }}">
+      <img class="card-img" src="{{ '/assets/images/morocco/anchor.jpg' | relative_url }}" alt="Morocco Trip">
+      <h3 class="card-title">Morocco Trip</h3>
+      <p class="card-meta">— Morocco — <span class="trip-badge live">Live</span></p>
     </a>
   </article>
 
-  <!-- Jordan & Egypt (COMING SOON; no link yet) -->
-  <article class="trip-card">
-    <div class="trip-card-img placeholder" aria-hidden="true"></div>
-    <div class="trip-card-body">
-      <h3 class="trip-card-title">Jordan &amp; Egypt — Field Notes</h3>
-      <p class="trip-card-meta">— Jordan, Egypt —</p>
-      <span class="trip-badge soon">Coming&nbsp;soon</span>
-    </div>
+  <!-- Jordan & Egypt (COMING SOON) - no link yet -->
+  <article class="card">
+    <div class="card-img placeholder" aria-hidden="true"></div>
+    <h3 class="card-title">Jordan &amp; Egypt — Field Notes</h3>
+    <p class="card-meta">— Jordan, Egypt — <span class="trip-badge soon">Coming&nbsp;soon</span></p>
   </article>
 
-  <!-- UAE (COMING SOON; no link yet) -->
-  <article class="trip-card">
-    <div class="trip-card-img placeholder" aria-hidden="true"></div>
-    <div class="trip-card-body">
-      <h3 class="trip-card-title">UAE — Field Notes</h3>
-      <p class="trip-card-meta">— Dubai, Abu Dhabi —</p>
-      <span class="trip-badge soon">Coming&nbsp;soon</span>
-    </div>
+  <!-- UAE (COMING SOON) - no link yet -->
+  <article class="card">
+    <div class="card-img placeholder" aria-hidden="true"></div>
+    <h3 class="card-title">UAE — Field Notes</h3>
+    <p class="card-meta">— Dubai, Abu Dhabi — <span class="trip-badge soon">Coming&nbsp;soon</span></p>
   </article>
 
 </div>
