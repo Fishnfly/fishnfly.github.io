@@ -1,7 +1,7 @@
 {%- comment -%}
 card-thumb.html — Reusable card for Travel/Stories grids.
 
-Expected inputs (passed via {% include %}):
+Inputs (passed via {% include %}):
   url, title, dek, location, alt
   img_src, img_src_640, img_src_960, img_src_1280
 {%- endcomment -%}
@@ -36,7 +36,7 @@ Expected inputs (passed via {% include %}):
         loading="lazy"
         width="960"
         height="600"
-      />
+      >
     </picture>
 
     {% if include.location %}
