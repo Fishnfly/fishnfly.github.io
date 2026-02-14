@@ -4,18 +4,16 @@ title: "Travel"
 permalink: /travel.html
 ---
 
-<!-- =========================================
-     1) Dynamic Travel Grid (latest travel posts)
-     ========================================= -->
+<!-- 1) Dynamic Travel Grid -->
 <section aria-labelledby="travel-grid-heading">
   <h2 id="travel-grid-heading" class="sr-only">Stories in Travel</h2>
 
   <div class="card-grid">
     {% assign featured = site.posts
-        | where_exp:'item', 'item.categories contains "travel"'
-        | sort: 'date'
-        | reverse
-        | slice: 0, 6 %}
+      | where_exp: 'item', 'item.categories contains "travel"'
+      | sort: 'date'
+      | reverse
+      | slice: 0, 6 %}
 
     {% for post in featured %}
       {% include card-thumb.html
@@ -35,16 +33,12 @@ permalink: /travel.html
 
 <hr class="section-sep" />
 
-<!-- =========================================
-     2) Travel manifesto text (editorial)
-     ========================================= -->
+<!-- 2) Travel manifesto -->
 <section aria-labelledby="travel-intro-heading">
   <h2 id="travel-intro-heading" class="sr-only">About This Section</h2>
 
   <p>Travel, for us, isn’t about moving quickly or seeing as much as possible. It’s about paying attention.</p>
-
   <p>We’re drawn to places where the experience comes from being present — where understanding a region means moving through it slowly, noticing how people live, and allowing plans to change once you’re on the ground.</p>
-
   <p>Our trips are shaped less by itineraries and more by observation. We care about how landscapes influence daily life, how transportation really works, and what you miss when you only skim the surface of a place.</p>
 
   <p><strong>This section focuses on:</strong></p>
@@ -56,33 +50,29 @@ permalink: /travel.html
   </ul>
 
   <p>Fishing appears here when it fits naturally into that rhythm — as a way of slowing down even further, spending time with water, and connecting with people and places from a different perspective. Sometimes it’s central to the experience; other times it’s absent entirely.</p>
-
   <p>These aren’t destination guides or recommendations. They’re reflections and field notes — written for travelers who value curiosity over efficiency and depth over distance.</p>
 </section>
 
-<!-- =========================================
-     3) Data-driven "Coming Soon" (from _data/coming_soon.yml)
-     ========================================= -->
+<!-- 3) Data-driven "Coming Soon" -->
 {% if site.data.coming_soon and site.data.coming_soon.size > 0 %}
 <section aria-labelledby="coming-soon-heading" class="coming-soon">
   <h2 id="coming-soon-heading">Coming Soon</h2>
   <div class="card-grid">
     {% for item in site.data.coming_soon %}
-      <a href="{{ item.url | default: '#' }}" {% unless item.url and item.url != '#' %}aria-disabled="true"{% endunless %}>
+      <a href="{{ item.url | default: '#' }}" {% if item.url == '#' %}aria-disabled="true"{% endif %} class="card-thumb">
         <figure class="card-thumb__media">
           <img
-            src="{{ item.img.base | replace: '/assets/images/', '/assets/img/' }}"
-            alt="{{ item.img.alt | default: item.title }}"
-            width="960"
-            height="600"
-            loading="lazy" />
-          <figcaption class="card-thumb__label">{{ item.location }}</figcaption>
+            src="{{ item.img.base | replace: '/assets/images/', '/assets/img/' | relative_url }}"
+            alt="{{ item.img.alt | escape }}"
+            loading="lazy"
+            decoding="async" />
+          {% if item.location %}
+            <figcaption class="card-thumb__label">{{ item.location }}</figcaption>
+          {% endif %}
         </figure>
         <div class="card-thumb__body">
           <h3 class="card-thumb__title">{{ item.title }}</h3>
-          {% if item.dek %}
-            <p class="card-thumb__dek">{{ item.dek }}</p>
-          {% endif %}
+          {% if item.dek %}<p class="card-thumb__dek">{{ item.dek }}</p>{% endif %}
         </div>
       </a>
     {% endfor %}
