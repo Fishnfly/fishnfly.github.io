@@ -4,7 +4,7 @@ title: "Before Sunrise Over Morocco"
 categories: ["travel"]
 location: "Morocco"
 dek: "Drifting quietly above the waking desert."
-hero_image: /assets/images/mockups/single-balloon-40.jpg
+hero_image: /assets/images/morocco/single-balloon-40.jpg
 hero_alt: "Hot‑air balloon rising before sunrise in Morocco"
 thumbnail:
   base: /assets/images/morocco/balloon-960.jpg
