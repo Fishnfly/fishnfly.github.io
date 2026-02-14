@@ -203,7 +203,7 @@
 
 /* Tighter thumbnail sizing just for Travel cards */
 .trip-card-img {
-  max-height: 320px;      /* adjust 180–320px to taste */
+  max-height: 600px;      /* adjust 180–600px to taste */
   width: 100%;
   object-fit: cover;      /* keep composition, crop overflow */
   aspect-ratio: 3 / 2;    /* consistent shape */
