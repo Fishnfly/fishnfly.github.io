@@ -4,14 +4,18 @@ title: "Before Sunrise Over Morocco"
 categories: ["travel"]
 location: "Morocco"
 dek: "Drifting quietly above the waking desert."
-hero_image: /assets/images/morocco/single-balloon-40.jpg
+
+# Hero image (mockup)
+hero_image: /assets/img/mockups/single-balloon-40.jpg
 hero_alt: "Hot‑air balloon rising before sunrise in Morocco"
+
+# Thumbnail images (real Morocco photos)
 thumbnail:
-  base: /assets/images/morocco/balloon-960.jpg
-  w640: /assets/images/morocco/balloon-640.jpg
-  w960: /assets/images/morocco/balloon-960.jpg
-  w1280: /assets/images/morocco/balloon-1280.jpg
-  alt: "Hot-air balloon at dawn over Morocco’s desert"
+  base: /assets/img/morocco/balloon-960.jpg
+  w640: /assets/img/morocco/balloon-640.jpg
+  w960: /assets/img/morocco/balloon-960.jpg
+  w1280: /assets/img/morocco/balloon-1280.jpg
+  alt: "Hot‑air balloon at dawn over Morocco’s desert"
 ---
 
 Morocco doesn’t reveal itself all at once. It arrives in layers — noise before quiet, density before space, movement before stillness.
