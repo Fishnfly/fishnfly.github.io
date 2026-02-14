@@ -54,7 +54,6 @@
   z-index: 2000;
 }
 
-/* Ensure hero content sits below header */
 .home .hero {
   position: relative;
   z-index: 1;
@@ -62,30 +61,28 @@
 
 /* ===========================
    MOBILE REFINEMENTS
-   Scoped to the home page hero
    =========================== */
 @media (max-width: 768px) {
-  /* Give space so header never overlaps hero on mobile */
   .home .hero {
-    margin-top: 80px;     /* adjust to 60px if you prefer tighter spacing */
+    margin-top: 80px;
     margin-bottom: 2rem;
   }
 
   .home .hero-image {
-    max-height: 300px;    /* more image presence on phones */
+    max-height: 300px;
     object-fit: cover;
-    filter: brightness(0.75); /* slightly darker for text readability */
+    filter: brightness(0.75);
   }
 
   .home .hero-overlay {
     bottom: 1.2rem;
     left: 1rem;
     right: 1rem;
-    text-align: center;   /* centered text on smaller screens */
+    text-align: center;
   }
 
   .home .hero-title {
-    font-size: 2rem;      /* down from 3rem */
+    font-size: 2rem;
     margin-bottom: 0.4rem;
   }
 
@@ -98,7 +95,7 @@
 }
 
 /* ===========================
-   STORIES GRID
+   STORIES GRID (OLDER)
    =========================== */
 .card-grid {
   display: grid;
@@ -107,18 +104,17 @@
 }
 
 .card {
-  grid-column: span 4; /* 3-up desktop */
+  grid-column: span 4;
   display: block;
 }
 
 @media (max-width: 900px) {
-  .card { grid-column: span 6; } /* 2-up tablet */
+  .card { grid-column: span 6; }
 }
 @media (max-width: 600px) {
-  .card { grid-column: span 12; } /* 1-up mobile */
+  .card { grid-column: span 12; }
 }
 
-/* Optional: only effective if you add class="card-link" to the <a> */
 .card-link { text-decoration: none; color: inherit; display: block; }
 
 /* Image + placeholder */
@@ -132,9 +128,6 @@
 }
 
 .card-img.placeholder {
-  width: 100%;
-  aspect-ratio: 3/2;
-  border-radius: 8px;
   background: linear-gradient(180deg, #ececec 0%, #e5e5e5 100%);
 }
 
@@ -147,12 +140,12 @@
 
 .card-meta {
   margin: 0;
-  color: #6b7280; /* gray */
+  color: #6b7280;
   font-size: .95rem;
 }
 
 /* ===========================
-   TRIP INDEX (Travel page)
+   TRIP INDEX
    =========================== */
 .trip-list {
   list-style: none;
@@ -172,35 +165,31 @@
 }
 
 .trip-item a { text-decoration: none; }
-
-.trip-title {
-  font-weight: 600;
-}
-
-.trip-meta {
-  color: #6b7280;
-  font-size: .95rem;
-}
+.trip-title { font-weight: 600; }
+.trip-meta { color: #6b7280; font-size: .95rem; }
 
 .trip-badge {
   font-size: .8rem;
   line-height: 1;
   padding: .25rem .5rem;
   border-radius: 999px;
-  background: #eef2ff; /* default soft */
+  background: #eef2ff;
   color: #374151;
 }
 
 .trip-badge.live {
-  background: #ecfdf5; /* green tint */
+  background: #ecfdf5;
   color: #065f46;
 }
 
 .trip-badge.soon {
-  background: #fff7ed; /* orange tint */
+  background: #fff7ed;
   color: #9a3412;
 }
 
+/* ===========================
+   POST HERO
+   =========================== */
 .post-hero img {
   display: block;
   width: 100%;
@@ -211,7 +200,9 @@
   margin-bottom: 24px;
 }
 
-/* Placeholder for Coming Soon cards (when no image is provided) */
+/* ===========================
+   COMING SOON PLACEHOLDER
+   =========================== */
 .card-thumb__placeholder {
   display: grid;
   place-items: center;
@@ -231,7 +222,9 @@
   border: 1px solid rgba(0,0,0,.06);
 }
 
-/* ===== New thumbnail card styles (used by card-thumb.html) ===== */
+/* ===========================
+   NEW CARD-THUMB SYSTEM
+   =========================== */
 .card-thumb {
   display: block;
   text-decoration: none;
@@ -245,7 +238,6 @@
   overflow: hidden;
 }
 
-/* Keep thumbnails consistent and cover the frame */
 .card-thumb__media picture,
 .card-thumb__media img {
   display: block;
@@ -255,88 +247,65 @@
   object-fit: cover;
 }
 
-/* Optional: legibility gradient */
 .card-thumb__media::after {
   content: "";
-  position: absolute; inset: 0;
+  position: absolute; 
+  inset: 0;
   background: linear-gradient(to top, rgba(0,0,0,.20), transparent 55%);
   pointer-events: none;
 }
 
-/* Small location chip on the image */
 .card-thumb__label {
-  position: absolute; left: 12px; top: 10px;
+  position: absolute; 
+  left: 12px; 
+  top: 10px;
   padding: 4px 8px;
-  font-size: 12px; letter-spacing: .02em;
+  font-size: 12px;
+  letter-spacing: .02em;
   color: #fff;
   background: rgba(0,0,0,.35);
   border-radius: 6px;
 }
 
-/* Body (title + dek) */
-.card-thumb__body { }
+.card-thumb__body {}
+
 .card-thumb__title {
   margin: 2px 0 4px;
   font-size: clamp(18px, 2.2vw, 22px);
   line-height: 1.25;
   font-weight: 700;
 }
+
 .card-thumb__dek {
   margin: 0;
   color: #4b5563;
   font-size: 14px;
 }
 
-/* Placeholder for Coming Soon (when no image provided) */
-.card-thumb__placeholder {
+/* ===========================
+   FIXED CARD GRID (CORRECTED)
+   =========================== */
+.card-grid {
   display: grid;
-  place-items: center;
-  width: 100%;
-  aspect-ratio: 16 / 10;
-  border-radius: 8px;
-  background: linear-gradient(180deg, rgba(0,0,0,.04), rgba(0,0,0,.08));
-  color: #6b7280;
-  font-size: 13px;
-  letter-spacing: .02em;
-}
-.card-thumb__placeholder span {
-  background: rgba(255,255,255,.75);
-  padding: 4px 8px;
-  border-radius: 6px;
-  border: 1px solid rgba(0,0,0,.06);
-}
-
-* Make the grid robust; use minmax to prevent column collapse */
-.card-grid{
-  display:grid;
-  grid-template-columns:repeat(12, minmax(0, 1fr));
-  gap:clamp(14px, 2.5vw, 24px);
-  align-items:start;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: clamp(14px, 2.5vw, 24px);
+  align-items: start;
 }
 
 /* The direct children of .card-grid are <a class="card-thumb"> */
-.card-grid > a.card-thumb{
-  grid-column:span 6;        /* 2-up desktop/tablet */
+.card-grid > a.card-thumb {
+  grid-column: span 6;
 }
 
-@media (max-width: 720px){
-  .card-grid > a.card-thumb{ grid-column:1 / -1; }  /* 1-up on mobile */
+@media (max-width: 720px) {
+  .card-grid > a.card-thumb {
+    grid-column: 1 / -1;
+  }
 }
 
-/* Ensure the media fills its card nicely */
-.card-thumb__media picture,
-.card-thumb__media img{
-  display:block;
-  width:100%;
-  height:auto;
-  aspect-ratio:16/10;
-  object-fit:cover;
+/* ===========================
+   OPTIONAL: WIDER TRAVEL PAGE
+   =========================== */
+.page-content .wrapper {
+  max-width: 1100px;
 }
-
-* Make the Travel page a bit wider than Minima default */
-.page-content .wrapper{
-  max-width: 1100px;  /* try 1000–1200px; pick what feels right */
-}
-
-
-
