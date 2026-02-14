@@ -1,7 +1,7 @@
 {%- comment -%}
 card-thumb.html — Reusable card for Travel/Stories grids.
 
-Inputs (passed via {% include %}):
+Expected inputs (passed via {% include %}):
   url, title, dek, location, alt
   img_src, img_src_640, img_src_960, img_src_1280
 {%- endcomment -%}
@@ -9,13 +9,12 @@ Inputs (passed via {% include %}):
 {%- assign href      = include.url | relative_url -%}
 {%- assign alt_text  = include.alt | default: include.title | escape -%}
 
-/* Normalize any lingering /assets/images/ → /assets/img/ */
+{%- comment -%} Normalize any lingering /assets/images/ → /assets/img/ {%- endcomment -%}
 {%- assign src_main  = include.img_src      | replace: '/assets/images/', '/assets/img/' -%}
 {%- assign src_640   = include.img_src_640  | replace: '/assets/images/', '/assets/img/' -%}
 {%- assign src_960   = include.img_src_960  | replace: '/assets/images/', '/assets/img/' -%}
 {%- assign src_1280  = include.img_src_1280 | replace: '/assets/images/', '/assets/img/' -%}
 
-/* Final fallback chain for the <img> src */
 {%- assign img_src_final = src_main | default: src_960 | default: src_640 -%}
 
 <a href="{{ href }}" class="card-thumb">
@@ -30,13 +29,14 @@ Inputs (passed via {% include %}):
       {% if src_640 %}
         <source srcset="{{ src_640  | relative_url }}" media="(min-width: 480px)">
       {% endif %}
+
       <img
         src="{{ img_src_final | relative_url }}"
         alt="{{ alt_text }}"
         loading="lazy"
         width="960"
         height="600"
-      >
+      />
     </picture>
 
     {% if include.location %}
