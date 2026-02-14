@@ -200,3 +200,21 @@
   background: #fff7ed; /* orange tint */
   color: #9a3412;
 }
+
+/* Tighter thumbnail sizing just for Travel cards */
+.trip-card-img {
+  max-height: 220px;      /* adjust 180–260px to taste */
+  width: 100%;
+  object-fit: cover;      /* keep composition, crop overflow */
+  aspect-ratio: 3 / 2;    /* consistent shape */
+  border-radius: 8px;
+  display: block;
+}
+
+/* If you want even smaller thumbs on phones */
+@media (max-width: 600px) {
+  .trip-card-img {
+    max-height: 180px;
+  }
+}
+
