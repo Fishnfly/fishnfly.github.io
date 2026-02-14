@@ -1,46 +1,26 @@
 {%- comment -%}
-card-thumb.html — Reusable card for Travel/Stories grids.
-
-Inputs (passed via {% include %}):
+Minimal card-thumb.html to verify images render.
+Inputs (from {% include %} in travel.md):
   url, title, dek, location, alt
   img_src, img_src_640, img_src_960, img_src_1280
 {%- endcomment -%}
 
-{%- assign alt_text = include.alt | default: include.title | escape -%}
+{%- assign alt_text   = include.alt | default: include.title | escape -%}
+{%- assign src_main   = include.img_src      | replace: '/assets/images/', '/assets/img/' -%}
+{%- assign src_640    = include.img_src_640  | replace: '/assets/images/', '/assets/img/' -%}
+{%- assign src_960    = include.img_src_960  | replace: '/assets/images/', '/assets/img/' -%}
+{%- assign src_1280   = include.img_src_1280 | replace: '/assets/images/', '/assets/img/' -%}
+{%- assign img_final  = src_main | default: src_960 | default: src_640 -%}
 
-/* Normalize any lingering /assets/images/ → /assets/img/ */
-{%- assign src_main  = include.img_src      | replace: '/assets/images/', '/assets/img/' -%}
-{%- assign src_640   = include.img_src_640  | replace: '/assets/images/', '/assets/img/' -%}
-{%- assign src_960   = include.img_src_960  | replace: '/assets/images/', '/assets/img/' -%}
-{%- assign src_1280  = include.img_src_1280 | replace: '/assets/images/', '/assets/img/' -%}
-
-/* Final fallback chain for the <img> src */
-{%- assign img_src_final = src_main | default: src_960 | default: src_640 -%}
-
-/* ---------- OPEN A REAL ANCHOR TAG (this was the key fix) ---------- */
-<a href="{{ include.url | relative_url }}" class="card-thumb">
+{{ include.url | relative_url }}
   <figure class="card-thumb__media">
-    <picture>
-      {% if src_1280 %}
-        <source srcset="{{ src_1280 | relative_url }}" media="(min-width: 1024px)">
-      {% endif %}
-      {% if src_960 %}
-        <source srcset="{{ src_960  | relative_url }}" media="(min-width: 720px)">
-      {% endif %}
-      {% if src_640 %}
-        <source srcset="{{ src_640  | relative_url }}" media="(min-width: 480px)">
-      {% endif %}
-
-      <!-- Final fallback image (ALWAYS rendered) -->
-      <img
-        src="{{ img_src_final | relative_url }}"
-        alt="{{ alt_text }}"
-        loading="lazy"
-        width="960"
-        height="600"
-      >
-    </picture>
-
+    <img
+      src="{{ img_final | relative_url }}"
+      alt="{{ alt_text }}"
+      loading="lazy"
+      width="960"
+      height="600"
+    />
     {% if include.location %}
       <figcaption class="card-thumb__label">{{ include.location }}</figcaption>
     {% endif %}
