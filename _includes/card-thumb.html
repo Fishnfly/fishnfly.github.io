@@ -1,21 +1,28 @@
 {%- comment -%}
-card-thumb.html — Overlay title+dek on image.
-Inputs from {% include %}:
+card-thumb.html — Simple, reliable card with image or placeholder.
+Inputs (from {% include %}):
   url, title, dek, location, alt
-  img_src, img_src_640, img_src_960, img_src_1280  (only img_src is required)
+  img_src  (required for real image; if empty we show a placeholder)
 {%- endcomment -%}
 
 {%- assign alt_text  = include.alt | default: include.title | escape -%}
-{%- assign img_final = include.img_src | default: include.img_src_960 | default: include.img_src_640 -%}
+{%- assign img_final = include.img_src -%}
 
 {{ include.url | relative_url }}
   <figure class="card-thumb__media">
-    {{ img_final | relative_url }}
+    {% if img_final and img_final != "" %}
+      {{ img_final | relative_url }}
+    {% else %}
+      <div class="card-thumb__placeholder" aria-hidden="true">
+        <span>Image coming soon</span>
+      </div>
+    {% endif %}
 
     {% if include.location %}
       <figcaption class="card-thumb__label">{{ include.location }}</figcaption>
     {% endif %}
 
+    {# Overlay title + dek on the image #}
     <figcaption class="card-thumb__overlay">
       <h3 class="card-thumb__title">{{ include.title }}</h3>
       {% if include.dek %}
