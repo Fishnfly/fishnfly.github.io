@@ -1,11 +1,22 @@
 ---
-title: Travel
+layout: page
+title: "Travel"
+permalink: /travel.html
 ---
 
+<!-- =========================================
+     1) Dynamic Travel Grid (latest travel posts)
+     ========================================= -->
 <section aria-labelledby="travel-grid-heading">
   <h2 id="travel-grid-heading" class="sr-only">Stories in Travel</h2>
+
   <div class="card-grid">
-    {% assign featured = site.posts | where_exp:'item', 'item.categories contains "travel"' | sort: 'date' | reverse | slice: 0, 4 %}
+    {% assign featured = site.posts
+        | where_exp:'item', 'item.categories contains "travel"'
+        | sort: 'date'
+        | reverse
+        | slice: 0, 6 %}
+
     {% for post in featured %}
       {% include card-thumb.html
         url=post.url
@@ -24,63 +35,47 @@ title: Travel
 
 <hr class="section-sep" />
 
-{{ content }} <!-- keep your existing Travel positioning text -->
+<!-- =========================================
+     2) Travel manifesto text (editorial)
+     ========================================= -->
+<section aria-labelledby="travel-intro-heading">
+  <h2 id="travel-intro-heading" class="sr-only">About This Section</h2>
 
-Travel, for us, isn’t about moving quickly or seeing as much as possible. It’s about paying attention.
+  <p>Travel, for us, isn’t about moving quickly or seeing as much as possible. It’s about paying attention.</p>
 
-We’re drawn to places where the experience comes from being present — where understanding a region means moving through it slowly, noticing how people live, and allowing plans to change once you’re on the ground.
+  <p>We’re drawn to places where the experience comes from being present — where understanding a region means moving through it slowly, noticing how people live, and allowing plans to change once you’re on the ground.</p>
 
-Our trips are shaped less by itineraries and more by observation. We care about how landscapes influence daily life, how transportation really works, and what you miss when you only skim the surface of a place.
+  <p>Our trips are shaped less by itineraries and more by observation. We care about how landscapes influence daily life, how transportation really works, and what you miss when you only skim the surface of a place.</p>
 
-This section focuses on:
-- Traveling *through* countries rather than hopping between highlights
-- Moving at a pace that allows places to reveal themselves
-- The small, often overlooked details that define a journey
-- Detours, delays, and moments that reshape the original plan
+  <p><strong>This section focuses on:</strong></p>
+  <ul>
+    <li>Traveling <em>through</em> countries rather than hopping between highlights</li>
+    <li>Moving at a pace that allows places to reveal themselves</li>
+    <li>The small, often overlooked details that define a journey</li>
+    <li>Detours, delays, and moments that reshape the original plan</li>
+  </ul>
 
-Fishing appears here when it fits naturally into that rhythm — as a way of slowing down even further, spending time with water, and connecting with people and places from a different perspective. Sometimes it’s central to the experience; other times it’s absent entirely.
+  <p>Fishing appears here when it fits naturally into that rhythm — as a way of slowing down even further, spending time with water, and connecting with people and places from a different perspective. Sometimes it’s central to the experience; other times it’s absent entirely.</p>
 
-These aren’t destination guides or recommendations. They’re reflections and field notes — written for travelers who value curiosity over efficiency and depth over distance.
+  <p>These aren’t destination guides or recommendations. They’re reflections and field notes — written for travelers who value curiosity over efficiency and depth over distance.</p>
+</section>
 
----
-
-## Trips
-
-<div class="card-grid">
-
-  <!-- Morocco (LIVE) -->
-  <article class="card">
-    <a class="card-link" href="{{ '/travel/2025/02/15/morocco-field-notes.html' | relative_url }}">
-      <img class="card-img" src="{{ '/assets/images/morocco/anchor.jpg' | relative_url }}" alt="Morocco Trip">
-      <h3 class="card-title">Morocco Trip</h3>
-      <p class="card-meta">— Morocco — <span class="trip-badge live">Live</span></p>
-    </a>
-  </article>
-
-  <!-- Jordan & Egypt (COMING SOON) - no link yet -->
-  <article class="card">
-    <div class="card-img placeholder" aria-hidden="true"></div>
-    <h3 class="card-title">Jordan &amp; Egypt — Field Notes</h3>
-    <p class="card-meta">— Jordan, Egypt — <span class="trip-badge soon">Coming&nbsp;soon</span></p>
-  </article>
-
-  <!-- UAE (COMING SOON) - no link yet -->
-  <article class="card">
-    <div class="card-img placeholder" aria-hidden="true"></div>
-    <h3 class="card-title">UAE — Field Notes</h3>
-    <p class="card-meta">— Dubai, Abu Dhabi — <span class="trip-badge soon">Coming&nbsp;soon</span></p>
-  </article>
-
-</div>
-
+<!-- =========================================
+     3) Data-driven "Coming Soon" (from _data/coming_soon.yml)
+     ========================================= -->
 {% if site.data.coming_soon and site.data.coming_soon.size > 0 %}
 <section aria-labelledby="coming-soon-heading" class="coming-soon">
   <h2 id="coming-soon-heading">Coming Soon</h2>
   <div class="card-grid">
     {% for item in site.data.coming_soon %}
-      <a href="{{ item.url }}" aria-disabled="true">
+      <a href="{{ item.url | default: '#' }}" {% unless item.url and item.url != '#' %}aria-disabled="true"{% endunless %}>
         <figure class="card-thumb__media">
-          <img src="{{ item.img.base }}" alt="{{ item.img.alt }}">
+          <img
+            src="{{ item.img.base | replace: '/assets/images/', '/assets/img/' }}"
+            alt="{{ item.img.alt | default: item.title }}"
+            width="960"
+            height="600"
+            loading="lazy" />
           <figcaption class="card-thumb__label">{{ item.location }}</figcaption>
         </figure>
         <div class="card-thumb__body">
