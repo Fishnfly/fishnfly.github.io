@@ -1,7 +1,18 @@
 {%- comment -%}
-Inputs expected:
-  url, title, dek, location, alt
-  img_src, img_src_640, img_src_960, img_src_1280
+card-thumb.html
+Reusable card component for Travel/Stories grids.
+
+Expected inputs (passed via {% include %}):
+  - url:       Link to the post (e.g., post.url)
+  - title:     Card title (e.g., post.title)
+  - dek:       Optional short description (e.g., post.dek)
+  - location:  Optional place label (e.g., post.location)
+  - alt:       Alt text for the image (fallbacks to title)
+
+  - img_src:       Default image src (preferred)
+  - img_src_640:   Optional responsive source (~640w)
+  - img_src_960:   Optional responsive source (~960w)
+  - img_src_1280:  Optional responsive source (~1280w)
 {%- endcomment -%}
 
 {%- assign href      = include.url | relative_url -%}
@@ -20,15 +31,16 @@ Inputs expected:
   <figure class="card-thumb__media">
     <picture>
       {%- if src_1280 and src_1280 != '' -%}
-        <source srcset="{{ src_1280 | relative_url }}" media="(min-width: 1024px)">
+        <source srcset="{{ src_1280 | relative_url }}" media="(min-width: 1024px)" type="image/jpeg">
       {%- endif -%}
       {%- if src_960 and src_960 != '' -%}
-        <source srcset="{{ src_960  | relative_url }}" media="(min-width: 720px)">
+        <source srcset="{{ src_960  | relative_url }}" media="(min-width: 720px)" type="image/jpeg">
       {%- endif -%}
       {%- if src_640 and src_640 != '' -%}
-        <source srcset="{{ src_640  | relative_url }}" media="(min-width: 480px)">
+        <source srcset="{{ src_640  | relative_url }}" media="(min-width: 480px)" type="image/jpeg">
       {%- endif -%}
 
+      {#-- Final fallback <img> (always rendered) --#}
       <img
         src="{{ img_src_final | relative_url }}"
         alt="{{ alt_text }}"
