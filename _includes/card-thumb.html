@@ -1,7 +1,7 @@
 {%- comment -%}
 card-thumb.html — Reusable card for Travel/Stories grids.
 
-Inputs (passed via {% include %}):
+Expected inputs (passed via {% include %}):
   url, title, dek, location, alt
   img_src, img_src_640, img_src_960, img_src_1280
 {%- endcomment -%}
@@ -9,15 +9,15 @@ Inputs (passed via {% include %}):
 {%- assign href      = include.url | relative_url -%}
 {%- assign alt_text  = include.alt | default: include.title | escape -%}
 
-{%- comment -%} Normalize any lingering /assets/images/ → /assets/img/ {%- endcomment -%}
+/* Normalize any lingering /assets/images/ → /assets/img/ */
 {%- assign src_main  = include.img_src      | replace: '/assets/images/', '/assets/img/' -%}
 {%- assign src_640   = include.img_src_640  | replace: '/assets/images/', '/assets/img/' -%}
 {%- assign src_960   = include.img_src_960  | replace: '/assets/images/', '/assets/img/' -%}
 {%- assign src_1280  = include.img_src_1280 | replace: '/assets/images/', '/assets/img/' -%}
 
+/* Final fallback chain for the <img> src */
 {%- assign img_src_final = src_main | default: src_960 | default: src_640 -%}
 
-/* ---------- OPEN A REAL ANCHOR TAG ---------- */
 <a href="{{ href }}" class="card-thumb">
   <figure class="card-thumb__media">
     <picture>
@@ -25,13 +25,12 @@ Inputs (passed via {% include %}):
         <source srcset="{{ src_1280 | relative_url }}" media="(min-width: 1024px)">
       {%- endif -%}
       {%- if src_960 and src_960 != '' -%}
-        <source srcset="{{ src_960 | relative_url }}" media="(min-width: 720px)">
+        <source srcset="{{ src_960  | relative_url }}" media="(min-width: 720px)">
       {%- endif -%}
       {%- if src_640 and src_640 != '' -%}
-        <source srcset="{{ src_640 | relative_url }}" media="(min-width: 480px)">
+        <source srcset="{{ src_640  | relative_url }}" media="(min-width: 480px)">
       {%- endif -%}
 
-      <!-- final fallback image (ALWAYS rendered) -->
       <img
         src="{{ img_src_final | relative_url }}"
         alt="{{ alt_text }}"
