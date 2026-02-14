@@ -2,6 +2,30 @@
 title: Travel
 ---
 
+<section aria-labelledby="travel-grid-heading">
+  <h2 id="travel-grid-heading" class="sr-only">Stories in Travel</h2>
+  <div class="card-grid">
+    {% assign featured = site.posts | where_exp:'item', 'item.categories contains "travel"' | sort: 'date' | reverse | slice: 0, 4 %}
+    {% for post in featured %}
+      {% include card-thumb.html
+        url=post.url
+        img_src=post.thumbnail.base
+        img_src_640=post.thumbnail.w640
+        img_src_960=post.thumbnail.w960
+        img_src_1280=post.thumbnail.w1280
+        alt=post.thumbnail.alt
+        location=post.location
+        title=post.title
+        dek=post.dek
+      %}
+    {% endfor %}
+  </div>
+</section>
+
+<hr class="section-sep" />
+
+{{ content }} <!-- keep your existing Travel positioning text -->
+
 Travel, for us, isn’t about moving quickly or seeing as much as possible. It’s about paying attention.
 
 We’re drawn to places where the experience comes from being present — where understanding a region means moving through it slowly, noticing how people live, and allowing plans to change once you’re on the ground.
