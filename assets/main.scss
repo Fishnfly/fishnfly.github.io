@@ -211,3 +211,24 @@
   margin-bottom: 24px;
 }
 
+/* Placeholder for Coming Soon cards (when no image is provided) */
+.card-thumb__placeholder {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  border-radius: 8px;
+  background: linear-gradient(180deg, rgba(0,0,0,.04), rgba(0,0,0,.08));
+  color: #6b7280;
+  font-size: 13px;
+  letter-spacing: .02em;
+}
+
+.card-thumb__placeholder span {
+  background: rgba(255,255,255,.75);
+  padding: 4px 8px;
+  border-radius: 6px;
+  border: 1px solid rgba(0,0,0,.06);
+}
+
+
