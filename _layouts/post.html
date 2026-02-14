@@ -5,7 +5,12 @@ layout: base
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
-    {%- if page.date -%}
+% if page.hero_image %}
+  <figure class="post-hero">
+    <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}">
+  </figure>
+{% endif %}
+{%- if page.date -%}
       <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
     {%- endif -%}
   </header>
