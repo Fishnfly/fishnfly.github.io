@@ -200,3 +200,14 @@
   background: #fff7ed; /* orange tint */
   color: #9a3412;
 }
+
+.post-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 21 / 9;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
