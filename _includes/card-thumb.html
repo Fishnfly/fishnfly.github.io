@@ -1,18 +1,14 @@
 {%- comment -%}
-Minimal card-thumb.html to verify images render.
-Inputs (from {% include %} in travel.md):
+Minimal card-thumb to verify images render (no path rewriting).
+Inputs from {% include %}:
   url, title, dek, location, alt
   img_src, img_src_640, img_src_960, img_src_1280
 {%- endcomment -%}
 
-{%- assign alt_text   = include.alt | default: include.title | escape -%}
-{%- assign src_main   = include.img_src      | replace: '/assets/images/', '/assets/img/' -%}
-{%- assign src_640    = include.img_src_640  | replace: '/assets/images/', '/assets/img/' -%}
-{%- assign src_960    = include.img_src_960  | replace: '/assets/images/', '/assets/img/' -%}
-{%- assign src_1280   = include.img_src_1280 | replace: '/assets/images/', '/assets/img/' -%}
-{%- assign img_final  = src_main | default: src_960 | default: src_640 -%}
+{%- assign alt_text  = include.alt | default: include.title | escape -%}
+{%- assign img_final = include.img_src | default: include.img_src_960 | default: include.img_src_640 -%}
 
-{{ include.url | relative_url }}
+<a href="{{ include.url | relative_url }}" class="card-thumb">
   <figure class="card-thumb__media">
     <img
       src="{{ img_final | relative_url }}"
