@@ -25,7 +25,8 @@ image: /assets/images/social/fishnfly-og.jpg
     Please click the button below to go to the Travel pages.
   </p>
 
-  <a href="/travel.html" class="btn-primary">Go to Travel</a>
+  /travel.htmlGo to Travel</a>
 </section>
+
 
 
