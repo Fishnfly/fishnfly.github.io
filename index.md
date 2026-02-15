@@ -7,7 +7,7 @@ image: /assets/images/social/fishnfly-og.jpg
 
 <!-- HERO -->
 <div class="hero">
-  /assets/images/social/fishnfly-og.jpg" alt="Fish n Fly" class="hero-image">
+  <img src="/assets/images/social/fishnfly-og.jpg" alt="Fish n Fly" class="hero-image">
 
   <div class="hero-overlay">
     <h1 class="hero-title">Fish n Fly</h1>
