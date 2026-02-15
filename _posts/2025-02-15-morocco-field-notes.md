@@ -11,10 +11,10 @@ hero_alt: "Hot‑air balloon rising before sunrise in Morocco"
 
 # Thumbnail images (real Morocco photos)
 thumbnail:
-  base: /assets/images/morocco/balloons.jpg
-  w640: /assets/images/morocco/balloons.jpg
-  w960: /assets/images/morocco/balloons.jpg
-  w1280: /assets/images/morocco/balloons.jpg
+  base: /assets/images/morocco/anchor.jpg
+  w640: /assets/images/morocco/anchor.jpg
+  w960: /assets/images/morocco/anchor.jpg
+  w1280: /assets/images/morocco/anchor.jpg
   alt: "Hot‑air balloon at dawn over Morocco’s desert"
 ---
 
