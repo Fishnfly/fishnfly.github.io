@@ -164,6 +164,5 @@ Those moments lived in the margins, between plans.
 ---
 
 **Related**
-- [All Stories](/stories/)
 - [Travel Index](/travel.html)
 
