@@ -289,3 +289,24 @@
   background: #f8fafc;
   border-color: #94a3b8;
 }
+
+/* Home CTA button */
+.btn-primary {
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 6px;
+  background: #111827; /* neutral-900 */
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+.btn-primary:hover { background: #0b1220; }
+
+.home-intro-cta {
+  max-width: 800px;
+  margin: 24px auto 12px;
+}
+.home-intro-cta p {
+  color: #4b5563;
+  margin: .5rem 0 1rem;
+}
