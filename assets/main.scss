@@ -289,3 +289,79 @@
   background: #f8fafc;
   border-color: #94a3b8;
 }
+
+/* ===========================
+   HERO SECTION (GLOBAL)
+   =========================== */
+
+.hero {
+  position: relative;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto 3rem auto;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.hero-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  max-height: 450px;
+  filter: brightness(0.85);
+}
+
+.hero-overlay {
+  position: absolute;
+  bottom: 2rem;
+  left: 2rem;
+  right: 2rem;
+  color: white;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.5);
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.hero-subtitle {
+  font-size: 1.3rem;
+  max-width: 600px;
+  margin-top: .5rem;
+}
+
+/* MOBILE ADJUSTMENTS */
+@media (max-width: 768px) {
+  .hero {
+    margin-top: 80px;
+    margin-bottom: 2rem;
+  }
+
+  .hero-image {
+    max-height: 300px;
+    object-fit: cover;
+    filter: brightness(0.75);
+  }
+
+  .hero-overlay {
+    bottom: 1.2rem;
+    left: 1rem;
+    right: 1rem;
+    text-align: center;
+  }
+
+  .hero-title {
+    font-size: 2rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1rem;
+    max-width: 90%;
+    margin: 0 auto;
+    line-height: 1.4;
+  }
+}
