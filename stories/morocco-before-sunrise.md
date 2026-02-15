@@ -40,6 +40,5 @@ But the memory didn’t.
 ---
 
 **Related**
-- [All Stories](/stories/)
 - [Travel Index](/travel.html)
 
