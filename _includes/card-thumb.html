@@ -1,20 +1,16 @@
 {%- comment -%}
-card-thumb.html — reliable tile with overlay text.
+card-thumb.html — reliable tile with overlay text or placeholder.
 
 Expected inputs (from {% include %}):
   url, title, dek, location, alt, img_src
-If img_src is empty/missing, a placeholder tile is rendered.
+If img_src is empty or missing, we render a placeholder tile.
 {%- endcomment -%}
 
+{%- assign href      = include.url | relative_url -%}
 {%- assign alt_text  = include.alt | default: include.title | escape -%}
 {%- assign img_final = include.img_src | default: '' -%}
 
-/* OPEN A REAL ANCHOR. Do NOT print the URL alone. */
-{{ include.url | relative_url }}  <!-- WRONG: prints text, do not use -->
-{{ include.url | relative_url }}  <!-- WRONG: prints text, do not use -->
-
-/* Correct: open the link element */
-<a href="{{ include.url | relative_url }}" class="card-thumb">
+<a href="{{ href }}" class="card-thumb">
   <figure class="card-thumb__media">
 
     {% if img_final != '' %}
@@ -24,7 +20,7 @@ If img_src is empty/missing, a placeholder tile is rendered.
         loading="lazy"
         width="960"
         height="600"
-      >
+      />
     {% else %}
       <div class="card-thumb__placeholder" aria-hidden="true">
         <span>Image coming soon</span>
