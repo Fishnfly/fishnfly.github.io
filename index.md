@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: page          # ← changed from 'home' to 'page' so it won't auto-list posts
 title: Fish n Fly
 image: /assets/images/social/fishnfly-og.jpg
+permalink: /
 ---
 
 <div class="hero">
@@ -21,6 +22,7 @@ image: /assets/images/social/fishnfly-og.jpg
     Stories are how travel becomes meaningful. These are not guides or recommendations, but narratives shaped by time on the ground.
     Please click the link below to go to the Travel pages.
   </p>
-  /travel.htmlGo to Travel</a>
+  <a href="/travel.html" class="btn-primary">Go to Travel</a>
 </section>
+
 
