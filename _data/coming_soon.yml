@@ -1,7 +1,7 @@
 - location: "Jordan"
   title: "Across Wadi Rum"
   dek: "Wind, sand, and long distances."
-  # Optional image — omit if you don't have it yet
+  # Optional image; omit for placeholder
   # img:
   #   base: "/assets/images/morocco/single-balloon-40.jpg"
   #   alt: "Desert landscape"
@@ -11,3 +11,4 @@
   title: "Between Coast and Dunes"
   dek: "Cities, edges, open distances."
   url: "#"
+
