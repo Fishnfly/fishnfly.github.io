@@ -22,7 +22,7 @@ permalink: /
     Stories are how travel becomes meaningful. These are not guides or recommendations, but narratives shaped by time on the ground.
     Please click the link below to go to the Travel pages.
   </p>
-  <a href="/travel.html" class="btn-primary">Go to Travel</a>
+ - [Travel Index](/travel.html)
 </section>
 
 
