@@ -15,4 +15,12 @@ image: /assets/images/social/fishnfly-og.jpg
   </div>
 </div>
 
-## Latest Stories
+<section class="home-intro-cta" aria-label="Intro and link to Travel">
+  <h2>Stories</h2>
+  <p>
+    Stories are how travel becomes meaningful. These are not guides or recommendations, but narratives shaped by time on the ground.
+    Please click the link below to go to the Travel pages.
+  </p>
+  /travel.htmlGo to Travel</a>
+</section>
+
