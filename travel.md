@@ -4,20 +4,20 @@ title: "Travel"
 permalink: /travel.html
 ---
 
-<!-- Intro first -->
+<!-- Intro narrative FIRST -->
 <section class="travel-intro" aria-label="Travel intro">
   <h2>Traveling farther. <em>Fishing better.</em> Stories around the world.</h2>
   <p><strong>Moving slowly, noticing more.</strong> Stories from places where time lingers.</p>
 </section>
 
-<!-- 4-tile grid (2x2) -->
+<!-- 4‑tile grid (2×2) for live travel stories -->
 <section aria-labelledby="travel-grid-heading">
   <h2 id="travel-grid-heading" class="sr-only">Stories in Travel</h2>
 
   <div class="card-grid">
     {% assign tiles = site.posts
-      | where_exp: 'item', 'item.categories contains "travel"'
-      | sort: 'date' | reverse | slice: 0, 4 %}
+      | where_exp:'item','item.categories contains "travel"'
+      | sort:'date' | reverse | slice:0,4 %}
 
     {% for post in tiles %}
       {% include card-thumb.html
@@ -34,7 +34,7 @@ permalink: /travel.html
 
 <hr class="section-sep" />
 
-<!-- Narrative / manifesto -->
+<!-- Narrative / manifesto AFTER the tiles -->
 <section aria-labelledby="travel-intro-heading">
   <h2 id="travel-intro-heading">About This Section</h2>
 
@@ -54,17 +54,25 @@ permalink: /travel.html
   <p>These aren’t destination guides or recommendations. They’re reflections and field notes — written for travelers who value curiosity over efficiency and depth over distance.</p>
 </section>
 
-<!-- Coming Soon (tile placeholders supported) -->
+<!-- Coming Soon tiles (same component; placeholders if no img) -->
 {% if site.data.coming_soon and site.data.coming_soon.size > 0 %}
 <section aria-labelledby="coming-soon-heading" class="coming-soon">
   <h2 id="coming-soon-heading">Coming Soon</h2>
 
   <div class="card-grid">
     {% for item in site.data.coming_soon %}
+      {% assign item_url = item.url | default:'#' %}
+      {% if item.img and item.img.base %}
+        {% assign item_img = item.img.base %}
+      {% else %}
+        {% assign item_img = '' %}
+      {% endif %}
+      {% assign item_alt = item.img.alt | default:item.title %}
+
       {% include card-thumb.html
-        url=item.url | default:'#'
-        img_src=item.img.base
-        alt=item.img.alt
+        url=item_url
+        img_src=item_img
+        alt=item_alt
         location=item.location
         title=item.title
         dek=item.dek
