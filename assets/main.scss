@@ -365,3 +365,37 @@
     line-height: 1.4;
   }
 }
+
+/* === Duo (split) thumbnail support === */
+.card-thumb__media--duo .card-thumb__duo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;               /* match your existing spacing rhythm */
+  border-radius: 8px;     /* aligns with your current image rounding */
+  overflow: hidden;
+  background: #f4f4f4;
+
+  /* If your card height is controlled elsewhere, remove this. 
+     Otherwise, set an aspect ratio to match your single-image tiles. */
+  aspect-ratio: 16 / 10;  /* try 16/9 or 4/3 to match your grid */
+}
+
+.card-thumb__media--duo .card-thumb__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Optional: keep single images rounded if you rely on the <img> for rounding */
+.card-thumb__media:not(.card-thumb__media--duo) .card-thumb__img {
+  border-radius: 8px;
+}
+
+/* Placeholder shape (if used elsewhere) */
+.card-thumb__placeholder {
+  background: #e9e9e9;
+  border-radius: 8px;
+  aspect-ratio: 16 / 10;
+}
+
