@@ -81,7 +81,9 @@ Views, mosaics, castle ruins, and a slow descent into Petra.
 **Overnight:** Petra
 
 ---
+**Petra Pic**
 
+![Petra](/assets/images/jordan-egypt/petra-30.jpg)
 **Day 5 · Petra**  
 A full day among canyons and carved stone.  
 **Overnight:** Petra
