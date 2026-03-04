@@ -21,8 +21,6 @@ thumbnail:
 
 Jordan and Egypt didn’t reveal themselves through lists of monuments or scheduled stops. They revealed themselves through movement — over stone, across desert, along water. This trip felt like an unlayering, not of history, but of pace.
 
-Below is the working structure of the story. Refine voice, add images, and adjust rhythm as needed.
-
 ---
 
 ## The Route (Context)
