@@ -11,7 +11,7 @@ Expected inputs (from {% include %}):
     - img1 (string)
     - img2 (string)
 
-If img_src is empty or missing (and no duo), we render a placeholder tile.
+If no image is present, a placeholder tile is rendered.
 {%- endcomment -%}
 
 {%- assign href      = include.url | relative_url -%}
@@ -24,34 +24,26 @@ If img_src is empty or missing (and no duo), we render a placeholder tile.
 
     {% if is_duo %}
       <div class="card-thumb__duo">
-        <img
-          src="{{ include.img1 | relative_url }}"
-          alt="{{ alt_text }}"
-          class="card-thumb__img"
-          loading="lazy"
-          width="960"
-          height="600"
-        />
-        <img
-          src="{{ include.img2 | relative_url }}"
-          alt=""
-          aria-hidden="true"
-          class="card-thumb__img"
-          loading="lazy"
-          width="960"
-          height="600"
-        />
+        <img src="{{ include.img1 | relative_url }}" 
+             alt="{{ alt_text }}"
+             class="card-thumb__img"
+             loading="lazy" />
+
+        <img src="{{ include.img2 | relative_url }}" 
+             alt=""
+             aria-hidden="true"
+             class="card-thumb__img"
+             loading="lazy" />
       </div>
 
     {% elsif img_final != '' %}
-      <img
+      <img 
         src="{{ img_final | relative_url }}"
         alt="{{ alt_text }}"
+        class="card-thumb__img"
         loading="lazy"
         width="960"
-        height="600"
-        class="card-thumb__img"
-      />
+        height="600" />
 
     {% else %}
       <div class="card-thumb__placeholder" aria-hidden="true">
@@ -70,4 +62,4 @@ If img_src is empty or missing (and no duo), we render a placeholder tile.
       {% endif %}
     </figcaption>
   </figure>
-</a
+</a>
