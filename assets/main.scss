@@ -398,3 +398,42 @@
   border-radius: 8px;
   aspect-ratio: 16 / 10;
 }
+
+/* 1) Give every tile the same frame */
+.card-thumb__media {
+  aspect-ratio: 16 / 10; /* Pick one ratio and use it across all tiles */
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative; /* keeps overlays positioned consistently */
+}
+
+/* 2) SINGLE-IMAGE tiles: make the <img> fill the frame */
+.card-thumb__media .card-thumb__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* center-crop to fill without distortion */
+  display: block;
+}
+
+/* 3) DUO tiles: side-by-side, same frame, same fill */
+.card-thumb__media--duo .card-thumb__duo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px; /* keep your current spacing */
+  width: 100%;
+  height: 100%;
+}
+
+.card-thumb__media--duo .card-thumb__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* 4) Placeholder matches the same size */
+.card-thumb__placeholder {
+  background: #e9e9e9;
+  aspect-ratio: 16 / 10; /* same as .card-thumb__media */
+  border-radius: 8px;
+}
