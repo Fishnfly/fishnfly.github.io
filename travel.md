@@ -49,16 +49,18 @@ permalink: /travel.html
 
   <div class="card-grid">
     {%- comment -%} Render all LIVE stories first {%- endcomment -%}
-    {% for post in tiles %}
-      {% include card-thumb.html
-        url=post.url
-        img_src=post.thumbnail.base
-        alt=post.thumbnail.alt
-        location=post.location
-        title=post.title
-        dek=post.dek
-      %}
-    {% endfor %}
+   
+{% include card-thumb.html
+  url=post.url
+  img_src=post.thumbnail.base
+  img1=post.thumbnail.img1
+  img2=post.thumbnail.img2
+  layout=post.thumbnail.layout
+  alt=post.thumbnail.alt
+  location=post.location
+  title=post.title
+  dek=post.dek
+%}
 
     {%- comment -%} Then render Coming Soon items (shows placeholder if no image) {%- endcomment -%}
     {% if cs %}
