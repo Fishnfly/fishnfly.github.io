@@ -113,11 +113,11 @@ Iconic monuments and early dynastic sites.
 
 **Pyramids Pic**
 
-![Pyramids](/assets/images/jordan-egypt/pyramid-40.jpg)
+![Pyramids](/assets/images/jordan-egypt/pyramids-40.jpg)
 
 **Pyramids Iconic Pic**
 
-![Camel Icon](/assets/images/jordan-egypt/pyramids-camel-40.jpg)
+![Camel Icon](/assets/images/jordan-egypt/pyramid-camel-40.jpg)
 
 ---
 
@@ -164,4 +164,8 @@ Optional museum and market visits.
 </details>
 
 ---
+
+**Sunset on the Nile Pic**
+
+![Nile Sunset](/assets/images/jordan-egypt/nile-sundown.jpg)
 
