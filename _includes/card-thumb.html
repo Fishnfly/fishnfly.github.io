@@ -25,25 +25,23 @@ If img_src is empty or missing (and no duo), we render a placeholder tile.
     {%- if is_duo -%}
       <div class="card-thumb__duo">
         <img
+          class="card-thumb__img"
           src="{{ include.img1 | relative_url }}"
           alt=""
           loading="lazy"
-          class="card-thumb__img"
           width="480"
           height="300"
         />
         <img
+          class="card-thumb__img"
           src="{{ include.img2 | relative_url }}"
           alt=""
           loading="lazy"
-          class="card-thumb__img"
           width="480"
           height="300"
         />
       </div>
-      {%- comment -%}
-      Provide a single screen-reader label describing the composite images
-      {%- endcomment -%}
+      {# Screen reader description for the composite #}
       <span class="sr-only">{{ alt_text }}</span>
 
     {%- elsif img_final != '' -%}
