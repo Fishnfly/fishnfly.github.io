@@ -65,8 +65,7 @@ Settle into Jordan by water.
 
 ---
 
-**Day 2 · Slow Day → Welcome Dinner**  
-Tour kickoff in the evening.  
+**Day 2 · Slow Day → Tour kickoff in the evening**  
 **Overnight:** Dead Sea
 
 ---
