@@ -183,7 +183,7 @@ The Isis and Osiris thread didn’t sit “on top of” the journey—it ran ben
 Jordan feels like subtraction—wind, escarpments, silence, a cup of tea that tastes like thyme and dust. Egypt is accumulation—columns, inscriptions, layers, crowds, an orchestra of horns and hulls. Holding both in one route made each more legible. Jordan teaches you to notice the negative space; Egypt fills it.
 
 **On people.**  
-What stayed with us were small generosities: a driver who knew where the road shoulder turns to powder, a boatman who cut the engine so the island could speak, a family lunch that stretched an hour longer than planned because talking felt like a destination.
+What stayed with us were small generosities: a driver who knew where the road shoulder turns to powder, a boatman who cut the engine so the island could speak, a family lunch that stretched a little longer than planned because talking felt like a destination.
 
 **On pace (what worked).**  
 One “exhale” day on the Nile saved the entire back half of the trip. So did anchoring Egypt around Aswan rather than trying to cover too much ground up north. The myth thread gave coherence without forcing anything.
@@ -200,7 +200,7 @@ One “exhale” day on the Nile saved the entire back half of the trip. So did 
 - *Footing matters.* Closed‑toe shoes with grip in Petra; breathable long sleeves for sun on deck; a scarf for wind, sand, and sudden piety.
 
 **Ethics & presence.**  
-Buy water and snacks locally; tip in the open; ask before photographing people; remember that ruins are also neighborhoods and livelihoods. It changes the tone of every interaction.
+Bring water and snacks; tip in the open; ask before photographing people; remember that ruins are also neighborhoods and livelihoods. It changes the tone of every interaction.
 
 **What stayed.**  
 A handful of textures: the mineral weight of the Dead Sea on skin, pink grit under nails in Petra, the bass note of boat engines reverberating through Philae’s columns, and the quiet, steady feeling—on the river especially—that stories can be carried without being hurried.
