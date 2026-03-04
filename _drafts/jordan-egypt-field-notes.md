@@ -19,6 +19,27 @@ A route that moved across valleys, canyons, and riverbanks — one that tied lan
 
 ---
 
+## The Myth Thread — Isis, Osiris, and the Shape of Egypt
+
+Egypt isn’t a place where mythology sits behind glass. Its stories cling to riverbanks, cliffs, and temple walls, shaping the landscape as much as the landscape shaped them. Of these stories, none runs deeper than the myth of **Isis and Osiris** — a love story, a betrayal, and a resurrection that maps itself onto the Nile.
+
+**Osiris**, the ideal king, brings order, agriculture, and harmony to Egypt. His brother **Set**, god of the desert and disorder, murders him in a moment that fractures the world. Osiris’s body drifts down the Nile in a sealed chest — a movement mirrored by anyone traveling the river today.
+
+**Isis**, both sister and wife, begins her long search. She follows whispers, riverbanks, and marshlands until she finds him, only for Set to strike again — dismembering Osiris into fourteen pieces and scattering them across Egypt. Her devotion reshapes the land: each recovered piece becomes a sacred site, a point where myth and earth touch.
+
+The geography you move through during this trip carries the weight of their story:
+
+- **Luxor’s temples** echo rebirth and the king’s transformation into an “Osiris.”  
+- **Edfu** preserves the memory of Horus — son of Isis and Osiris — battling Set for rightful balance.  
+- **Kom Ombo**, split between two gods, mirrors the equilibrium Egypt is always negotiating.  
+- And **Philae**, Isis’s island sanctuary, is the emotional heart: the place where she reassembles Osiris, restoring body, lineage, and cosmic order.
+
+Traveling along the Nile becomes less an itinerary and more a quiet reenactment of this myth — a movement through unmaking and remaking. Water becomes narrative. Land becomes character. And the rhythm of the river carries the story forward.
+
+This thread sits beneath the journey that follows, not as history, but as atmosphere — a mythic undercurrent running parallel to the days on the ground.
+
+---
+
 ## The Itinerary (Reference)
 
 <details markdown="1">
