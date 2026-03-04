@@ -19,31 +19,22 @@ If no image is present, a placeholder tile is rendered.
 {%- assign is_duo    = include.layout == "duo" and include.img1 and include.img2 -%}
 {%- assign img_final = include.img_src | default: '' -%}
 
-<a href="{{ href }}" class="card-thumb">
+{{ href }}
   <figure class="card-thumb__media{% if is_duo %} card-thumb__media--duo{% endif %}">
 
     {% if is_duo %}
       <div class="card-thumb__duo">
-        <img src="{{ include.img1 | relative_url }}" 
-             alt="{{ alt_text }}"
-             class="card-thumb__img"
-             loading="lazy" />
-
-        <img src="{{ include.img2 | relative_url }}" 
-             alt=""
-             aria-hidden="true"
-             class="card-thumb__img"
-             loading="lazy" />
+        <img class="card-thumb__img" src="{{ include.img1 | relative_url }}" alt="{{ alt_text }}" loading="lazy">
+        <img class="card-thumb__img" src="{{ include.img2 | relative_url }}" alt="" loading="lazy" aria-hidden="true">
       </div>
 
     {% elsif img_final != '' %}
-      <img 
+      <img
+        class="card-thumb__img"
         src="{{ img_final | relative_url }}"
         alt="{{ alt_text }}"
-        class="card-thumb__img"
         loading="lazy"
-        width="960"
-        height="600" />
+      >
 
     {% else %}
       <div class="card-thumb__placeholder" aria-hidden="true">
