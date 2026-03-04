@@ -1,12 +1,3 @@
-- location: "Jordan & Egypt"
-  title: "Dead Sea & Pyramids"
-  dek: "Wind, sand, and long distances."
-  # Optional image; omit for placeholder
-  # img:
-  #   base: "/assets/images/morocco/single-balloon-40.jpg"
-  #   alt: "Desert landscape"
-  url: "#"
-
 - location: "UAE"
   title: "Between Coast and Dunes"
   dek: "Cities, edges, open distances."
