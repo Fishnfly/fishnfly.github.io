@@ -84,6 +84,7 @@ Views, mosaics, castle ruins, and a slow descent into Petra.
 **Petra Pic**
 
 ![Petra](/assets/images/jordan-egypt/petra-30.jpg)
+
 **Day 5 · Petra**  
 A full day among canyons and carved stone.  
 **Overnight:** Petra
@@ -100,12 +101,22 @@ Castle, lunch with a local family, and Roman + hilltop history.
 Arrive, settle, evening orientation.  
 **Overnight:** Cairo
 
+**Sphinx Pic**
+
+![Pyramids](/assets/images/jordan-egypt/sphinx.jpg)
+
 ---
+**Pyramids Pic**
+
+![Pyramids](/assets/images/jordan-egypt/pyramids-40.jpg)
 
 **Day 8 · Pyramids, Sphinx, Sakkara**  
 Iconic monuments and early dynastic sites.  
 **Overnight:** Cairo
 
+**Pyramids Iconic Pic**
+
+![Camel Icon](/assets/images/jordan-egypt/pyramids-camel-40.jpg)
 ---
 
 **Day 9 · Luxor → Karnak Temples**  
