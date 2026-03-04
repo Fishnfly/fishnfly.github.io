@@ -106,17 +106,19 @@ Arrive, settle, evening orientation.
 ![Pyramids](/assets/images/jordan-egypt/sphinx.jpg)
 
 ---
-**Pyramids Pic**
-
-![Pyramids](/assets/images/jordan-egypt/pyramids-40.jpg)
 
 **Day 8 · Pyramids, Sphinx, Sakkara**  
 Iconic monuments and early dynastic sites.  
 **Overnight:** Cairo
 
+**Pyramids Pic**
+
+![Pyramids](/assets/images/jordan-egypt/pyramid-40.jpg)
+
 **Pyramids Iconic Pic**
 
 ![Camel Icon](/assets/images/jordan-egypt/pyramids-camel-40.jpg)
+
 ---
 
 **Day 9 · Luxor → Karnak Temples**  
