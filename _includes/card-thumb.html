@@ -22,29 +22,28 @@ If img_src is empty or missing (and no duo), we render a placeholder tile.
 <a href="{{ href }}" class="card-thumb">
   <figure class="card-thumb__media{% if is_duo %} card-thumb__media--duo{% endif %}">
 
-    {%- if is_duo -%}
+    {% if is_duo %}
       <div class="card-thumb__duo">
         <img
-          class="card-thumb__img"
           src="{{ include.img1 | relative_url }}"
-          alt=""
+          alt="{{ alt_text }}"
+          class="card-thumb__img"
           loading="lazy"
-          width="480"
-          height="300"
+          width="960"
+          height="600"
         />
         <img
-          class="card-thumb__img"
           src="{{ include.img2 | relative_url }}"
           alt=""
+          aria-hidden="true"
+          class="card-thumb__img"
           loading="lazy"
-          width="480"
-          height="300"
+          width="960"
+          height="600"
         />
       </div>
-      {# Screen reader description for the composite #}
-      <span class="sr-only">{{ alt_text }}</span>
 
-    {%- elsif img_final != '' -%}
+    {% elsif img_final != '' %}
       <img
         src="{{ img_final | relative_url }}"
         alt="{{ alt_text }}"
@@ -54,21 +53,21 @@ If img_src is empty or missing (and no duo), we render a placeholder tile.
         class="card-thumb__img"
       />
 
-    {%- else -%}
+    {% else %}
       <div class="card-thumb__placeholder" aria-hidden="true">
         <span>Image coming soon</span>
       </div>
-    {%- endif -%}
+    {% endif %}
 
-    {%- if include.location -%}
+    {% if include.location %}
       <figcaption class="card-thumb__label">{{ include.location }}</figcaption>
-    {%- endif -%}
+    {% endif %}
 
     <figcaption class="card-thumb__overlay">
       <h3 class="card-thumb__title">{{ include.title }}</h3>
-      {%- if include.dek -%}
+      {% if include.dek %}
         <p class="card-thumb__dek">{{ include.dek }}</p>
-      {%- endif -%}
+      {% endif %}
     </figcaption>
   </figure>
-</a>
+</a
