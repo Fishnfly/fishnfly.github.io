@@ -36,9 +36,6 @@ permalink: /travel.html
 
   {% comment %}
   2) Optionally top‑up from Coming Soon until we reach target_count
-     - If target_count <= current_count, or no _data/coming_soon.yml, we skip.
-     - If you prefer to limit the number of Coming Soon items added, replace the assignment
-       of `cs` below with: {% assign cs = site.data.coming_soon | slice:0, needed %}
   {% endcomment %}
   {% if target_count > current_count and site.data.coming_soon %}
     {% assign needed = target_count | minus: current_count %}
@@ -48,19 +45,21 @@ permalink: /travel.html
   {% endif %}
 
   <div class="card-grid">
+    
     {%- comment -%} Render all LIVE stories first {%- endcomment -%}
-   
-{% include card-thumb.html
-  url=post.url
-  img_src=post.thumbnail.base
-  img1=post.thumbnail.img1
-  img2=post.thumbnail.img2
-  layout=post.thumbnail.layout
-  alt=post.thumbnail.alt
-  location=post.location
-  title=post.title
-  dek=post.dek
-%}
+    {% for post in tiles %}
+      {% include card-thumb.html
+        url=post.url
+        img_src=post.thumbnail.base
+        img1=post.thumbnail.img1
+        img2=post.thumbnail.img2
+        layout=post.thumbnail.layout
+        alt=post.thumbnail.alt
+        location=post.location
+        title=post.title
+        dek=post.dek
+      %}
+    {% endfor %}
 
     {%- comment -%} Then render Coming Soon items (shows placeholder if no image) {%- endcomment -%}
     {% if cs %}
