@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jordan & Egypt — Field Notes"
+title: "Jordan & Egypt"
 date: 2026-02-22
 categories: [travel]
 excerpt: "A movement through Jordan and Egypt — stone, desert, and water shaping the experience more than any single site."
@@ -151,5 +151,3 @@ Optional museum and market visits.
 
 ---
 
-## Anchor Image (Optional)
-Paste your main image here once select
