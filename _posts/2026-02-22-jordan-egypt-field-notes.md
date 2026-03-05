@@ -8,7 +8,7 @@ subtitle: "Dead Sea to the Nile — wind, sand, and long distances."
 
 thumbnail:
   layout: duo
-  img1: /assets/images/jordan-egypt/anchor-jordan.jpg
+  img1: /assets/images/jordan-egypt/petra-20.jpg
   img2: /assets/images/jordan-egypt/anchor-egypt.jpg
   alt: "Jordan & Egypt — anchors"
 
