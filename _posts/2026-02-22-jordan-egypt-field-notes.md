@@ -121,12 +121,6 @@ Iconic monuments and early dynastic sites.
 Flight south, exploring massive hypostyle halls.  
 **Overnight:** Luxor
 
-Where joy has architecture.
-Dendera is the soft heartbeat of Egypt — a hymn carved in blue and gold.
-Hathor, goddess of music and delight, pours milk-light onto the world here, smoothing its corners.
-The ceiling constellations still hum faintly, like a lyre plucked once and left vibrating for centuries.
-Even silence feels tuned.
-
 ---
 
 **Day 10 · Dendera → Embarkation → Luxor Temple**  
