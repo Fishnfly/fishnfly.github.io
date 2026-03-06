@@ -1,5 +1,8 @@
-- location: "UAE"
-  title: "Between Coast and Dunes"
-  dek: "Cities, edges, open distances."
+- title: "Spain — Coming Soon"
+  location: Spain
+  dek: "Field notes across plateaus, coastlines, and mythic thresholds."
+  img:
+    base: /assets/images/spain/spain-comingsoon.jpg
+    alt: "Spain — Coming Soon"
   url: "#"
 
