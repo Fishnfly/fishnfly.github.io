@@ -103,6 +103,16 @@ permalink: /travel.html
     <li>Detours, delays, and moments that reshape the original plan</li>
   </ul>
 
+---
+
+## Suspended Trips
+These trips are paused due to current events and safety considerations.
+
+- **UAE — Suspended**  
+  Originally planned for early 2026.  
+  Postponed due to regional instability and ongoing conflict.
+
+
   <p>Fishing appears here when it fits naturally into that rhythm — as a way of slowing down even further, spending time with water, and connecting with people and places from a different perspective. Sometimes it’s central to the experience; other times it’s absent entirely.</p>
   <p>These aren’t destination guides or recommendations. They’re reflections and field notes — written for travelers who value curiosity over efficiency and depth over distance.</p>
 </section>
