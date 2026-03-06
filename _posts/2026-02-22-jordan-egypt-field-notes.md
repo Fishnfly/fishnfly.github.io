@@ -243,7 +243,7 @@ One “exhale” day on the Nile saved the entire back half of the trip. So did 
 Bring water and snacks; tip in the open; ask before photographing people; remember that ruins are also neighborhoods and livelihoods. It changes the tone of every interaction.
 
 **What stayed.**  
-A handful of textures: the mineral weight of the Dead Sea on skin, pink grit under nails in Petra, the bass note of boat engines reverberating through Philae’s columns, and the quiet, steady feeling—on the river especially—that stories can be carried without being hurried.
+A handful of textures: the mineral weight of the Dead Sea on skin, pink discoloration on your white tennis shoes in Petra, the bass note of boat engines reverberating through Philae’s columns, and the quiet, steady feeling—on the river especially—that stories can be carried without being hurried.
 
 This wasn’t a trip about seeing Egypt and Jordan. It was a trip about learning how to move through them.
 
