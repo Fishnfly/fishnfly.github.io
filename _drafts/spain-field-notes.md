@@ -128,6 +128,11 @@ You realize the myth never required motion.
 Even motionless, these windmills tilt the mind toward something larger, a reminder that imagination is a kind of wind all its own.
 
 The road curves into the mountains, and Cuenca emerges — not built, but **clinging**.  
+
+**Hanging Houses Pic**
+
+![Hanging Houses](/assets/images/spain/hanging-houses.jpg)
+
 The **hanging houses** grip the cliffs like stubborn memories refusing to fall.  
 Below, the gorge exhales a cool breath that carries the dampness of the day.  
 From **Puente de San Pablo**, the whole city hovers between stone and sky, its edges softened by the clouded light.
