@@ -80,7 +80,61 @@ A quiet pause, a soft landing, a slow beginning.
 
 ---
 
-<!-- Days 2–12 will go here once you approve Day 1 formatting -->
+# **Day 2 : Windmills → Cuenca → Valencia**
+
+Where imagination leans into the wind—even when the sails are still.
+Morning breaks grey and cool as you pull away from Toledo, the drizzle thinning to a moving mist.
+La Mancha opens in long, quiet stretches, the land waiting for a name.
+Then the windmills appear.
+White towers, their arms stilled—wood darkened by weather, canvas tied, the machinery at rest.
+The plain is wind, but the giants sleep.
+And yet the place hums with the same old suggestion: that belief can make a landscape larger than itself.
+You stand in the hush and realize the myth never required motion—only a mind willing to tilt at something bigger.
+Cuenca emerges next—houses clinging to cliffs like thoughts that refuse to let go.
+From Puente de San Pablo, stone, air, and memory hang in a deliberate balance; the gorge below exhales a cool patience.
+By late afternoon, the air begins to taste faintly of salt.
+You reach Valencia, where light widens into plazas and palms, and the city feels like a conversation between what was built for silk and what was drawn for the future.
+
+**Overnight:** **Valencia**
+
+---
+
+# **Day 3 · Valencia**  
+*Where the city waits beneath a sky holding its breath.*
+
+Valencia wakes under a thick grey ceiling — clouds drifting low, stitched with the cold promise of rain.  
+The air feels paused. Sound carries differently in this weather: softened, compressed, as if the city is speaking in a lower register.
+
+In **Plaza del Ayuntamiento**, the fountains murmur but the usual warmth is missing.  
+The stone façades wear a damp, muted sheen.  
+People move briskly; coats pulled close; conversation held tight against the chill.  
+The weather suits the city — it reveals its lines without distraction.
+
+You slip through narrow streets where the morning settles in quiet pockets of shadow.  
+Ceramic façades glow faintly against the overcast light, small mosaics of color in a subdued palette.  
+At **Horchatería Santa Catalina**, the horchata is a soft comfort — cool, sweet, steady — a pause shaped for days like this.
+
+In **Plaza de la Reina** and **Plaza de la Virgen**, the air feels expectant.  
+The cathedral tower seems to listen inward rather than reach upward.  
+Pigeons huddle on ledges.  
+Even the bells seem heavier in this atmosphere.
+
+You enter **Turia Park**, the old riverbed turned green corridor.  
+Today it feels contemplative.  
+No children running.  
+No cyclists cutting arcs through the trees.  
+Just the hush of damp pathways and the metallic scent of pending rain.
+
+Ahead, the **City of Arts and Sciences** rises in pale, bone‑white curves — structures shaped like the future set against a storm-colored sky.  
+The buildings reflect the cold light, as if glazed by the coming weather.  
+Even here, the city seems to wait.
+
+Evening gathers at the **Torres de Serranos**, the stones darkening as the clouds thicken, the air turning colder.  
+You feel on the edge of rain — the city holding its breath before the sky opens.
+
+**Overnight:** **Valencia**
+
+---
 
 </details>
 
