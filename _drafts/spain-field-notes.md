@@ -54,26 +54,32 @@ This thread sits under the journey that follows — not as history, but as atmos
 # **Day 1 · Arrival → Toledo**  
 *Where the river bends like a blade.*
 
-Spain begins beneath a low, clouded sky — the kind that softens the edges of the world and turns the road from Madrid into a quiet ribbon of grey. Fields blur under a fine drizzle. The horizon exhales.
+Spain begins beneath a low, clouded sky — the kind that softens the edges of the world and turns the drive from Madrid into a long ribbon of grey.  
+A fine drizzle drifts across the plateau. The horizon exhales.
 
-Toledo rises ahead not in brilliance but in **shape** — a dark stone silhouette emerging from mist, held aloft by the looping embrace of the Tagus. You enter through **Bisagra Gate**, its wet stones gleaming like newly tempered iron.
+Toledo rises ahead not in brilliance but in **shape** — a dark stone silhouette emerging from mist, held aloft by the looping embrace of the Tagus. You pass under **Bisagra Gate**, its rain‑darkened stones gleaming like newly tempered metal.
 
-The old streets narrow, darkened by rain, carrying you upward to the **Alcázar of Toledo** — a fortress sharpened by centuries, now softened by weather. Inside, the **Army Museum** hums with subdued gravity: armor dulled to pewter by time, banners sagging with remembered wind, maps cross‑hatched with ambition and retreat.  
-Nothing here shouts.  
+The old streets tighten and ascend, carrying you upward to the **Alcázar of Toledo** — a fortress sharpened by centuries, now blurred by weather. Inside, the **Army Museum** holds its breath: armor dulled to pewter by time, banners sagging with remembered wind, maps cross‑hatched with ambition and retreat.  
+Nothing here demands attention.  
 Everything waits.
 
-Down the slope, the glow of **Fábrica Zamorano** warms the drizzle‑thick air.  
-In the dim forge, sparks lift like brief constellations.  
-A blade glows — ember‑bright, defiant — as the sword‑maker folds steel with deliberate grace, the old Toledo craft humming through his hands.  
-You realize the city is not merely known for weapons; it is known for the discipline of making something sharp in a world that constantly dulls.
+Down the slope, heat gathers in the dim glow of **Fábrica Zamorano**.  
+Sparks rise like brief constellations.  
+A blade glows, ember‑bright, as the sword‑maker folds steel with steady, deliberate grace — the old Toledo craft alive in his hands.
 
-By late afternoon, rain settles into a soft mist.  
+Sometimes, though, the forge sleeps.
+
+You may not see the fire, only its echoes — the quiet furnace at rest in the back, its coals cooling between heartbeats.  
+The real heat is in the motion: copper coaxed into a knife’s spine, metal shaped without flame, memory guiding technique.  
+In a city built on edges, even the fire chooses silence when the craft does not.
+
+By late afternoon, the drizzle becomes a soft mist.  
 **San Martín Bridge** blurs at the edges; **San Juan de los Reyes** stands half‑absorbed into the sky.  
-From **Mirador del Valle**, Toledo becomes a watercolor — outlines softened, history rendered in cool tonal hush.
+From **Mirador del Valle**, Toledo dissolves into a watercolor — outlines softened, history rendered in cool tonal hush.
 
-You end the day the way these grey evenings ask you to:  
+You end the day as these grey evenings ask you to:  
 indoors, warm, unhurried — a bottle of **regional Castilian wine** breathing open after the long road.  
-The kind of wine made for stone cities and cool nights.  
+The kind of wine made for stone cities and cold nights.  
 A quiet pause, a soft landing, a slow beginning.
 
 **Overnight:** **Toledo**
