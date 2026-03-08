@@ -198,4 +198,3 @@ the city holding its breath before the sky breaks open.
 
 </details>
 
----
