@@ -224,8 +224,8 @@ flare brilliantly beneath the clean sky.
 Nothing in the weather hints at what the afternoon will eventually become.
 
 **Alicante** arrives in full sun.  
-Santa Bárbara’s castle stands crisp against the light,  
-its walls warm to the touch.  
+Santa Bárbara’s castle stands crisp against the light.
+hanging on the cliffside.
 The esplanade palms cast long, sharp shadows  
 as the city leans comfortably into its brightness.  
 A good moment.  
@@ -238,7 +238,7 @@ You stop at **Mirador Barrancos de Gebas**,
 a landscape that feels almost lunar.  
 Pale, eroded hills fold and ripple like frozen waves,  
 a badlands carved by time and silence.  
-The sun hangs over it all like a distant lantern,  
+The rain, drizzling now,  
 revealing a land sculpted in beige, blue, and bone.  
 A quiet, otherworldly pause.
 
