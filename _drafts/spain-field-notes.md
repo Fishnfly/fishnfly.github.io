@@ -160,44 +160,117 @@ People move briskly; coats pulled close; conversation held tight against the chi
 The weather suits the city — it reveals its lines without distraction.
 
 A few streets away, you turn toward something more baroque than the weather allows:  
-the **Palacio del Marqués de Dos Aguas** — home of the **National Ceramics Museum**.  
-Its alabaster façade rises like a theatrical gesture carved from cloudlight:  
-rivers flowing in stone, the Virgin poised above the doorway,  
-a palace that seems less built than conjured.
+the **Palacio del Marqués de Dos Aguas**, home of the **National Ceramics Museum**.  
+Its alabaster façade rises like a theatrical gesture carved from cloudlight —  
+rivers suspended in stone, the Virgin poised above the doorway,  
+a palace that feels conjured rather than constructed.
 
-Inside, the rooms unfold in shimmering textures.  
+Inside, rooms unfold in shimmering textures.  
 Rococo salons, frescoed ceilings, mirrors that multiply the dim daylight.  
-You move through them quietly, feeling not like a visitor but like someone crossing into a different century.
-
-The ceramics — from medieval tiles to luminous Valencian glazes, from Mudéjar patterns to Picasso’s clean experimental lines —  
+The ceramics — Christian, Mudéjar, medieval pieces, Valencian glazes, even Picasso’s clean-lined experiments —  
 don’t sit behind glass so much as **hum** beneath it.  
 Clay remembering hands.  
 Color remembering fire.  
-Objects carrying the afterglow of the kilns that shaped them.  
 A museum, yes — but also an archive of touch.
 
-Leaving the palace, you slip back into the city’s grey mood.  
-The day holds steady, cold at the edges.
+Back outside, the grey still holds.  
+In **Plaza de la Reina** and **Plaza de la Virgen**, the cathedral tower leans inward beneath the heavy sky.  
+Pigeons huddle. Bells ring muted.
 
-Through the old quarter, the streets narrow again before spilling into **Plaza de la Reina** and **Plaza de la Virgen**,  
-both subdued, the cathedral tower listening inward beneath the heavy sky.  
-You feel the city’s rhythm shift here — slower, quieter, weather‑softened.
+You wander into **Turia Park**, the old riverbed turned quiet corridor.  
+Today it feels contemplative — no children running,  
+no cyclists carving patterns under the bridges.  
+Just the hush of damp pathways and the metallic scent of weather waiting to break.
 
-You enter **Turia Park**, the old riverbed turned green corridor.  
-Today it feels contemplative.  
-No children running.  
-No cyclists carving arcs beneath the bridges.  
-Just the hush of damp pathways and the metallic scent of pending rain.
+The **City of Arts and Sciences** rises in pale, bone‑white curves,  
+structures that seem half terrestrial, half dream —  
+even the future feels subdued beneath the storm‑colored vault.
 
-Ahead, the **City of Arts and Sciences** rises in pale, bone‑white curves —  
-shapes that look almost extraterrestrial under the storm‑colored sky.  
-Even the future feels muted today.
+Evening gathers at the **Torres de Serranos**,  
+stones darkening as clouds thicken.
 
-Evening gathers at **Torres de Serranos**,  
-stone darkening as clouds thicken,  
-the city holding its breath before the sky breaks open.
+Dinner brings warmth back into the day.  
+At **Nederland 1814**, you order seafood tapas that feel like the coastline distilled into three plates:  
+**cuttlefish**, soft and smoky;  
+**octopus**, tender with just enough char;  
+and a cold **salpicón‑style** mix of seafood — bright, clean, balanced.  
+The best meal of the trip so far.  
+Simple. Confident. A dialogue between salt and fire.
+
+Then, as if the city wanted to answer the day’s cold restraint,  
+**fireworks** crack open the night near the waterfront — sudden color against a sky that had held itself all day.  
+Blues, whites, golds — brief flowers of light blooming over the rooftops.  
+It feels like the perfect contradiction:  
+a grey day ending in sparks.
 
 **Overnight:** **Valencia**
+
+---
+
+# **Day 4 · Guadalest → Villajoyosa → Alicante → Barrancos de Gebas → Guadix → Granada**  
+*Where the coastline shines, the earth changes color, and the mountains remember winter.*
+
+Morning opens in an unexpected clarity —  
+the grey finally retreating as you leave Valencia for the hills.  
+By the time the road rises toward **Guadalest**, the sun is fully awake,  
+spilling warm gold across the cliffs and rooftops.  
+The fortress stands bright above its turquoise reservoir,  
+a village suspended between altitude and light.
+
+Descending toward the coast, the day widens further.  
+In **Villajoyosa**, the sea glitters in restless blue,  
+and the painted facades — coral, ochre, cobalt —  
+flare brilliantly beneath the clean sky.  
+Nothing in the weather hints at what the afternoon will eventually become.
+
+**Alicante** arrives in full sun.  
+Santa Bárbara’s castle stands crisp against the light,  
+its walls warm to the touch.  
+The esplanade palms cast long, sharp shadows  
+as the city leans comfortably into its brightness.  
+A good moment.  
+A brief, unhurried stretch of the day.
+
+Then the road turns inland —  
+and Spain changes shape again.
+
+You stop at **Mirador Barrancos de Gebas**,  
+a landscape that feels almost lunar.  
+Pale, eroded hills fold and ripple like frozen waves,  
+a badlands carved by time and silence.  
+The sun hangs over it all like a distant lantern,  
+revealing a land sculpted in beige, blue, and bone.  
+A quiet, otherworldly pause.
+
+Further on, **Guadix** rises where earth becomes architecture —  
+a town of cave dwellings dug into soft hillsides,  
+white chimneys poking from mounds of earth like markers of hidden homes.  
+It feels half ancient, half unreal,  
+a settlement shaped not by walls but by the land itself.
+
+After Guadix, the altitude begins to climb.  
+The warmth drains from the air.  
+Clouds gather over the Sierra Nevada in slow, heavy strokes.  
+The sky darkens at the edges,  
+and then — without force, without urgency —  
+**snow**.
+
+Light flakes drift across the windshield,  
+melting on contact,  
+a soft reminder that winter still lingers in the mountains  
+even when the coast pretends otherwise.  
+The road becomes a long, quiet passage through weather in transition.
+
+Granada appears late in the afternoon, still bathed in daylight,  
+the last of the sun catching on the rooftops and hills.  
+No storm here yet — just a cool, late‑afternoon calm  
+as the city settles into its own rhythm.
+
+A day that began in bright coastal color  
+and ended in a mountain snowfall —  
+Spain revealing how quickly the world can change its light.
+
+**Overnight:** **Granada**
 
 ---
 
