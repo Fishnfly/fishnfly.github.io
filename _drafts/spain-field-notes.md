@@ -341,5 +341,95 @@ preparing you for the palace it guards.
 
 ---
 
+# **Day 6 · Alhambra (9:00 AM)**  
+*Where the palace demands an approach, not just an arrival.*
+
+Granada wakes in full daylight —  
+the storm long gone, the air cool but bright,  
+the mountains still retaining snow you saw on the drive.  
+You leave **Hospes Palacio de los Patos** early,  
+walking through quiet streets that still feel touched by yesterday’s clarity.
+
+You follow the river that curls beneath the Alhambra’s eastern slopes,  
+water slipping over stone, sunlight warming the path.  
+It feels like the perfect, gentle approach —  
+until it isn’t.
+
+At the back entrance, the gate is closed.  
+Runoff from the previous day’s flooding has washed out the route,  
+mud and debris cutting off what should have been  
+the easy way in.
+
+You check the time —  
+the 9:00 AM tour is waiting.  
+You have minutes, not margins.
+
+So you climb.
+
+A steep cut in the hillside becomes your unplanned path —  
+dirt, loose rock, uneven footholds,  
+the kind of ascent that demands lungs and legs  
+you did not expect to give this morning.  
+You move quickly,  
+panting, sweating,  
+your wife pushing herself beside you,  
+the climb becoming a mixture of urgency and determination.
+
+The sky opens above the trees,  
+blue widening as you gain height.  
+The city drops away behind you.  
+And then —  
+you break out onto **Vista Panorámica Silla del Moro**.
+
+An accidental summit.  
+A vantage you couldn’t have planned.  
+The Alhambra below you in full morning light —  
+towers, courtyards, and carved walls arranged like a dream set out to dry on a hillside.  
+Breathless, sweating, exhausted —  
+you stand there stunned by the view you didn’t know you were climbing toward.
+
+It feels less like missing the entrance  
+and more like the palace insisting you enter  
+on its terms.
+
+You descend quickly,  
+legs still shaking,  
+and reach the meeting point just in time —  
+heart still racing as the tour begins.
+
+Inside the **Nasrid Palaces**,  
+the morning grows quieter.  
+Geometry replaces motion.  
+Light pools in courtyards like a second sky.  
+Water murmurs in stone channels,  
+carrying centuries of intention.
+
+In the **Patio de los Arrayanes**,  
+the long pool holds the palace upside down,  
+as if the reflection were the truer version.  
+Stucco ripples like carved lace.  
+Every surface feels touched by human precision and patient devotion.
+
+In the **Patio de los Leones**,  
+marble glows in the early sun.  
+The lions stand in their circle,  
+bearing the quiet dignity of things carved to outlast history.
+
+The **Generalife** gardens unfold in terraces of green and water.  
+Cypress shadows, narrow steps, the sound of fountains tucked into corners.  
+A softer world after the sharp ascent.
+
+By late morning,  
+the palace releases you slowly back into Granada,  
+your legs still aware of the mountain you climbed to reach the day.  
+Some places you visit.  
+Others make you earn them.
+
+The Alhambra was the latter.
+
+**Overnight:** **Cordoba**
+
+---
+
 </details>
 
