@@ -274,5 +274,72 @@ Spain revealing how quickly the world can change its light.
 
 ---
 
+# **Day 5 · Granada**  
+*Where devotion becomes architecture and sunset crowns the city.*
+
+Granada wakes in cool morning light —  
+the storm behind you, the mountains still carrying a memory of snow.  
+The city feels unhurried, textured, ancient in the way only hill cities can be.  
+You step out from **Hospes Palacio de los Patos**,  
+letting the day gather you into its narrow streets and bright white facades.
+
+Your first stop is the **Real Monasterio de San Jerónimo**,  
+a place where stone seems to inhale the morning.  
+The cloister arches frame quiet gardens,  
+and the gold-laced altarpiece burns with its own internal dawn.  
+The upstairs choir is closed —  
+a rope, a silence, a reminder that some spaces  
+remain beyond reach.  
+But the monastery still feels alive,  
+its walls carrying that low, devotional hum  
+that monasteries master better than any choir.
+
+From there you walk deeper into Granada,  
+toward the **Basílica de San Juan de Dios** —  
+a baroque explosion of gold, mirrors, and soaring devotion.  
+With the audio guide, the space folds open slowly:  
+stories of relics, saints, craftsmen, and centuries.  
+Gold that once seemed overwhelming  
+starts to feel like geology —  
+like a vein of faith that erupted upward into a building.  
+Every surface is intent.  
+Every detail is testimony.
+
+Afternoon softens the city.  
+You wander through alleys that tangle and lift,  
+past tea houses, old walls,  
+and pockets of light that shift as clouds drift over the Sierra Nevada.
+
+As the day leans toward evening,  
+you climb toward the **Mirador de San Nicolás**,  
+Granada’s most iconic overlook.  
+The ascent is steady,  
+the stones underfoot warm from the day.
+
+And then —  
+the view.
+
+The **Alhambra** stands across the valley,  
+burnt orange in the sinking sun,  
+the fortress glowing as if lit from within.  
+Behind it, the mountains gather shadows like folded cloth.  
+People cluster quietly,  
+cameras ready, conversations soft,  
+everyone waiting for the same moment:  
+the line where light meets stone and makes it gold.
+
+You stay until the last color drains from the sky.  
+Until the palace becomes silhouette.  
+Until the city lights rise like small constellations.
+
+Granada settles into night,  
+and so do you —  
+a city of devotion, gold, and sunset  
+preparing you for the palace it guards.
+
+**Overnight:** **Granada**
+
+---
+
 </details>
 
