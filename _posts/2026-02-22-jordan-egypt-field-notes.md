@@ -177,9 +177,18 @@ This is Egypt’s pulse — equilibrium with teeth.
 
 ---
 
-**Day 13 · Sailing Day**  
-Slow movement along the Nile.  
+**Day 13 · Cruise to Aswan**  
+Tour of Abu Simbel Temples. An early morning bus ride from Aswan transports you back in time to the mighty Temples of Abu Simbel. 
+Reclaimed from the floodwaters of the Aswan High Dam and totally reconstructed in the present location. 
+The site is dominated by the looming twin temples of Ramses II and his wife Queen Nefertari. It is one of the most recognized ancient sites of EgyptSlow movement along the Nile.  
 **Overnight:** Nile Cruise
+
+*Where stone becomes a horizon of its own.*  
+Abu Simbel rises from the desert like an impossible decision —  
+four colossal faces staring down time, sunlight arranged as architecture, shadow arranged as devotion.  
+Here, the pharaoh does not merely rule; he declares himself in cliff‑sized certainty.  
+And beside him, Nefertari — carved with equal dignity — stands as the rare queen honored not behind, but *beside* her king.  
+A place where scale becomes myth, and myth becomes memory.
 
 ---
 
