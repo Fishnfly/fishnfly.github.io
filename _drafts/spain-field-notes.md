@@ -337,6 +337,10 @@ and so do you —
 a city of devotion, gold, and sunset  
 preparing you for the palace it guards.
 
+**Alhambra Pic**
+
+![Alhambra](/assets/images/spain/anchor-alhambra.jpg)
+
 **Overnight:** **Granada**
 
 ---
