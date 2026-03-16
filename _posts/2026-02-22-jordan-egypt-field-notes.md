@@ -71,13 +71,13 @@ Settle into Jordan by water.
 ---
 
 **Day 3 · Baptismal Site**  
-Visit “Bethany Beyond the Jordan,” the traditional location of Jesus’s baptism.  
+Visit “Bethany Beyond the Jordan,” the traditional location of Jesus’s baptism.  Located on the east bank of the Jordan river.
 **Overnight:** Dead Sea
 
 ---
 
 **Day 4 · Mount Nebo → Madaba → Shobak → Petra**  
-Views, mosaics, castle ruins, and a slow descent into Petra.  
+Mount Nebo, the reputed burial site of Moses, overlooking the Jordan Valley and the Dead Sea. Views, mosaics, castle ruins, and a slow descent into Petra.  
 **Overnight:** Petra
 
 ---
@@ -86,13 +86,13 @@ Views, mosaics, castle ruins, and a slow descent into Petra.
 ![Petra](/assets/images/jordan-egypt/anchor-jordan.jpg)
 
 **Day 5 · Petra**  
-A full day among canyons and carved stone.  
+Exploring Petra, a UNESCO World Heritage Site. The "rose red" city hand-sculpted from a mountain range by the Nabateans in the 3rd century BC. Walk through the "Siq," a winding canyon road leading you to, the towering Treasury building rising over 140 feet. Beyond, discover soaring temples, elaborate royal tombs, a theater, burial chambers and water channels, all remnants of a once great Nabatean culture.A full day among canyons and carved stone.  
 **Overnight:** Petra
 
 ---
 
 **Day 6 · Kerak → Local Lunch → Amman City**  
-Castle, lunch with a local family, and Roman + hilltop history.  
+Kerak, situated on the King's Way. The city is known for its Crusader Kerak Castle, dating back to the 12th century.Castle, lunch with a local family, and Roman + hilltop history. Travel to Amman, often referred to as the "White City" because of the white stone used to build the houses. 
 **Overnight:** Amman
 
 ---
@@ -118,13 +118,13 @@ Iconic monuments and early dynastic sites.
 ---
 
 **Day 9 · Luxor → Karnak Temples**  
-Flight south, exploring massive hypostyle halls.  
+Flight south, exploring massive hypostyle halls. Visit the magnificent Temples of Karnak, dating back over 3,000 years. Walk along the avenue of the Sphinxes and marvel at the Hypostyle Hall with its 134 massive sandstone columns. 
 **Overnight:** Luxor
 
 ---
 
 **Day 10 · Dendera → Embarkation → Luxor Temple**  
-Temples, river, and transition onto the Nile.  
+Explore Dendera Temple, one of the best-preserved temple complexes in Egypt, located on the west bank of the Nile, approximately 40 miles away from Luxor. Tour the Temple of Hathor, dedicated to the wife of god Horus. Marvel at the spectacular ceiling painting in the main hall, displaying stars, planets, and symbols of the Roman zodiac. The colors seen throughout the temple complex are original, and amazingly vibrant. Visit the temple crypt, and climb the staircase up to the roof. Travel to Luxor, where you will find the colossal statues of the pharaoh Ramses II. Then transition onto the Nile.  
 **Overnight:** Nile Cruise
 
 Where joy has architecture.
@@ -142,7 +142,7 @@ This is where humanity rehearsed becoming divine.
 ---
 
 **Day 11 · Valley of the Kings → Hatshepsut**  
-Cliffside tombs and colonnades.  
+UNESCO listed Valley of the Kings, the necropolis of Thebes and the tombs of ancient Egypt's rulers. Next, the Temple of Hatshepsut, a colonnaded structure surrounded by cliffs. On to Hatshepsutto learn about the life of Queen Hatshepsut, Egypt's famous female ruler.Cliffside tombs and colonnades.  
 **Overnight:** Nile Cruise
 
 Where the earth folds its stories inward.
@@ -160,7 +160,7 @@ Her myth: a woman who borrowed the falcon’s feathers and dared to fly.
 ---
 
 **Day 12 · Edfu → Kom Ombo**  
-Temples dedicated to Horus and Sobek.  
+Temples of Horus in Edfu, considered one of the best-preserved of all the Egyptian Temples. It was built during the Ptolemaic times and was completed over a 180-year period. The temple is dedicated to the falcon god Horus, son of Isis and Osiris. Its extravagant design and sheer size is an indication of the country's prosperity at the time.   
 **Overnight:** Nile Cruise
 
 Where the falcon’s shadow sharpens.
