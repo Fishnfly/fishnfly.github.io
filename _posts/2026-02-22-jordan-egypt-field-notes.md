@@ -71,7 +71,8 @@ Settle into Jordan by water.
 ---
 
 **Day 3 · Baptismal Site**  
-Visit “Bethany Beyond the Jordan,” the traditional location of Jesus’s baptism.  Located on the east bank of the Jordan river.
+Visit “Bethany Beyond the Jordan,” the traditional location of Jesus’s baptism.  Located on the east bank of the Jordan river. 
+
 **Overnight:** Dead Sea
 
 ---
