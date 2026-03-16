@@ -122,6 +122,7 @@ Iconic monuments and early dynastic sites.
 **Day 9 · Luxor → Karnak Temples**  
 Flight south, exploring massive hypostyle halls. Visit the magnificent Temples of Karnak, dating back over 3,000 years. 
 Walk along the avenue of the Sphinxes and marvel at the Hypostyle Hall with its 134 massive sandstone columns. 
+
 **Overnight:** Luxor
 
 ---
