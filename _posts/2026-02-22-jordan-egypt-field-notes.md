@@ -81,6 +81,7 @@ Mount Nebo, the reputed burial site of Moses, overlooking the Jordan Valley and 
 **Overnight:** Petra
 
 ---
+
 **Petra Pic**
 
 ![Petra](/assets/images/jordan-egypt/anchor-jordan.jpg)
