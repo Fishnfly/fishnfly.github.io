@@ -193,6 +193,10 @@ Here, the pharaoh does not merely rule; he declares himself in cliff‑sized cer
 And beside him, Nefertari — carved with equal dignity — stands as the rare queen honored not behind, but *beside* her king.  
 A place where scale becomes myth, and myth becomes memory.
 
+**Abu Simbel Pic**
+
+![Abu Simbel](/assets/images/jordan-egypt/abu-simbel.jpg)
+
 ---
 
 **Day 14 · Aswan → Philae → Cairo**  
