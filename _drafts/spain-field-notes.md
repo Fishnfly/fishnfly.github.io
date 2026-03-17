@@ -435,5 +435,78 @@ The Alhambra was the latter.
 
 ---
 
+# **Day 7 · Granada → Córdoba**  
+*Where sunlight sharpens the edges of a city built on crossings.*
+
+Morning leaves Granada in clear light —  
+a sky rinsed clean after days of weather,  
+the Sierra Nevada still carrying thin ribbons of snow in its folds.  
+The drive north opens easily, the road unwinding through soft hills and olive groves.
+
+Somewhere along the way you stop at the **National Geographic “Matador del Paseo”** photo point —  
+a bronze figure poised in mid‑motion,  
+cape unfurled as if catching the day’s first breath.  
+A brief pause, a small moment of theater on the roadside,  
+Spain reminding you that performance lives everywhere in this landscape.
+
+Córdoba arrives in sunlight, its streets warming quickly.
+
+You begin in the **Jewish Quarter**,  
+a tangle of narrow lanes whitewashed and bright,  
+flower pots spilling color against the walls,  
+the air carrying a faint sweetness from the courtyards tucked just out of view.  
+There is an intimacy here —  
+a softened geography of thresholds and shadows.
+
+As the day brightens, the city becomes a map of crossings.  
+Stone, water, culture, centuries —  
+everything converges at the **Roman Bridge**,  
+its arches stretching across the Guadalquivir with the quiet confidence of something that has endured every kingdom that passed through.  
+You walk its length slowly,  
+feeling the edge of the city shift beneath your feet:  
+ancient here, present there, future in the middle distance.
+
+Patios open like small secrets —  
+cool mosaic floors, shaded plants,  
+glimpses of water or tile that feel like the city exhaling between walls.  
+Córdoba reveals itself in fragments,  
+as if offering its beauty one room at a time.
+
+By noon, the crowds gather.  
+Streets that were soft and quiet in the morning  
+grow thick with sound and movement.  
+It is the hour when Córdoba leans fully into the day,  
+sunlight pooling in the squares, voices rising against the stone.
+
+Though you visited the **Mezquita** in 2019,  
+its presence remains impossible to ignore —  
+the great forest of arches,  
+the long echo of prayer and conquest.  
+Even from the outside,  
+you feel its gravity in the city’s center  
+like a low drum beneath the footsteps.
+
+Evening brings something entirely different —  
+a turning of the city toward rhythm and ritual.  
+At the **Royal Stables**,  
+you watch the equestrian show unfold:  
+horses moving with impossible precision,  
+flamenco rising in sharp, percussive bursts,  
+dance and horsemanship entwined,  
+muscle and music answering one another in the dim arena light.  
+A performance that feels carved out of tradition,  
+yet alive in the moment —  
+Spain distilled into motion.
+
+Night settles slowly over Córdoba,  
+the stone cooling,  
+the bridge glowing in gentle illumination.  
+A city of crossings and edges,  
+held together by light and centuries.
+
+**Overnight:** **Córdoba**
+
+___
+
 </details>
 
