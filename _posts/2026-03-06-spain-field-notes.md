@@ -127,6 +127,13 @@ A quiet pause, a soft landing, a slow beginning.
 Morning opens in a muted palette — low clouds stretched thin across La Mancha, the chill lingering from the night before.  
 The drizzle has quieted, but the air is heavy with the sense that rain hasn’t made up its mind.
 
+Notice the river as it cuts thru the rock face around the city. The bridge allows passage.
+
+
+**Bridge Pic**
+
+![Bridge](/assets/images/spain/toledo-bridge.jpg)
+
 The plains widen.  
 Long sweeps of earth, sparse and wind‑brushed, the kind of landscape that invites stories.
 
