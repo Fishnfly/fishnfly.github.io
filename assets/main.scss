@@ -452,3 +452,28 @@
   padding-top: 0 !important;
 }
 
+/* Remove top padding/margin on desktop for landing page */
+@media (min-width: 769px) {
+  .home,
+  .page-content,
+  .wrapper {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* Ensure header doesn't push content downward */
+  header.site-header {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  /* If your Atlas hero section has a class, ensure it sits flush */
+  .atlas-section,
+  .hero,
+  .site-intro {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
+
