@@ -7,6 +7,13 @@ excerpt: "A movement across Spain — stone, wind, water, and memory shaping the
 subtitle: "Plateaus, cliffs, coastlines, and cities stitched by thresholds."
 ---
 
+thumbnail:
+  layout: duo
+  img1: /assets/images/spain/toledo.jpg
+  img2: /assets/images/spain/toledo1.jpg
+  alt: "Jordan & Egypt — anchors"
+
+
 Spain doesn’t reveal itself through monuments alone.  
 It reveals itself through **edges** — cliff edges, city walls, river bends, coastlines, boundaries where cultures touched and reshaped one another.  
 A country carved by thresholds, transitions, and unexpected seams.
