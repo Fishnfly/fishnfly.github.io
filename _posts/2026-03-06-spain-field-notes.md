@@ -813,4 +813,5 @@ one threshold at a time.
 
 ---
 
-
+**Related**
+- [Travel Index](/travel.html)
