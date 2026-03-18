@@ -437,3 +437,18 @@
   aspect-ratio: 16 / 10; /* same as .card-thumb__media */
   border-radius: 8px;
 }
+
+/* Fix top spacing on landing page */
+.home,
+.page-content,
+.wrapper {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* If your Atlas section has its own class, target it directly */
+.atlas-section {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
