@@ -10,7 +10,7 @@ subtitle: "Plateaus, cliffs, coastlines, and cities stitched by thresholds."
 thumbnail:
   layout: duo
   img1: /assets/images/spain/toledo.jpg
-  img2: /assets/images/spain/toledo1.jpg
+  img2: /assets/images/spain/toledo-1.jpg
   alt: "Jordan & Egypt — anchors"
 
 
