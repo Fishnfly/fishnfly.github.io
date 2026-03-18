@@ -719,3 +719,98 @@ the journey gathering itself into memory.
 
 </details>
 
+---
+
+## Afterthoughts
+
+Spain wasn’t a trip of destinations so much as a movement through contrasts—  
+between stone and water, cliffs and valleys, cold edges and warm afternoons.  
+If Jordan asked you to slow down and Egypt asked you to surrender to the river,  
+Spain asked you to pay attention to **thresholds**:  
+the places where one world ends and another begins.
+
+**On movement.**  
+Crossing Spain meant traveling across plateaus, ridgelines, coastlines, and old kingdoms.  
+The rhythm wasn’t fast or slow; it was attentive.  
+You learned to notice the difference between morning cold in La Mancha  
+and afternoon light along the Mediterranean,  
+the way a city like Granada gathers sunlight in its courtyards  
+versus the way Segovia holds shadow beneath its arches.  
+Distance mattered less than the **edges** between places.
+
+**On myth.**  
+Spain’s myth-thread isn’t a single story like Isis and Osiris—  
+it’s a geography of borders:  
+Roman arches, Moorish foundations, Christian spires, Jewish quarters,  
+bridges crossing rivers that once divided worlds.  
+You felt it at Silla del Moro above the Alhambra,  
+at the Roman Bridge in Córdoba,  
+and even in the quiet of El Escorial—  
+a country defined not by unity, but by **meeting points**.
+
+**On contrasts.**  
+Andalusia gives you warmth, white façades, orange trees,  
+while Castile greets you with stone, wind, and wide-open plains.  
+Valencia glimmers with Mediterranean brightness;  
+Granada holds a mountain edge;  
+Segovia rises in grey and gold.  
+Spain felt like stepping between climates, eras, and textures—  
+a country that never chose one identity when it could live in many.
+
+**On people.**  
+Spain revealed itself in small human moments:  
+a sword-maker’s patience in Toledo,  
+the hum of a café as rain threatened in Valencia,  
+a stable master guiding horse and flamenco dancer in perfect rhythm,  
+the quiet kindness of locals in narrow streets  
+where the weather had chased most wanderers away.  
+Not grand gestures—just warmth, presence, and rhythm.
+
+**On place (what worked).**  
+Walking cities rather than driving them shaped the trip.  
+Starting early softened the crowds;  
+giving each region its own day let the story deepen;  
+and returning to quieter hotels in the evenings  
+gave the movement space to breathe.  
+What held the route together wasn’t efficiency—  
+it was curiosity.
+
+**If we did it again.**  
+- Add more time in Valencia’s old town when the weather warms.  
+- Revisit Segovia in full sun.  
+- Spend a slower morning in the gardens of La Granja.  
+- Let Granada’s hills shape another approach—perhaps without the hurry.  
+- Give Córdoba a quiet evening, when the city cools into itself.
+
+**Practical notes.**  
+- *Wind matters.* Castilla’s cold carries farther than expected.  
+- *Light matters.* Spain looks different every hour; mornings and late afternoons are the country’s true lenses.  
+- *Shoes matter.* Hills, cobblestone, and unexpected climbs demand good footing.  
+- *Time matters.* The best hours are never on the itinerary—  
+they happen in the in‑between spaces.
+
+**Ethics & presence.**  
+Walk with intention.  
+Greet people in their language when you can.  
+Support local cafés, bakeries, and artisans.  
+Move slowly through old quarters,  
+knowing generations shaped these streets long before you arrived.
+
+**What stayed.**  
+Not a single highlight, but a sequence of textures:  
+cold wind pushing across the plateau,  
+sun breaking through Segovia’s clouds,  
+the shock of blue in Villajoyosa,  
+the hush of Turia Park in pending rain,  
+the climb toward the Alhambra in morning light,  
+and the steady sense that Spain is best understood  
+not in the monuments,  
+but in the **edges** where its stories overlap.
+
+This wasn’t a trip about covering Spain.  
+It was a trip about understanding how Spain reveals itself—  
+one threshold at a time.
+
+---
+
+
