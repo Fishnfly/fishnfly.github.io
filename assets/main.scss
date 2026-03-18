@@ -476,4 +476,18 @@
   }
 }
 
+/* Universal top-margin reset for desktop */
+@media (min-width: 769px) {
+  body,
+  .page-content,
+  .wrapper,
+  .home,
+  main,
+  section:first-of-type,
+  header + * {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
+
 
