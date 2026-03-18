@@ -1,8 +1,7 @@
-title: "Belgium & Turkey — Coming Soon"
-location: BelgiumTurkey
- dek: "Field notes across a continent and old world wonders"
- img:
-   base: /assets/images/belgium/tulips.jpg
-   alt: "BelgiumTurkey — Coming Soon"
- url: "#"
-
+- title: "Belgium & Turkey — Coming Soon"
+  location: BelgiumTurkey
+  dek: "Field notes across a continent and old world wonders"
+  img:
+    base: /assets/images/belgium/tulips.jpg
+    alt: "BelgiumTurkey — Coming Soon"
+  url: "#"
