@@ -82,6 +82,10 @@ and your route as a passage across them.
 
 ---
 
+**Toledo Pic**
+
+![Toledo](/assets/images/spain/spain-comingsoon.jpg)
+
 # **Day 1 · Arrival → Toledo**  
 *Where the river bends like a blade.*
 
@@ -127,6 +131,10 @@ The plains widen.
 Long sweeps of earth, sparse and wind‑brushed, the kind of landscape that invites stories.
 
 Then the **windmills** appear.
+
+**Windmills Pic**
+
+![Windmills](/assets/images/spain/windmills.jpg)
 
 White towers rising from the ridge, their great wooden arms held still —  
 sails furled, machinery resting, the giants asleep.  
