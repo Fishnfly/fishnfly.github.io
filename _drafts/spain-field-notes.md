@@ -506,7 +506,194 @@ held together by light and centuries.
 
 **Overnight:** **Córdoba**
 
-___
+---
+
+# **Day 8 · Córdoba → Aranjuez → La Finca**  
+*Where winter wind sharpens the day, and royal gardens hold their breath.*
+
+Morning leaves Córdoba under a sky of hard, bright blue —  
+beautiful, but deceptive.  
+The moment you step outside, the wind slices through the sunlight,  
+a blistering cold that turns every street into a corridor of winter.  
+The temperature feels carved from the same stone that built the city.
+
+The drive north moves through open plains where the wind gathers speed,  
+pushing sideways against the car,  
+rattling the landscape into motion.  
+Olive groves sway in long silver waves,  
+a reminder that not all cold is stillness.
+
+By late morning you reach **Aranjuez**,  
+and even here, where the Tagus should soften the air,  
+the cold lingers sharply.
+
+The **Royal Palace** rises pale and elegant in the wind,  
+its long façade absorbing the morning chill.  
+You walk its edges with your shoulders tight against the gusts,  
+the kind of cold that makes you aware of every doorway and sunlit stone.
+
+The **Jardín del Príncipe** stretches outward —  
+broad paths, sculptures, ponds —  
+but today the garden feels drawn inward,  
+its trees stripped into silhouettes by the season.  
+Wind shakes the branches;  
+fountains spray sideways;  
+the river moves in choppy, hurried ripples.
+
+The **Garden of the Island** is quieter,  
+but even here the cold persists,  
+tucking itself into the shaded corners of bridges and hedges.
+
+At the **Mercado de Abastos**,  
+the day briefly softens —  
+warm bread, bright stalls,  
+voices rising against the cold like little pockets of heat.  
+A welcome contrast before stepping back into the gusts.
+
+The afternoon drive toward Madrid brings relief.  
+The wind begins to ease,  
+temperatures slowly warming as you leave the open plains  
+and slip into the more sheltered edges of the capital.
+
+By the time you reach **La Finca**,  
+the day has shifted into something gentler —  
+still crisp, but no longer biting.  
+The hotel’s modern calm feels like a small refuge after a day carried by weather.
+
+A day of movement shaped not by landscapes,  
+but by wind —  
+the kind that tests pace, posture, and patience  
+until the afternoon finally loosens its grip.
+
+**Overnight:** **La Finca (Madrid region)**
+
+---
+
+# **Day 9 · La Granja → Segovia → El Escorial → La Finca**  
+*Where winter wind edges the day, and stone carries the memory of empires.*
+
+Morning breaks cold and sharp over La Finca —  
+a bright sky, but the kind of brightness that lies.  
+The wind has returned, cutting across the open plateau  
+and carrying winter’s last insistence in its wake.
+
+The road north leads first to **La Granja**,  
+the royal site where fountains sleep for the season  
+and the palace stands in pale symmetry against the hills.  
+In the cold wind, the gardens feel almost architectural —  
+avenues of bare trees, long sightlines,  
+statues holding their poses against the weather.  
+The air is brisk enough to quicken your steps,  
+yet the place holds a quiet majesty,  
+as if waiting for spring to return and reveal its full intention.
+
+From La Granja, the drive into **Segovia** brings a shift in light.  
+Overcast skies hang low,  
+but shafts of sun begin to slice through,  
+thin bright seams promising a warmer afternoon.
+
+The **Roman aqueduct** rises from the stone like a solved equation —  
+precise, balanced, two thousand years of gravity perfectly negotiated.  
+You walk beneath its arches,  
+wind tugging at your jacket,  
+the cold deepening the shadowed spaces  
+and sharpening the moments when sunlight breaks through.
+
+Segovia curls upward toward the **cathedral**,  
+its Gothic spires reaching into a sky that cannot decide  
+between grey and pale gold.  
+You wander the old streets,  
+the wind chasing along the corners,  
+turning the city into a patchwork of chill and possibility.
+
+Then the **Alcázar** appears —  
+a fortress that seems almost airborne,  
+turrets rising in pointed defiance against the shifting sky.  
+Even in the cold, it feels like a story refusing to be forgotten,  
+stone brightening whenever sunlight touches it.
+
+By afternoon the sky begins to clear,  
+soft warmth returning in brief intervals.  
+The road bends into the mountains,  
+and **El Escorial** comes into view —  
+vast, solemn, monastic in its gravity.  
+Granite walls stretch in disciplined symmetry,  
+the complex feeling part‑palace, part‑ledger of a kingdom’s soul.  
+Inside, the silence is deliberate,  
+a place built for contemplation rather than spectacle.
+
+Outside, the **Gardens of the Prince** wait in winter stillness —  
+paths lined with patient trees,  
+fountains quiet beneath the season.  
+A short climb brings you to the **Silla de Felipe II**,  
+a stone seat overlooking the monastery  
+where sunlight finally breaks free,  
+casting long lines of gold across the valley.
+
+Evening draws you back toward Madrid,  
+the wind easing at last,  
+the air softening as you descend.  
+Return to **La Finca**,  
+your day carried on stone and shadow,  
+on wind, architecture, and the steady promise of clearing light.
+
+**Overnight:** **La Finca (Madrid region)**
+
+---
+
+# **Day 10 · La Finca → Alcalá de Henares → Madrid Airport**  
+*Where sunlight smooths the edges of the day, and a city of scholars offers its quiet.*
+
+The morning opens warm and windless —  
+a welcome contrast to yesterday’s cold gusts.  
+Sunlight settles across the Madrid outskirts in gentle, steady gold  
+as you drive east toward **Alcalá de Henares**,  
+a city shaped by learning, language, and long memory.
+
+Alcalá greets you with calm streets and clear skies.  
+You begin at the **University of Alcalá**,  
+its courtyards drawn in perfect Renaissance geometry,  
+stone warmed by the morning sun.  
+The city feels intellectual in its very layout —  
+as if ideas had shaped its walls as much as hands did.
+
+You wander along **Calle Mayor**,  
+one of the longest porticoed streets in Spain,  
+shaded by arches that catch the soft light just right.  
+Shops open slowly,  
+people move unhurried,  
+and the absence of wind lets the day breathe fully.
+
+From there, you roam the old town’s quieter edges —  
+small plazas, tiled corners,  
+the kind of spaces that don’t announce themselves  
+but reward attention.  
+The weather lifts everything:  
+colors sharper, stone warmer,  
+the city carrying an ease that feels earned after days of cold.
+
+You had planned to visit **Complutum**,  
+the Roman archaeological site on the edge of town,  
+but the gates are closed today —  
+a small, unexpected note in an otherwise open day.  
+Instead, you continue wandering,  
+letting the city offer what it wishes:  
+sun, quiet, and an unhurried sense of completion.
+
+By late afternoon, you return toward Madrid,  
+the light slanting long across the highway.  
+At the airport Marriott,  
+you drop off the rental car —  
+a ritual that marks the true end of the road.
+
+Evening settles softly over the hotel,  
+the sky clear, the winds finally gone.  
+A calm final night in Spain,  
+the journey gathering itself into memory.
+
+**Overnight:** **Madrid near Airport**
+
+---
 
 </details>
 
