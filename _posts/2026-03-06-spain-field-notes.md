@@ -5,7 +5,6 @@ date: 2026-03-06
 categories: [travel]
 excerpt: "A movement across Spain — stone, wind, water, and memory shaping the journey more than any single site."
 subtitle: "Plateaus, cliffs, coastlines, and cities stitched by thresholds."
----
 
 thumbnail:
   layout: duo
