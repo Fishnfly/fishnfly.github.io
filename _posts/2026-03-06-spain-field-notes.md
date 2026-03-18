@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spain — Field Notes"
+title: "Spain"
 date: 2026-03-06
 categories: [travel]
 excerpt: "A movement across Spain — stone, wind, water, and memory shaping the journey more than any single site."
