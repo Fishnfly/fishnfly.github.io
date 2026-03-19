@@ -273,7 +273,7 @@ a settlement shaped not by walls but by the land itself.
 
 **Guadix Pic**
 
-![Chimneys](/assets/images/spain/guandix.jpg)
+![Chimneys](/assets/images/spain/guadix.jpg)
 
 After Guadix, the altitude begins to climb.  
 The warmth drains from the air.  
