@@ -261,11 +261,19 @@ The rain, drizzling now,
 revealing a land sculpted in beige, blue, and bone.  
 A quiet, otherworldly pause.
 
+**Barrancos Pic**
+
+![Landscape](/assets/images/spain/mirador-barrancos-de-gebas.jpg)
+
 Further on, **Guadix** rises where earth becomes architecture —  
 a town of cave dwellings dug into soft hillsides,  
 white chimneys poking from mounds of earth like markers of hidden homes.  
 It feels half ancient, half unreal,  
 a settlement shaped not by walls but by the land itself.
+
+**Guadix Pic**
+
+![Chimneys](/assets/images/spain/guandix.jpg)
 
 After Guadix, the altitude begins to climb.  
 The warmth drains from the air.  
