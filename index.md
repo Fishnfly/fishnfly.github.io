@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Fish n Fly
 permalink: /
 image: /assets/images/social/fishnfly-og.jpg
