@@ -732,8 +732,6 @@ the journey gathering itself into memory.
 
 </details>
 
----
-
 ## Afterthoughts
 
 Spain wasn’t a trip of destinations so much as a movement through contrasts—  
