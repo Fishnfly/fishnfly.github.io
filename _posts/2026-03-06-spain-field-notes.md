@@ -810,5 +810,9 @@ one threshold at a time.
 
 ---
 
-**Related**
+## More Field Notes
+See other movements across landscapes:
+
+- [Jordan & Egypt — Stone, Desert, Water](/2026/02/22/jordan-egypt-field-notes.html)
+- [Morocco — Mountains & Markets](/2025/02/15/morocco-field-notes.html)
 - [Travel Index](/travel.html)
