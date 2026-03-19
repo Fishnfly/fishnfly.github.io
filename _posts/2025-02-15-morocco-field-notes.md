@@ -163,10 +163,6 @@ Those moments lived in the margins, between plans.
 
 ---
 
-**Related**
-
----
-
 ## More Field Notes
 See other movements across landscapes:
 
