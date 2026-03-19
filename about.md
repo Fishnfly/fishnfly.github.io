@@ -72,6 +72,11 @@ It’s about noticing more of what you see.
 
 ---
 
-**Related**
+## More Field Notes
+See other movements across landscapes:
+
+- /2026/03/06/spain-field-notes.html
+- /2026/02/22/jordan-egypt-field-notes.html
+- /2025/02/15/morocco-field-notes.html
 - [Travel Index](/travel.html)
 
