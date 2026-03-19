@@ -76,5 +76,6 @@ It’s about noticing more of what you see.
 See other movements across landscapes:
 - [Spain — Edges & Thresholds](/2026/03/06/spain-field-notes.html)
 - [Jordan & Egypt — Stone, Desert, Water](/2026/02/22/jordan-egypt-field-notes.html)
+- [Morocco — Mountains & Markets](/2025/02/15/morocco-field-notes.html)
 - [Travel Index](/travel.html)
 
