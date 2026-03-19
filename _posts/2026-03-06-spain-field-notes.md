@@ -427,6 +427,10 @@ Light pools in courtyards like a second sky.
 Water murmurs in stone channels,  
 carrying centuries of intention.
 
+**Nasrid Palaces Pic**
+
+![Nasrid Palaces](/assets/images/alhambra-nasrid-palaces.jpg)
+
 In the **Patio de los Arrayanes**,  
 the long pool holds the palace upside down,  
 as if the reflection were the truer version.  
@@ -437,6 +441,10 @@ In the **Patio de los Leones**,
 marble glows in the early sun.  
 The lions stand in their circle,  
 bearing the quiet dignity of things carved to outlast history.
+
+**Patio De Los Leones Pic**
+
+![Windmills](/assets/images/alhambra-patio-de-los-leones.jpg)
 
 The **Generalife** gardens unfold in terraces of green and water.  
 Cypress shadows, narrow steps, the sound of fountains tucked into corners.  
