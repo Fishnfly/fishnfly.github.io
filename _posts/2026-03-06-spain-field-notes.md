@@ -462,11 +462,15 @@ a sky rinsed clean after days of weather,
 the Sierra Nevada still carrying thin ribbons of snow in its folds.  
 The drive north opens easily, the road unwinding through soft hills and olive groves.
 
-Somewhere along the way you stop at the **National Geographic “Matador del Paseo”** photo point —  
-a bronze figure poised in mid‑motion,  
-cape unfurled as if catching the day’s first breath.  
-A brief pause, a small moment of theater on the roadside,  
-Spain reminding you that performance lives everywhere in this landscape.
+Somewhere along the way you stop at the **National Geographic **Mirador del Paseo** photo point —  
+a simple overlook, nothing more,  
+yet the whole landscape widens from it.  
+A pause, a breath, a reminder  
+that even the roadside can feel like a scene.
+
+**del Paseo Pic**
+
+![NationalGeographic](/assets/images/spain/mirador-del-paseo.jpg)
 
 Córdoba arrives in sunlight, its streets warming quickly.
 
