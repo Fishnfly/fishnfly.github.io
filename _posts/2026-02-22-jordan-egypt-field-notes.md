@@ -266,6 +266,10 @@ This wasn’t a trip about seeing Egypt and Jordan. It was a trip about learning
 
 ---
 
-**Related**
+## More Field Notes
+See other movements across landscapes:
+
+- [Spain — Edges & Thresholds](/2026/03/06/spain-field-notes.html)
+- [Morocco — Mountains & Markets](/2025/02/15/morocco-field-notes.html)
 - [Travel Index](/travel.html)
 
