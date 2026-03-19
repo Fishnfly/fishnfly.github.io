@@ -107,6 +107,13 @@ In a city built on edges, even the fire chooses silence when the craft does not.
 
 By late afternoon, the drizzle becomes a soft mist.  
 **San Martín Bridge** blurs at the edges; **San Juan de los Reyes** stands half‑absorbed into the sky.  
+
+Notice the river as it cuts thru the rock face around the city. The bridge allows passage.
+
+**Bridge Pic**
+
+![Bridge](/assets/images/spain/toledo-bridge.jpg)
+
 From **Mirador del Valle**, Toledo dissolves into a watercolor — outlines softened, history rendered in cool tonal hush.
 
 You end the day as these grey evenings ask you to:  
@@ -123,13 +130,6 @@ A quiet pause, a soft landing, a slow beginning.
 
 Morning opens in a muted palette — low clouds stretched thin across La Mancha, the chill lingering from the night before.  
 The drizzle has quieted, but the air is heavy with the sense that rain hasn’t made up its mind.
-
-Notice the river as it cuts thru the rock face around the city. The bridge allows passage.
-
-
-**Bridge Pic**
-
-![Bridge](/assets/images/spain/toledo-bridge.jpg)
 
 The plains widen.  
 Long sweeps of earth, sparse and wind‑brushed, the kind of landscape that invites stories.
