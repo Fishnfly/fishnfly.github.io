@@ -490,4 +490,25 @@
   }
 }
 
+/* === Remove top spacing on homepage hero (desktop + laptop) === */
+body.home .page-content,
+body.home .wrapper,
+body.home .post,
+body.home .post-content,
+body.home .post-header {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+body.home .post-header {
+  display: none !important; /* hides the page title pushing the hero down */
+}
+
+/* Ensure hero hits the very top */
+body.home .hero {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+``
+
 
