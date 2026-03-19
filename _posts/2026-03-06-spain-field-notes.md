@@ -429,7 +429,7 @@ carrying centuries of intention.
 
 **Nasrid Palaces Pic**
 
-![Nasrid Palaces](/assets/images/alhambra-nasrid-palaces.jpg)
+![Nasrid Palaces](/assets/images/spain/alhambra-nasrid-palaces.jpg)
 
 In the **Patio de los Arrayanes**,  
 the long pool holds the palace upside down,  
@@ -444,7 +444,7 @@ bearing the quiet dignity of things carved to outlast history.
 
 **Patio De Los Leones Pic**
 
-![Windmills](/assets/images/alhambra-patio-de-los-leones.jpg)
+![Windmills](/assets/images/spain/alhambra-patio-de-los-leones.jpg)
 
 The **Generalife** gardens unfold in terraces of green and water.  
 Cypress shadows, narrow steps, the sound of fountains tucked into corners.  
@@ -629,6 +629,10 @@ You walk beneath its arches,
 wind tugging at your jacket,  
 the cold deepening the shadowed spaces  
 and sharpening the moments when sunlight breaks through.
+
+**Roman Aquaduct Pic**
+
+![Windmills](/assets/images/spain/aquaduct.jpg)
 
 Segovia curls upward toward the **cathedral**,  
 its Gothic spires reaching into a sky that cannot decide  
