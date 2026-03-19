@@ -18,9 +18,6 @@ Spain doesn’t reveal itself through monuments alone.
 It reveals itself through **edges** — cliff edges, city walls, river bends, coastlines, boundaries where cultures touched and reshaped one another.  
 A country carved by thresholds, transitions, and unexpected seams.
 
-Below is the working structure of the story.  
-Refine voice, add images, adjust rhythm as needed.
-
 ---
 
 ## **The Route (Context)**
