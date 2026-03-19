@@ -338,6 +338,10 @@ the stones underfoot warm from the day.
 And then —  
 the view.
 
+**Alhambra Pic**
+
+![Alhambra](/assets/images/spain/anchor-alhambra.jpg)
+
 The **Alhambra** stands across the valley,  
 burnt orange in the sinking sun,  
 the fortress glowing as if lit from within.  
@@ -355,10 +359,6 @@ Granada settles into night,
 and so do you —  
 a city of devotion, gold, and sunset  
 preparing you for the palace it guards.
-
-**Alhambra Pic**
-
-![Alhambra](/assets/images/spain/anchor-alhambra.jpg)
 
 **Overnight:** **Granada**
 
@@ -731,6 +731,8 @@ the journey gathering itself into memory.
 ---
 
 </details>
+
+---
 
 ## Afterthoughts
 
