@@ -314,6 +314,10 @@ The city feels unhurried, textured, ancient in the way only hill cities can be.
 You step out from **Hospes Palacio de los Patos**,  
 letting the day gather you into its narrow streets and bright white facades.
 
+**Hotel Pic**
+
+![Hospes](/assets/images/spain/hospes-palacio.jpg)
+
 Your first stop is the **Real Monasterio de San Jerónimo**,  
 a place where stone seems to inhale the morning.  
 The cloister arches frame quiet gardens,  
