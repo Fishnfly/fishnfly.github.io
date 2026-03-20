@@ -600,6 +600,10 @@ Wind shakes the branches;
 fountains spray sideways;  
 the river moves in choppy, hurried ripples.
 
+**Jardin Pic**
+
+![Ronda](/assets/images/spain/jardin-del-principe.jpg)
+
 The **Garden of the Island** is quieter,  
 but even here the cold persists,  
 tucking itself into the shaded corners of bridges and hedges.
