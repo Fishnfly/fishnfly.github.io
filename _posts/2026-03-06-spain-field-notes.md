@@ -525,17 +525,26 @@ grow thick with sound and movement.
 It is the hour when Córdoba leans fully into the day,  
 sunlight pooling in the squares, voices rising against the stone.
 
-Though you visited the **Mezquita** in 2019,  
-its presence remains impossible to ignore —  
-the great forest of arches,  
-the long echo of prayer and conquest.  
-Even from the outside,  
-you feel its gravity in the city’s center  
-like a low drum beneath the footsteps.
+Though we visited the **Mezquita** in 2019 and didn't step inside this time, 
+its arches and alternating stripes remain part of how we remember Córdoba —
+a place where geometry became devotion.
 
 **Mezquita Pic**
 
 ![Mezquita](/assets/images/spain/mezquita.jpg)
+
+That same year we also traveled to **Ronda**, 
+a city split by a gorge so deep it feels like the earth remembering its own fracture.  
+Standing on the Puente Nuevo, with wind threading through the canyon below, 
+you learn something about Spain’s love of edges, 
+of building cities not just on land but on thresholds.
+
+**Ronda Pic**
+
+![Ronda](/assets/images/spain/ronda.jpg)
+
+Those places still echo through this trip — 
+memory shaping the way we walk the present.
 
 Evening brings something entirely different —  
 a turning of the city toward rhythm and ritual.  
