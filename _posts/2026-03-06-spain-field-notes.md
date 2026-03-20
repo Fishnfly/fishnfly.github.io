@@ -238,7 +238,7 @@ a village suspended between altitude and light.
 
 **Guadalest Pic**
 
-![Guadalest](/assets/images/spain/guadalest.jpg)
+![Guadalest](/assets/images/spain/guadalest-1.jpg)
 
 Descending toward the coast, the day widens further.  
 In **Villajoyosa**, the sea glitters in restless blue,  
