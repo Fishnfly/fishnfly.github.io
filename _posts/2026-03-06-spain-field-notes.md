@@ -531,7 +531,7 @@ like a low drum beneath the footsteps.
 
 **Mezquita Pic**
 
-![Mezquita](/assets/images/spain/mezquiea.jpg)
+![Mezquita](/assets/images/spain/mezquita.jpg)
 
 Evening brings something entirely different —  
 a turning of the city toward rhythm and ritual.  
