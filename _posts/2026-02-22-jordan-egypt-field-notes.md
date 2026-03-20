@@ -216,6 +216,8 @@ This is the softest place in Egypt — a sanctuary where grief became creation.
 Optional museum and market visits.  
 **Overnight:** Cairo
 
+---
+
 </details>
 
 ---
