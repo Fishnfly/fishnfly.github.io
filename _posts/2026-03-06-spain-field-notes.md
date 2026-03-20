@@ -648,7 +648,7 @@ and sharpening the moments when sunlight breaks through.
 
 **Roman Aquaduct Pic**
 
-![Windmills](/assets/images/spain/aquaduct-1.jpg)
+![Windmills](/assets/images/spain/aquaduct-2.jpg)
 
 Segovia curls upward toward the **cathedral**,  
 its Gothic spires reaching into a sky that cannot decide  
