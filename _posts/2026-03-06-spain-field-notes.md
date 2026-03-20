@@ -748,18 +748,38 @@ Instead, you continue wandering,
 letting the city offer what it wishes:  
 sun, quiet, and an unhurried sense of completion.
 
-By late afternoon, you return toward Madrid,  
-the light slanting long across the highway.  
-At the airport Marriott,  
-you drop off the rental car —  
-a ritual that marks the true end of the road.
+By late morning, you leave Alcalá and angle back toward Madrid,
+the sunlight steady, the air calm — a welcome contrast to the wind‑sharpened days before.
+In the morning of the next day, you slip into the city for one last wander.
 
-Evening settles softly over the hotel,  
-the sky clear, the winds finally gone.  
-A calm final night in Spain,  
+You stroll through **Parque del Centro**, where Madrid relaxes into open lawns, 
+quiet footpaths, and pockets of shade that gather the warmth of early afternoon.  
+Families drift between benches, children trace circles around fountains,  
+and the city moves with a softer rhythm than its reputation suggests.  
+It’s the kind of park that feels like an exhale —  
+a place where the edges of the trip begin to loosen.
+
+**Parque Centro Pic**
+
+![Parque Centro](/assets/images/spain/parque-el-retirro.jpg)
+
+From there, the streets guide you toward **Plaza Mayor**,  
+its arcades glowing in the midday sun.  
+The square hums with a comfortable, unhurried energy —  
+musicians tuning, waiters calling orders,  
+tourists drifting past locals on lunch break.  
+You sit at an outdoor table and order a simple meal,  
+the kind that tastes better because the day has slowed.  
+Sunlight spills across the plaza, warming the stones beneath your feet,  
+a final reminder of Spain’s ability to gather you into a moment just by being itself.
+
+In the morning now, you return toward the airport perimeter,  
+the light slanting long across the highway.  
+
+A calm final morning in Spain,  
 the journey gathering itself into memory.
 
-**Overnight:** **Madrid near Airport**
+**Return flight:** 
 
 ---
 
