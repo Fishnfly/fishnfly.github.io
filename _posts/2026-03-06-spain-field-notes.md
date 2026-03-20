@@ -602,7 +602,7 @@ the river moves in choppy, hurried ripples.
 
 **Jardin Pic**
 
-![Jardin](/assets/images/spain/jardin-del-principe.jpg)
+![Jardin](/assets/images/spain/jardín-del-príncipe.jpg)
 
 The **Garden of the Island** is quieter,  
 but even here the cold persists,  
