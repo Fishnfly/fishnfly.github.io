@@ -236,9 +236,9 @@ spilling warm gold across the cliffs and rooftops.
 The fortress stands bright above its turquoise reservoir,  
 a village suspended between altitude and light.
 
-**Guadlest Pic**
+**Guadalest Pic**
 
-![Guadlest](/assets/images/spain/guadlest.jpg)
+![Guadalest](/assets/images/spain/guadalest.jpg)
 
 Descending toward the coast, the day widens further.  
 In **Villajoyosa**, the sea glitters in restless blue,  
