@@ -529,6 +529,10 @@ Even from the outside,
 you feel its gravity in the city’s center  
 like a low drum beneath the footsteps.
 
+**Mezquita Pic**
+
+![Mezquita](/assets/images/spain/mezquiea.jpg)
+
 Evening brings something entirely different —  
 a turning of the city toward rhythm and ritual.  
 At the **Royal Stables**,  
