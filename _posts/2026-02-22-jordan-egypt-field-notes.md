@@ -64,6 +64,10 @@ This thread sits beneath the journey that follows, not as history, but as atmosp
 Settle into Jordan by water.  
 **Overnight:** Dead Sea
 
+**DeadSea Pic**
+
+![DeadSea](/assets/images/jordan-egypt/deadsea.jpg)
+
 ---
 
 **Day 2 · Slow Day → Tour kickoff in the evening**  
