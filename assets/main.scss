@@ -307,6 +307,7 @@
   width: 100%;
   height: auto;
   display: block;
+  object-position: center top; /* ← THIS FIXES LAPTOP CROPPING */
   object-fit: cover;
   max-height: 450px;
   filter: brightness(0.85);
