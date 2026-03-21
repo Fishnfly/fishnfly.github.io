@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Jordan & Egypt"
+title: "Jordan & Egypt — Stone, Desert, and Water"
 date: 2026-02-22
 categories: [travel]
-excerpt: "A movement through Jordan and Egypt — stone, desert, and water shaping the experience more than any single site."
-subtitle: "Dead Sea to the Nile — wind, sand, and long distances."
+excerpt: "A movement across canyons, valleys, deserts, and the Nile — a journey shaped by carved stone, shifting sand, and the slow certainty of water."
+subtitle: "Dead Sea to the Nile — myth, memory, and long distances."
 
 thumbnail:
   layout: duo
