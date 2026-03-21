@@ -472,7 +472,7 @@ bearing the quiet dignity of things carved to outlast history.
 
 **Patio De Los Leones Pic**
 
-![Windmills](/assets/images/spain/alhambra-patio-de-los-leones.jpg)
+![de Los Leones](/assets/images/spain/alhambra-patio-de-los-leones.jpg)
 
 The **Generalife** gardens unfold in terraces of green and water.  
 Cypress shadows, narrow steps, the sound of fountains tucked into corners.  
@@ -506,7 +506,7 @@ that even the roadside can feel like a scene.
 
 **del Paseo Pic**
 
-![NationalGeographic](/assets/images/spain/mirador-del-paseo.jpg)
+![Del Paseo](/assets/images/spain/mirador-del-paseo.jpg)
 
 Córdoba arrives in sunlight, its streets warming quickly.
 
@@ -533,7 +533,7 @@ as if offering its beauty one room at a time.
 
 *Patios Pic**
 
-![NationalGeographic](/assets/patios.jpg)
+![Patios](/assets/patios.jpg)
 
 By noon, the crowds gather.  
 Streets that were soft and quiet in the morning  
