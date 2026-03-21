@@ -21,12 +21,23 @@ image: /assets/images/social/fishnfly-og.jpg
 <section class="home-intro-cta" aria-label="Intro and link to Travel">
   <h2>Stories</h2>
   <p>
-    Stories are how travel becomes meaningful. These are not guides or recommendations, but narratives shaped by time on the ground.
+    Stories are how travel becomes meaningful. These are not guides or recommendations, but narratives shaped by time on the ground. 
     Please click the button below to go to the Travel pages.
   </p>
 
-   <a href="/travel.html" class="btn-primary">Go to Travel</a>
+  <!-- POETIC NOTE INSERTED BELOW -->
+  <div class="evolving-note">
+    <h3>A Living, Breathing Journey</h3>
+    <p>
+      These stories are part map, part memory—shaped not only by where I’ve been, but by where I am now.<br>
+      As new miles unfold beneath my feet and fresh horizons color my thoughts, the narrative here may shift, deepen, or take on new shades.<br>
+      I don’t rewrite the past; I let the journey add its own echoes.
+    </p>
+    <p>
+      So as you read, know that this is a travel chronicle still growing—alive with new winds, new waters, and the evolving perspective that every adventure brings.
+    </p>
+  </div>
+
+  <a href="/travel.html" class="btn-primary">Go to Travel</a>
 </section>
-
-
 
