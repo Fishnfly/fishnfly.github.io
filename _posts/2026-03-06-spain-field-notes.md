@@ -531,6 +531,10 @@ glimpses of water or tile that feel like the city exhaling between walls.
 Córdoba reveals itself in fragments,  
 as if offering its beauty one room at a time.
 
+*Patios Pic**
+
+![NationalGeographic](/assets/patios.jpg)
+
 By noon, the crowds gather.  
 Streets that were soft and quiet in the morning  
 grow thick with sound and movement.  
@@ -784,6 +788,10 @@ You sit at an outdoor table and order a simple meal,
 the kind that tastes better because the day has slowed.  
 Sunlight spills across the plaza, warming the stones beneath your feet,  
 a final reminder of Spain’s ability to gather you into a moment just by being itself.
+
+**Arch-Centro Pic**
+
+![NationalGeographic](/assets/images/spain/arch-midrid.jpg)
 
 In the morning now, you return toward the airport perimeter,  
 the light slanting long across the highway.  
