@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Spain"
+title: "Spain — Edges, Light, and Passing Landscapes"
 date: 2026-03-06
 categories: [travel]
-excerpt: "A movement across Spain — stone, wind, water, and memory shaping the journey more than any single site."
-subtitle: "Plateaus, cliffs, coastlines, and cities stitched by thresholds."
+excerpt: "A movement across cliffs, coasts, plateaus, and old stone — a journey shaped by thresholds, shifting weather, and the changing character of light."
+subtitle: "Wind, stone, quiet roads, and the spaces between."
 
 thumbnail:
   layout: duo
