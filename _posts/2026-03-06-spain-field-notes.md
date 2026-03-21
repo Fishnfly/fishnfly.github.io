@@ -533,7 +533,7 @@ as if offering its beauty one room at a time.
 
 *Patios Pic**
 
-![Patios](/assets/patios.jpg)
+![Patios](/assets/images/spain/patios.jpg)
 
 By noon, the crowds gather.  
 Streets that were soft and quiet in the morning  
