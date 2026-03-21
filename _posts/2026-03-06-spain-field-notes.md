@@ -789,8 +789,6 @@ the journey gathering itself into memory.
 
 **Return flight:** 
 
----
-
 </details>
 
 ---
