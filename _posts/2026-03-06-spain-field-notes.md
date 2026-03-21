@@ -791,7 +791,7 @@ a final reminder of Spain’s ability to gather you into a moment just by being 
 
 **Arch-Centro Pic**
 
-![Arch Centro](/assets/images/spain/arch-midrid.jpg)
+![Arch-Centro](/assets/images/spain/arch-madrid.jpg)
 
 In the morning now, you return toward the airport perimeter,  
 the light slanting long across the highway.  
