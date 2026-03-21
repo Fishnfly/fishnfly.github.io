@@ -342,7 +342,7 @@ Every detail is testimony.
 
 **Basilica Pic**
 
-![Basilica](/assets/images/spain/basilica-de-san-juan.jpg)
+![Basilica](/assets/images/spain/basílica-de-san-juan.jpg)
 
 Afternoon softens the city.  
 You wander through alleys that tangle and lift,  
