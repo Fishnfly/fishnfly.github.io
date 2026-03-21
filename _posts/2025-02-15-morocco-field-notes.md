@@ -166,7 +166,7 @@ Those moments lived in the margins, between plans.
 ## More Field Notes
 See other movements across landscapes:
 
-- [Spain — Field Notes]({% post_url 2026-03-06-spain-field-notes %})
+- [Spain — Edges, Light, and Passing Landscapes]({% post_url 2026-03-06-spain-field-notes %})
 - [Jordan & Egypt — Stone, Desert, Water]({% post_url 2026-02-22-jordan-egypt-field-notes %})
 - [Travel Index](/travel.html)
 
