@@ -75,7 +75,7 @@ It’s about noticing more of what you see.
 ## More Field Notes
 See other movements across landscapes:
 
-- [Spain — Field Notes]({% post_url 2026-03-06-spain-field-notes %})
+- [Spain — Edges, Light, and Passing Landscapes]({% post_url 2026-03-06-spain-field-notes %})
 - [Jordan & Egypt — Stone, Desert, Water]({% post_url 2026-02-22-jordan-egypt-field-notes %})
 - [Morocco — Mountains & Markets]({% post_url 2025-02-15-morocco-field-notes %})
 - [Travel Index](/travel.html)
