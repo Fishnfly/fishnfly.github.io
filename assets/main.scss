@@ -305,11 +305,10 @@
 
 .hero-image {
   width: 100%;
-  height: auto;
-  display: block;
-  object-position: center top; /* ← THIS FIXES LAPTOP CROPPING */
+  height: 65vh;
   object-fit: cover;
-  max-height: 450px;
+  object-position: center top;
+  display: block;
   filter: brightness(0.85);
 }
 
