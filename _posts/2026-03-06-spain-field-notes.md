@@ -428,6 +428,10 @@ The city drops away behind you.
 And then —  
 you break out onto **Vista Panorámica Silla del Moro**.
 
+**TVista Pic**
+
+!del Morro](/assets/images/spain/vista-del-morro.jpg)
+
 An accidental summit.  
 A vantage you couldn’t have planned.  
 The Alhambra below you in full morning light —  
