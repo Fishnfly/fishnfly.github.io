@@ -428,9 +428,9 @@ The city drops away behind you.
 And then —  
 you break out onto **Vista Panorámica Silla del Moro**.
 
-**TVista Pic**
+**Vista Pic**
 
-!del Morro](/assets/images/spain/vista-del-morro.jpg)
+![del Morro](/assets/images/spain/vista-del-morro.jpg)
 
 An accidental summit.  
 A vantage you couldn’t have planned.  
