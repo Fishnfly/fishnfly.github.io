@@ -205,6 +205,10 @@ The **City of Arts and Sciences** rises in pale, bone‑white curves,
 structures that seem half terrestrial, half dream —  
 even the future feels subdued beneath the storm‑colored vault.
 
+**City of Arts & Science Pic**
+
+![City os Arts](/assets/images/spain/city-of-arts.jpg)
+
 Evening gathers at the **Torres de Serranos**,  
 stones darkening as clouds thicken.
 
@@ -788,6 +792,12 @@ the journey gathering itself into memory.
 ---
 
 </details>
+
+---
+
+**Spain Landscape Pic**
+
+![Spain Landscape](/assets/images/spain/spain-landscape-4.jpg)
 
 ---
 
