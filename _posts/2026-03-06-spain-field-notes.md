@@ -340,6 +340,10 @@ like a vein of faith that erupted upward into a building.
 Every surface is intent.  
 Every detail is testimony.
 
+**Basilica Pic**
+
+![Basicila](/assets/images/spain/basicila-de-san-juan.jpg)
+
 Afternoon softens the city.  
 You wander through alleys that tangle and lift,  
 past tea houses, old walls,  
