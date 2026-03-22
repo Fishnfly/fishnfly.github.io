@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jordan & Egypt — Stone, Desert, and Water"
+dek: "Following ancient paths across a land shaped by silence, stone, and unexpected warmth."
 date: 2026-02-22
 categories: [travel]
 excerpt: "A movement across canyons, valleys, deserts, and the Nile — a journey shaped by carved stone, shifting sand, and the slow certainty of water."
