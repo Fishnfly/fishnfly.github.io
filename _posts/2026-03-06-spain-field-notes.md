@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Spain — Edges, Light, and Passing Landscapes"
+dek: *Tracing the edges of a country where history, landscape, and identity collide.*
 date: 2026-03-06
 categories: [travel]
 excerpt: "A movement across cliffs, coasts, plateaus, and old stone — a journey shaped by thresholds, shifting weather, and the changing character of light."
