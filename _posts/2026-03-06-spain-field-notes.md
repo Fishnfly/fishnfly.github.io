@@ -505,7 +505,7 @@ yet the whole landscape widens from it.
 A pause, a breath, a reminder  
 that even the roadside can feel like a scene.
 
-**del Paseo Pic**
+**Del Paseo Pic**
 
 ![Del Paseo](/assets/images/spain/mirador-del-paseo.jpg)
 
@@ -532,7 +532,7 @@ glimpses of water or tile that feel like the city exhaling between walls.
 Córdoba reveals itself in fragments,  
 as if offering its beauty one room at a time.
 
-*Patios Pic**
+**Patios Pic**
 
 ![Patios](/assets/images/spain/patios.jpg)
 
