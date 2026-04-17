@@ -10,6 +10,7 @@ header_pages:
   - travel.md
   - stories.md
   - contact.md
+  - photo-archive.md
 
 footer:
   show_powered_by: false
