@@ -9,8 +9,8 @@ header_pages:
   - about.md
   - travel.md
   - stories.md
-  - contact.md
   - photo-archive.md
+  - contact.md
 
 footer:
   show_powered_by: false
