@@ -32,22 +32,13 @@ Patience in the walls. Weight in the air.
     <a href="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}" alt="Spain 3">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" alt="Spain 4">
-    </a>
-    <a href="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}">
+      <a href="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}" alt="Spain 5">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}" alt="Spain 6">
-    </a>
-    <a href="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}">
+      <a href="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}" alt="Spain 7">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-8.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-8.jpg' | relative_url }}" alt="Spain 8">
-    </a>
-    <a href="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}">
+       <a href="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}" alt="Spain 9">
     </a>
     <a href="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}">
@@ -113,6 +104,15 @@ Patience in the walls. Weight in the air.
      <a href="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}" alt="Spain 30">
         </a>
+      <a href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" alt="Spain 4">
+    </a>
+    <a href="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}" alt="Spain 6">
+    </a>
+     <a href="{{ '/assets/photos/spain/spain-8.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/spain/spain-8.jpg' | relative_url }}" alt="Spain 8">
+    </a>
   </div>
 </details>
 
