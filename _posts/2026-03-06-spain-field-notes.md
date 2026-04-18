@@ -902,6 +902,9 @@ This wasn’t a trip about covering Spain.
 It was a trip about understanding how Spain reveals itself—  
 one threshold at a time.
 
+*Field photographs from this journey:*  
+[View the photo archive](/photo-archive/#spain)
+
 ---
 
 ## More Field Notes
@@ -909,7 +912,4 @@ See other movements across landscapes:
 - [Jordan & Egypt — Stone, Desert, Water]({% post_url 2026-02-22-jordan-egypt-field-notes %})
 - [Morocco — Mountains & Markets]({% post_url 2025-02-15-morocco-field-notes %})
 - [Travel Index](/travel.html)
-
-*Field photographs from this journey:*  
-[View the photo archive](/photo-archive/#spain)
 
