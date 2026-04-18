@@ -109,3 +109,102 @@ Patience in the walls. Weight in the air.
   </div>
 </details>
 
+---
+
+<a id="jordan"></a>
+## Jordan
+
+Heat and stone. Long distances compressed into silence.  
+Edges worn smooth by time.
+
+<details class="photo-fold">
+  <summary>Open field photographs from this journey</summary>
+
+  <div class="photo-grid">
+    <a href="{{ '/assets/photos/jordan/jordan-1.jpg'  | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-1.jpg'  | relative_url }}" alt="Jordan 1">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-2.jpg'  | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-2.jpg'  | relative_url }}" alt="Jordan 2">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-3.jpg'  | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-3.jpg'  | relative_url }}" alt="Jordan 3">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-4.jpg'  | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-4.jpg'  | relative_url }}" alt="Jordan 4">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-5.jpg'  | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-5.jpg'  | relative_url }}" alt="Jordan 5">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-6.jpg'  | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-6.jpg'  | relative_url }}" alt="Jordan 6">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-7.jpg'  | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-7.jpg'  | relative_url }}" alt="Jordan 7">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-8.jpg'  | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-8.jpg'  | relative_url }}" alt="Jordan 8">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-9.jpg'  | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-9.jpg'  | relative_url }}" alt="Jordan 9">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-10.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-10.jpg' | relative_url }}" alt="Jordan 10">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-11.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-11.jpg' | relative_url }}" alt="Jordan 11">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-12.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-12.jpg' | relative_url }}" alt="Jordan 12">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-13.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-13.jpg' | relative_url }}" alt="Jordan 13">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-14.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-14.jpg' | relative_url }}" alt="Jordan 14">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}" alt="Jordan 15">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-16.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-16.jpg' | relative_url }}" alt="Jordan 16">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}" alt="Jordan 17">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}" alt="Jordan 18">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}" alt="Jordan 19">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-20.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-20.jpg' | relative_url }}" alt="Jordan 20">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}" alt="Jordan 21">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}" alt="Jordan 22">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}" alt="Jordan 23">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}" alt="Jordan 24">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}" alt="Jordan 25">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-26.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-26.jpg' | relative_url }}" alt="Jordan 26">
+    </a>
+    <a href="{{ '/assets/photos/jordan/jordan-27.jpg' | relative_url }}">
+      <img src="{{ '/assets/photos/jordan/jordan-27.jpg' | relative_url }}" alt="Jordan 27">
+    </a>
+  </div>
+</details>
+
+---
+
+
