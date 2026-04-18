@@ -503,11 +503,30 @@ body.home .post-header {
 body.home .post-header {
   display: none !important; /* hides the page title pushing the hero down */
 }
-
 /* Ensure hero hits the very top */
 body.home .hero {
   margin-top: 0 !important;
   padding-top: 0 !important;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 14px;
+  margin: 2.5rem 0;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  opacity: 0.88;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.photo-grid img:hover {
+  transform: scale(1.06);
+  opacity: 1;
 }
 
 
