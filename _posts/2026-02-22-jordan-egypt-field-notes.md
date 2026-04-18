@@ -105,6 +105,11 @@ Kerak, situated on the King's Way. The city is known for its Crusader Kerak Cast
 
 ---
 
+Field photographs from this journey:*  
+/photo-archive/#jordan
+
+---
+
 **Day 7 · Flight to Egypt → Cairo**  
 Arrive, settle, evening orientation.  
 **Overnight:** Cairo
