@@ -18,6 +18,22 @@ What you’ll find here are small collections, grouped by journey, labeled plain
 Stone cities, narrow streets, long shadows.  
 Patience in the walls. Weight in the air.
 
-(Spain‑1 to Spain‑8)
-
 ---
+
+<a href="/assets/photos/spain/spain-1.jpg">
+  <img src="/assets/photos/spain/spain-1.jpg" alt="Spain-1">  
+<a href="/assets/photos/spain/spain-2.jpg">
+  <img src="/assets/photos/spain/spain-2.jpg" alt="Spain-2">  
+<a href="/assets/photos/spain/spain-3.jpg">
+  <img src="/assets/photos/spain/spain-3.jpg" alt="Spain-3">  
+<a href="/assets/photos/spain/spain-4.jpg">
+  <img src="/assets/photos/spain/spain-4.jpg" alt="Spain-4">
+<a href="/assets/photos/spain/spain-5.jpg">
+  <img src="/assets/photos/spain/spain-5.jpg" alt="Spain-5">
+<a href="/assets/photos/spain/spain-6.jpg">
+  <img src="/assets/photos/spain/spain-6.jpg" alt="Spain-6">
+<a href="/assets/photos/spain/spain-7.jpg">
+  <img src="/assets/photos/spain/spain-7.jpg" alt="Spain-7">
+<a href="/assets/photos/spain/spain-8.jpg">
+  <img src="/assets/photos/spain/spain-8.jpg" alt="Spain-8">
+</a>
