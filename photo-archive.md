@@ -18,6 +18,6 @@ What you’ll find here are small collections, grouped by journey, labeled plain
 Stone cities, narrow streets, long shadows.  
 Patience in the walls. Weight in the air.
 
-(Spain‑1 to Spain‑N)
+(Spain‑1 to Spain‑8)
 
 ---
