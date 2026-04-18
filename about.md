@@ -1,6 +1,7 @@
 
 ---
-title: ""
+layout: page
+title: About
 ---
 
 # **Why We Travel**  
