@@ -909,3 +909,6 @@ See other movements across landscapes:
 - [Jordan & Egypt — Stone, Desert, Water]({% post_url 2026-02-22-jordan-egypt-field-notes %})
 - [Morocco — Mountains & Markets]({% post_url 2025-02-15-morocco-field-notes %})
 - [Travel Index](/travel.html)
+
+Photographs from this journey live here:  
+/photo-archive/#spain
