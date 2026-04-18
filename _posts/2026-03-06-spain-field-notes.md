@@ -910,5 +910,6 @@ See other movements across landscapes:
 - [Morocco — Mountains & Markets]({% post_url 2025-02-15-morocco-field-notes %})
 - [Travel Index](/travel.html)
 
-Photographs from this journey live here:  
-/photo-archive/#spain
+*Field photographs from this journey:*  
+[View the photo archive](/photo-archive/#spain)
+
