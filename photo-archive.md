@@ -4,7 +4,7 @@ title: Photo Archive
 permalink: /photo-archive/
 ---
 
-These photographs live alongside the written journeys.
+These additional photographs live alongside the written journeys.
 
 They are not illustrations of the stories, nor substitutes for them—just fragments that remained after the words were done. Some moments resist explanation. Others don’t need it.
 
