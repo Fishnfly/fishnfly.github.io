@@ -82,7 +82,6 @@ Patience in the walls. Weight in the air.
      <a href="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}" alt="Spain 30">
         </a>    
-        </a>
      <a href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" alt="Spain 4">
     </a>
@@ -101,10 +100,7 @@ Patience in the walls. Weight in the air.
     <a href="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}" alt="Spain 19">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-20.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-20.jpg' | relative_url }}" alt="Spain 20">
-    </a>
-     <a href="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}">
+    <a href="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}" alt="Spain 23">
         </a>
      <a href="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}">
