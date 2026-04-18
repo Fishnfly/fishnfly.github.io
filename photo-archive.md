@@ -12,7 +12,6 @@ What you’ll find here are small collections, grouped by journey, labeled plain
 
 ---
 
-
 <a id="spain"></a>
 ## Spain
 
@@ -83,8 +82,10 @@ Patience in the walls. Weight in the air.
      <a href="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}" alt="Spain 30">
         </a>
-        </a>
-      <a href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}">
+
+    ---
+
+     <a href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" alt="Spain 4">
     </a>
     <a href="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}">
