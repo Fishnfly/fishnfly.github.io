@@ -238,6 +238,11 @@ Optional museum and market visits.
 
 ---
 
+*Field photographs from this journey:*  
+[View the photo archive](/photo-archive/#egypt)
+
+---
+
 ## Afterthoughts
 
 This wasn’t a trip of checklists. It was a movement through elements—stone, desert, water—and the way those elements shape how you move. Jordan teaches you to slow down in canyons and on ridgelines; Egypt asks you to release control and let the river carry the story. Together they create a single cadence: walk, wait, watch, drift.
