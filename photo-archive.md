@@ -228,4 +228,56 @@ Edges worn smooth by time.
 
 ---
 
+<a id="egypt"></a>
+## Egypt
+
+Scale without apology. Lives layered over deep time.  
+Nothing small. Nothing quiet.
+
+<details class="photo-fold">
+  <summary>Open field photographs from this journey</summary>
+
+  <div class="photo-grid">
+    <a href="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}" alt="Egypt 1"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}" alt="Egypt 2"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-3.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-3.jpg'  | relative_url }}" alt="Egypt 3"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-4.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-4.jpg'  | relative_url }}" alt="Egypt 4"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-5.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-5.jpg'  | relative_url }}" alt="Egypt 5"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-6.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-6.jpg'  | relative_url }}" alt="Egypt 6"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-7.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-7.jpg'  | relative_url }}" alt="Egypt 7"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-8.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-8.jpg'  | relative_url }}" alt="Egypt 8"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-9.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-9.jpg'  | relative_url }}" alt="Egypt 9"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-10.jpg' | relative_url }}" alt="Egypt 10"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-11.jpg' | relative_url }}" alt="Egypt 11"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-12.jpg' | relative_url }}" alt="Egypt 12"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-13.jpg' | relative_url }}" alt="Egypt 13"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-14.jpg' | relative_url }}" alt="Egypt 14"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-15.jpg' | relative_url }}" alt="Egypt 15"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-16.jpg' | relative_url }}" alt="Egypt 16"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-17.jpg' | relative_url }}" alt="Egypt 17"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-18.jpg' | relative_url }}" alt="Egypt 18"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-19.jpg' | relative_url }}" alt="Egypt 19"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-20.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-20.jpg' | relative_url }}" alt="Egypt 20"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-21.jpg' | relative_url }}" alt="Egypt 21"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-22.jpg' | relative_url }}" alt="Egypt 22"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-23.jpg' | relative_url }}" alt="Egypt 23"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-24.jpg' | relative_url }}" alt="Egypt 24"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-25.jpg' | relative_url }}" alt="Egypt 25"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-26.jpg' | relative_url }}" alt="Egypt 26"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-27.jpg' | relative_url }}" alt="Egypt 27"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-28.jpg' | relative_url }}" alt="Egypt 28"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-29.jpg' | relative_url }}" alt="Egypt 29"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-30.jpg' | relative_url }}" alt="Egypt 30"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-31.jpg' | relative_url }}" alt="Egypt 31"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-32.jpg' | relative_url }}" alt="Egypt 32"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}" alt="Egypt 33"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}" alt="Egypt 34"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}" alt="Egypt 35"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" alt="Egypt 36"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-37.jpg' | relative_url }}" alt="Egypt 37"></a>
+  </div>
+</details>
+
+---
+
 
