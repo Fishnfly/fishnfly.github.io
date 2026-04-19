@@ -280,4 +280,160 @@ Nothing small. Nothing quiet.
 
 ---
 
+<a id="morocco"></a>
+## Morocco
+
+Variation without rupture. Registers shifting in close proximity.  
+Nothing fixed. Everything practiced.
+
+<details class="photo-fold">
+  <summary>Open field photographs from this journey</summary>
+  
+<a href="{{ '/assets/photos/morocco/morco-11.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-11.jpg' | relative_url }}" alt="Morocco 11">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}" alt="Morocco 12">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}" alt="Morocco 13">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}" alt="Morocco 14">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}" alt="Morocco 15">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}" alt="Morocco 16">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}" alt="Morocco 17">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-18.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-18.jpg' | relative_url }}" alt="Morocco 18">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-19.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-19.jpg' | relative_url }}" alt="Morocco 19">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-20.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-20.jpg' | relative_url }}" alt="Morocco 20">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-21.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-21.jpg' | relative_url }}" alt="Morocco 21">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-22.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-22.jpg' | relative_url }}" alt="Morocco 22">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-23.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-23.jpg' | relative_url }}" alt="Morocco 23">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-24.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-24.jpg' | relative_url }}" alt="Morocco 24">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-25.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-25.jpg' | relative_url }}" alt="Morocco 25">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-26.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-26.jpg' | relative_url }}" alt="Morocco 26">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-27.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-27.jpg' | relative_url }}" alt="Morocco 27">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-28.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-28.jpg' | relative_url }}" alt="Morocco 28">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-29.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-29.jpg' | relative_url }}" alt="Morocco 29">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-30.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-30.jpg' | relative_url }}" alt="Morocco 30">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-31.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-31.jpg' | relative_url }}" alt="Morocco 31">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-32.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-32.jpg' | relative_url }}" alt="Morocco 32">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-33.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-33.jpg' | relative_url }}" alt="Morocco 33">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-34.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-34.jpg' | relative_url }}" alt="Morocco 34">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-35.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-35.jpg' | relative_url }}" alt="Morocco 35">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-36.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-36.jpg' | relative_url }}" alt="Morocco 36">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}" alt="Morocco 37">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-38.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-38.jpg' | relative_url }}" alt="Morocco 38">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-39.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-39.jpg' | relative_url }}" alt="Morocco 39">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-40.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-40.jpg' | relative_url }}" alt="Morocco 40">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-41.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-41.jpg' | relative_url }}" alt="Morocco 41">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-42.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-42.jpg' | relative_url }}" alt="Morocco 42">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-43.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-43.jpg' | relative_url }}" alt="Morocco 43">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-44.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-44.jpg' | relative_url }}" alt="Morocco 44">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-45.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-45.jpg' | relative_url }}" alt="Morocco 45">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-46.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-46.jpg' | relative_url }}" alt="Morocco 46">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-47.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-47.jpg' | relative_url }}" alt="Morocco 47">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-48.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-48.jpg' | relative_url }}" alt="Morocco 48">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-49.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-49.jpg' | relative_url }}" alt="Morocco 49">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-50.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-50.jpg' | relative_url }}" alt="Morocco 50">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-51.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-51.jpg' | relative_url }}" alt="Morocco 51">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-52.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-52.jpg' | relative_url }}" alt="Morocco 52">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-53.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-53.jpg' | relative_url }}" alt="Morocco 53">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-54.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-54.jpg' | relative_url }}" alt="Morocco 54">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-55.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-55.jpg' | relative_url }}" alt="Morocco 55">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-56.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-56.jpg' | relative_url }}" alt="Morocco 56">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-57.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-57.jpg' | relative_url }}" alt="Morocco 57">
+</a>
+<a href="{{ '/assets/photos/morocco/morco-58.jpg' | relative_url }}">
+  <img src="{{ '/assets/photos/morocco/morco-58.jpg' | relative_url }}" alt="Morocco 58">
+</a>
+    </a>
+  </div>
+</details>
 
