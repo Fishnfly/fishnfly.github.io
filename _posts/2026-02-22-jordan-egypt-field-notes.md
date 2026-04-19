@@ -105,7 +105,7 @@ Kerak, situated on the King's Way. The city is known for its Crusader Kerak Cast
 
 ---
 
-*Field photographs from this journey:*  
+*Field photographs from the Jordan journey:*  
 [View the photo archive](/photo-archive/#jordan)
 
 ---
@@ -238,7 +238,7 @@ Optional museum and market visits.
 
 ---
 
-*Field photographs from this journey:*  
+*Field photographs from the Egypt journey:*  
 [View the photo archive](/photo-archive/#egypt)
 
 ---
