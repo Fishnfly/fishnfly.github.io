@@ -245,12 +245,12 @@ Nothing small. Nothing quiet.
     <a href="{{ '/assets/photos/egypt/egypt-5.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-5.jpg'  | relative_url }}" alt="Egypt 5"></a>
     <a href="{{ '/assets/photos/egypt/egypt-6.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-6.jpg'  | relative_url }}" alt="Egypt 6"></a>
     <a href="{{ '/assets/photos/egypt/egypt-7.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-7.jpg'  | relative_url }}" alt="Egypt 7"></a>
-    <a href="{{ '/assets/photos/egypt/egypt-8.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-8.jpg'  | relative_url }}" alt="Egypt 8"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-13.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-13.jpg'  | relative_url }}" alt="Egypt 13"></a>
     <a href="{{ '/assets/photos/egypt/egypt-9.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-9.jpg'  | relative_url }}" alt="Egypt 9"></a>
     <a href="{{ '/assets/photos/egypt/egypt-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-10.jpg' | relative_url }}" alt="Egypt 10"></a>
     <a href="{{ '/assets/photos/egypt/egypt-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-11.jpg' | relative_url }}" alt="Egypt 11"></a>
     <a href="{{ '/assets/photos/egypt/egypt-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-12.jpg' | relative_url }}" alt="Egypt 12"></a>
-    <a href="{{ '/assets/photos/egypt/egypt-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-13.jpg' | relative_url }}" alt="Egypt 13"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-8.jpg' | relative_url }}" alt="Egypt 8"></a>
     <a href="{{ '/assets/photos/egypt/egypt-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-14.jpg' | relative_url }}" alt="Egypt 14"></a>
     <a href="{{ '/assets/photos/egypt/egypt-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-15.jpg' | relative_url }}" alt="Egypt 15"></a>
     <a href="{{ '/assets/photos/egypt/egypt-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-16.jpg' | relative_url }}" alt="Egypt 16"></a>
