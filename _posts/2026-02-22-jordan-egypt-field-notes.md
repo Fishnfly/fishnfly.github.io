@@ -233,8 +233,8 @@ Optional museum and market visits.
 
 ---
 
-*Field photographs from the Egypt journey:*  
-[View the photo archive](/photo-archive/#egypt)
+*Field photographs from the Jordan | Egypt journey:*  
+[View the photo archive](/photo-archive/#jordan)
 
 ---
 
