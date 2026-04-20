@@ -18,7 +18,7 @@ thumbnail:
   alt: "Hot‑air balloon at dawn over Morocco’s desert"
 ---
 
-## The Underlying Thread — Morocco and the Logic of Adaptation
+## The Underlying Thread — Morocco and Adaptation
 
 Morocco does not rest on a single story. Its coherence comes not from continuity or borders, but from adaptation — a learned intelligence shaped by trade, terrain, climate, and repetition. This is a country long accustomed to transition: caravans crossing open land, cities forming around gates rather than centers, daily life shaped by adjustment rather than permanence.
 
