@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Stories
+layout: redirect
 permalink: /stories/
+redirect_to: /travel/
 ---
+
 
 Stories are how travel becomes meaningful. These are not guides or recommendations, but narratives shaped by time on the ground.
 
