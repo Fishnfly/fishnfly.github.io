@@ -163,7 +163,7 @@ Majorelle Gardens, Koutoubia, Bahia Palace, Saadian Tombs, and Djemaa el‑Fna.
 
 **Day 12 · Marrakesh (Open Day)**  
 Optional sunrise hot‑air balloon flight (see link) or open exploration.  
-- [Balloon Ride](/stories/morocco-before-sunrise.html)
+- [Balloon Ride](/story-content/morocco-before-sunrise.html)
 **Overnight:** Marrakesh
 
 ---
