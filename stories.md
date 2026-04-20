@@ -1,29 +1,13 @@
----
-layout: redirect
-permalink: /stories/
-redirect_to: /travel/
----
-
-
-Stories are how travel becomes meaningful. These are not guides or recommendations, but narratives shaped by time on the ground.
-
-## All Stories
-
-<div class="card-grid">
-  {%- for post in site.posts -%}
-    <article class="card">
-      <a class="card-link" href="{{ post.url | relative_url }}">
-        {%- if post.image -%}
-          <img class="card-img" src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}">
-        {%- else -%}
-          <div class="card-img placeholder" aria-hidden="true"></div>
-        {%- endif -%}
-
-        <h3 class="card-title">{{ post.title | escape }}</h3>
-        <p class="card-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-      </a>
-    </article>
-  {%- endfor -%}
-</div>
-
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <meta http-equiv="refresh" content="0; url=/travel/" />
+    <link rel="canonical" href="https://fishnfly.net/travel/" />
+  </head>
+  <body>
+    <p>Redirecting to <a href="/travel/">Travel</a>…</p>
+  </body>
+</html>
+``
