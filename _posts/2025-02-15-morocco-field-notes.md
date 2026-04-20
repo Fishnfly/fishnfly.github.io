@@ -231,7 +231,7 @@ It was a trip about learning how differently a place can move — without ever l
 
 ---
 
-*Field photographs from the Jordan journey:*  
+*Field photographs from the Morocco journey:*  
 [View the photo archive](/photo-archive/#morocco)
 
 ---
