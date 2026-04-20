@@ -8,7 +8,6 @@ image: /assets/images/social/fishnfly-og.jpg
 header_pages:
   - about.md
   - travel.md
-  - stories.md
   - photo-archive.md
   - contact.md
 
