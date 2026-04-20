@@ -288,67 +288,66 @@ Nothing fixed. Everything practiced.
 
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
-  
- <div class="photo-grid">
-    {{ '/assets/photos/morocco/moroc-1.jpg'  | relative_url }}{{ '/assets/photos/morocco/moroc-1.jpg'  | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-2.jpg'  | relative_url }}{{ '/assets/photos/morocco/moroc-2.jpg'  | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-3.jpg'  | relative_url }}{{ '/assets/photos/morocco/moroc-3.jpg'  | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-4.jpg'  | relative_url }}{{ '/assets/photos/morocco/moroc-4.jpg'  | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-5.jpg'  | relative_url }}{{ '/assets/photos/morocco/moroc-5.jpg'  | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-6.jpg'  | relative_url }}{{ '/assets/photos/morocco/moroc-6.jpg'  | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-7.jpg'  | relative_url }}{{ '/assets/photos/morocco/moroc-7.jpg'  | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-8.jpg'  | relative_url }}{{ '/assets/photos/morocco/moroc-8.jpg'  | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-9.jpg'  | relative_url }}{{ '/assets/photos/morocco/moroc-9.jpg'  | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-10.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-10.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-11.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-11.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-12.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-12.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-13.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-13.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-14.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-14.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-15.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-15.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-16.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-16.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-17.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-17.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-18.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-18.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-19.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-19.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-20.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-20.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-21.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-21.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-22.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-22.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-23.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-23.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-24.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-24.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-25.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-25.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-26.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-26.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-27.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-27.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-28.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-28.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-29.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-29.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-30.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-30.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-31.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-31.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-32.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-32.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-33.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-33.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-34.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-34.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-35.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-35.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-36.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-36.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-37.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-37.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-38.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-38.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-39.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-39.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-40.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-40.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-41.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-41.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-42.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-42.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-43.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-43.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-44.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-44.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-45.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-45.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-46.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-46.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-47.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-47.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-48.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-48.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-49.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-49.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-50.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-50.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-51.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-51.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-52.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-52.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-53.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-53.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-54.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-54.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-55.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-55.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-56.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-56.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-57.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-57.jpg' | relative_url }}</a>
-    {{ '/assets/photos/morocco/moroc-58.jpg' | relative_url }}{{ '/assets/photos/morocco/moroc-58.jpg' | relative_url }}</a>
-  </div>
+<div class="photo-grid">
+  <a href="{{ '/assets/photos/morocco/moroc-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-1.jpg' | relative_url }}" loading="lazy" alt="Morocco 1"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-2.jpg' | relative_url }}" loading="lazy" alt="Morocco 2"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-3.jpg' | relative_url }}" loading="lazy" alt="Morocco 3"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-4.jpg' | relative_url }}" loading="lazy" alt="Morocco 4"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-5.jpg' | relative_url }}" loading="lazy" alt="Morocco 5"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-6.jpg' | relative_url }}" loading="lazy" alt="Morocco 6"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-7.jpg' | relative_url }}" loading="lazy" alt="Morocco 7"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-8.jpg' | relative_url }}" loading="lazy" alt="Morocco 8"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-9.jpg' | relative_url }}" loading="lazy" alt="Morocco 9"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-10.jpg' | relative_url }}" loading="lazy" alt="Morocco 10"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-11.jpg' | relative_url }}" loading="lazy" alt="Morocco 11"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-12.jpg' | relative_url }}" loading="lazy" alt="Morocco 12"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-13.jpg' | relative_url }}" loading="lazy" alt="Morocco 13"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-14.jpg' | relative_url }}" loading="lazy" alt="Morocco 14"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-15.jpg' | relative_url }}" loading="lazy" alt="Morocco 15"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-16.jpg' | relative_url }}" loading="lazy" alt="Morocco 16"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-17.jpg' | relative_url }}" loading="lazy" alt="Morocco 17"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-18.jpg' | relative_url }}" loading="lazy" alt="Morocco 18"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-19.jpg' | relative_url }}" loading="lazy" alt="Morocco 19"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-20.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-20.jpg' | relative_url }}" loading="lazy" alt="Morocco 20"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-21.jpg' | relative_url }}" loading="lazy" alt="Morocco 21"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-22.jpg' | relative_url }}" loading="lazy" alt="Morocco 22"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-23.jpg' | relative_url }}" loading="lazy" alt="Morocco 23"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-24.jpg' | relative_url }}" loading="lazy" alt="Morocco 24"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-25.jpg' | relative_url }}" loading="lazy" alt="Morocco 25"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-26.jpg' | relative_url }}" loading="lazy" alt="Morocco 26"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-27.jpg' | relative_url }}" loading="lazy" alt="Morocco 27"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-28.jpg' | relative_url }}" loading="lazy" alt="Morocco 28"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-29.jpg' | relative_url }}" loading="lazy" alt="Morocco 29"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-30.jpg' | relative_url }}" loading="lazy" alt="Morocco 30"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-31.jpg' | relative_url }}" loading="lazy" alt="Morocco 31"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-32.jpg' | relative_url }}" loading="lazy" alt="Morocco 32"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-33.jpg' | relative_url }}" loading="lazy" alt="Morocco 33"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-34.jpg' | relative_url }}" loading="lazy" alt="Morocco 34"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-35.jpg' | relative_url }}" loading="lazy" alt="Morocco 35"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-36.jpg' | relative_url }}" loading="lazy" alt="Morocco 36"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-37.jpg' | relative_url }}" loading="lazy" alt="Morocco 37"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-38.jpg' | relative_url }}" loading="lazy" alt="Morocco 38"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-39.jpg' | relative_url }}" loading="lazy" alt="Morocco 39"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-40.jpg' | relative_url }}" loading="lazy" alt="Morocco 40"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-41.jpg' | relative_url }}" loading="lazy" alt="Morocco 41"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-42.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-42.jpg' | relative_url }}" loading="lazy" alt="Morocco 42"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-43.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-43.jpg' | relative_url }}" loading="lazy" alt="Morocco 43"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-44.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-44.jpg' | relative_url }}" loading="lazy" alt="Morocco 44"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-45.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-45.jpg' | relative_url }}" loading="lazy" alt="Morocco 45"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-46.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-46.jpg' | relative_url }}" loading="lazy" alt="Morocco 46"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-47.jpg' | relative_url }}" loading="lazy" alt="Morocco 47"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-48.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-48.jpg' | relative_url }}" loading="lazy" alt="Morocco 48"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-49.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-49.jpg' | relative_url }}" loading="lazy" alt="Morocco 49"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-50.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-50.jpg' | relative_url }}" loading="lazy" alt="Morocco 50"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-51.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-51.jpg' | relative_url }}" loading="lazy" alt="Morocco 51"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-52.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-52.jpg' | relative_url }}" loading="lazy" alt="Morocco 52"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-53.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-53.jpg' | relative_url }}" loading="lazy" alt="Morocco 53"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-54.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-54.jpg' | relative_url }}" loading="lazy" alt="Morocco 54"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-55.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-55.jpg' | relative_url }}" loading="lazy" alt="Morocco 55"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-56.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-56.jpg' | relative_url }}" loading="lazy" alt="Morocco 56"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-57.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-57.jpg' | relative_url }}" loading="lazy" alt="Morocco 57"></a>
+  <a href="{{ '/assets/photos/morocco/moroc-58.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/moroc-58.jpg' | relative_url }}" loading="lazy" alt="Morocco 58"></a>
+</div>
 </details>
 
----
+``
