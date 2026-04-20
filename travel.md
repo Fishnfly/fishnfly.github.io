@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Travel"
-permalink: /travel.html
+permalink: /travel/
 ---
 
 <!-- Intro narrative FIRST -->
