@@ -194,9 +194,9 @@ Transfer to the airport and depart Morocco.
 
 ---
 
-**Sunset on the Coast Pic**
+**Sunset-Dessert Pic**
 
-![Sunset](/assets/images/morocco/beach-sunset-25.jpg)
+![Sunset-Dessert](/assets/img/mockups/anchor-morocco.jpg)
 
 ---
 
