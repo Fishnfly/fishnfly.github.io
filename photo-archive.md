@@ -274,7 +274,16 @@ Nothing small. Nothing quiet.
     <a href="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}" loading="lazy" alt="Egypt 34"></a>
     <a href="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}" loading="lazy" alt="Egypt 35"></a>
     <a href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"></a>
-    <a href="{{ '/assets/photos/egypt/egypt-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-37.jpg' | relative_url }}" loading="lazy" alt="Egypt 37"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}" loading="lazy" alt="Egypt 38"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}" loading="lazy" alt="Egypt 39"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}" loading="lazy" alt="Egypt 40"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}" loading="lazy" alt="Egypt 41"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-42.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-42.jpg' | relative_url }}" loading="lazy" alt="Egypt 42"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-43.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-43.jpg' | relative_url }}" loading="lazy" alt="Egypt 43"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-44.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-44.jpg' | relative_url }}" loading="lazy" alt="Egypt 44"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-45.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-45.jpg' | relative_url }}" loading="lazy" alt="Egypt 45"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-46.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-46.jpg' | relative_url }}" loading="lazy" alt="Egypt 46"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}" loading="lazy" alt="Egypt 47"></a>
   </div>
 </details>
 

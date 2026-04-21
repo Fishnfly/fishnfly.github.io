@@ -21,7 +21,7 @@ thumbnail:
   
   # Hero image (mockup)
 hero_image: /assets/img/mockups/anchor.jpg
-hero_alt: "pyramid"
+hero_alt: "eyes"
 
 ---
 
