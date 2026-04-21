@@ -274,6 +274,7 @@ Nothing small. Nothing quiet.
     <a href="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}" loading="lazy" alt="Egypt 34"></a>
     <a href="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}" loading="lazy" alt="Egypt 35"></a>
     <a href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"></a>
+    <a href="{{ '/assets/photos/egypt/egypt-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-37.jpg' | relative_url }}" loading="lazy" alt="Egypt 37"></a>
     <a href="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}" loading="lazy" alt="Egypt 38"></a>
     <a href="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}" loading="lazy" alt="Egypt 39"></a>
     <a href="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}" loading="lazy" alt="Egypt 40"></a>
