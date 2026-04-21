@@ -40,5 +40,5 @@ But the memory didn’t.
 ---
 
 **Related**
-- [Travel Index](/travel.html)
+- [Travel Index](/travel/)
 

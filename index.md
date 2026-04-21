@@ -38,6 +38,6 @@ image: /assets/images/social/fishnfly-og.jpg
     </p>
   </div>
 
-  <a href="/travel.html" class="btn-primary">Go to Travel</a>
+  <a href="/travel/" class="btn-primary">Go to Travel</a>
 </section>
 

@@ -912,5 +912,5 @@ See other movements across landscapes:
 - [Jordan & Egypt — Stone, Desert, Water]({% post_url 2026-02-22-jordan-egypt-field-notes %})
 - [Morocco — Mountains & Markets]({% post_url 2025-02-15-morocco-field-notes %})
 - [Morocco Balloon Ride](/story-content/morocco-before-sunrise.html)
-- [Travel Index](/travel.html)
+- [Travel Index](/travel/)
 

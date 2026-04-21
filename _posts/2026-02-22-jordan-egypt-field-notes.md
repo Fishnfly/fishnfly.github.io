@@ -283,5 +283,5 @@ See other movements across landscapes:
 - [Spain — Edges, Light, and Passing Landscapes]({% post_url 2026-03-06-spain-field-notes %})
 - [Morocco — Mountains & Markets]({% post_url 2025-02-15-morocco-field-notes %})
 - [Morocco Balloon Ride](/story-content/morocco-before-sunrise.html)
-- [Travel Index](/travel.html)
+- [Travel Index](/travel/)
 
