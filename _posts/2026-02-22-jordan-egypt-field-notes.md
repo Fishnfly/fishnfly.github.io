@@ -19,6 +19,10 @@ thumbnail:
   w960: /assets/images/jordan-egypt/anchor-egypt.jpg
   w1280: /assets/images/jordan-egypt/anchor-egypt.jpg
   
+  # Hero image (mockup)
+hero_image: /assets/img/mockups/anchor1.jpg
+hero_alt: "petra"
+
 ---
 
 Jordan and Egypt didn’t reveal themselves through lists of monuments or scheduled stops. They revealed themselves through movement — over stone, across desert, along water. This trip felt like an unlayering, not of history, but of pace.
