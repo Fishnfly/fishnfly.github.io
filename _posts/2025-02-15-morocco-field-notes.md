@@ -194,9 +194,9 @@ Transfer to the airport and depart Morocco.
 
 ---
 
-**Sunset-Dessert Pic**
+**Sunrise at the Camp Pic**
 
-![Sunset-Dessert](/assets/img/mockups/anchor-morocco.jpg)
+![Sunrise-Camp](/assets/img/mockups/anchor-morocco1.jpg)
 
 ---
 
