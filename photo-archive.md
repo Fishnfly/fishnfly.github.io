@@ -352,3 +352,5 @@ Nothing fixed. Everything practiced.
 </details>
 
 ---
+
+[Travel Index](/travel/)
