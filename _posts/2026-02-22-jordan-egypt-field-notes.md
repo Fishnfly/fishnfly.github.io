@@ -20,7 +20,7 @@ thumbnail:
   w1280: /assets/images/jordan-egypt/anchor-egypt.jpg
   
   # Hero image (mockup)
-hero_image: /assets/img/mockups/anchor1.jpg
+hero_image: /assets/img/mockups/anchor.jpg
 hero_alt: "petra"
 
 ---
