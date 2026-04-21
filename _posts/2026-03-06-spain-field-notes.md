@@ -13,6 +13,9 @@ thumbnail:
   img2: /assets/images/spain/toledo-1.jpg
   alt: "Spain — anchors"
 
+ # Hero image (mockup)
+hero_image: /assets/img/mockups/anchor3.jpg
+hero_alt: "acquaduct"
 ---
 
 Spain doesn’t reveal itself through monuments alone.  
