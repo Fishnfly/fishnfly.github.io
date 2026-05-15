@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
     {%- feed_meta -%}
 
+    <!-- ✅ GLightbox CSS (ADDED) -->
+    https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MV5Q0TKPF9"></script>
     <script>
@@ -29,6 +32,15 @@
     </main>
 
     {%- include footer.html -%}
+
+    <!-- ✅ GLightbox JS (ADDED) -->
+    https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js
+
+    <script>
+      const lightbox = GLightbox({
+        selector: '.glightbox'
+      });
+    </script>
+
   </body>
 </html>
-
