@@ -173,6 +173,11 @@ Belgium began in continuity.
 
 Ghent and Bruges carried forward what had been established but not fully expressed in the Netherlands — cities where the past had never separated itself from the present.
 
+Small details carried more weight than expected.
+
+A stop at a local chocolatier — HD Ghent — became less about taste and more about process. The owner offered a simple correction: good chocolate isn’t eaten, it’s allowed to melt. The distinction wasn’t trivial. It reflected an approach shaped by attention and repetition rather than scale.
+
+Like the cities themselves, nothing was explained for effect. It was demonstrated, then left to be understood.
 Markets, churches, and streets continued in their original roles.
 
 Nothing had been preserved for observation. It had simply continued.
