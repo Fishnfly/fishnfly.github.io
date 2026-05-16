@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 <head>
@@ -6,11 +7,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {%- seo -%}
-  <link rel="stylesheet" href="{{ '/assets/mainSS -->
-  <link href="https://cdn.jsdelivr.net/npm/glightbox/dist/cssin.css
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  {%- feed_meta -%}
+
+  <!-- ✅ GLightbox CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
 
   <!-- ✅ Google tag -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MV5Q   window.dataLayer = window.dataLayer || [];
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MV5Q0TKPF9"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-MV5Q0TKPF9');
@@ -18,6 +24,7 @@
 </head>
 
 <body>
+
   {%- include header.html -%}
 
   <main class="page-content" aria-label="Content">
