@@ -22,109 +22,109 @@ Patience in the walls. Weight in the air.
   <summary>Open field photographs from this journey</summary>
 
    <div class="photo-grid">
-    <a href="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}" loading="lazy" alt="Spain 1">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}" loading="lazy" alt="Spain 2">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}" loading="lazy" alt="Spain 3">
     </a>
-      <a href="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}">
+      <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}" loading="lazy" alt="Spain 5">
     </a>
-      <a href="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}">
+      <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}" loading="lazy" alt="Spain 7">
     </a>
-       <a href="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}">
+       <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}" loading="lazy" alt="Spain 9">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}" loading="lazy" alt="Spain 10">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-11.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-11.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-11.jpg' | relative_url }}" loading="lazy" alt="Spain 11">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-12.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-12.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-12.jpg' | relative_url }}" loading="lazy" alt="Spain 12">
     </a>
-       <a href="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}">
+       <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}" loading="lazy" alt="Spain 15">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}" loading="lazy" alt="Spain 16">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-17.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-17.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-17.jpg' | relative_url }}" loading="lazy" alt="Spain 17">
     </a>
-     <a href="{{ '/assets/photos/spain/spain-21.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-21.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-21.jpg' | relative_url }}" loading="lazy" alt="Spain 21">
         </a>
-     <a href="{{ '/assets/photos/spain/spain-22.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-22.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-22.jpg' | relative_url }}" loading="lazy" alt="Spain 22">
         </a>
-     <a href="{{ '/assets/photos/spain/spain-25.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-25.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-25.jpg' | relative_url }}" loading="lazy" alt="Spain 25">
         </a>
-     <a href="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}" loading="lazy" alt="Spain 26">
         </a>
-     <a href="{{ '/assets/photos/spain/spain-27.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-27.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-27.jpg' | relative_url }}" loading="lazy" alt="Spain 27">
         </a>
-     <a href="{{ '/assets/photos/spain/spain-28.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-28.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-28.jpg' | relative_url }}" loading="lazy" alt="Spain 28">
         </a>
-     <a href="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}" loading="lazy" alt="Spain 29">
         </a>
-     <a href="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}" loading="lazy" alt="Spain 30">
         </a>    
-     <a href="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}" loading="lazy" alt="Spain 32">
         </a>    
-     <a href="{{ '/assets/photos/spain/spain-33.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-33.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-33.jpg' | relative_url }}" loading="lazy" alt="Spain 33">
         </a>    
-     <a href="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}" loading="lazy" alt="Spain 34">
         </a>    
-        <a href="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}">
+        <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}" loading="lazy" alt="Spain 36">
         </a>    
-    <a href="{{ '/assets/photos/spain/spain-37.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-37.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-37.jpg' | relative_url }}" loading="lazy" alt="Spain 37">
         </a>    
-        <a href="{{ '/assets/photos/spain/spain-39.jpg' | relative_url }}">
+        <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-39.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-39.jpg' | relative_url }}" loading="lazy" alt="Spain 39">
         </a>    
-     <a href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" loading="lazy" alt="Spain 4">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}" loading="lazy" alt="Spain 6">
     </a>
-     <a href="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}" loading="lazy" alt="Spain 13">
     </a>
-     <a href="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}" loading="lazy" alt="Spain 31">
         </a> 
-     <a href="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}" loading="lazy" alt="Spain 19">
     </a>
-    <a href="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}">
+    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}" loading="lazy" alt="Spain 23">
         </a>
-     <a href="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}" loading="lazy" alt="Spain 24">
         </a>
-     <a href="{{ '/assets/photos/spain/spain-35.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-35.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-35.jpg' | relative_url }}" loading="lazy" alt="Spain 35">
         </a>    
-     <a href="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}">
+     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}" loading="lazy" alt="Spain 38">
         </a>   
   </div>
