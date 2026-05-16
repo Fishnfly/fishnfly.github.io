@@ -4,16 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-   
-%- seo -%}
-<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-{%- feed_meta -%}
 
-    <!-- ✅ GLightbox CSS (FIXED) -->
-    <link href="https://cdn.jsdelivr.net/npm/glightbox/dist/cssin.css
+    {%- seo -%}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    {%- feed_meta -%}
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=cript>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MV5Q0TKPF9"></script>
+    <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
@@ -31,15 +29,5 @@
     </main>
 
     {%- include footer.html -%}
-
-    <!-- ✅ GLightbox JS (FIXED) -->
-    <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
-
-    <script>
-      const lightbox = GLightbox({
-        selector: '.glightbox'
-      });
-    </script>
-
   </body>
 </html>
