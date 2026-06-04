@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Low Countries to Eastern Europe — Living Inside Systems"
-dek: "Tracing how societies structure, absorb, and carry difference across regions."
+dek: "Where societies structure, absorb, and carry difference across regions."
 date: 2026-04-23
 categories: [travel]
 excerpt: "A movement through engineered landscapes, inherited cities, and layered systems — a journey from design to continuity to persistence."
@@ -337,12 +337,8 @@ If anything, it clarified it. Systems could be designed, lived, scaled, or layer
 
 Movement continued east, but the expectation of order had shifted.
 
-``
-
 *Field photographs from this journey:*  
 [View the photo archive](/photo-archive/#bulgaria)
-
-</details>
 
 ---
 
@@ -466,8 +462,6 @@ and how that expectation changes as you move through them.
 
 ## More Field Notes
 See other movements across landscapes:
-- [Jordan & Egypt — Stone, Desert, Water]({% post_url 2026-02-22-jordan-egypt-field-notes %})
-- [Morocco — Mountains & Markets]({% post_url 2025-02-15-morocco-field-notes %})
-- [Morocco Balloon Ride](/story-content/morocco-before-sunrise.html)
+
 - [Travel Index](/travel/)
 
