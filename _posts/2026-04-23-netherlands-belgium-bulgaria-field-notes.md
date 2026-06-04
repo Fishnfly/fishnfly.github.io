@@ -285,6 +285,8 @@ What had been a movement through systems would give way to something broader —
 
 Travel continued. The logic did not.
 
+---
+
 ## Bulgaria — Layers Without Resolution
 
 Sofia shifted the register immediately.
@@ -379,6 +381,8 @@ each place redefining what the previous one assumed.
 Some systems clarify.  
 They reduce complexity into something measurable and controlled.  
 
+---
+
 **Others absorb.**  
 They allow variation, repetition, and continuity to hold things together without forcing alignment.  
 
@@ -447,8 +451,6 @@ buildings carrying histories that were never fully resolved,
 and the steady realization that not all structures aim to simplify.  
 
 Some are built to endure complexity.
-
----
 
 This wasn’t a journey about understanding places in isolation.  
 It was about understanding how places hold reality—  
