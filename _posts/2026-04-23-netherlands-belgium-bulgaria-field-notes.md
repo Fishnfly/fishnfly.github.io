@@ -10,7 +10,7 @@ subtitle: "Water, structure, continuity, and what remains when systems are teste
 thumbnail:
   layout: duo
   img1: /assets/images/netherlands/amsterdam.jpg
-  img2: /assets/images/netherlands/rotterdam.jpg
+  img2: /assets/images/netherlands/amsterdam2.jpg
   alt: "Netherlands — systems"
 
 # Hero image (mockup)
