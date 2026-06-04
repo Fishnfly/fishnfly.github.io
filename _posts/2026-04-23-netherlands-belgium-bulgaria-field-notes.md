@@ -100,6 +100,10 @@ Departure from Belgium toward Bulgaria, where the character of the journey begin
 
 ---
 
+**Keukenhof Pic**
+
+![Flower Garden](/assets/images/netherlands/keukenhof.jpg)
+
 ## Keukenhof — Temporary Order
 
 Keukenhof looks effortless until you realize how little of it is permanent.
