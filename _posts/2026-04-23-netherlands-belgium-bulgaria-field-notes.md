@@ -96,8 +96,6 @@ Visit to the European Parliament. Governance observed as process rather than ide
 **Day 13 – Transition East**  
 Departure from Belgium toward Bulgaria, where the character of the journey begins to shift.
 
-</details>
-
 ---
 
 **Keukenhof Pic**
@@ -447,6 +445,8 @@ Movement continued east, but the expectation of order had shifted.
 
 *Field photographs from this journey:*  
 [View the photo archive](/photo-archive/#bulgaria)
+
+</details>
 
 ---
 
