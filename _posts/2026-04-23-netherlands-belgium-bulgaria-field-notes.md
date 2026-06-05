@@ -210,6 +210,14 @@ The city learned early that stability came not from purity, but from systems cap
 
 ## Amsterdam — When Systems Fail
 
+The timing made the contrast unavoidable.
+
+The city was still recovering from King’s Day. Streets were being cleared, evidence of the day’s scale—discarded items, temporary structures, remnants of excess—still visible throughout the city.
+
+Movement continued, systems adjusting, restoring order.
+
+Inside the Anne Frank House, that continuity ended.
+
 The Anne Frank House changed the scale.
 
 The space was small, quiet, contained. No system functioned here. No negotiation held. Law had collapsed. Visibility had become danger.
