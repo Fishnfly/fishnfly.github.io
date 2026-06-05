@@ -132,11 +132,19 @@ The walking tour traced a city shaped less by belief than by negotiation. Cathol
 
 Commerce mediated what belief could not resolve.
 
+**Red Light District Pic**
+
+![Red Light](/assets/images/netherlands/red-light.jpg)
+
 The Red Light District did not exist outside the system, but within it — regulated, contained, visible. Behavior wasn’t denied. It was structured into something manageable.
 
 Small details revealed themselves in passing.
 
 Bicycles with flower baskets appeared throughout the city—bright arrangements attached to otherwise ordinary frames. At first they felt incidental, decorative. But over time they repeated often enough to register differently.
+
+**Bicycle Pic**
+
+![Bicycle Bridge](/assets/images/netherlands/bicycles.jpg)
 
 The origin was simple. A man had begun placing flowers on bicycles for his wife. What started as a personal gesture became visible, then shared, and eventually part of the city’s texture.
 
@@ -149,6 +157,10 @@ Like the systems around it, the act didn’t need to scale perfectly to matter. 
 ## Amsterdam — Celebration and Continuity
 
 King’s Day removed any remaining abstraction.
+
+**Kings Day Pic**
+
+![Kings Day](/assets/images/netherlands/kingsday.jpg)
 
 The city turned orange. Streets filled. Movement compressed into collective scale. But what stood out was not intensity — it was control. The same systems that governed daily life expanded to hold excess rather than fracture.
 
@@ -318,6 +330,14 @@ Sofia didn’t explain itself. It presented everything at once.
 ---
 
 ## Rila Monastery — Persistence in Isolation
+
+The day began with a different kind of structure.
+
+At the Bell Monument, unity was expressed through design—bells representing nations arranged within a defined space. The intention was clear, organized, and symbolic. Harmony was constructed, not discovered.
+
+It was a system built to represent alignment.
+
+Further into the mountains, that idea shifted.
 
 Outside Sofia, the landscape opened quickly.
 
