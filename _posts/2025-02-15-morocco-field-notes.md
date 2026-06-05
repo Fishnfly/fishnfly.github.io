@@ -2,7 +2,6 @@
 layout: post
 title: "Morocco — Variations in a Calm Register"
 categories: ["travel"]
-location: "Morocco"
 dek: "Drifting quietly above the waking desert."
 
 # Hero image (mockup)
