@@ -164,7 +164,9 @@ Daily use revealed itself in smaller ways.
 
 A simple herring sandwich from a stand positioned on a bridge became less about the food itself and more about its placement. Movement passed through it—cyclists, pedestrians, brief exchanges that required no pause beyond the moment.
 
-At one point, someone nearby asked simply, “Is it good?” The answer didn’t require much. It wasn’t a destination or a specialty. It was part of the flow, experienced and then left behind like everything else moving through that space.
+At one point, someone nearby asked, “Is it good?” The exchange was brief, like everything else there—momentary, then gone as movement continued.
+
+Even the presentation carried intention. The staff, in white coats, worked with a precision that contrasted with the informality of the setting, reinforcing a structure that extended even into the smallest interactions.
 
 Nothing about it felt staged. It existed within the movement of the city, part of the same system that structured everything else.
 
