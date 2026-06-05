@@ -132,6 +132,10 @@ The walking tour traced a city shaped less by belief than by negotiation. Cathol
 
 The structure itself carried its own fragility.
 
+**Leaning Buildings Pic**
+
+![Buildings](/assets/images/netherlands/buildings.jpg)
+
 Buildings leaned subtly, some more visibly than others—a result of shifting ground beneath foundations never meant to remain entirely stable. What appeared ordered was, in part, held in place through ongoing intervention.
 
 The canals, so central to the city’s design, required continuous reinforcement. Edges were maintained, stabilized, adjusted over time to limit what would otherwise give way.
