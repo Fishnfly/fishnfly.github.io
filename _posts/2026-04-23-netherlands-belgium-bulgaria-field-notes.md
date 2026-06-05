@@ -148,7 +148,17 @@ The system did not eliminate the underlying condition. It managed it.
 
 ![canals](/assets/images/netherlands/canals.jpg)
 
-Movement through the city carried a different rhythm as well.
+Movement through the city operated on multiple levels at once.
+
+Bicycles dominated the streets, not as an alternative to vehicles, but as the primary system of movement. Crossing required adjustment—attention shifted, timing changed, awareness extended beyond what would normally be expected.
+
+The rhythm was not instinctive at first.
+
+It had to be learned, quickly. The system assumed participation, not observation. You adapted to it, or you interrupted it.
+
+**Bicyles-street Pic**
+
+![Bicyclestreet](/assets/images/netherlands/bicyclesstreet.jpg)
 
 Daily use revealed itself in smaller ways.
 
