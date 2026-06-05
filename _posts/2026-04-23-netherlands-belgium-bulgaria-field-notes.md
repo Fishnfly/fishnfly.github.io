@@ -166,9 +166,9 @@ A simple herring sandwich from a stand positioned on a bridge became less about 
 
 At one point, someone nearby asked, “Is it good?” The exchange was brief, like everything else there—momentary, then gone as movement continued.
 
-Even the presentation carried intention. The staff, in white coats, worked with a precision that contrasted with the informality of the setting, reinforcing a structure that extended even into the smallest interactions.
+Even the presentation carried intention. The staff, in white coats, worked with a quiet precision that contrasted with the informality of the setting. Structure extended into even the smallest interactions.
 
-Nothing about it felt staged. It existed within the movement of the city, part of the same system that structured everything else.
+It didn’t feel constructed. It existed within the movement of the city, part of the same system that organized everything else.
 
 Like other elements, it wasn’t separate from the city’s design. It was embedded within it.
 
@@ -176,7 +176,7 @@ Tradition appeared in quieter forms as well.
 
 At Wynand Fockink, the space felt unchanged in its intention. The setting was compact, informal, but precise in its rhythm—drinks served in a way that required a certain posture, a small adjustment to participate correctly.
 
-Nothing about it was modernized for effect. The experience remained tied to its original context, carried forward without needing to be reinterpreted.
+Nothing was modernized for effect. The experience remained tied to its original context, carried forward without needing to be reinterpreted.
 
 It wasn’t preserved as history. It was still in use.
 
@@ -293,6 +293,24 @@ The bombing erased the city’s core. What followed was not reconstruction of fo
 Seen after Amsterdam, this wasn’t aesthetic. It was ethical.
 
 Rotterdam did not preserve memory. It constructed clarity.
+
+Some elements carried forward, though in altered form.
+
+At the Markthal, familiar patterns appeared again—herring served differently this time, paired with pickles, consumed in a space far more structured and enclosed than before. What had been part of a street-level flow in Amsterdam reappeared within a defined architectural setting, formalized but still recognizable.
+
+**Markthal Rotterdam Pic**
+
+![Markthal](/assets/images/netherlands/markthal.jpg)
+
+Nearby, the cube houses shifted the experience further.
+
+**Cube Houses Pic**
+
+![Cube Houses](/assets/images/netherlands/cubehouses.jpg)
+
+Structure no longer followed expectation. Angles displaced horizontals, orientation required adjustment, and movement through the space reflected a different kind of design logic—one that prioritized experimentation over continuity.
+
+What had been consistent elsewhere was reconsidered here.
 
 ---
 
