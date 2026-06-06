@@ -116,10 +116,6 @@ The effect is abundance without permanence — a system designed to peak, dissol
 
 ---
 
-**Zaanse Schans Pic**
-
-![Windmills-Zaanse](/assets/images/netherlands/zaanse.jpg)
-
 ## Zaanse Schans — Continuity
 
 At Zaanse Schans, the structure was more explicit. Windmills, workshops, and demonstrations operated together within a defined setting. The system was clear, organized, and intended to represent continuity rather than carry it forward organically.
