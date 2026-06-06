@@ -420,6 +420,12 @@ The additions were clearly intentional—designed, placed, and temporary—yet t
 
 What was introduced did not replace what was already there. It was layered onto it, briefly, before returning to its prior state.
 
+That continuity extended into the spaces themselves.
+
+A setting that once served a different purpose now operated within a modern context without losing its original structure. The experience remained consistent—refined, deliberate, and measured—without needing to emphasize its history.
+
+Like the city, it did not present itself as something from another time. It continued within the present.
+
 The system did not resist change. It incorporated it without losing itself.
 
 That continuity extended through the people moving within it.
@@ -485,6 +491,10 @@ Nothing had been preserved for observation. It had simply continued.
 Brussels marked the transition.
 
 Buildings retained their facades — identity held in stone — while interiors had been rebuilt entirely. The past remained visible, but the function had changed.
+
+**Brussels Pic**
+
+![Brussels](/assets/images/netherlands/brussels.jpg)
 
 Continuity gave way to adaptation.
 
