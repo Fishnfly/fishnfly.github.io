@@ -118,7 +118,7 @@ The effect is abundance without permanence — a system designed to peak, dissol
 
 **Zaanse Schans Pic**
 
-![Zaanse](/assets/images/netherlands/zaanse.jpg)
+![Schans](/assets/images/netherlands/schans.jpg)
 
 ## Zaanse Schans — Continuity
 
