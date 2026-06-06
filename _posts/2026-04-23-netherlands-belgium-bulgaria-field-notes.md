@@ -114,6 +114,10 @@ What appears spontaneous is controlled.
 
 The effect is abundance without permanence — a system designed to peak, dissolve, and begin again. Even beauty here is managed, not preserved.
 
+## Zaanse Schans — Continuity
+
+At Zaanse Schans, the structure was more explicit. Windmills, workshops, and demonstrations operated together within a defined setting. The system was clear, organized, and intended to represent continuity rather than carry it forward organically.
+
 ---
 
 ## Amsterdam — Negotiation Made Visible
@@ -282,6 +286,15 @@ Stepping back outside, the city returned to order. But that order now felt learn
 
 Here, systems were designed not to eliminate reality, but to make it manageable.
 
+In Jordaan, the scale shifted again. Movement slowed, spaces narrowed, and daily life became more visible at the street level—less structured, but still within the same underlying system.
+
+That same sense of scale carried into smaller spaces.
+
+A simple meal unfolded without emphasis—a local restaurant, a familiar dish, executed with quiet precision. The experience didn’t rely on novelty or presentation, but on consistency and attention to detail.
+
+It reflected the same pattern present elsewhere. Nothing was elevated beyond what it needed to be. It was simply done well, and left to stand on its own.
+
+
 ---
 
 ## Rotterdam — After the Break
@@ -324,11 +337,21 @@ The Hague shifted without announcing it. Authority lived here, but quietly. Gove
 
 The connection between Delft and The Hague extended beyond proximity.
 
-In Delft, familiar imagery appeared in unexpected ways—reproduced in ceramics, integrated into objects still in use. The work of Vermeer was not isolated to galleries, but carried into everyday form.
+In Delft, that continuity became more explicit.
+
+At the Royal Delft Workshop, the process remained visible. Production was not separate from preservation—techniques carried forward through repetition, each piece shaped by the same patterns that had defined the work over time.
+
+Familiar imagery appeared again, integrated into objects still in use. What might otherwise be confined to a single form existed here as part of an ongoing system of making.
+
+The work was not static. It was sustained through practice.
 
 That continuity shifted in The Hague.
 
 At the Mauritshuis, the original held its position. *Girl with a Pearl Earring* remained contained, observed rather than used. What had been distributed and adapted in Delft returned here to a single point of focus.
+
+**Girl-Pearl Earring Pic**
+
+![Pearl Earning](/assets/images/netherlands/girlwpearl.jpg)
 
 The image moved between contexts.
 
