@@ -114,6 +114,12 @@ What appears spontaneous is controlled.
 
 The effect is abundance without permanence — a system designed to peak, dissolve, and begin again. Even beauty here is managed, not preserved.
 
+---
+
+**Zaanse Schans Pic**
+
+![Windmills-Zaanse](/assets/images/netherlands/zaanse.jpg)
+
 ## Zaanse Schans — Continuity
 
 At Zaanse Schans, the structure was more explicit. Windmills, workshops, and demonstrations operated together within a defined setting. The system was clear, organized, and intended to represent continuity rather than carry it forward organically.
@@ -177,6 +183,10 @@ It didn’t feel constructed. It existed within the movement of the city, part o
 Like other elements, it wasn’t separate from the city’s design. It was embedded within it.
 
 Tradition appeared in quieter forms as well.
+
+**Wynand Focking Pic**
+
+![Gins](/assets/images/netherlands/wynand.jpg)
 
 At Wynand Fockink, the space felt unchanged in its intention. The setting was compact, informal, but precise in its rhythm—drinks served in a way that required a certain posture, a small adjustment to participate correctly.
 
@@ -294,7 +304,6 @@ A simple meal unfolded without emphasis—a local restaurant, a familiar dish, e
 
 It reflected the same pattern present elsewhere. Nothing was elevated beyond what it needed to be. It was simply done well, and left to stand on its own.
 
-
 ---
 
 ## Rotterdam — After the Break
@@ -309,7 +318,7 @@ Rotterdam did not preserve memory. It constructed clarity.
 
 Some elements carried forward, though in altered form.
 
-At the Markthal, familiar patterns appeared again—herring served differently this time, paired with pickles, consumed in a space far more structured and enclosed than before. What had been part of a street-level flow in Amsterdam reappeared within a defined architectural setting, formalized but still recognizable.
+At the Markthal, familiar patterns appeared again—herring served differently this time, paired with pickles and onions only, consumed in a space far more structured and enclosed than before. What had been part of a street-level flow in Amsterdam reappeared within a defined architectural setting, formalized but still recognizable.
 
 **Markthal Rotterdam Pic**
 
