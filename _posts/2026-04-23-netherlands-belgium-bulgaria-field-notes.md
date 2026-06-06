@@ -398,6 +398,30 @@ Belgium began in continuity.
 
 Ghent and Bruges carried forward what had been established but not fully expressed in the Netherlands — cities where the past had never separated itself from the present.
 
+Even temporary interventions were absorbed without disruption.
+
+Process remained visible here as well.
+
+At a local brewery, production carried forward through established methods, not as demonstration but as ongoing practice. The system was not preserved for observation—it continued to function.
+
+**Straffe Brugge Pic**
+
+![Straffebeer](/assets/images/netherlands/straffebeer.jpg)
+
+Like much of the city, it wasn’t separated from its origins. It operated within them.
+
+During Floralien, a curated exhibition held only every few years, installations appeared across the city, near the the Botanical Garden. The setting shifted, but the underlying structure remained intact.
+
+**Floralien Gent Pic**
+
+![Floralien](/assets/images/netherlands/floralien.jpg)
+
+The additions were clearly intentional—designed, placed, and temporary—yet they existed within the same framework as everything else. The change was visible, but never disruptive.
+
+What was introduced did not replace what was already there. It was layered onto it, briefly, before returning to its prior state.
+
+The system did not resist change. It incorporated it without losing itself.
+
 That continuity extended through the people moving within it.
 
 The presence of students was constant, but not disruptive. They occupied the city as part of its ongoing use—filling squares, crossing bridges, settling into routines that felt temporary individually, but consistent in aggregate.
