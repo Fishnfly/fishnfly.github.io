@@ -406,11 +406,19 @@ Even the details carried a certain ease with history.
 
 At Gravensteen Castle, the audio guide approached its subject with an unexpected tone. Descriptions of medieval life—its brutality, its crude methods, the realities of punishment and confinement—were delivered with a level of humor that made them approachable rather than distant.
 
+**Gravensteen Castle Pic**
+
+![Gravensteen](/assets/images/netherlands/gravensteen.jpg)
+
 The effect wasn’t to diminish the past, but to engage with it differently. It wasn’t presented as something to observe from a distance, but something to move through and understand.
 
 Elsewhere, buildings held their previous identities without emphasis. A hotel once served a different purpose, not hidden, not highlighted—just another layer beneath its current use.
 
 Even symbols had shifted quietly. Swans positioned outward along the water suggested small adjustments over time, changes made without announcement.
+
+**Swans Pic**
+
+![swanshotel](/assets/images/netherlands/hotel.jpg)
 
 Nothing needed to be preserved as it was. It was simply continued.
 
@@ -429,6 +437,10 @@ Like the city itself, it was an experience built on timing and restraint. What m
 Another moment of refinement came unexpectedly.
 
 At a small restaurant, a dish rarely encountered elsewhere—frog legs—was prepared with precision. The approach was simple: no excess, no distraction. Texture and flavor were allowed to stand on their own, the result unfolding gradually rather than immediately.
+
+**Froglegs Pic**
+
+![Froglegs](/assets/images/netherlands/froglegs.jpg)
 
 It wasn’t novelty that defined the experience, but execution.
 
