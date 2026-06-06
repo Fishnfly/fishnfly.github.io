@@ -324,6 +324,18 @@ At the Markthal, familiar patterns appeared again—herring served differently t
 
 ![Markthal](/assets/images/netherlands/markthal.jpg)
 
+A different approach to preservation appeared nearby.
+
+At the Depot Boijmans Van Beuningen, what is typically hidden was made visible. Storage became part of the experience—collections organized, accessible, exposed rather than separated from view.
+
+The building itself reflected its surroundings, distorting them slightly, turning the exterior into something less fixed. The boundary between inside and outside, between what is held and what is shown, was less defined.
+
+**Depot Boijmans Pic**
+
+![depotmuseum](/assets/images/netherlands/depotm.jpg)
+
+Preservation was not presented as static. It was part of the system itself.
+
 Nearby, the cube houses shifted the experience further.
 
 **Cube Houses Pic**
@@ -344,11 +356,19 @@ Delft held continuity at a human scale — canals, brick, daily movement shaped 
 
 The Hague shifted without announcing it. Authority lived here, but quietly. Governance operated without spectacle.
 
+**Binnenhof Hague Pic**
+
+![Binnenhof](/assets/images/netherlands/binnenhof.jpg)
+
 The connection between Delft and The Hague extended beyond proximity.
 
 In Delft, that continuity became more explicit.
 
 At the Royal Delft Workshop, the process remained visible. Production was not separate from preservation—techniques carried forward through repetition, each piece shaped by the same patterns that had defined the work over time.
+
+**Royal Delft Pic**
+
+![Royal Delft](/assets/images/netherlands/royaldelft.jpg)
 
 Familiar imagery appeared again, integrated into objects still in use. What might otherwise be confined to a single form existed here as part of an ongoing system of making.
 
