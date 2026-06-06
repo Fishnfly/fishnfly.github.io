@@ -418,7 +418,7 @@ Even symbols had shifted quietly. Swans positioned outward along the water sugge
 
 **Swans Pic**
 
-![swanshotel](/assets/images/netherlands/hotel.jpg)
+![hotel](/assets/images/netherlands/hotel.jpg)
 
 Nothing needed to be preserved as it was. It was simply continued.
 
