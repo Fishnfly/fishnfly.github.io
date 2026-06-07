@@ -527,6 +527,12 @@ Sofia shifted the register immediately.
 
 The city did not present itself through order or continuity, but through proximity. Mosques, synagogues, and Orthodox churches stood within minutes of each other, not as curated symbols, but as active layers. Belief systems that elsewhere had been separated or absorbed remained here in parallel.
 
+The structure was not only visible, it was in use.
+
+Inside the Alexander Nevsky Cathedral, movement followed a different rhythm. A morning service was underway—quiet, deliberate, uninterrupted by the presence of visitors. The scale of the space remained, but its function shifted. What might be viewed as architecture from the outside became part of an ongoing system within.
+
+It was not presented. It continued.
+
 Nothing was reconciled.
 
 The layering extended beyond religion. Civic space carried the imprint of more recent history — a period where power was centralized, imposed, and organized differently than what we had just left behind. The scale changed. Buildings widened and flattened. Public space felt designed to control movement rather than encourage it.
