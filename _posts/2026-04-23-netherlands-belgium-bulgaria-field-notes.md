@@ -615,6 +615,8 @@ Time was not stacked. It was carried.
 
 Where the city accumulated systems, the monastery held to one. The effect was quieter, but no less complex. Continuity here did not require negotiation. It required preservation through practice.
 
+The structure carried a sense of origin, but it was not presented as something to be examined. It remained in use, sustained through repetition rather than explanation.
+
 Removed from everything else, it had remained intact.
 
 Leaving Bulgaria did not resolve what had been observed. Nothing was reconciled, only carried forward.
