@@ -531,11 +531,43 @@ The structure was not only visible, it was in use.
 
 Inside the Alexander Nevsky Cathedral, movement followed a different rhythm. A morning service was underway—quiet, deliberate, uninterrupted by the presence of visitors. The scale of the space remained, but its function shifted. What might be viewed as architecture from the outside became part of an ongoing system within.
 
+**Nevsky Catherdral Pic**
+
+![NevskyChurch](/assets/images/bulgaria/nevsky.jpg)
+
 It was not presented. It continued.
 
 Nothing was reconciled.
 
+The system carried further than it first appeared.
+
+At St. Sofia, the presence of earlier layers became more apparent—not through scale, but through duration. What existed here preceded much of what surrounded it, yet remained integrated within the present.
+
+**St. Sofia Basilica Pic**
+
+![BasilicaSofia](/assets/images/bulgaria/sofiabasilica.jpg)
+
 The layering extended beyond religion. Civic space carried the imprint of more recent history — a period where power was centralized, imposed, and organized differently than what we had just left behind. The scale changed. Buildings widened and flattened. Public space felt designed to control movement rather than encourage it.
+
+The accumulation was visible beyond architecture.
+
+Statues and monuments appeared throughout the city, fixed in place, marking different moments of history without a single narrative tying them together. They existed as separate assertions, each remaining intact within the same space.
+
+**Multiple Statues Pic**
+
+![Statues](/assets/images/bulgaria/statues.jpg)
+
+Below, earlier layers surfaced as well. Archaeological remains were not removed or isolated—they were integrated into the city’s present, visible alongside daily movement.
+
+Nothing resolved what came before. It was all retained, occupying the same ground.
+
+The layering extended into the present in less expected ways.
+
+During the visit, the city was also the endpoint of an international cycling event—routes marked, streets partially redirected, movement briefly concentrated into a single flow. The scale and speed of it contrasted with everything surrounding it.
+
+The event passed through the city rather than defining it.
+
+What remained was not the interruption, but the persistence of everything beneath and around it.
 
 What had been negotiated in Western Europe felt overlaid here instead.
 
@@ -559,6 +591,10 @@ The day began with a different kind of structure.
 
 At the Bell Monument, unity was expressed through design—bells representing nations arranged within a defined space. The intention was clear, organized, and symbolic. Harmony was constructed, not discovered.
 
+**The Bell Monument Pic**
+
+![BellMonumnet](/assets/images/bulgaria/bells.jpg)
+
 It was a system built to represent alignment.
 
 Further into the mountains, that idea shifted.
@@ -570,6 +606,10 @@ Movement changed. Density gave way to distance, and with it, a different kind of
 What had been compressed in Sofia was given space here.
 
 The structure did not feel adapted or overlaid. It felt sustained. Painted surfaces, repeating forms, enclosed courtyards — all maintained through repetition rather than reinvention. Nothing suggested interruption.
+
+**Rile Monastery Pic**
+
+![RilaMonastery](/assets/images/bulgaria/monastery.jpg)
 
 Time was not stacked. It was carried.
 
