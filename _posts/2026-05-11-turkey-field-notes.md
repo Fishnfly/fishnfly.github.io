@@ -105,10 +105,10 @@ Balloon ride → Rock formations → Underground cities
 Atatürk Mausoleum → Capital structure  
 
 **Day 12 — Return to Istanbul**
-Bosphorus → Grand Bazaar  
+Bosphorus boat ride → Grand Bazaar  
 
 **Day 13 — Final Day**
-Istiklal Street → Departure  
+Departure  
 
 </details>
 
