@@ -18,7 +18,7 @@ hero_alt: "Istanbul skyline showing convergence across water and continents"
 
 ---
 
-## Turkey — Systems Without Borders
+## **Turkey — Systems Without Borders**
 
 The shift into Turkey was immediate.
 
@@ -34,7 +34,7 @@ What had been concentrated in one place was distributed across everything that f
 
 ---
 
-## The Route (Context)
+## **The Route (Context)**
 
 Istanbul → Çanakkale → Troy → Pergamum → Kusadasi → Pamukkale → Konya → Cappadocia → Ankara → Istanbul
 
@@ -46,7 +46,7 @@ What appeared to extend outward across distance returned in different forms—re
 
 ---
 
-## The Myth Thread — Systems Without Borders
+## **The Myth Thread — Systems Without Borders**
 
 Some systems organize and contain. Others persist through adaptation.
 
@@ -112,6 +112,8 @@ Bosphorus → Grand Bazaar
 Istiklal Street → Departure  
 
 </details>
+
+---
 
 ## Istanbul — Where Systems Converge
 
