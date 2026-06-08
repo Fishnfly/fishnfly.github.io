@@ -115,6 +115,9 @@ Istiklal Street → Departure
 
 ---
 
+**Cappadocia Pic**
+
+![Balloonlandscape](/assets/images/turkey/balloons.jpg)
 ## Istanbul — Where Systems Converge
 
 Arrival into Istanbul shifted the framework immediately.
