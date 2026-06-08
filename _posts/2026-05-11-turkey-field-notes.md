@@ -19,8 +19,6 @@ hero_alt: "Istanbul skyline showing convergence across water and continents"
 
 ---
 
-## **Turkey — Systems Without Borders**
-
 The shift into Turkey was immediate.
 
 What had been structured elsewhere no longer held in the same way. Systems did not separate cleanly. They overlapped—geographically, historically, and culturally—without clear boundaries between them.
