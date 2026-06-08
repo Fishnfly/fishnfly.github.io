@@ -40,6 +40,10 @@ Istanbul → Çanakkale → Troy → Pergamum → Kusadasi → Pamukkale → Kon
 
 A movement across regions where systems do not resolve, but extend—shifting between density and openness, between myth and place, between continuity and redefinition.
 
+The movement did not follow a single direction.
+
+What appeared to extend outward across distance returned in different forms—repeating, overlapping, and reconfiguring as it progressed.
+
 ---
 
 ## The Myth Thread — Systems Without Borders
@@ -68,43 +72,43 @@ The structure does not hold things apart. It allows them to converge.
 
 ---
 
-** Day 1 — Arrival
+**Day 1 — Arrival**
 Morning in Sofia parks → Flight to Istanbul → Evening arrival  
 
-** Day 2 — Istanbul
+**Day 2 — Istanbul**
 Basilica Cistern → Suleymaniye Mosque → Kariye Mosque → Orientation
 
-** Day 3 — Istanbul
+**Day 3 — Istanbul**
 Hagia Sophia → Hippodrome → Spice Market → City exploration → Galata Tower  
 
-** Day 4 — Western Turkey
+**Day 4 — Western Turkey**
 Drive to Çanakkale → Visit Troy  
 
-** Day 5 — Pergamum
+**Day 5 — Pergamum**
 Pergamum → Asclepieion → Drive to Kusadasi  
 
-** Day 6 — Kusadasi
+**Day 6 — Kusadasi**
 Coastal day / Pigeon Island walk  
 
-** Day 7 — Pamukkale
+**Day 7 — Pamukkale**
 Hierapolis → Travertine terraces  
 
-** Day 8 — Konya
+**Day 8 — Konya**
 Mevlana Mausoleum → Sufi Whirling Dervish context  
 
-** Day 9 — Cappadocia Transfer
+**Day 9 — Cappadocia Transfer**
 Caravanserai → Local village  
 
-** Day 10 — Cappadocia
+**Day 10 — Cappadocia**
 Balloon ride → Rock formations → Underground cities  
 
-** Day 11 — Ankara
+**Day 11 — Ankara**
 Atatürk Mausoleum → Capital structure  
 
-** Day 12 — Return to Istanbul
+**Day 12 — Return to Istanbul**
 Bosphorus → Grand Bazaar  
 
-** Day 13 — Final Day
+**Day 13 — Final Day**
 Istiklal Street → Departure  
 
 </details>
