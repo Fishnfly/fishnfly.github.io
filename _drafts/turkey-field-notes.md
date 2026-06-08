@@ -2,7 +2,7 @@
 layout: post
 title: "Turkey — Systems Without Borders"
 dek: "Where systems converge, extend, and overlap across geography, history, and meaning."
-date: 2026-05-25
+date: 2026-05-11
 categories: [travel]
 excerpt: "A movement through converging systems — from density to openness, from myth to place, from structure to persistence."
 subtitle: "Convergence, expansion, and the systems that refuse separation."
@@ -15,17 +15,6 @@ thumbnail:
 
 hero: /assets/images/turkey/istanbul_bosphorus.jpg
 hero_alt: "Istanbul skyline showing convergence across water and continents"
-
----
-
-# Hero image (mockup)
-hero_image: /assets/img/mockups/anchor2.jpg
-hero_alt: "canals and structure"
-
----
-
-layout: post
-title: "Turkey — Systems Without Borders"
 
 ---
 
@@ -96,7 +85,7 @@ Coastal day / Pigeon Island walk
 Hierapolis → Travertine terraces  
 
 ### Day 8 — Konya
-Mevlana Mausoleum → Sufi context  
+Mevlana Mausoleum → Sufi Whirling Dervish context  
 
 ### Day 9 — Cappadocia Transfer
 Caravanserai → Local village  
@@ -216,6 +205,14 @@ The system was not built onto the landscape. It was formed from it.
 Movement revealed that distinction.
 
 What might have been a singular experience elsewhere no longer held the same weight. The act of rising above the landscape clarified something different. The terrain felt both natural and intentional.
+
+Below the surface, the system extended further.
+
+Underground spaces revealed another layer—carved into the landscape rather than built upon it. What existed above ground did not define the system entirely. It continued beneath it, structured but not immediately visible.
+
+The spaces were not separate from the environment. They were formed from it, used as part of an ongoing system rather than preserved as something distinct.
+
+What was visible was only part of the structure.
 
 The perspective did not introduce something new. It refined what could now be recognized.
 

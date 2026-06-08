@@ -50,7 +50,8 @@ to talk to people who live where the river bends.
 When it belongs in the story, it appears.  
 When it doesn’t, it remains part of the way we look.
 
-### **What this project is becoming**  
+### **What this project is becoming**
+
 Over time, the stories have revealed a pattern:  
 every country carries an undercurrent — a myth thread —  
 something beneath the surface that shapes how it is felt.
@@ -58,7 +59,8 @@ something beneath the surface that shapes how it is felt.
 Morocco holds tension between mountain and desert.  
 Jordan and Egypt follow the rhythm of water and return.  
 Spain is defined by edges and thresholds.  
-The Netherlands, Belgium, and Eastern Europe reveal how systems hold, adapt, and persist.
+The Netherlands, Belgium, and Eastern Europe reveal how systems hold, adapt, and persist.  
+Turkey shows how systems overlap, extend, and converge without fully resolving.
 
 Each trip becomes part of a larger exploration —  
 how structure, landscape, and movement interact,  

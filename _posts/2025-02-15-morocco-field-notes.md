@@ -243,7 +243,5 @@ It was a trip about learning how differently a place can move — without ever l
 ## More Field Notes
 See other movements across landscapes:
 
-- [Spain — Edges, Light, and Passing Landscapes]({% post_url 2026-03-06-spain-field-notes %})
-- [Jordan & Egypt — Stone, Desert, Water]({% post_url 2026-02-22-jordan-egypt-field-notes %})
 - [Travel Index](/travel/)
 
