@@ -13,7 +13,8 @@ thumbnail:
   img2: /assets/images/turkey/cappadocia.jpg
   alt: "Istanbul density and Cappadocia landscape contrast"
 
-hero: /assets/images/turkey/istanbul_bosphorus.jpg
+# Hero image (mockup)
+hero_image: /assets/img/mockups/balloons.jpg
 hero_alt: "Istanbul skyline showing convergence across water and continents"
 
 ---
@@ -117,7 +118,7 @@ Istiklal Street → Departure
 
 **Cappadocia Pic**
 
-![Balloonlandscape](/assets/images/turkey/balloons.jpg)
+![Balloonlandscape](/assets/images/turkey/balloonpic.jpg)
 ## Istanbul — Where Systems Converge
 
 Arrival into Istanbul shifted the framework immediately.
@@ -172,7 +173,11 @@ Further into the country, the distinction between structure and environment bega
 
 At Pamukkale, natural formation had been shaped into sustained use over time. The terraces appeared layered and continuous, formed gradually, yet carrying evidence of repeated human interaction.
 
-The system had formed through use.
+The significance extended beyond the site itself.
+
+What had developed through continuous use was later recognized formally, but the designation did not define its importance. The system had existed long before it was named or protected.
+
+Recognition followed persistence, not the other way around.
 
 Adjacent to it, the remains of Hierapolis extended the pattern. Structures aligned with what had drawn people there, remaining connected to the environment rather than separate from it.
 
