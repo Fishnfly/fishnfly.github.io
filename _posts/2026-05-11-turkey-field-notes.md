@@ -140,6 +140,10 @@ Movement between them required constant recalibration.
 
 In the mosques, the scale expanded, but the rhythm remained deliberate—daily use continuing within structures shaped by earlier systems. Outside, movement condensed again. Markets narrowed space, drawing activity inward, concentrating interaction.
 
+**Blue Mosque Pic**
+
+![BlueMosque](/assets/images/turkey/bluemosque.jpg)
+
 Geography reinforced the pattern. The city extended across water, connecting continents without dividing them. Movement remained continuous.
 
 The experience did not unfold in stages. Everything was present at once.
@@ -156,9 +160,13 @@ What had been overlapping within a single space began to stretch outward across 
 
 At Troy, what had existed as story appeared as location.
 
-The site did not resolve what it represented. The structures were partial, layered, and reconstructed in places without a single fixed point of origin. What had been myth did not disappear when made physical. It remained incomplete.
+The place carried a familiarity shaped elsewhere—constructed narratives, simplified depictions, versions that suggested resolution. Encountering the site made the difference clear. What had been presented as complete remained fragmented, layered, and unresolved.
 
 The ground held multiple versions at once.
+
+**Troy Pic**
+
+![Troy](/assets/images/turkey/troy.jpg)
 
 Elsewhere, the pattern continued. Systems of healing, governance, and daily life had been built, reused, and layered over earlier foundations. Each addition remained visible, none fully replacing what came before.
 
