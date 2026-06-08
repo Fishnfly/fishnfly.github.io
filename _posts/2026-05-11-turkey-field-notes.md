@@ -117,6 +117,7 @@ Departure
 **Cappadocia Pic**
 
 ![Balloonlandscape](/assets/images/turkey/balloonpic.jpg)
+
 ## Istanbul — Where Systems Converge
 
 Arrival into Istanbul shifted the framework immediately.
@@ -128,6 +129,10 @@ The density reinforced it. Movement compressed quickly—millions within a confi
 Nothing operated in isolation.
 
 Below ground, water was contained within structures built centuries earlier, still functioning beneath the city above. The Basilica Cistern did not feel removed from its origin. It remained within the system, integrated rather than preserved.
+
+**Basilica Cistern Pic**
+
+![Basilica](/assets/images/turkey/basilica.jpg)
 
 Above, structures carried multiple identities at once. Spaces that had shifted purpose over time continued to operate without resolving what they had been. Form persisted even as function changed.
 
