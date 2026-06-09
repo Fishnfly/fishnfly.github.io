@@ -315,6 +315,7 @@ What had accumulated elsewhere was simplified. What had remained unresolved was 
 The system did not emerge over time. It was established.
 
 It did not converge. It separated.
+
 ---
 
 ## Istanbul — Return
