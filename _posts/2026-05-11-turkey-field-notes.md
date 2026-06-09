@@ -8,15 +8,22 @@ excerpt: "A movement through converging systems — from density to openness, fr
 subtitle: "Convergence, expansion, and the systems that refuse separation."
 
 thumbnail:
-  layout: trio
+  layout: duo
   img1: /assets/images/turkey/istanbul.jpg
   img2: /assets/images/turkey/balloonpic.jpg
-  img3: /assets/images/turkey/balloons.jpg
   alt: "Istanbul density and Cappadocia landscape contrast"
 
 # Hero image (mockup)
 hero_image: /assets/img/mockups/istanbulcity.jpg
 hero_alt: "Istanbul skyline showing convergence across water and continents"
+
+---
+
+<div class="image-row-3">
+  <img src="/assets/images/turkey/istanbul.jpg" alt="">
+  <img src="/assets/images/turkey/balloonpic.jpg" alt="">
+  <img src="/assets/images/turkey/balloons.jpg" alt="">
+</div>
 
 ---
 
