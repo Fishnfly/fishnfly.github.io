@@ -9,7 +9,7 @@ subtitle: "Convergence, expansion, and the systems that refuse separation."
 
 thumbnail:
   layout: duo
-  img1: /assets/images/turkey/istanbul.jpg
+  img1: /assets/images/turkey/istanbulcity.jpg
   img2: /assets/images/turkey/cappadocia.jpg
   alt: "Istanbul density and Cappadocia landscape contrast"
 
@@ -128,7 +128,7 @@ The density reinforced it. Movement compressed quickly—millions within a confi
 
 **Istanbul Pic**
 
-![IstanbulCity](/assets/images/turkey/istanbulcity.jpg)
+![IstanbulCity](/assets/images/turkey/istanbul.jpg)
 
 Nothing operated in isolation.
 
