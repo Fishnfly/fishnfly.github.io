@@ -126,6 +126,10 @@ What had felt layered elsewhere no longer held in sequence. Systems overlapped h
 
 The density reinforced it. Movement compressed quickly—millions within a confined area, interaction constant, adjustment required at every step.
 
+**Istanbul Pic**
+
+![IstanbulCity](/assets/images/turkey/istanbulcity.jpg)
+
 Nothing operated in isolation.
 
 Below ground, water was contained within structures built centuries earlier, still functioning beneath the city above. The Basilica Cistern did not feel removed from its origin. It remained within the system, integrated rather than preserved.
@@ -195,6 +199,11 @@ The system did not define meaning. It allowed it to accumulate.
 Further into the country, the distinction between structure and environment began to narrow.
 
 At Pamukkale, natural formation had been shaped into sustained use over time. The terraces appeared layered and continuous, formed gradually, yet carrying evidence of repeated human interaction.
+
+**Pamukkale Pic**
+
+![Pamukkale](/assets/images/turkey/pamukkale.jpg)
+
 
 The significance extended beyond the site itself.
 
