@@ -150,6 +150,18 @@ The experience did not unfold in stages. Everything was present at once.
 
 What had been layered elsewhere converged here—visible, active, and unresolved.
 
+In quieter moments, that convergence became more contained.
+
+In a historic setting, past and present existed without separation. The space carried its history visibly, but remained fully in use—its function unchanged even as its meaning extended across time.
+
+**Pera Palace Pic**
+
+![PeraPalace](/assets/images/turkey/perapalace.jpg)
+
+It did not present itself as something preserved.
+
+It continued.
+
 ---
 
 ## Western Turkey — Where Myth Becomes Place
