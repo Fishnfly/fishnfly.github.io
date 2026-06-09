@@ -162,6 +162,18 @@ It did not present itself as something preserved.
 
 It continued.
 
+At a higher vantage point, the pattern became more visible.
+
+From above the city, the density no longer felt compressed. What had been encountered as movement and adjustment below revealed itself as structure—layers extending outward, intersecting without separation.
+
+The systems did not resolve from that perspective.
+
+They aligned.
+
+**Galata Tower Pic**
+
+![Galata](/assets/images/turkey/galata.jpg)
+
 ---
 
 ## Western Turkey — Where Myth Becomes Place
