@@ -65,3 +65,11 @@ If no image is present, a placeholder tile is rendered.
     </figcaption>
   </figure>
 </a>
+
+{% if page.thumbnail.layout == "trio" %}
+  <div class="thumbnail-grid-3">
+    <img src="{{ page.thumbnail.img1 }}" alt="{{ page.thumbnail.alt }}">
+    <img src="{{ page.thumbnail.img2 }}" alt="{{ page.thumbnail.alt }}">
+    <img src="{{ page.thumbnail.img3 }}" alt="{{ page.thumbnail.alt }}">
+  </div>
+{% endif %}
