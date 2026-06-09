@@ -212,6 +212,10 @@ In Konya, continuity was expressed through practice.
 
 At the mausoleum of Mevlana, the rhythm changed—quieter, deliberate, sustained. What had been layered or structured elsewhere now appeared as something internal, carried through repetition rather than visible form.
 
+**Whirling Dervish Pic**
+
+![Whirling Dervishy](/assets/images/turkey/dervish.jpg)
+
 The structure remained, but it was not the focus.
 
 What persisted was not the space, but the meaning it supported.
