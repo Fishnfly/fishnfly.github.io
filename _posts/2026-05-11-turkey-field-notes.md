@@ -212,7 +212,6 @@ At Pamukkale, natural formation had been shaped into sustained use over time. Th
 
 ![Pamukkale](/assets/images/turkey/pamukkale.jpg)
 
-
 The significance extended beyond the site itself.
 
 What had developed through continuous use was later recognized formally, but the designation did not define its importance. The system had existed long before it was named or protected.
@@ -220,6 +219,10 @@ What had developed through continuous use was later recognized formally, but the
 Recognition followed persistence, not the other way around.
 
 Adjacent to it, the remains of Hierapolis extended the pattern. Structures aligned with what had drawn people there, remaining connected to the environment rather than separate from it.
+
+**Hierapolis Pic**
+
+![Hierapolis](/assets/images/turkey/hierapolis.jpg)
 
 Nothing stood apart.
 
@@ -297,9 +300,13 @@ After movement through layered, adaptive, and internally sustained systems, Anka
 
 At the mausoleum of Atatürk, the system made itself explicit. Scale, alignment, and material worked toward clarity and permanence. Movement followed a defined path.
 
-The presence extended beyond the structure itself.
+What had been established was not distant.
 
-It remained visible—reinforced, maintained, continuously referenced.
+It remained active—carried through public space, reinforced through repetition, and held in the way structure was maintained and approached. The system was not only preserved, but continually affirmed.
+
+Its influence did not rely on explanation. It was evident in its persistence.
+
+The presence extended beyond the structure itself.
 
 Nothing overlapped.
 
@@ -308,7 +315,6 @@ What had accumulated elsewhere was simplified. What had remained unresolved was 
 The system did not emerge over time. It was established.
 
 It did not converge. It separated.
-
 ---
 
 ## Istanbul — Return
