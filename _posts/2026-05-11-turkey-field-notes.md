@@ -9,12 +9,12 @@ subtitle: "Convergence, expansion, and the systems that refuse separation."
 
 thumbnail:
   layout: duo
-  img1: /assets/images/turkey/istanbulcity.jpg
-  img2: /assets/images/turkey/cappadocia.jpg
+  img1: /assets/images/turkey/istanbul.jpg
+  img2: /assets/images/turkey/balloonpic.jpg
   alt: "Istanbul density and Cappadocia landscape contrast"
 
 # Hero image (mockup)
-hero_image: /assets/img/mockups/balloons.jpg
+hero_image: /assets/img/mockups/istanbulcity.jpg
 hero_alt: "Istanbul skyline showing convergence across water and continents"
 
 ---
@@ -114,9 +114,9 @@ Departure
 
 ---
 
-**Cappadocia Pic**
+**Istanbul Bosphorus Pic**
 
-![Balloonlandscape](/assets/images/turkey/balloonpic.jpg)
+![Balloonlandscape](/assets/images/turkey/istanbul_bosphorus.jpg)
 
 ## Istanbul — Where Systems Converge
 
@@ -125,10 +125,6 @@ Arrival into Istanbul shifted the framework immediately.
 What had felt layered elsewhere no longer held in sequence. Systems overlapped here—visible at once, operating within the same space without separating into distinct parts.
 
 The density reinforced it. Movement compressed quickly—millions within a confined area, interaction constant, adjustment required at every step.
-
-**Istanbul Pic**
-
-![IstanbulCity](/assets/images/turkey/istanbul.jpg)
 
 Nothing operated in isolation.
 
@@ -250,6 +246,11 @@ It held from within.
 ---
 
 ## Cappadocia — Landscape as System
+
+**Cappadocia Pic**
+
+![Cappadocia](/assets/images/turkey/cappadocia.jpg)
+
 
 Further into the country, the relationship between environment and structure became more complete.
 
