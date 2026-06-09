@@ -19,14 +19,6 @@ hero_alt: "Istanbul skyline showing convergence across water and continents"
 
 ---
 
-<div class="image-row-3">
-  <img src="/assets/images/turkey/istanbul.jpg" alt="">
-  <img src="/assets/images/turkey/balloonpic.jpg" alt="">
-  <img src="/assets/images/turkey/balloons.jpg" alt="">
-</div>
-
----
-
 The shift into Turkey was immediate.
 
 What had been structured elsewhere no longer held in the same way. Systems did not separate cleanly. They overlapped—geographically, historically, and culturally—without clear boundaries between them.
