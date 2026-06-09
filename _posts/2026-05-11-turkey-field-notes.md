@@ -8,9 +8,10 @@ excerpt: "A movement through converging systems — from density to openness, fr
 subtitle: "Convergence, expansion, and the systems that refuse separation."
 
 thumbnail:
-  layout: duo
+  layout: trio
   img1: /assets/images/turkey/istanbul.jpg
   img2: /assets/images/turkey/balloonpic.jpg
+  img3: /assets/images/turkey/balloons.jpg
   alt: "Istanbul density and Cappadocia landscape contrast"
 
 # Hero image (mockup)
@@ -249,8 +250,7 @@ It held from within.
 
 **Cappadocia Pic**
 
-![Cappadocia](/assets/images/turkey/cappadocia.jpg)
-![Cappadocia2](/assets/images/turkey/balloons.jpg)
+![Cappadocia2](/assets/images/turkey/ballooncombo.jpg)
 
 Further into the country, the relationship between environment and structure became more complete.
 
