@@ -136,7 +136,29 @@ Below ground, water was contained within structures built centuries earlier, sti
 
 Above, structures carried multiple identities at once. Spaces that had shifted purpose over time continued to operate without resolving what they had been. Form persisted even as function changed.
 
+Some elements remained partially obscured.
+
+At Hagia Sophia, portions of the structure were undergoing restoration. Sections were covered, the full form not entirely visible. It did not present itself as complete.
+
+The structure remained in transition—its layered identities ongoing rather than resolved.
+
+**Hague Sophia Pic**
+
+![Hague](/assets/images/turkey/haguesophia.jpg)
+
 Movement between them required constant recalibration.
+
+Some spaces structured movement more deliberately.
+
+Within a large, enclosed complex, progression followed a defined sequence—entry giving way to increasingly restricted spaces, each organized with a specific function. Movement was not continuous, but directed.
+
+The system did not emerge through accumulation.
+
+It was designed to organize authority within it.
+
+**Topkapi Palace Pic**
+
+![Topkapi](/assets/images/turkey/topkapi.jpg)
 
 In the mosques, the scale expanded, but the rhythm remained deliberate—daily use continuing within structures shaped by earlier systems. Outside, movement condensed again. Markets narrowed space, drawing activity inward, concentrating interaction.
 
