@@ -200,6 +200,18 @@ It collapsed them.
 
 The system did not define meaning. It allowed it to accumulate.
 
+Along the edge of the water, a familiar setting returned.
+
+The structure was smaller, more contained, but unchanged in its presence. What had been experienced before did not require adjustment. It remained consistent, situated within the same rhythm of place.
+
+Not everything shifted through movement.
+
+Some places remained as they were.
+
+**Kusadasi Pic**
+
+![Kusadasi](/assets/images/turkey/kusadasi.jpg)
+
 ---
 
 ## Pamukkale — Systems Formed from Environment
