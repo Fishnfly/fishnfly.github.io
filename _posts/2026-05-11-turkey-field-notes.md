@@ -274,6 +274,20 @@ Movement shifted inward.
 
 What had been visible in structure, landscape, and form no longer presented itself in the same way. The system did not disappear, but it became less external.
 
+Between destinations, the system revealed another form.
+
+At a caravanserai, movement itself had been structured. What appeared as a fixed, enclosed space was designed not for permanence, but for passage—supporting those moving through rather than those remaining.
+
+The structure did not evolve through continuous use in one place. It functioned as part of a larger network, repeated across distance, consistent in purpose rather than form.
+
+What passed through it was transient.
+
+What remained was the system that made that movement possible.
+
+**Sultanhani Caravanserai Pic**
+
+![Caravanserai](/assets/images/turkey/caravanserai.jpg)
+
 In Konya, continuity was expressed through practice.
 
 At the mausoleum of Mevlana, the rhythm changed—quieter, deliberate, sustained. What had been layered or structured elsewhere now appeared as something internal, carried through repetition rather than visible form.
@@ -313,6 +327,10 @@ What might have been a singular experience elsewhere no longer held the same wei
 Below the surface, the system extended further.
 
 Underground spaces revealed another layer—carved into the landscape rather than built upon it. What existed above ground did not define the system entirely. It continued beneath it, structured but not immediately visible.
+
+**Mazı Underground City Pic**
+
+![Mazi](/assets/images/turkey/mazi.jpg)
 
 The spaces were not separate from the environment. They were formed from it, used as part of an ongoing system rather than preserved as something distinct.
 
