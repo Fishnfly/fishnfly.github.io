@@ -324,6 +324,30 @@ Movement revealed that distinction.
 
 What might have been a singular experience elsewhere no longer held the same weight. The act of rising above the landscape clarified something different. The terrain felt both natural and intentional.
 
+In some places, that integration was more deliberate.
+
+Structures were not added to the landscape, but carved into it—spaces formed directly from the material itself. What appeared natural carried visible intention, use embedded within the environment rather than placed alongside it.
+
+**Goreme Oren Yeri Pic**
+
+![Goreme](/assets/images/turkey/goreme.jpg)
+
+The system did not separate human activity from the landscape.
+
+It worked within it.
+
+Across the landscape, that system became visible in its most distinct form.
+
+The terrain rose into repeated structures—columns, formations, shapes that appeared almost constructed, but were not. Walking among them shifted the scale. What seemed abstract from a distance became immediate.
+
+They were not separate features within the landscape.
+
+They were the landscape, shaped into form.
+
+**Fairy Chimneys of Cappadocia Pic**
+
+![Chimneys](/assets/images/turkey/chimneys.jpg)
+
 Below the surface, the system extended further.
 
 Underground spaces revealed another layer—carved into the landscape rather than built upon it. What existed above ground did not define the system entirely. It continued beneath it, structured but not immediately visible.
