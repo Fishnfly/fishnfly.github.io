@@ -41,7 +41,7 @@ for impressions,
 for the small details that don’t belong on a list  
 but stay with you long after you’ve left.
 
-### About fishing
+### **About fishing**
 
 Fishing is never the reason for the trip,  
 but sometimes it’s the doorway into a place —  
