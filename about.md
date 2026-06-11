@@ -41,14 +41,24 @@ for impressions,
 for the small details that don’t belong on a list  
 but stay with you long after you’ve left.
 
-### **About fishing**  
+### About fishing
+
 Fishing is never the reason for the trip,  
 but sometimes it’s the doorway into a place —  
 a way to understand water,  
 to stand still long enough to notice what would otherwise pass,  
-to talk to people who live where the river bends.  
+to talk to people who live where the river bends.
+
+It becomes less about the catch, and more about attention—  
+patience, persistence, and the ability to adjust to conditions that are never fully controlled. Movement follows currents, timing, and subtle shifts that are felt more than directed.
+
+What unfolds cannot be forced.  
+
+It is navigated.
+
 When it belongs in the story, it appears.  
 When it doesn’t, it remains part of the way we look.
+``
 
 ### **What this project is becoming**
 
