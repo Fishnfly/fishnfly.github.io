@@ -58,7 +58,6 @@ It is navigated.
 
 When it belongs in the story, it appears.  
 When it doesn’t, it remains part of the way we look.
-``
 
 ### **What this project is becoming**
 
