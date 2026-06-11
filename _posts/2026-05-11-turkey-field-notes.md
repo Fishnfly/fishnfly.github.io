@@ -376,6 +376,10 @@ After movement through layered, adaptive, and internally sustained systems, Anka
 
 At the mausoleum of Atatürk, the system made itself explicit. Scale, alignment, and material worked toward clarity and permanence. Movement followed a defined path.
 
+**Ataturk Mausoleum Pic**
+
+![Mausoleum](/assets/images/turkey/mausoleum.jpg)
+
 What had been established was not distant.
 
 It remained active—carried through public space, reinforced through repetition, and held in the way structure was maintained and approached. The system was not only preserved, but continually affirmed.
