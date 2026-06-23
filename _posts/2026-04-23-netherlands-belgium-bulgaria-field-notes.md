@@ -607,7 +607,7 @@ What had been compressed in Sofia was given space here.
 
 The structure did not feel adapted or overlaid. It felt sustained. Painted surfaces, repeating forms, enclosed courtyards — all maintained through repetition rather than reinvention. Nothing suggested interruption.
 
-**Rile Monastery Pic**
+**Rila Monastery Pic**
 
 ![RilaMonastery](/assets/images/bulgaria/monastery.jpg)
 
