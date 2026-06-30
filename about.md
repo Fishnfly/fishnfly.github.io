@@ -6,7 +6,7 @@ title: ""
 # **Why We Travel**  
 *A few notes about this project.*
 
-We’re Mike and Birgitte — travelers drawn to cities, coastlines, mountains, and the quiet spaces between them. We’re not trying to collect every country, though we may cross many. What pulls us forward is something simpler: curiosity, movement, and the joy of noticing.
+We’re Mike and Birgitte Bindeman — travelers drawn to cities, coastlines, mountains, and the quiet spaces between them. We’re not trying to collect every country, though we may cross many. What pulls us forward is something simpler: curiosity, movement, and the joy of noticing.
 
 **Fish n Fly** began as a way to keep track of that noticing —  
 a travel journal shaped by motion through landscapes, cultures, and weather.  
