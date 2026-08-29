@@ -73,9 +73,9 @@ It was the system itself.
 
 ---
 
-## The Itinerary (Reference)
+## **The Itinerary (Reference)**
 
-<details>
+<details markdown="1">
 <summary><strong>View full day-by-day itinerary</strong></summary>
 
 **Day 1 — Arrival**
