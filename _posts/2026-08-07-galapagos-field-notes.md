@@ -75,11 +75,6 @@ It was the system itself.
 
 ## **The Itinerary (Reference)**
 
-<details markdown="1">
-<summary><strong>View full day-by-day itinerary</strong></summary>
-
-## The Itinerary (Reference)
-
 <details>
 <summary><strong>View full day-by-day itinerary</strong></summary>
 
