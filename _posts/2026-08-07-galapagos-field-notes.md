@@ -78,33 +78,56 @@ It was the system itself.
 <details markdown="1">
 <summary><strong>View full day-by-day itinerary</strong></summary>
 
+## The Itinerary (Reference)
+
+<details>
+<summary><strong>View full day-by-day itinerary</strong></summary>
+
 **Day 1 — Arrival**
 
-Baltra Airport → Bus → Ferry → Taxi → Ferry → Walk to Finch Bay
+Baltra Airport → Bus → Ferry → Taxi → Ferry → Finch Bay Hotel
 
-**Day 2 — Santa Cruz**
+Charles Darwin Research Station
 
-Highlands → Giant Tortoises → Lava Tunnels → Charles Darwin Research Center
+Tortuga Bay
 
-**Day 3 — North Seymour**
+**Day 2 — North Seymour & Las Bachas Beach**
 
-Blue-footed Boobies → Frigatebirds → Sea Lions
+Las Bachas Beach → Snorkeling → Flamingos → North Seymour Island
 
-**Day 4 — Bartolomé**
+Blue-footed Boobies → Frigatebirds → Land Iguanas → Marine Iguanas → Nazca Boobies
 
-Pinnacle Rock → Lava Formations → Snorkeling
+**Day 3 — Divine Bay & Santa Cruz Highlands**
 
-**Day 5 — South Plaza**
+Guided Kayak Excursion through Divine Bay
 
-Land Iguanas → Cactus Forest
+Mangroves → Herons → Egrets → Blue-footed Boobies
 
-**Day 6 — Santa Fe**
+Sea Turtles → Young Reef Sharks
 
-Sea Lions → Coastal Wildlife
+Giant Tortoises → Lava Tunnels
 
-**Day 7 — Return**
+**Day 4 — Punta Carrion & South Plaza**
 
-Santa Cruz → Baltra → Departure
+Snorkeling at Punta Carrion
+
+Reef Fish → Rays → Whitetip Reef Sharks
+
+South Plaza Island
+
+Land Iguanas → Sea Lions → Tropicbirds → Nazca Boobies → Blue-footed Boobies
+
+**Day 5 — Santa Fe Island**
+
+Santa Fe Land Iguanas
+
+Galápagos Hawks → Sea Lions → Frigatebirds
+
+Snorkeling at La Encañada
+
+**Day 6 — Return**
+
+Santa Cruz → Baltra → Guayaquil
 
 </details>
 
