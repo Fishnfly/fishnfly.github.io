@@ -10,8 +10,8 @@ subtitle: "Presence, adaptation, and what happens when continuity is never guara
 thumbnail:
   layout: duo
   img1: /assets/images/galapagos/iguana.jpg
-  img2: /assets/images/galapagos/finchbay.jpg
-  alt: "Galápagos wildlife and landscape"
+  img2: /assets/images/galapagos/tortoise.jpg
+  alt: "Galápagos wildlife"
 
 hero_image: /assets/images/galapagos/hero.jpg
 hero_alt: "Galápagos"
