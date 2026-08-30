@@ -75,8 +75,10 @@ It was the system itself.
 
 ## **The Itinerary (Reference)**
 
-<details>
-<summary><strong>View full day-by-day itinerary</strong></summary>
+<details markdown="1">
+<summary><strong>View full day‑by‑day itinerary</strong></summary>
+
+---
 
 **Day 1 — Arrival**
 
