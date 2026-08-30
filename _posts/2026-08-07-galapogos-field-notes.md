@@ -14,7 +14,7 @@ thumbnail:
   alt: "Galápagos wildlife and landscape"
 
 hero_image: /assets/images/galapagos/hero.jpg
-hero_alt: "Galápagos Islands landscape"
+hero_alt: "Galápagos"
 ---
 
 The shift into the Galápagos was immediate.
