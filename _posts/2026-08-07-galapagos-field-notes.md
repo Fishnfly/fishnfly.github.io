@@ -34,14 +34,17 @@ The system did not organize itself around us.
 We entered one that was already functioning.
 
 ---
-
 ## The Route (Context)
 
-Baltra → Santa Cruz → Finch Bay → Highlands → Charles Darwin Research Center → North Seymour → Bartolomé → South Plaza → Santa Fe → Santa Cruz
+Baltra → Santa Cruz → Finch Bay → Charles Darwin Research Center → Tortuga Bay → North Seymour → Las Bachas Beach → Divine Bay → Santa Cruz Highlands → Lava Tunnels → South Plaza → Santa Fe → Santa Cruz
 
 A movement through islands where access is regulated, interaction is limited, and observation often matters more than participation.
 
+The route crossed beaches, mangroves, highlands, volcanic landscapes, and open water, revealing how a system functions across environments that appear separate but remain interconnected.
+
 Movement did not follow a single direction.
+
+Each island expressed the same system differently. Wildlife, landscape, and ocean conditions shifted from place to place, yet remained linked through the forces that sustained them.
 
 What appeared isolated remained connected through water, adaptation, and continuation.
 
@@ -282,7 +285,7 @@ It reshaped the environment around it.
 
 **Tortoise Pic**
 
-![Tortoise](/assets/images/galapagos/tortoise.jpg)
+![Tortoise](/assets/images/galapagos/giant-tortoise.jpg)
 
 ---
 
