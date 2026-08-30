@@ -13,7 +13,7 @@ thumbnail:
   img2: /assets/images/galapagos/tortoise3.jpg
   alt: "Galápagos wildlife"
 
-hero_image: /assets/images/galapagos/hero.jpg
+hero_image: /assets/images/galapagos/hero1.jpg
 hero_alt: "Galápagos"
 ---
 
