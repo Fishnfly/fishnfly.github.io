@@ -245,6 +245,22 @@ They were the experience.
 
 ---
 
+## Divine Bay — Quiet Systems
+
+Not every part of the Galápagos announced itself.
+
+Moving slowly through the protected waters of Divine Bay revealed a different rhythm. The mangroves formed boundaries that felt natural rather than imposed, creating sheltered spaces where marine and bird life overlapped.
+
+Movement slowed.
+
+Observation became easier.
+
+Nothing appeared arranged for visitors.
+
+Life continued within the shelter the environment provided.
+
+---
+
 ## Below the Surface
 
 The system extended beyond what could be seen from shore.
@@ -271,15 +287,27 @@ It merely revealed it.
 
 ## Santa Cruz Highlands — Persistence
 
-The giant tortoises altered the perception of time.
+The surrounding landscape revealed an older form of persistence.
 
-Their movement appeared measured against something different from human schedules. What felt slow in one context felt entirely appropriate in another.
+Beneath the highlands, lava tunnels extended through the island—remnants of earlier volcanic activity that helped create the archipelago itself. Walking through them felt less like entering a cave and more like moving through the interior of a process that had never fully disappeared.
 
-They existed as both inhabitant and influence.
+Their scale was difficult to grasp. One guide described spending eight hours exploring within a tunnel system without reaching its end. What appeared from the surface as a contained feature extended far beyond what could easily be seen or measured.
 
-Their presence shaped the landscape itself. Continuity created effects extending beyond the individual animal.
+The tunnels remained as evidence of movement long after the lava itself had passed.
 
-Persistence was not passive.
+The contrast was striking.
+
+**Lava Tunnels Pic**
+
+![Iguana](/assets/images/galapagos/lavatunnels.jpg)
+
+Above ground, giant tortoises continued patterns that had persisted for generations. Below ground, the island carried the record of forces that had shaped it long before any wildlife arrived.
+
+Both told the same story.
+
+Persistence was not a single thing.
+
+It existed across different scales of time.
 
 It reshaped the environment around it.
 
