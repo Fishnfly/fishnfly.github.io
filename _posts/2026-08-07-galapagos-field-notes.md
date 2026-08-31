@@ -313,8 +313,7 @@ It reshaped the environment around it.
 
 **Tortoise Pic**
 
-![Tortoise](/assets/images/galapagos/giant-tortoise.jpg)
-
+![Tortoise](/assets/images/galapagos/tortoises-final.jpg)
 ---
 
 ## Continuity — Not Guaranteed
