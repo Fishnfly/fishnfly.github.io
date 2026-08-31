@@ -293,10 +293,13 @@ Observation did not alter what was occurring.
 
 It merely revealed it.
 
-**Shark Pic / Video**
+**Shark Pic**
 
 ![Shark](/assets/images/galapagos/shark.jpg)
 
+**Snorkling video**
+
+https://youtu.be/E9I01PeMBRQ
 ---
 
 ## Santa Cruz Highlands — Persistence
