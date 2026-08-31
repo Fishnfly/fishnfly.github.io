@@ -263,6 +263,20 @@ Life continued within the shelter the environment provided.
 
 ## Below the Surface
 
+Along the shoreline, another layer of the system became visible.
+
+A green sea turtle moved steadily through the shallows, unaffected by the presence of observers above. Its movement felt effortless, following a course that appeared established long before our arrival.
+
+The encounter invited attention rather than excitement.
+
+Nothing dramatic occurred.
+
+The significance came from witnessing continuity in motion.
+
+**Green Sea Turtle**
+
+![Green Sea Turtle](/assets/images/galapagos/greenturtle.jpg)
+
 The system extended beyond what could be seen from shore.
 
 During a snorkeling excursion, visibility opened into another layer of the islands. Fish, currents, and movement existed within a structure operating largely out of sight.
@@ -376,7 +390,7 @@ The system continued, even when individuals did not.
 
 **Blue-Footed Booby Pic**
 
-![Booby](/assets/images/galapagos/booby.jpg)
+![Boobies](/assets/images/galapagos/boobies.jpg)
 
 ---
 
