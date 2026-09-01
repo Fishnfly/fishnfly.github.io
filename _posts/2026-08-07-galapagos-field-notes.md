@@ -195,9 +195,9 @@ The system continued regardless.
 
 Its function was independent of the observer.
 
-**Sea Lion Pic**
+**Sea Lions Pic**
 
-![SeaLion](/assets/images/galapagos/sealion.jpg)
+![SeaLions](/assets/images/galapagos/sealions.jpg)
 
 ---
 
