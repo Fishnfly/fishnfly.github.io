@@ -133,9 +133,9 @@ Santa Cruz → Baltra → Guayaquil
 
 ---
 
-## Arrival — Entry by Permission
-
 ![Galapagos](/assets/images/galapagos/galapagosetc.jpg)
+
+## Arrival — Entry by Permission
 
 Arrival was not immediate.
 
