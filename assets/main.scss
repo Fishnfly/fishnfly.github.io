@@ -529,76 +529,149 @@ body.home .hero {
   opacity: 1;
 }
 
-/* HERO */
+/* ===========================
+   HOMEPAGE HERO
+   =========================== */
 
 .hero {
-    position: relative;
-    width: 100%;
-    height: 85vh;
-    overflow: hidden;
+  position: relative;
+ *width: 100%;
+  height: 100vh;
+  ma*gin: 0;
+  padding: 0;
+  overflow: *idden;
 }
 
 .hero-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+  width: 1*0%;
+  height: 100%;
+  object-fit: *over;
+  object-position: center ce*ter;
+  display: block;
 }
 
-.hero::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: rgba(0,0,0,0.35);
-    z-index: 1;
+.hero::b*fore {
+  content: "";
+  position: *bsolute;
+  inset: 0;
+  background:*rgba(0,0,0,.35);
+  z-index: 1;
 }
 
-.hero-overlay {
-    position: absolute;
-    top: 50%;
-    left: 10%;
-    transform: translateY(-50%);
-    z-index: 2;
-    max-width: 700px;
-    color: #fff;
+*hero-overlay {
+  position: absolut*;
+  inset: 0;
+  z-index: 2;
+
+  dis*lay: flex;
+  flex-direction: colum*;
+  justify-content: center;
+  ali*n-items: center;
+
+  text-align: ce*ter;
+  color: #fff;
+  padding: 1re*;
 }
 
 .hero-title {
-    font-size: clamp(3rem, 8vw, 6rem);
-    margin-bottom: 0.5rem;
-    letter-spacing: 2px;
+  font-size: cl*mp(3rem, 8vw, 6rem);
+  font-weight* 700;
+  margin: 0 0 .5rem 0;
+  let*er-spacing: 1px;
 }
 
-.hero-subtitle {
-    font-size: 1.3rem;
-    line-height: 1.6;
-    margin-bottom: 2rem;
+.hero-subtitle*{
+  font-size: 1.25rem;
+  line-hei*ht: 1.6;
+  max-width: 700px;
+  mar*in: 0 0 2rem 0;
 }
 
 .hero-button {
-    display: inline-block;
-    padding: 14px 28px;
-    background: #ffffff;
-    color: #111;
-    text-decoration: none;
-    border-radius: 4px;
-    font-weight: 600;
+* display: inline-block;
+  padding:*14px 28px;
+  background: #ffffff;
+* color* #111111;
+  text-decoration: none;*  border-radius: 4px;
+  font-weigh*: 600;
 }
 
 .hero-button:hover {
-    background: #e6e6e6;
+* background: #e6e6e6;
 }
 
-/* STORY SECTION */
+/* ===========================
+   HOMEPAGE SECTIONS
+   =========================== */
 
 .home-intro-cta {
-    max-width: 900px;
-    margin: 4rem auto;
-    text-align: center;
+  max-width: 900px;
+  margin: 4rem auto;
+  text-align: center;
 }
 
 .evolving-note {
-    max-width: 900px;
-    margin: 4rem auto;
-    text-align: center;
+  max-width: 900px;
+  margin: 4rem auto;
+  text-align: center;
 }
 
+.evolving-note h3 {
+  margin-bottom: 1rem;
+}
+
+.evolving-note p {
+  line-height: 1.8;
+  margin-bottom: 1.25rem;
+}
+
+/* ===========================
+   HOMEPAGE SPACING FIXES
+   =========================== */
+
+body.home .post-header {
+  display: none !important;
+}
+
+body.home .page-content,
+body.home .wrapper,
+body.home .post,
+body.home .post-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+body.home .hero {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* ===========================
+   MOBILE
+   =========================== */
+
+@media (max-width: 768px) {
+
+  .hero {
+    height: 75vh;
+  }
+
+  .hero-title {
+    font-size: clamp(2rem, 6vw, 3rem);
+  }
+
+  .hero-subtitle {
+    font-size: 1rem;
+    max-width: 90%;
+  }
+
+  .hero-button {
+    padding: 12px 22px;
+  }
+
+  .home-intro-cta,
+  .evolving-note {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
