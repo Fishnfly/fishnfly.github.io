@@ -694,9 +694,9 @@ body.home .hero {
   align-items: center;
   text-align: center;
 
-  /* makes text readable on bright images */
-  background: rgba(0, 0, 0, 0.35);
-  backdrop-filter: brightness(0.75);
+  /* LIGHTER overlay */
+  background: rgba(0, 0, 0, 0.18);   /* was 0.35 */
+  backdrop-filter: brightness(0.88); /* was 0.75 */
 }
 
 .hero-title {
