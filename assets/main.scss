@@ -738,3 +738,14 @@ body.home .hero {
   background: rgba(255, 255, 255, 0.25);
   border-color: rgba(255, 255, 255, 0.6);
 }
+
+.hero-overlay a,
+.hero-overlay a:visited {
+  color: #ffffff;            /* makes link white */
+  text-decoration: none;     /* removes underline */
+}
+
+.hero-overlay a:hover {
+  color: #f0f0f0;            /* slight hover shift */
+  text-decoration: underline; /* optional: subtle cue */
+}
