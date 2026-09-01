@@ -749,3 +749,8 @@ body.home .hero {
   color: #f0f0f0;            /* slight hover shift */
   text-decoration: underline; /* optional: subtle cue */
 }
+
+.hero-overlay {
+  background: rgba(0, 0, 0, 0.08);
+  backdrop-filter: brightness(0.96);
+}
