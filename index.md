@@ -7,10 +7,10 @@ image: /assets/images/social/fishnfly-og.jpg
 <div class="hero">
   <img src="/assets/images/social/fishnfly-og.jpg"
        alt="Fish n Fly"
-       class="hero-image">
+      ss="hero-title">Fish n Fly</h1>
 
-  <div class="hero-overlay">
-    <h1 class="hero-title">Fish n Fly<ishing better.
+    <p class="hero-subtitle">
+      Traveling farther. Fishing better.<br>
       Stories from the quiet places between movement.
     </p>
 
@@ -19,6 +19,7 @@ image: /assets/images/social/fishnfly-og.jpg
     </a>
   </div>
 </div>
+
 </section>
 
 <!-- STORIES -->
@@ -37,24 +38,24 @@ image: /assets/images/social/fishnfly-og.jpg
 
 <!-- LIVING JOURNEY -->
 
-<section class="evolving-note">
+<div class="evolving-note">
 
-  <h3>A Living, Breathing Journey</h3>
+<h3>A Living, Breathing Journey</h3>
 
-  <p>
-    These stories are part map, part memory, shaped not only by where we've been, but by where we are now.<br>
-    As new miles unfold beneath our feet and fresh horizons color our thoughts, the narrative here may shift, deepen, or take on new shades.<br>
-    We don't rewrite the past; we let the journey add its own echoes.
-  </p>
+<p>
+These stories are part map, part memory, shaped not only by where we've been, but by where we are now.
+</p>
 
-  <p>
-    So as you read, know that this is a travel chronicle still growing, alive with new winds, new waters, and the evolving perspective that every adventure brings.
-  </p>
+<p>
+As new miles unfold beneath our feet and fresh horizons color our thoughts, the narrative deepens with each new experience.
+</p>
 
-  <p>
-    /travel/
-      Explore the Stories
-    </a>
-  </p>
+<p>
+This is not a finished record. It is a chronicle still growing, carried forward by new winds, new waters, and the evolving perspective that every journey brings.
+</p>
 
-</section>
+<p>
+/travel/Explore the Stories</a>
+</p>
+
+</div>
