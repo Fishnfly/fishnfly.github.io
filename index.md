@@ -18,8 +18,8 @@ image: /assets/images/social/fishnfly-og.jpg
       Stories from the quiet places between movement.
     </p>
 
-    - [Begin the Journey](/travel/)
-   
+    /travel/
+      Begin the Journey
     </a>
   </div>
 </div>
@@ -55,7 +55,9 @@ image: /assets/images/social/fishnfly-og.jpg
   </p>
 
   <p>
-   - [Explore the Stories](/travel/)
+   /travel/
+     Explore the Stories
+   </a> 
   </p>
 
 </div>
