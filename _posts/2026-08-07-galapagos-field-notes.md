@@ -157,7 +157,7 @@ We were the newcomers.
 
 **Arrival / Iguana Pic**
 
-![Iguana](/images/galapagos/iguana_arrival.jpg)
+![Iguanas](/assets/images/galapagos/iguanas.jpg)
 
 ---
 
@@ -177,7 +177,7 @@ The hotel existed beside the system rather than apart from it.
 
 **Finch Bay Pic**
 
-![Finchbay](/assets/images/galapogos/finchbay.jpg)
+![Finchbay](/assets/images/galapagos/finchbay.jpg)
 
 ---
 
