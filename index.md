@@ -4,36 +4,33 @@ title: Fish n Fly
 permalink: /
 image: /assets/images/social/fishnfly-og.jpg
 ---
+
 <div class="hero">
-  <img src="/assets/images/social/fishnfly-og.jpg"
-       alt="Fish n Fly"
-      ss="hero-title">Fish n Fly</h1>
+<img src="/assets/images/social/fishnfly-og.jpg"
+alt="Fish n Fly"
+classro-title">Fish n Fly</h1>
 
-    <p class="hero-subtitle">
-      Traveling farther. Fishing better.<br>
-      Stories from the quiet places between movement.
-    </p>
+<p class="hero-subtitle">
+Traveling farther. Fishing better.<br>
+Stories from the quiet places between movement.
+</p>
 
-    /travel/
-      Begin the Journey
+{{ '/travel/' | relative_url }}
+Begin the Journey
     </a>
   </div>
 </div>
 
-</section>
-
 <!-- STORIES -->
 
 <section class="home-intro-cta" aria-label="Stories">
+<h2>Stories</h2>
 
-  <h2>Stories</h2>
-
-  <p>
-    Every destination leaves behind more than photographs.
-    It leaves new questions, unexpected lessons, and perspectives that continue long after the journey ends.
-    These pages are a record of those moments.
-  </p>
-
+<p>
+Every destination leaves behind more than photographs.
+It leaves new questions, unexpected lessons, and perspectives that continue long after the journey ends.
+These pages are a record of those moments.
+</p>
 </section>
 
 <!-- LIVING JOURNEY -->
@@ -55,7 +52,9 @@ This is not a finished record. It is a chronicle still growing, carried forward 
 </p>
 
 <p>
-/travel/Explore the Stories</a>
+{{ '/travel/' | relative_url }}
+Explore the Stories
+</a>
 </p>
 
 </div>
