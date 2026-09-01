@@ -750,7 +750,6 @@ body.home .hero {
   text-decoration: underline; /* optional: subtle cue */
 }
 
-.hero-overlay {
-  background: rgba(0, 0, 0, 0.08);
-  backdrop-filter: brightness(0.96);
+..hero-overlay {
+  background: rgba(255, 255, 255, 0.18);
 }
