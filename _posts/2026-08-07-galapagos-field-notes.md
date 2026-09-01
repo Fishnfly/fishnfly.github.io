@@ -135,6 +135,8 @@ Santa Cruz → Baltra → Guayaquil
 
 ## Arrival — Entry by Permission
 
+![Galapagos](/assets/images/galapagos/galapagosetc.jpg)
+
 Arrival was not immediate.
 
 Reaching the hotel required a sequence of transitions—bus, ferry, taxi, another ferry, and finally a walk along the waterfront. Each step reduced the distance, but it also reinforced a different idea.
