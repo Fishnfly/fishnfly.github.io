@@ -297,9 +297,10 @@ It merely revealed it.
 
 ![Shark](/assets/images/galapagos/shark.jpg)
 
-**Snorkling video**
+**Snorkeling video**
 
-https://youtu.be/E9I01PeMBRQ
+[Snorkeling video](https://youtu.be/E9I01PeMBRQ)
+
 ---
 
 ## Santa Cruz Highlands — Persistence
