@@ -6,16 +6,17 @@ image: /assets/images/social/fishnfly-og.jpg
 ---
 
 <div class="hero">
-  <img src="/assets/images/social/fishnfly-og.jpg"
-       alt="Fish n Fly"
-       class="hero-image">
+  /assets/images/social/fishnfly-og.jpg
 
-  <div class="hero-overlayero-subtitle">
+  <div class="hero-overlay">
+    <h1 class="hero-title">Fish n Fly</h1>
+
+    <p class="hero-subtitle">
       Traveling farther. Fishing better.<br>
       Stories from the quiet places between movement.
     </p>
 
-    {{ '/travel/' | relative_url }}
+    /travel/
       Begin the Journey
     </a>
   </div>
@@ -52,9 +53,7 @@ image: /assets/images/social/fishnfly-og.jpg
   </p>
 
   <p>
-    {{ '/travel/' | relative_url }}
-      Explore the Stories
-    </a>
+    /travel/Explore the Stories</a>
   </p>
 
 </div>
