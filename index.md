@@ -6,7 +6,9 @@ image: /assets/images/social/fishnfly-og.jpg
 ---
 
 <div class="hero">
-  /assets/images/social/fishnfly-og.jpg
+  <img src="/assets/images/social/fishnfly-og.jpg"
+       alt="Fish n Fly"
+       class="hero-image">
 
   <div class="hero-overlay">
     <h1 class="hero-title">Fish n Fly</h1>
@@ -16,8 +18,8 @@ image: /assets/images/social/fishnfly-og.jpg
       Stories from the quiet places between movement.
     </p>
 
-    /travel/
-      Begin the Journey
+    [Begin the Journey](/travel/)
+      
     </a>
   </div>
 </div>
@@ -53,7 +55,7 @@ image: /assets/images/social/fishnfly-og.jpg
   </p>
 
   <p>
-    /travel/Explore the Stories</a>
+    [Explore the Stories](/travel/)
   </p>
 
 </div>
