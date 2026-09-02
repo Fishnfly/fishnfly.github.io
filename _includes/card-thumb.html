@@ -3,6 +3,7 @@ card-thumb.html — reliable tile with overlay text or placeholder.
 
 Expected inputs (from {% include %}):
   url, title, dek, location, alt
+
   Single-image mode:
     - img_src (string)
 
@@ -26,46 +27,47 @@ If no image is present, a placeholder tile is rendered.
     {% if is_duo %}
       <div class="card-thumb__duo">
         {{ include.img1 | relative_url }}
+
         <img
-          class="card-thumb__img"
-          src="{{ include_final != '' %}
+  ude.img2 | relative_url }}
+      </div>
+
+    {% elsif img_final != '' %}
+
       <img
         class="card-thumb__img"
-        src     <div class="card-thumb__placeholder" aria-hidden="true">
+        src="{{  <div class="card-thumb__placeholder" aria-hidden="true">
         <span>Image coming soon</span>
       </div>
+
     {% endif %}
 
-
     {% if include.location %}
-    
-<figcaption class="card-thumb__label">
-{{ include.location }}
-</figcaption>
-{% endif %}
+      <figcaption class="card-thumb__label">
+        {{ include.location }}
+      </figcaption>
+    {% endif %}
 
-</figure>
+  </figure>
 
-<div class="card-thumb__content">
+  <div class="card-thumb__content">
+    <h3 class="card-thumb__title">
+      {{ include.title }}
+    </h3>
 
-<h3 class="card-thumb__title">
-{{ include.title }}
-</h3>
-
-{% if include.dek %}
-<p class="card-thumb__dek">
-{{ include.dek }}
-</p>
-{% endif %}
-
-</div>
+    {% if include.dek %}
+      <p class="card-thumb__dek">
+        {{ include.dek }}
+      </p>
+    {% endif %}
+  </div>
 
 </a>
 
 {% if page.thumbnail.layout == "trio" %}
   <div class="thumbnail-grid-3">
-    <img src="{{ page.thumbnail.img1 }}" alt="{{ page.thumbnail.alt }}">
-    <img src="{{ page.thumbnail.img2 }}" alt="{{ page.thumbnail.alt }}">
-    <img src="{{ page.thumbnail.img3 }}" alt="{{ page.thumbnail.alt }}">
+    {{ page.thumbnail.img1 }}
+    {{ page.thumbnail.img2 }}
+    {{ page.thumbnail.img3 }}
   </div>
 {% endif %}
