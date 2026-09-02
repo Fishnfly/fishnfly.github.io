@@ -755,23 +755,6 @@ body.home .hero {
   box-shadow: inset 0 0 80px rgba(0, 0, 0, 0.18); /* subtle depth = contrast */
 }
 
-.hero {
-  position: relative;
-  height: 100vh;        /* full screen hero */
-  overflow: hidden;     /* prevents split */
-}
-
-.hero-image {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;         /* THIS is the missing piece */
-  object-fit: cover;    /* fills entire hero */
-  object-position: center;
-  z-index: 0;
-}
-
 @media (max-width: 768px) {
   .hero-image {
     height: 100%;
@@ -779,7 +762,29 @@ body.home .hero {
   }
 }
 
+.hero {
+  position: relative;
+  height: 100vh;        /* full screen hero */
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero-image {
+  position: absolute;
+  inset: 0;             /* replaces top/left/right/bottom */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;    /* fills entire hero */
+  object-position: center;
+  z-index: 0;
+}
+
 .hero-overlay {
   position: relative;
-  z-index: 1;           /* sits above the image */
+  z-index: 1;
+  padding: clamp(1rem, 4vw, 3rem);
+  max-height: 100%;     /* prevents overlay from stretching hero */
+  overflow: hidden;
 }
