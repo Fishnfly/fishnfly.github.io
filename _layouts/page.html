@@ -11,3 +11,21 @@ layout: default
     {{ content }}
   </div>
 </article>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+
+    <!-- Load main SCSS-compiled stylesheet -->
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+
+    <!-- Load card layout stylesheet -->
+    <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
+  </head>
+
+  <body>
+    {{ content }}
+  </body>
+</html>
