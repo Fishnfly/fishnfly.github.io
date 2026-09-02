@@ -761,23 +761,24 @@ body.home .hero {
   background-position: center;
   background-repeat: no-repeat;
 }
-@media (max-width: 768px) {
-  .hero {
-    background-size: cover;
-    background-position: center;
-  }
-}
 
 .hero {
   position: relative;
-  height: 100vh; /* full screen hero */
-  overflow: hidden;
+  height: 100vh;      /* full screen hero */
+  overflow: hidden;   /* prevents split */
 }
 
 .hero-image {
   width: 100%;
-  height: 100%;
-  object-fit: cover;   /* THIS is the key */
+  height: 100%;        /* THIS is the missing piece */
+  object-fit: cover;   /* makes the image behave like a background */
   object-position: center;
   display: block;
+}
+
+@media (max-width: 768px) {
+  .hero-image {
+    height: 100%;
+    object-fit: cover;
+  }
 }
