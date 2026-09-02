@@ -36,25 +36,29 @@ If no image is present, a placeholder tile is rendered.
       </div>
     {% endif %}
 
+
     {% if include.location %}
-      <figcaption class="card-thumb__label">
-        {{ include.location }}
-      </figcaption>
-    {% endif %}
+    
+<figcaption class="card-thumb__label">
+{{ include.location }}
+</figcaption>
+{% endif %}
 
-  </figure>
+</figure>
 
-  <div class="card-thumb__content">
-    <h3 class="card-thumb__title">
-      {{ include.title }}
-    </h3>
+<div class="card-thumb__content">
 
-    {% if include.dek %}
-      <p class="card-thumb__dek">
-        {{ include.dek }}
-      </p>
-    {% endif %}
-  </div>
+<h3 class="card-thumb__title">
+{{ include.title }}
+</h3>
+
+{% if include.dek %}
+<p class="card-thumb__dek">
+{{ include.dek }}
+</p>
+{% endif %}
+
+</div>
 
 </a>
 
