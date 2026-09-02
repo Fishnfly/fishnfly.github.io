@@ -800,3 +800,37 @@ div.hero img.hero-image {
   object-position: center;
   z-index: 0;
 }
+
+/* FINAL OVERRIDE — forces full-bleed hero image on all devices */
+
+.hero {
+  position: relative !important;
+  height: 100vh !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  overflow: hidden !important;
+}
+
+.hero-image {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  z-index: 0 !important;
+  display: block !important;
+}
+
+.hero-overlay {
+  position: relative !important;
+  z-index: 1 !important;
+  height: 100% !important;
+  width: 100% !important;
+  padding: clamp(1rem, 4vw, 3rem) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-end !important;
+  box-sizing: border-box !important;
+}
