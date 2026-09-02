@@ -1,18 +1,16 @@
 {%- comment -%}
 card-thumb.html — reliable tile with overlay text or placeholder.
 
-Expected inputs (from {% include %}):
+Expected inputs:
   url, title, dek, location, alt
 
-  Single-image mode:
-    - img_src (string)
+Single-image mode:
+  img_src
 
-  Duo-image mode (optional):
-    - layout: "duo"
-    - img1 (string)
-    - img2 (string)
-
-If no image is present, a placeholder tile is rendered.
+Duo-image mode:
+  layout: "duo"
+  img1
+  img2
 {%- endcomment -%}
 
 {%- assign href      = include.url | relative_url -%}
@@ -25,18 +23,15 @@ If no image is present, a placeholder tile is rendered.
   <figure class="card-thumb__media{% if is_duo %} card-thumb__media--duo{% endif %}">
 
     {% if is_duo %}
+
       <div class="card-thumb__duo">
-        {{ include.img1 | relative_url }}
 
         <img
-  ude.img2 | relative_url }}
-      </div>
-
-    {% elsif img_final != '' %}
-
-      <img
-        class="card-thumb__img"
-        src="{{  <div class="card-thumb__placeholder" aria-hidden="true">
+          class="card-thumb__img"
+                   class="card-thumb__img"
+          src="{{ include.img2 | relative_url }}"
+          alt=""
+          aria-hidden="truesrc="{{ img_final | relative_url }}aceholder" aria-hidden="true">
         <span>Image coming soon</span>
       </div>
 
@@ -51,6 +46,7 @@ If no image is present, a placeholder tile is rendered.
   </figure>
 
   <div class="card-thumb__content">
+
     <h3 class="card-thumb__title">
       {{ include.title }}
     </h3>
@@ -60,6 +56,7 @@ If no image is present, a placeholder tile is rendered.
         {{ include.dek }}
       </p>
     {% endif %}
+
   </div>
 
 </a>
