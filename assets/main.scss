@@ -243,17 +243,16 @@
    CLEAN, UNIFIED HERO SYSTEM
    =========================== */
 
-.hero {
+..hero {
   position: relative;
-  height: 100vh;
+  min-height: 100svh;
   width: 100%;
   margin: 0;
   padding: 0;
-  overflow: hidden;
 
   background-image: url('/assets/images/social/fishnfly-og.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
 }
 
@@ -330,22 +329,25 @@
 
 @media (max-width: 768px) {
 
+  @media (max-width: 768px) {
+
   .hero {
-    height: 75vh;
+    min-height: 100svh;
+  }
+
+  .hero-overlay {
+    padding-top: 7rem;
+    padding-bottom: 5rem;
   }
 
   .hero-title {
     font-size: clamp(2rem, 6vw, 3rem);
+    line-height: 1.1;
   }
 
-  .hero-subtitle {
-    font-size: 1rem;
-    max-width: 90%;
-  }
-
+  .hero-subtitle,
   .hero-narrative {
     max-width: 90%;
-    margin-bottom: 1.5rem;
   }
 
   .hero-cta {
