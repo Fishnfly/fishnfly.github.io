@@ -1,86 +1,9 @@
----
----
-
 @import "minima";
-
-/* ===========================
-   HERO SECTION (HOME PAGE ONLY)
-   =========================== */
-.home .hero {
-  position: relative;
-  width: 100%;
-  max-width: 1400px;
-  margin: 0 auto 3rem auto;
-  overflow: hidden;
-  border-radius: 8px;
-}
-
-.home .hero-image {
-  width: 100%;
-  height: auto;
-  display: block;
-  object-fit: cover;
-  max-height: 450px;
-  filter: brightness(0.85);
-}
-
-.home .hero-overlay {
-  position: absolute;
-  bottom: 2rem;
-  left: 2rem;
-  right: 2rem;
-  color: white;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.5);
-}
-
-.home .hero-title {
-  font-size: 3rem;
-  font-weight: 700;
-  margin: 0;
-}
-
-.home .hero-subtitle {
-  font-size: 1.3rem;
-  max-width: 600px;
-  margin-top: .5rem;
-}
 
 /* ===========================
    HEADER / STACKING
    =========================== */
 .site-header { position: relative; z-index: 2000; }
-.home .hero { position: relative; z-index: 1; }
-
-/* ===========================
-   MOBILE REFINEMENTS
-   =========================== */
-@media (max-width: 768px) {
-  .home .hero {
-    margin-top: 80px;
-    margin-bottom: 2rem;
-  }
-  .home .hero-image {
-    max-height: 300px;
-    object-fit: cover;
-    filter: brightness(0.75);
-  }
-  .home .hero-overlay {
-    bottom: 1.2rem;
-    left: 1rem;
-    right: 1rem;
-    text-align: center;
-  }
-  .home .hero-title {
-    font-size: 2rem;
-    margin-bottom: 0.4rem;
-  }
-  .home .hero-subtitle {
-    font-size: 1rem;
-    max-width: 90%;
-    margin: 0 auto;
-    line-height: 1.4;
-  }
-}
 
 /* ===========================
    STORIES GRID (OLDER SYSTEM)
@@ -291,255 +214,21 @@
 }
 
 /* ===========================
-   HERO SECTION (GLOBAL)
+   CLEAN, UNIFIED HERO SYSTEM
    =========================== */
 
 .hero {
   position: relative;
-  width: 100%;
-  max-width: 1400px;
-  margin: 0 auto 3rem auto;
-  overflow: hidden;
-  border-radius: 8px;
-}
-
-.hero-image {
-  width: 100%;
-  height: 65vh;
-  object-fit: cover;
-  object-position: center top;
-  display: block;
-  filter: brightness(0.85);
-}
-
-.hero-overlay {
-  position: absolute;
-  bottom: 2rem;
-  left: 2rem;
-  right: 2rem;
-  color: white;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.5);
-}
-
-.hero-title {
-  font-size: 3rem;
-  font-weight: 700;
-  margin: 0;
-}
-
-.hero-subtitle {
-  font-size: 1.3rem;
-  max-width: 600px;
-  margin-top: .5rem;
-}
-
-/* MOBILE ADJUSTMENTS */
-@media (max-width: 768px) {
-  .hero {
-    margin-top: 80px;
-    margin-bottom: 2rem;
-  }
-
-  .hero-image {
-    max-height: 300px;
-    object-fit: cover;
-    filter: brightness(0.75);
-  }
-
-  .hero-overlay {
-    bottom: 1.2rem;
-    left: 1rem;
-    right: 1rem;
-    text-align: center;
-  }
-
-  .hero-title {
-    font-size: 2rem;
-    margin-bottom: 0.4rem;
-  }
-
-  .hero-subtitle {
-    font-size: 1rem;
-    max-width: 90%;
-    margin: 0 auto;
-    line-height: 1.4;
-  }
-}
-
-/* === Duo (split) thumbnail support === */
-.card-thumb__media--duo .card-thumb__duo {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 4px;               /* match your current spacing rhythm */
-  border-radius: 8px;     /* mirrors your existing rounding */
-  overflow: hidden;
-  background: #f4f4f4;
-
-  /* If your cards are sized elsewhere, remove this and inherit their size.
-     Otherwise, set a ratio that visually matches your single-image tiles. */
-  aspect-ratio: 16 / 10;  /* try 16/9, 4/3, or remove if card controls height */
-}
-
-.card-thumb__media--duo .card-thumb__img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-/* Optional: single-image rounded corners if you rely on the <img> for rounding */
-.card-thumb__media:not(.card-thumb__media--duo) .card-thumb__img {
-  border-radius: 8px;
-}
-
-/* Placeholder shape (fallback) */
-.card-thumb__placeholder {
-  background: #e9e9e9;
-  border-radius: 8px;
-  aspect-ratio: 16 / 10;
-}
-
-/* 1) Give every tile the same frame */
-.card-thumb__media {
-  aspect-ratio: 16 / 10; /* Pick one ratio and use it across all tiles */
-  border-radius: 8px;
-  overflow: hidden;
-  position: relative; /* keeps overlays positioned consistently */
-}
-
-/* 2) SINGLE-IMAGE tiles: make the <img> fill the frame */
-.card-thumb__media .card-thumb__img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover; /* center-crop to fill without distortion */
-  display: block;
-}
-
-/* 3) DUO tiles: side-by-side, same frame, same fill */
-.card-thumb__media--duo .card-thumb__duo {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 4px; /* keep your current spacing */
-  width: 100%;
-  height: 100%;
-}
-
-.card-thumb__media--duo .card-thumb__img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-/* 4) Placeholder matches the same size */
-.card-thumb__placeholder {
-  background: #e9e9e9;
-  aspect-ratio: 16 / 10; /* same as .card-thumb__media */
-  border-radius: 8px;
-}
-
-/* Fix top spacing on landing page */
-.home,
-.page-content,
-.wrapper {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* If your Atlas section has its own class, target it directly */
-.atlas-section {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Remove top padding/margin on desktop for landing page */
-@media (min-width: 769px) {
-  .home,
-  .page-content,
-  .wrapper {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-
-  /* Ensure header doesn't push content downward */
-  header.site-header {
-    margin-bottom: 0 !important;
-    padding-bottom: 0 !important;
-  }
-
-  /* If your Atlas hero section has a class, ensure it sits flush */
-  .atlas-section,
-  .hero,
-  .site-intro {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-}
-
-/* Universal top-margin reset for desktop */
-@media (min-width: 769px) {
-  body,
-  .page-content,
-  .wrapper,
-  .home,
-  main,
-  section:first-of-type,
-  header + * {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-}
-
-/* === Remove top spacing on homepage hero (desktop + laptop) === */
-body.home .page-content,
-body.home .wrapper,
-body.home .post,
-body.home .post-content,
-body.home .post-header {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-body.home .post-header {
-  display: none !important; /* hides the page title pushing the hero down */
-}
-/* Ensure hero hits the very top */
-body.home .hero {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.photo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 14px;
-  margin: 2.5rem 0;
-}
-
-.photo-grid img:hover {
-  transform: scale(1.06);
-  opacity: 1;
-}
-
-/* ===========================
-   HOMEPAGE HERO
-   =========================== */
-
-.hero {
-  position: relative;
-  width: 100%;
   height: 100vh;
+  width: 100%;
   margin: 0;
   padding: 0;
   overflow: hidden;
-}
 
-.hero-image {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center center;
-  display: block;
+  background-image: url('/assets/images/social/fishnfly-og.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .hero::before {
@@ -551,18 +240,19 @@ body.home .hero {
 }
 
 .hero-overlay {
-  position: absolute;
-  inset: 0;
+  position: relative;
   z-index: 2;
+  height: 100%;
+  width: 100%;
+  padding: clamp(1rem, 4vw, 3rem);
 
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
   text-align: center;
+
   color: #fff;
-  padding: 1rem;
 }
 
 .hero-title {
@@ -577,137 +267,6 @@ body.home .hero {
   line-height: 1.6;
   max-width: 700px;
   margin: 0 0 2rem 0;
-}
-
-.hero-button {
-  display: inline-block;
-  padding: 14px 28px;
-  background: #fff;
-  color: #111;
-  text-decoration: none;
-  border-radius: 4px;
-  font-weight: 600;
-}
-
-.hero-button:hover {
-  background: #e6e6e6;
-}
-
-/* ===========================
-   HOMEPAGE SECTIONS
-   =========================== */
-
-.home-intro-cta {
-  max-width: 900px;
-  margin: 4rem auto;
-  text-align: center;
-}
-
-.evolving-note {
-  max-width: 900px;
-  margin: 4rem auto;
-  text-align: center;
-}
-
-.evolving-note h3 {
-  margin-bottom: 1rem;
-}
-
-.evolving-note p {
-  line-height: 1.8;
-  margin-bottom: 1.25rem;
-}
-
-/* ===========================
-   HOMEPAGE SPACING FIXES
-   =========================== */
-
-body.home .post-header {
-  display: none !important;
-}
-
-body.home .page-content,
-body.home .wrapper,
-body.home .post,
-body.home .post-content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-body.home .hero {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* ===========================
-   MOBILE
-   =========================== */
-
-@media (max-width: 768px) {
-
-  .hero {
-    height: 75vh;
-  }
-
-  .hero-title {
-    font-size: clamp(2rem, 6vw, 3rem);
-  }
-
-  .hero-subtitle {
-    font-size: 1rem;
-    max-width: 90%;
-  }
-
-  .hero-button {
-    padding: 12px 22px;
-  }
-
-  .home-intro-cta,
-  .evolving-note {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-}
-
-.hero {
-  position: relative;
-}
-
-.hero-image {
-  width: 100%;
-  height: 100vh; /* full screen hero */
-  object-fit: cover;
-  display: block;
-}
-
-.hero-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  padding: 3rem 2rem;
-  color: white;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-
-  /* LIGHTER overlay */
-  background: rgba(0, 0, 0, 0.18);   /* was 0.35 */
-  backdrop-filter: brightness(0.88); /* was 0.75 */
-}
-
-.hero-title {
-  font-size: 3rem;
-  margin-bottom: 1rem;
-}
-
-.hero-subtitle {
-  font-size: 1.25rem;
-  margin-bottom: 2rem;
-  line-height: 1.5;
 }
 
 .hero-narrative {
@@ -739,98 +298,31 @@ body.home .hero {
   border-color: rgba(255, 255, 255, 0.6);
 }
 
-.hero-overlay a,
-.hero-overlay a:visited {
-  color: #ffffff;            /* makes link white */
-  text-decoration: none;     /* removes underline */
-}
-
-.hero-overlay a:hover {
-  color: #f0f0f0;            /* slight hover shift */
-  text-decoration: underline; /* optional: subtle cue */
-}
-
-.hero-overlay {
-  background: rgba(255, 255, 255, 0.20); /* airy brightness */
-  box-shadow: inset 0 0 80px rgba(0, 0, 0, 0.18); /* subtle depth = contrast */
-}
+/* ===========================
+   MOBILE
+   =========================== */
 
 @media (max-width: 768px) {
-  .hero-image {
-    height: 100%;
-    object-fit: cover;
+
+  .hero {
+    height: 75vh;
   }
-}
 
-.hero {
-  position: relative;
-  height: 100vh;        /* full screen hero */
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
+  .hero-title {
+    font-size: clamp(2rem, 6vw, 3rem);
+  }
 
-.hero-image {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-  z-index: 0;
-}
+  .hero-subtitle {
+    font-size: 1rem;
+    max-width: 90%;
+  }
 
-.hero-overlay {
-  position: relative;
-  z-index: 1;
-  padding: clamp(1rem, 4vw, 3rem);
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  height: 100%;
-}
+  .hero-narrative {
+    max-width: 90%;
+    margin-bottom: 1.5rem;
+  }
 
-div.hero img.hero-image {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-  z-index: 0;
-}
-
-/* FINAL OVERRIDE — forces full-bleed hero image on all devices */
-
-.hero {
-  position: relative !important;
-  height: 100vh !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  overflow: hidden !important;
-}
-
-.hero-image {
-  position: absolute !important;
-  top: 0 !important;
-  left: 0 !important;
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover !important;
-  object-position: center !important;
-  z-index: 0 !important;
-  display: block !important;
-}
-
-.hero-overlay {
-  position: relative !important;
-  z-index: 1 !important;
-  height: 100% !important;
-  width: 100% !important;
-  padding: clamp(1rem, 4vw, 3rem) !important;
-  display: flex !important;
-  flex-direction: column !important;
-  justify-content: flex-end !important;
-  box-sizing: border-box !important;
+  .hero-cta {
+    padding: 12px 22px;
+  }
 }
