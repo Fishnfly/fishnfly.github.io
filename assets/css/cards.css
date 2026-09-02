@@ -79,3 +79,24 @@
   height: 100%;
   object-fit: cover;
 }
+/* Two-image travel cards */
+
+.card-thumb__duo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;
+}
+
+.card-thumb__duo .card-thumb__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  aspect-ratio: 4 / 3;
+  display: block;
+}
+
+.card-thumb__img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
