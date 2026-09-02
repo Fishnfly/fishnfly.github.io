@@ -226,6 +226,20 @@
 }
 
 /* ===========================
+   FORCE VERTICAL TILES
+   =========================== */
+
+.card-grid {
+  display: grid !important;
+  grid-template-columns: 1fr !important;   /* one column */
+  gap: 1.25rem;
+}
+
+.card-grid > a.card-thumb {
+  grid-column: 1 / -1 !important;          /* full width */
+}
+
+/* ===========================
    CLEAN, UNIFIED HERO SYSTEM
    =========================== */
 
