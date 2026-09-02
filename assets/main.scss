@@ -148,6 +148,19 @@
   text-shadow: 0 1px 2px rgba(0,0,0,.35);
 }
 
+.card-thumb__duo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;
+}
+
+.card-thumb__img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 /* Placeholder */
 .card-thumb__placeholder {
   display: grid;
@@ -164,14 +177,6 @@
   padding: 4px 8px;
   border-radius: 6px;
   border: 1px solid rgba(0,0,0,.06);
-}
-
-/* ===========================
-   2‑UP GRID FOR TRAVEL TILES
-   =========================== */
-.card-grid > a.card-thumb { grid-column: span 6; }
-@media (max-width: 720px) {
-  .card-grid > a.card-thumb { grid-column: 1 / -1; }
 }
 
 /* ===========================
@@ -249,8 +254,7 @@
   width: 100%;
   margin: 0;
   padding: 0;
-  max-width: 900px;
-
+  
   background-image: url('/assets/images/social/fishnfly-og.jpg');
   background-size: cover;
   background-position: center center;
