@@ -815,6 +815,22 @@ body.home .hero {
   height: 100%;
 }
 
-.hero {
-  border: 10px solid red !important;
+div.hero img.hero-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  z-index: 0;
+}
+
+div.hero div.hero-overlay {
+  position: relative;
+  z-index: 1;
+  padding: clamp(1rem, 4vw, 3rem);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
