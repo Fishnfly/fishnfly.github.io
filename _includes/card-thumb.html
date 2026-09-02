@@ -1,16 +1,18 @@
 {%- comment -%}
 card-thumb.html — reliable tile with overlay text or placeholder.
 
-Expected inputs:
+Expected inputs (from {% include %}):
   url, title, dek, location, alt
 
 Single-image mode:
-  img_src
+  - img_src (string)
 
-Duo-image mode:
-  layout: "duo"
-  img1
-  img2
+Duo-image mode (optional):
+  - layout: "duo"
+  - img1 (string)
+  - img2 (string)
+
+If no image is present, a placeholder tile is rendered.
 {%- endcomment -%}
 
 {%- assign href      = include.url | relative_url -%}
@@ -18,25 +20,22 @@ Duo-image mode:
 {%- assign is_duo    = include.layout == "duo" and include.img1 and include.img2 -%}
 {%- assign img_final = include.img_src | default: '' -%}
 
-<a href="{{ href }}" class="card-thumb">
-  
+{{ href }}
+
   <figure class="card-thumb__media{% if is_duo %} card-thumb__media--duo{% endif %}">
 
     {% if is_duo %}
 
       <div class="card-thumb__duo">
 
-        <img
-          class="card-thumb__
+        {{ include.img1 | relative_url }}
+
         <img
           class="card-thumb__img"
-          src="{{ includeg_final != '' %}
-
-      <img
-        class="card-thumb__img"
-        }
-
-      <div class="card-thumb__placeholder" aria-hidden="true">
+          src="{{ include.img2 | relative_url }}"
+          alt=""
+          aria-hidden="true"
+       <div class="card-thumb__placeholder" aria-hidden="true">
         <span>Image coming soon</span>
       </div>
 
