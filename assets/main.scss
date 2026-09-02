@@ -352,3 +352,15 @@
     padding: 12px 22px;
   }
 }
+
+/* ===========================
+   FINAL OVERRIDE — FORCE VERTICAL TILES
+   =========================== */
+
+.card-grid {
+  grid-template-columns: 1fr !important;
+}
+
+.card-grid > * {
+  grid-column: 1 / -1 !important;
+}
