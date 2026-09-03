@@ -442,7 +442,7 @@ The system continued, even when individuals did not.
 
 ---
 
-## El Niño — Limits Within the System
+## El Niño — When Balance Shifts
 
 The system was not invulnerable.
 
@@ -574,17 +574,33 @@ The system accommodated visitors without reorganizing itself around them.
 
 **What stayed.**
 
-Most places leave an impression of what people have built.
-
-The Galápagos did not leave an impression of what survives.
-
-It left an impression of what can still be lost.
-
-Isolation created wonders.
-
-Fragility remains their constant companion.
-
-That is what stayed.
+The reality felt stark.
+ 
+The islands appeared timeless.
+ 
+They were not.
+ 
+What looked permanent depended upon countless conditions remaining within narrow limits.
+ 
+Food availability, ocean temperatures, rainfall patterns, migration cycles, and breeding success all remained bound together through balances that were rarely visible until they began to shift.
+ 
+The system persisted.
+ 
+Its balance remained fragile.
+ 
+The distinction mattered.
+ 
+Nothing here felt fragile at first.
+ 
+That was precisely the point.
+ 
+The rarest things rarely announce their vulnerability.
+ 
+They simply depend upon conditions we learn to appreciate only when they begin to disappear.
+ 
+Fragility is not weakness.
+ 
+It is the price of rarity.
 
 *Field photographs from this journey:*  
 [View the photo archive](/photo-archive/#galapogos)
