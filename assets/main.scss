@@ -329,21 +329,26 @@
   font-size: 1.5rem;
 }
 
-.hero-cta {
+..hero-cta {
   display: inline-block;
   padding: 0.75rem 1.5rem;
-  background: rgba(255, 255, 255, 0.15);
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  color: white;
+
+  background: rgba(255,255,255,.80);
+  border: none;
+
+  color: #111827;
+  font-weight: 600;
+
   text-decoration: none;
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   border-radius: 4px;
-  transition: background 0.3s ease, border-color 0.3s ease;
+
+  transition: all 0.25s ease;
 }
 
 .hero-cta:hover {
-  background: rgba(255, 255, 255, 0.25);
-  border-color: rgba(255, 255, 255, 0.6);
+  background: rgba(255,255,255,.95);
+  color: #000;
 }
 
 /* ===========================
