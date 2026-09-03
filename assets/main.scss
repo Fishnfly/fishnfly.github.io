@@ -133,22 +133,17 @@ pointer-events: none;
   z-index: 2;
 }
 
-.card-thumb__overlay {
-position: absolute;
-left: 14px;
-right: 14px;
-bottom: 12px;
-z-index: 2;
+.card-thumb {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  margin-bottom: 1rem;
 }
 
 /* Title + dek overlay */
 .card-thumb__content {
-position: absolute;
-left: 14px;
-right: 14px;
-bottom: 12px;
-z-index: 2;
-padding: 0;
+  position: static;
+  padding: 14px 0 20px;
 }
 
 .card-thumb__title {
