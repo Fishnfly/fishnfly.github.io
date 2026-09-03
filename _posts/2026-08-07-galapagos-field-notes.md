@@ -19,81 +19,81 @@ hero_alt: "Galápagos"
 ---
  
 Some places leave an impression of power.
- 
+
 The Galápagos left an impression of fragility.
- 
+
 Not fragility as weakness.
- 
+
 Fragility as balance.
- 
+
 The islands are famous for what they contain: giant tortoises, marine iguanas, blue-footed boobies, sharks, sea lions, and species found nowhere else on Earth.
- 
+
 What becomes harder to see at first is how much of that uniqueness depends upon conditions remaining exactly what they are.
- 
+
 Isolation created wonders.
- 
+
 It also made those wonders vulnerable.
- 
+
 The same forces that allowed life to evolve here made it unusually sensitive to disruption.
- 
+
 That tension appeared everywhere.
- 
+
 The Galápagos felt less like a story about survival and more like a story about balance.
- 
+
 ---
- 
+
 ## The Route (Context)
- 
+
 Baltra → Santa Cruz → Finch Bay → Charles Darwin Research Center → Tortuga Bay → North Seymour → Las Bachas Beach → Divine Bay → Santa Cruz Highlands → Lava Tunnels → South Plaza → Santa Fe → Santa Cruz
- 
+
 A movement through islands where access is regulated, interaction is limited, and observation often matters more than participation.
- 
+
 The route crossed beaches, mangroves, highlands, volcanic landscapes, and open water, revealing how connected systems operate across environments that appear separate.
- 
+
 Movement did not follow a single direction.
- 
+
 Each island expressed the same balance differently.
- 
+
 Wildlife, landscape, and ocean conditions shifted from place to place, yet remained connected through the forces that sustained them.
- 
+
 What appeared isolated remained linked through water, adaptation, and continuity.
- 
+
 ---
- 
+
 ## The Myth Thread — Fragility Is the Price of Rarity
- 
+
 Most places reveal themselves through people.
- 
+
 Here, people felt secondary.
- 
+
 The wildlife did not adapt to visitors.
- 
+
 Visitors adapted to the wildlife.
- 
+
 Yet the defining characteristic of the islands was not independence.
- 
+
 It was fragility.
- 
+
 Isolation created wonders found nowhere else on Earth.
- 
+
 But isolation also made those wonders vulnerable.
- 
+
 The same conditions that allowed life to evolve in extraordinary ways left it exposed to even the smallest disruptions.
- 
+
 Survival was never guaranteed.
- 
+
 Balance existed, but only delicately.
- 
+
 What endured was not strength.
- 
+
 It was equilibrium.
- 
+
 The natural world offered a quiet reminder:
- 
+
 The rarest things are often the most fragile.
- 
+
 Fragility is not weakness.
- 
+
 It is the price of rarity.
 
 ---
