@@ -6,13 +6,13 @@ date: 2026-08-07
 categories: [travel]
 excerpt: "A journey through an ecosystem built by isolation and sustained through delicate balance."
 subtitle: "Isolation created wonders. Fragility remains their constant companion."
- 
+
 thumbnail:
   layout: duo
   img1: /assets/images/galapagos/iguana.jpg
   img2: /assets/images/galapagos/tortoise3.jpg
   alt: "Galápagos wildlife"
- 
+
 hero_image: /assets/images/galapagos/hero1.jpg
 hero_alt: "Galápagos"
 
