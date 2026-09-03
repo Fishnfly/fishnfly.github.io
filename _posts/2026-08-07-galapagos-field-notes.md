@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Galápagos"
-dek: "Where wildlife, landscape, and time follow their own logic."
+dek: "Where isolation created wonders, and fragility remains their constant companion."
 date: 2026-08-07
 categories: [travel]
 excerpt: "A movement through islands where mankind participate, but do not define the system."
@@ -48,7 +48,7 @@ What appeared isolated remained connected through water, adaptation, and continu
 
 ---
 
-## The Myth Thread — Systems Without Guarantees
+## The Myth Thread — Fragility Is the Price of Rarity
 
 Most places reveal themselves through people.
 
@@ -60,17 +60,29 @@ Visitors adapted to the wildlife.
 
 Yet the defining characteristic of the islands was not independence.
 
-It was uncertainty.
+It was fragility.
 
-Adaptation occurred without assurance.
-Survival occurred without promise.
-Continuity existed without guarantees.
+Isolation created wonders found nowhere else on Earth.
 
-The system functioned whether people were present or not.
+But isolation also made those wonders vulnerable.
 
-What persisted was not every individual.
+The same conditions that allowed life to evolve in extraordinary ways left it exposed to even the smallest disruptions.
 
-It was the system itself.
+Survival was never guaranteed.
+
+Balance existed, but only delicately.
+
+What endured was not strength.
+
+It was equilibrium.
+
+The natural world offered a quiet reminder:
+
+The rarest things are often the most fragile.
+
+Fragility is not weakness.
+
+It is the price of rarity.
 
 ---
 
