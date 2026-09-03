@@ -17,9 +17,7 @@ hero_image: /assets/images/galapagos/hero1.jpg
 hero_alt: "Galápagos"
 ---
 
-The shift into the Galápagos was immediate.
-
-Elsewhere, systems often revealed themselves through people—through cities, institutions, movement, and the structures built to sustain them.
+Systems often revealed themselves through people—through cities, institutions, movement, and the structures built to sustain them.
 
 Here, those systems felt secondary.
 
