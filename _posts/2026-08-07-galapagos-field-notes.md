@@ -15,6 +15,7 @@ alt: "Galápagos wildlife"
  
 hero_image: /assets/images/galapagos/hero1.jpg
 hero_alt: "Galápagos"
+
 ---
  
 Some places leave an impression of power.
