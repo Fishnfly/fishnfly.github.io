@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Galápagos — Systems Without Guarantees"
-dek: "Where wildlife, landscape, and time operate according to their own logic."
+title: "Galápagos"
+dek: "Where wildlife, landscape, and time follow their own logic."
 date: 2026-08-07
 categories: [travel]
 excerpt: "A movement through islands where mankind participate, but do not define the system."

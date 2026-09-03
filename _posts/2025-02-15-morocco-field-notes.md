@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Morocco — Variations in a Calm Register"
+title: "Morocco"
 categories: ["travel"]
-dek: "Drifting quietly above the waking desert."
+dek: "Drifting between mountains, cities, and desert at an unhurried pace."
 
 # Hero image (mockup)
 hero_image: /assets/img/mockups/single-balloon-40.jpg

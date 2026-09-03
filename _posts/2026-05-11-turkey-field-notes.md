@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Turkey — Systems Without Borders"
-dek: "Where systems converge, extend, and overlap across geography, history, and meaning."
+title: "Turkey"
+dek: "Where continents, histories, and ideas overlap across a shared horizon."
 date: 2026-05-11
 categories: [travel]
 excerpt: "A movement through converging systems — from density to openness, from myth to place, from structure to persistence."

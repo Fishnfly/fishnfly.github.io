@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Low Countries to Eastern Europe — Living Inside Systems"
-dek: "Where societies structure, absorb, and carry difference across regions."
+title: "Low Countries to Eastern Europe "
+dek: "Tracing how societies organize, adapt, and carry difference across borders."
 date: 2026-04-23
 categories: [travel]
 excerpt: "A movement through engineered landscapes, inherited cities, and layered systems — a journey from design to continuity to persistence."
