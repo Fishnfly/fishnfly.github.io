@@ -255,9 +255,9 @@ What appeared isolated was, in fact, connected.
 
 The water carried the system.
 
-**Boat Excursion Pic**
+**Ocean Pic**
 
-![boat](/assets/images/galapagos/boat.jpg)
+![water](/assets/images/galapagos/water.jpg)
 
 ---
 
@@ -280,6 +280,10 @@ Observation required participation within those limits.
 The rules were not separate from the experience.
 
 They were the experience.
+
+**Boat Excursion Pic**
+
+![boat](/assets/images/galapagos/boat.jpg)
 
 ---
 
