@@ -110,8 +110,6 @@ permalink: /travel/
   <p>These aren’t destination guides or recommendations. They’re reflections and field notes — written for travelers who value curiosity over efficiency and depth over distance.</p>
 </section>
 
----
-
 ## Suspended Trips
 These trips are paused due to current events and safety considerations.
 
