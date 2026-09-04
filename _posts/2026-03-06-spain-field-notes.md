@@ -79,9 +79,33 @@ and your route as a passage across them.
 ## **The Itinerary (Reference)**
 
 <details markdown="1">
-<summary><strong>View full day‑by‑day itinerary</strong></summary>
+<summary><strong>Spain at a Glance</strong></summary>
+
+- **Day 1: Arrival, Toledo, Alcázar & Swordmaking Heritage**
+
+- **Day 2: La Mancha Windmills, Cuenca & Valencia**
+
+- **Day 3: Valencia's Historic Center, Ceramics Museum & City of Arts and Sciences**
+
+- **Day 4: Guadalest, Villajoyosa, Alicante, Barrancos de Gebas, Guadix & Granada**
+
+- **Day 5: Granada's Monasteries, Basilica & Alhambra Sunset View**
+
+- **Day 6: Alhambra, Nasrid Palaces & Generalife Gardens**
+
+- **Day 7: Granada to Córdoba, Jewish Quarter, Roman Bridge & Royal Stables**
+
+- **Day 8: Aranjuez Royal Palace & Gardens to La Finca**
+
+- **Day 9: La Granja, Segovia Aqueduct, Alcázar & El Escorial**
+
+- **Day 10: Alcalá de Henares, Madrid Highlights & Departure**
+
+</details>
 
 ---
+
+<summary><strong>Full day‑by‑day itinerary</strong></summary>
 
 **Toledo Pic**
 
@@ -804,8 +828,6 @@ A calm final morning in Spain,
 the journey gathering itself into memory.
 
 **Return flight:** 
-
-</details>
 
 ---
 

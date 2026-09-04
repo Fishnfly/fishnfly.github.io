@@ -86,7 +86,7 @@ This thread sits beneath the journey that follows, not as history, but as atmosp
 
 ---
 
-<summary><strong>View full day‑by‑day itinerary</strong></summary>
+<summary><strong>Full day‑by‑day itinerary</strong></summary>
 
 **Day 1 · Arrival → Dead Sea**  
 Settle into Jordan by water.  

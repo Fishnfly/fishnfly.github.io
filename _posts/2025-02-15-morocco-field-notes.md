@@ -89,37 +89,37 @@ The route mattered not because of the stops themselves, but because of how each 
 
 <summary><strong>Morocco at a Glance</strong></summary>
 
-**Day 1: Arrive in Casablanca and settle in with a free afternoon.**
+- **Day 1: Arrive in Casablanca and settle in with a free afternoon.**
 
-**Day 2: Visit Tangier and the blue-washed streets of Chefchaouen.**
+- **Day 2: Visit Tangier and the blue-washed streets of Chefchaouen.**
 
-**Day 3: Free day in Casablanca for exploration or relaxation.**
+- **Day 3: Free day in Casablanca for exploration or relaxation.**
 
-**Day 4: Explore Rabat, including Hassan Tower, Kasbah of the Udayas, and Andalusian Gardens.**
+- **Day 4: Explore Rabat, including Hassan Tower, Kasbah of the Udayas, and Andalusian Gardens.**
 
-**Day 5: Tour Volubilis and Meknes, then continue to Fez.**
+- **Day 5: Tour Volubilis and Meknes, then continue to Fez.**
 
-**Day 6: Discover the historic medina, tanneries, and cultural landmarks of Fez.**
+- **Day 6: Discover the historic medina, tanneries, and cultural landmarks of Fez.**
 
-**Day 7: Cross the Middle Atlas Mountains via Ifrane and Midelt to Erfoud.**
+- **Day 7: Cross the Middle Atlas Mountains via Ifrane and Midelt to Erfoud.**
 
-**Day 8: Visit Rissani and journey into the Sahara Desert for an overnight camp experience.**
+- **Day 8: Visit Rissani and journey into the Sahara Desert for an overnight camp experience.**
 
-**Day 9: Travel through Todra Gorge to Aït Benhaddou.**
+- **Day 9: Travel through Todra Gorge to Aït Benhaddou.**
 
-**Day 10: Explore Aït Benhaddou and cross the High Atlas to Marrakesh.**
+- **Day 10: Explore Aït Benhaddou and cross the High Atlas to Marrakesh.**
 
-**Day 11: Tour Marrakesh highlights including Majorelle Gardens, Bahia Palace, and Djemaa el-Fna.**
+- **Day 11: Tour Marrakesh highlights including Majorelle Gardens, Bahia Palace, and Djemaa el-Fna.**
 
-**Day 12: Open day in Marrakesh with optional sunrise hot-air balloon ride.**
+- **Day 12: Open day in Marrakesh with optional sunrise hot-air balloon ride.**
 
-**Day 13: Take a Moroccan cooking class before heading to the coastal town of Essaouira.**
+- **Day 13: Take a Moroccan cooking class before heading to the coastal town of Essaouira.**
 
-**Day 14: Enjoy Essaouira’s medina, fishing port, and evening Gnawa music.**
+- **Day 14: Enjoy Essaouira’s medina, fishing port, and evening Gnawa music.**
 
-**Day 15: Return to Casablanca, including a visit to the Hassan II Mosque.**
+- **Day 15: Return to Casablanca, including a visit to the Hassan II Mosque.**
 
-**Day 16: Depart Morocco.**
+-,**Day 16: Depart Morocco.**
 
 </details>
 
