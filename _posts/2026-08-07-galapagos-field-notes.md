@@ -354,7 +354,7 @@ The system accommodated visitors without reorganizing itself around them.
 
 ---
 
-## On Place
+## On place
 
 Many destinations become memorable because of what they contain. The Galápagos became memorable because of what it permitted. Wildlife remained wildlife. Landscapes remained landscapes. The experience was shaped less by access and more by restraint. Very little felt curated. Very little felt performed. The islands allowed the natural world to remain the primary subject. That distinction mattered. It changed how observation felt.
 
@@ -362,7 +362,7 @@ The experience became less about finding something and more about noticing it.
 
 ---
 
-## Practical Notes
+## Practical notes
 
 The Galápagos rewards patience more than activity. Distances that appear short often require multiple forms of transportation. Weather conditions affect movement. Wildlife encounters occur frequently, but rarely according to expectation. Pack fewer assumptions than equipment.
 
@@ -384,7 +384,7 @@ The experience became more rewarding when observation replaced interaction and p
 
 ---
 
-## If We Did It Again
+## If we did it again
 
 We would spend more time and move less. More days on fewer islands. More observation and fewer objectives.
 
