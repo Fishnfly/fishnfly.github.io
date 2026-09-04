@@ -112,6 +112,9 @@ and your route as a passage across them.
 ![Toledo](/assets/images/spain/spain-comingsoon.jpg)
 
 # **Day 1 · Arrival → Toledo**  
+
+---
+
 *Where the river bends like a blade.*
 
 Spain begins beneath a low, clouded sky — the kind that softens the edges of the world and turns the drive from Madrid into a long ribbon of grey.  
