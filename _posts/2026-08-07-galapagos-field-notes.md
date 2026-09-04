@@ -360,6 +360,8 @@ Many destinations become memorable because of what they contain. The Galápagos 
 
 The experience became less about finding something and more about noticing it.
 
+---
+
 ## Practical Notes
 
 The Galápagos rewards patience more than activity. Distances that appear short often require multiple forms of transportation. Weather conditions affect movement. Wildlife encounters occur frequently, but rarely according to expectation. Pack fewer assumptions than equipment.
@@ -367,6 +369,8 @@ The Galápagos rewards patience more than activity. Distances that appear short 
 The most memorable moments often arrived between planned activities rather than during them.
 
 For those interested in photography, a moderate zoom lens proved more useful than extreme magnification. Distance is part of the experience, and much of the wildlife can be observed without approaching it.
+
+---
 
 ## Ethics & Presence
 
@@ -378,6 +382,8 @@ The islands demonstrated a principle that extends well beyond conservation. Not 
 
 The experience became more rewarding when observation replaced interaction and patience replaced proximity.
 
+---
+
 ## If We Did It Again
 
 We would spend more time and move less. More days on fewer islands. More observation and fewer objectives.
@@ -388,6 +394,8 @@ The islands revealed themselves gradually.
 
 Given the choice, we would allow even more time for that process.
 
+---
+
 # What stayed
 
 The reality felt stark. The islands appeared timeless. They were not.
@@ -397,6 +405,8 @@ What looked permanent depended upon countless conditions remaining within narrow
 That was precisely the point. The rarest things rarely announce their vulnerability. They simply depend upon conditions we learn to appreciate only when they begin to disappear.
 
 Fragility is not weakness. It is the price of rarity.
+
+---
 
 *Field photographs from this journey:*  
 [View the photo archive](/photo-archive/#galapogos)
