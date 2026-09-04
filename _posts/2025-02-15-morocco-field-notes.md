@@ -86,33 +86,50 @@ The route mattered not because of the stops themselves, but because of how each 
 ## The Itinerary (Reference)
 
 <details markdown="1">
-<summary><strong>View full day‑by‑day itinerary</strong></summary>
 
-Morocco at a Glance
+<summary><strong>Morocco at a Glance</strong></summary>
 
-Day 1: Arrive in Casablanca and settle in with a free afternoon.
-Day 2: Visit Tangier and the blue-washed streets of Chefchaouen.
-Day 3: Free day in Casablanca for exploration or relaxation.
-Day 4: Explore Rabat, including Hassan Tower, Kasbah of the Udayas, and Andalusian Gardens.
-Day 5: Tour Volubilis and Meknes, then continue to Fez.
-Day 6: Discover the historic medina, tanneries, and cultural landmarks of Fez.
-Day 7: Cross the Middle Atlas Mountains via Ifrane and Midelt to Erfoud.
-Day 8: Visit Rissani and journey into the Sahara Desert for an overnight camp experience.
-Day 9: Travel through Todra Gorge to Aït Benhaddou.
-Day 10: Explore Aït Benhaddou and cross the High Atlas to Marrakesh.
-Day 11: Tour Marrakesh highlights including Majorelle Gardens, Bahia Palace, and Djemaa el-Fna.
-Day 12: Open day in Marrakesh with optional sunrise hot-air balloon ride.
-Day 13: Take a Moroccan cooking class before heading to the coastal town of Essaouira.
-Day 14: Enjoy Essaouira’s medina, fishing port, and evening Gnawa music.
-Day 15: Return to Casablanca, including a visit to the Hassan II Mosque.
-Day 16: Depart Morocco.
+**Day 1: Arrive in Casablanca and settle in with a free afternoon.**
 
-**Day 1 · Arrival → to Rabat on Day 4**  
-Arrive in Casablanca. The afternoon is unstructured — time to walk, orient, and adjust.  
+**Day 2: Visit Tangier and the blue-washed streets of Chefchaouen.**
+
+**Day 3: Free day in Casablanca for exploration or relaxation.**
+
+**Day 4: Explore Rabat, including Hassan Tower, Kasbah of the Udayas, and Andalusian Gardens.**
+
+**Day 5: Tour Volubilis and Meknes, then continue to Fez.**
+
+**Day 6: Discover the historic medina, tanneries, and cultural landmarks of Fez.**
+
+**Day 7: Cross the Middle Atlas Mountains via Ifrane and Midelt to Erfoud.**
+
+**Day 8: Visit Rissani and journey into the Sahara Desert for an overnight camp experience.**
+
+**Day 9: Travel through Todra Gorge to Aït Benhaddou.**
+
+**Day 10: Explore Aït Benhaddou and cross the High Atlas to Marrakesh.**
+
+**Day 11: Tour Marrakesh highlights including Majorelle Gardens, Bahia Palace, and Djemaa el-Fna.**
+
+**Day 12: Open day in Marrakesh with optional sunrise hot-air balloon ride.**
+
+**Day 13: Take a Moroccan cooking class before heading to the coastal town of Essaouira.**
+
+**Day 14: Enjoy Essaouira’s medina, fishing port, and evening Gnawa music.**
+
+**Day 15: Return to Casablanca, including a visit to the Hassan II Mosque.**
+
+**Day 16: Depart Morocco.**
 
 </details>
 
 ---
+
+<summary><strong>View full day‑by‑day itinerary</strong></summary>
+
+**Day 1 · Arrival → to Rabat on Day 4**  
+Arrive in Casablanca. The afternoon is unstructured — time to walk, orient, and adjust.  
+
 
 **Day 2 · Tangier & Chefchaouen**  
 Travel to Morocco’s northern edge, where Europe feels only an arm’s length away.  
