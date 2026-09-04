@@ -81,6 +81,8 @@ and your route as a passage across them.
 <details markdown="1">
 <summary><strong>Spain at a Glance</strong></summary>
 
+---
+
 - **Day 1: Arrival, Toledo, Alcázar & Swordmaking Heritage**
 
 - **Day 2: La Mancha Windmills, Cuenca & Valencia**

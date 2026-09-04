@@ -89,6 +89,8 @@ The route mattered not because of the stops themselves, but because of how each 
 
 <summary><strong>Morocco at a Glance</strong></summary>
 
+---
+
 - **Day 1: Arrive in Casablanca and settle in with a free afternoon.**
 
 - **Day 2: Visit Tangier and the blue-washed streets of Chefchaouen.**

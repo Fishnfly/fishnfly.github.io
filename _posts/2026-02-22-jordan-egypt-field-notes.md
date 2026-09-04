@@ -66,6 +66,8 @@ This thread sits beneath the journey that follows, not as history, but as atmosp
 
 <summary><strong>Jordon at a Glance</strong></summary>
 
+---
+
 - **Day 1: Arrival & Dead Sea**
 - **Day 2: Dead Sea Leisure Day & Tour Kickoff**
 - **Day 3: Bethany Beyond the Jordan (Baptismal Site)**
