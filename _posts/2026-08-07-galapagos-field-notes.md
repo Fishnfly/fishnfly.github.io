@@ -17,7 +17,7 @@ hero_image: /assets/images/galapagos/hero1.jpg
 hero_alt: "Galápagos"
 
 ---
- 
+
 Some places leave an impression of power. The Galápagos left an impression of fragility. Not fragility as weakness.
 
 Fragility as balance.
