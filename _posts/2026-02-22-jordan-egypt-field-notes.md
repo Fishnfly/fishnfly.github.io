@@ -63,6 +63,29 @@ This thread sits beneath the journey that follows, not as history, but as atmosp
 ## The Itinerary (Reference)
 
 <details markdown="1">
+
+<summary><strong>Jordon at a Glance</strong></summary>
+
+- **Day 1: Arrival & Dead Sea**
+- **Day 2: Dead Sea Leisure Day & Tour Kickoff**
+- **Day 3: Bethany Beyond the Jordan (Baptismal Site)**
+- **Day 4: Mount Nebo, Madaba, Shobak & Petra**
+- **Day 5: Petra and the Ancient Nabataean City**
+- **Day 6: Kerak Castle, Local Family Lunch & Amman**
+- **Day 7: Flight to Egypt & Cairo**
+- **Day 8: Pyramids, Sphinx & Saqqara**
+- **Day 9: Luxor & Karnak Temples**
+- **Day 10: Dendera Temple, Luxor Temple & Nile Cruise Embarkation**
+- **Day 11: Valley of the Kings & Hatshepsut Temple**
+- **Day 12: Edfu Temple of Horus & Kom Ombo**
+- **Day 13: Abu Simbel & Cruise to Aswan**
+- **Day 14: Philae Temple & Return to Cairo**
+- **Day 15: Cairo Open Day**
+
+</details>
+
+---
+
 <summary><strong>View full day‑by‑day itinerary</strong></summary>
 
 **Day 1 · Arrival → Dead Sea**  
@@ -224,10 +247,6 @@ This is the softest place in Egypt — a sanctuary where grief became creation.
 **Day 15 · Cairo (Open Day)**  
 Optional museum and market visits.  
 **Overnight:** Cairo
-
----
-
-</details>
 
 ---
 
