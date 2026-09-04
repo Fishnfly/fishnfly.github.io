@@ -301,6 +301,10 @@ Nothing appeared arranged for visitors.
 
 Life continued within the shelter the environment provided.
 
+**Divine Bay Pic**
+
+![boat](/assets/images/galapagos/divinebay.jpg)
+
 ---
 
 ## Below the Surface
