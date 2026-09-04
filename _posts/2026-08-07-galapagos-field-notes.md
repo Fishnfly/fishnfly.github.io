@@ -356,11 +356,7 @@ The system accommodated visitors without reorganizing itself around them.
 
 **What stayed.**
 
-The reality felt stark.
- 
-The islands appeared timeless.
- 
-They were not.
+The reality felt stark. The islands appeared timeless. They were not.
  
 What looked permanent depended upon countless conditions remaining within narrow limits. Food availability, ocean temperatures, rainfall patterns, migration cycles, and breeding success all remained bound together through balances that were rarely visible until they began to shift. The system persisted. Its balance remained fragile. The distinction mattered. Nothing here felt fragile at first.
  
@@ -379,4 +375,7 @@ See other movements across landscapes:
 
 - [Morocco Balloon Ride](/story-content/morocco-before-sunrise.html)
 - [Travel Index](/travel/)
+
+Green Sea Turtle, Shark, Yellow-tailed surgeonfish, StingRay
+- [Snorkeling video](https://youtu.be/E9I01PeMBRQ)
 
