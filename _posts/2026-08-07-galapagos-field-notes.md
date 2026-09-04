@@ -302,7 +302,7 @@ And balance, however beautiful, is never guaranteed.
 
 ## Afterthoughts
 
-**On observation.**
+# On observation
 
 Observation changes many things.
 
@@ -312,7 +312,7 @@ The system continued largely unaffected by the act of being seen.
 
 ---
 
-**On wildlife.**
+# On wildlife
 
 The wildlife was not rare because it was distant.
 
@@ -324,7 +324,7 @@ It simply created proximity.
 
 ---
 
-**On adaptation.**
+# On adaptation
 
 Life appeared shaped by condition rather than intention.
 
@@ -334,7 +334,7 @@ Adaptation followed.
 
 ---
 
-**On boundaries.**
+# On boundaries
 
 Access existed everywhere.
 
@@ -346,7 +346,7 @@ Observation required distance, patience, and restraint.
 
 ---
 
-**On people.**
+# On people
 
 Human presence felt conditional.
 
@@ -354,7 +354,41 @@ The system accommodated visitors without reorganizing itself around them.
 
 ---
 
-**What stayed.**
+## On Place
+
+Many destinations become memorable because of what they contain. The Galápagos became memorable because of what it permitted. Wildlife remained wildlife. Landscapes remained landscapes. The experience was shaped less by access and more by restraint. Very little felt curated. Very little felt performed. The islands allowed the natural world to remain the primary subject. That distinction mattered. It changed how observation felt.
+
+The experience became less about finding something and more about noticing it.
+
+## Practical Notes
+
+The Galápagos rewards patience more than activity. Distances that appear short often require multiple forms of transportation. Weather conditions affect movement. Wildlife encounters occur frequently, but rarely according to expectation. Pack fewer assumptions than equipment.
+
+The most memorable moments often arrived between planned activities rather than during them.
+
+For those interested in photography, a moderate zoom lens proved more useful than extreme magnification. Distance is part of the experience, and much of the wildlife can be observed without approaching it.
+
+## Ethics & Presence
+
+The Galápagos felt different because limitations remained visible. Access was controlled. Distances were enforced. Interaction was restricted. At first, those rules appeared designed to protect wildlife. Over time, they appeared designed to protect something larger.
+
+The balance itself.
+
+The islands demonstrated a principle that extends well beyond conservation. Not everything valuable can withstand unlimited access. Some places remain extraordinary precisely because boundaries continue to exist.
+
+The experience became more rewarding when observation replaced interaction and patience replaced proximity.
+
+## If We Did It Again
+
+We would spend more time and move less. More days on fewer islands. More observation and fewer objectives.
+
+The excursions were excellent, but many of the most memorable moments occurred between them: watching marine iguanas move across volcanic rock, following sea lions from the shoreline, or simply sitting beside the water as the day changed.
+
+The islands revealed themselves gradually.
+
+Given the choice, we would allow even more time for that process.
+
+# What stayed
 
 The reality felt stark. The islands appeared timeless. They were not.
  
