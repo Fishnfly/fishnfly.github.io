@@ -365,7 +365,7 @@ They were not.
 What looked permanent depended upon countless conditions remaining within narrow limits. Food availability, ocean temperatures, rainfall patterns, migration cycles, and breeding success all remained bound together through balances that were rarely visible until they began to shift. The system persisted. Its balance remained fragile. The distinction mattered. Nothing here felt fragile at first.
  
 That was precisely the point. The rarest things rarely announce their vulnerability. They simply depend upon conditions we learn to appreciate only when they begin to disappear.
- 
+
 Fragility is not weakness. It is the price of rarity.
 
 *Field photographs from this journey:*  
