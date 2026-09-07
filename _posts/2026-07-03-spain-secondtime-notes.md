@@ -283,10 +283,10 @@ That is what stayed.
 ---
 
 *Field photographs from this journey:*  
-/photo-archive/#spain
+[View the photo archive](/photo-archive/#spain)
 
 ---
 
 ## More Field Notes
 
-- /travel/
+- [Travel Index](/travel/)
