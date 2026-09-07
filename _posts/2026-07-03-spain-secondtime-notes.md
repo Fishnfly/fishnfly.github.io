@@ -1,4 +1,4 @@
-[---
+---
 layout: post
 title: "Spain-second time"
 dek: "A journey through the traditions, ideas, and rituals that continue long after the people who began them."
