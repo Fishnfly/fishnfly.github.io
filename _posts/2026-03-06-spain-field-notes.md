@@ -921,9 +921,27 @@ knowing generations shaped these streets long before you arrived.
 
 ## Regions, Not Distances
 
-The longer the route became, the less useful the idea of a single Spain felt.
+The journey began before mainland Spain.
 
-The subsequent journey crossed Catalonia, Aragón, Navarra, the Basque Country, Cantabria, Asturias, Galicia, Castilla y León, and back to Madrid.
+Mallorca provided the introduction.
+
+At first, it seemed like a separate experience. Looking back, it felt more like the first clue.
+
+The Mediterranean offered a version of Spain many travelers already recognize.
+
+Stone villages. Blue water. Harbors. Long evenings. A slower rhythm. Yet even there, another theme emerged.
+
+A visit to the Rafa Nadal Academy revealed something that would appear repeatedly throughout the rest of the journey.
+
+Achievement rarely stands alone. Behind individual success sits a larger story of family, mentorship, discipline, and continuity. Unexpectedly seeing Uncle Toni Nadal reinforced that idea. The academy was not simply about tennis. It was about transmission.
+
+Knowledge passed forward. Values passed forward. Experience passed forward.
+
+The same pattern would later appear in monasteries, pilgrimage routes, vineyards, cathedrals, and local traditions throughout the country.
+
+The farther the route extended, the less useful the idea of a single Spain became.
+
+The journey crossed Catalonia, Aragón, Navarra, the Basque Country, Cantabria, Asturias, Galicia, Castilla y León, and Madrid.
 
 The distances mattered. The transitions mattered more.
 
