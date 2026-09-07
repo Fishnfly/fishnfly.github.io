@@ -1,6 +1,6 @@
 [---
 layout: post
-title: "Spain-#2"
+title: "Spain-second time"
 dek: "A journey through the traditions, ideas, and rituals that continue long after the people who began them."
 date: 2026-07-03
 categories: [travel]
