@@ -187,6 +187,10 @@ The same pattern would appear repeatedly throughout Spain.
 
 ## Gaudí — The Legacy of Imagination
 
+**Gaudí Photos**
+
+![Gaudi](/assets/images/spain2/gaudi.jpg)
+
 Gaudí appeared repeatedly throughout the journey. Barcelona provided the expected encounters. Sagrada Família. Casa Batlló. Casa Milà. Casa Vicens. El Capricho appeared unexpectedly on the northern coast. Casa Botines appeared again in León. Hundreds of miles separated them.
 
 Gaudí's buildings remain remarkable because they still feel unusual. Time has not made them ordinary. Stone bends. Columns become trees. Light becomes structure. The designs appear less constructed than cultivated.
@@ -197,13 +201,13 @@ Some inheritances are practical. Others are imaginative. Gaudí passed forward p
 
 Permission to think differently.
 
-**Gaudí Photos**
-
-![Gaudi](/assets/images/spain2/gaudi.jpg)
-
 ---
 
 ## Dalí — The Legacy of Perspective
+
+**Dalí Museum Photos**
+
+![Dali](/assets/images/spain2/dali.jpg)
 
 If Gaudí challenged architecture, Dalí challenged certainty. The Dalí Theatre-Museum felt less like entering a museum and more like entering another person's imagination.
 
@@ -214,10 +218,6 @@ The experience was not really about the artwork. It was about perspective.
 Most inheritances provide answers. Dalí seemed more interested in providing questions. The museum suggested that understanding often begins where certainty ends.
 
 His legacy was not a collection. It was a way of looking.
-
-**Dalí Museum Photos**
-
-/assets/images/spain/dali.jpg
 
 ---
 
