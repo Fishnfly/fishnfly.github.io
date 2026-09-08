@@ -128,6 +128,10 @@ Traditions. Beliefs. Craft. Identity.
 
 ## Mallorca — What Gets Passed Forward
 
+**Mallorca Pic**
+
+/assets/images/spain2/mallorca.jpg
+
 The journey began before mainland Spain. Mallorca felt separate at first. Looking back, it provided the first clue.
 
 A visit to the Rafa Nadal Academy revealed something that would appear repeatedly throughout the rest of the journey. Achievement rarely exists in isolation. Behind visible success sits a longer story. Discipline. Mentorship. Repetition. Guidance. Continuity.
