@@ -42,13 +42,35 @@ The miles mattered. The transitions mattered more.
 
 ## The Myth Thread — What Gets Passed Forward
 
-Many things disappear. Kingdoms disappear. Borders change. Institutions rise and fall. People come and go. Yet certain things continue.
+Many things disappear. Kingdoms disappear. Borders change. Businesses close. Buildings decay. People come and go.
 
-Knowledge. Traditions. Stories. Craft. Identity.
+Yet some things remain. Not because they are permanent. Because they are carried forward.
 
-Throughout Spain, the most enduring observations were rarely tied to a place. They were tied to transmission.
+The journey repeatedly returned to that idea. Sometimes it appeared through family. Sometimes through tradition. Sometimes through craft. Sometimes through belief.
 
-Again and again, the journey revealed the same principle. What survives rarely survives on its own. Someone chooses to carry it forward.
+The form changed. The pattern remained.
+
+In Mallorca, the Rafa Nadal Academy demonstrated how knowledge moves from one generation to the next through discipline, mentorship, and repetition.
+
+Along the Camino, centuries of movement continued because people still choose to walk the same roads.
+
+In Rioja, techniques shaped by generations remained visible in every vineyard and cellar.
+
+Pamplona revealed a ritual renewed each year by entirely different participants.
+
+Gaudí and Dalí left behind more than buildings or artwork. They left behind ways of seeing.
+
+The people changed. The ideas endured. The distinction became increasingly important. Much of what felt enduring throughout Spain was not preserved because it was protected. It survived because it remained useful, meaningful, or worth repeating.
+
+The Camino exists because people continue walking. Wine traditions survive because people continue practicing them. Regional identities persist because communities continue carrying them forward.
+
+What mattered was not preservation alone. It was participation. Again and again, the journey suggested the same lesson.
+
+Continuity is rarely automatic. It depends on people choosing to inherit something and then choosing to pass it on. The strongest stories were not found in monuments. They were found in transmission.
+
+Knowledge passed forward. Craft passed forward. Tradition passed forward. Identity passed forward. What survives rarely survives on its own.
+
+Someone carries it forward.
 
 ---
 
@@ -272,9 +294,7 @@ Places remained memorable. People remained memorable. The stronger impression ca
 
 Ideas passed between teachers and students. Traditions passed between generations. Craft passed between makers. Stories passed between travelers. Knowledge passed between mentors and athletes. Beliefs passed between pilgrims. Identity passed through families, communities, and regions.
 
-The route often appeared to be about movement. Looking back, it was equally about inheritance. What survives rarely survives on its own. Someone chooses to carry it forward.
-
-Again and again, Spain revealed that truth.
+The route often appeared to be about movement. Looking back, it was equally about inheritance. What survives rarely survives on its own. Someone chooses to carry it forward. Spain revealed that truth.
 
 That is what stayed.
 
