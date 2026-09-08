@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spain-second time"
+title: "Spain-the Return"
 dek: "A journey through the traditions, ideas, and rituals that continue long after the people who began them."
 date: 2026-07-03
 categories: [travel]
@@ -9,20 +9,20 @@ subtitle: "Mentorship, imagination, pilgrimage, ritual, and the things that surv
 
 thumbnail:
   layout: duo
-  img1: /assets/images/spain/toled.jpg
-  img2: /assets/images/spain/toled.jpg
-  alt: "Spain — anchors"
+  img1: /assets/images/spain2/anchor1.jpg
+  img2: /assets/images/spain2/anchor2.jpg
+  alt: "Spain2 — anchors"
 
  # Hero image (mockup)
-hero_image: /assets/img/mockups/nchor3.jpg
-hero_alt: "acquaduct"
+hero_image: /assets/img/mockups/spain2hero.jpg
+hero_alt: ""
 ---
 
 The journey began on an island.
 
 At the time, Mallorca felt separate from everything that followed. Looking back, it became the first clue. The strongest memories from Spain were not simply places. They were inheritances. Ideas passed forward. Craft passed forward. Traditions passed forward. Knowledge passed forward.
 
-Again and again, the route revealed how much survives because someone chooses to carry it into the next generation.
+Travel revealed how much survives because someone chooses to carry it into the next generation.
 
 The landscapes changed constantly. The pattern did not.
 
@@ -48,9 +48,7 @@ Knowledge. Traditions. Stories. Craft. Identity.
 
 Throughout Spain, the most enduring observations were rarely tied to a place. They were tied to transmission.
 
-Again and again, the journey revealed the same principle.
-
-What survives rarely survives on its own. Someone chooses to carry it forward.
+Again and again, the journey revealed the same principle. What survives rarely survives on its own. Someone chooses to carry it forward.
 
 ---
 
