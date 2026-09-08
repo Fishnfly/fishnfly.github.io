@@ -199,7 +199,7 @@ Permission to think differently.
 
 **Gaudí Photos**
 
-/assets/images/spain/gaudi.jpg
+![Gaudi](/assets/images/spain2/gaudi.jpg)
 
 ---
 
