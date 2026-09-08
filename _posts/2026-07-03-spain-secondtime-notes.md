@@ -209,6 +209,24 @@ The function changed. The reminder remained.
 
 ---
 
+## Picasso — Reinvention
+
+**Picasso Museum Photos**
+
+![Picasso](/assets/images/spain2/picasso.jpg)
+
+The Picasso Museum revealed a side of the artist often overshadowed by his most famous work. Rather than presenting a single style, the collection showed constant evolution. The rooms traced a progression through different periods, techniques, and ways of seeing. The effect was striking.
+
+Many artists become recognizable by consistency. Picasso became influential through change. The museum suggested that reinvention was not a departure from his process. It was the process.
+
+Style appeared temporary. Experimentation appeared permanent. Walking through the galleries felt less like observing a finished legacy and more like watching one being constructed in real time.
+
+The lesson extended beyond art. Many traditions survive through preservation. Others survive through adaptation. Picasso seemed to operate according to the second principle.
+
+The willingness to evolve became part of the inheritance itself. The artwork remained. The larger legacy was permission. Permission to change. Permission to experiment. Permission to become something different without losing connection to what came before.
+
+---
+
 ## Gaudí — The Legacy of Imagination
 
 **Gaudí Photos**
