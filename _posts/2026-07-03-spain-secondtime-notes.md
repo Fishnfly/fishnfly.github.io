@@ -185,6 +185,30 @@ The same pattern would appear repeatedly throughout Spain.
 
 ---
 
+**Monjuic Pic**
+
+![Monjuic](/assets/images/spain2/montjuic.jpg)
+
+## Montjuïc — What Remains
+
+The fortress overlooking Barcelona carries a different kind of inheritance. Unlike the cathedrals, museums, and artistic landmarks encountered elsewhere on the journey, Castell de Montjuïc was built around power.
+
+Its position explained everything. The hill commands views across the city, the harbor, and the Mediterranean beyond. Control of the landscape once meant control of movement. Control of movement often meant control of people. Standing along the walls, it became easy to understand why the location mattered. The view offered clarity. History offered perspective.
+
+The fortress outlived governments, rulers, conflicts, and political movements that once depended upon it. The people changed. The structure remained.
+
+That pattern would appear repeatedly throughout the journey. Kingdoms disappeared. Empires disappeared. Political ideas evolved.
+
+Yet traces remained visible long after the original purpose had faded. The fortress no longer exercises authority over the city below. Its significance comes instead from memory.
+
+Not everything is passed forward intentionally. Some inheritances persist simply because they remain visible.
+
+Montjuïc felt like one of those places. The walls preserved more than stone. They preserved evidence of how societies choose to organize power, defend territory, and remember their past.
+
+The function changed. The reminder remained.
+
+---
+
 ## Gaudí — The Legacy of Imagination
 
 **Gaudí Photos**
@@ -220,6 +244,8 @@ The structure suggested that beauty was not something reserved for monuments, ch
 The Palau felt like one answer. More than a century after its construction, it continues to shape how people experience music, architecture, and public space. Its legacy is not only the building itself.
 
 It is the belief that public places can inspire as well as serve.
+
+---
 
 ## Dalí — The Legacy of Perspective
 
