@@ -9,12 +9,12 @@ subtitle: "Mentorship, imagination, pilgrimage, ritual, and the things that surv
 
 thumbnail:
   layout: duo
-  img1: /assets/images/spain/toledo.jpg
-  img2: /assets/images/spain/toledo-1.jpg
+  img1: /assets/images/spain/toled.jpg
+  img2: /assets/images/spain/toled.jpg
   alt: "Spain — anchors"
 
  # Hero image (mockup)
-hero_image: /assets/img/mockups/anchor3.jpg
+hero_image: /assets/img/mockups/nchor3.jpg
 hero_alt: "acquaduct"
 ---
 
