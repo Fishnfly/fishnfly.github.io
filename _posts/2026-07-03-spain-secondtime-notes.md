@@ -126,10 +126,6 @@ Some places are remembered for their landmarks. Others are remembered for their 
 The most enduring things were not preserved in museums. They were carried forward through people. Knowledge. 
 Traditions. Beliefs. Craft. Identity.
 
-The route crossed islands, mountains, vineyards, pilgrimage roads, sporting events, cities, monasteries, and public squares. The settings changed. The pattern remained.
-
-What survived rarely survived on its own. Someone continued carrying it forward.
-
 ---
 
 ## Mallorca — What Gets Passed Forward
