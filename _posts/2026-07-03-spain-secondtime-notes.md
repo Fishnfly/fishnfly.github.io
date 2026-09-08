@@ -130,7 +130,7 @@ Traditions. Beliefs. Craft. Identity.
 
 **Mallorca Pic**
 
-/assets/images/spain2/mallorca.jpg
+![Mallorca](/assets/images/spain2/mallorca.jpg)
 
 The journey began before mainland Spain. Mallorca felt separate at first. Looking back, it provided the first clue.
 
