@@ -169,19 +169,33 @@ What survives rarely survives on its own. Someone carries it forward.
 
 ![Mallorca](/assets/images/spain2/mallorca.jpg)
 
-The journey began on Mallorca.
+## Mallorca — What Gets Passed Forward
 
-At first, it seemed separate from everything that followed. Looking back, it became the first clue. A visit to the Rafa Nadal Academy revealed something easy to overlook.
+The journey began before mainland Spain.
 
-Success is rarely individual. Achievement attracts attention. What creates achievement often remains invisible. Discipline. Repetition. Expectation. Guidance. Mentorship.
+At first, Mallorca seemed separate from everything that followed. Looking back, it became the first clue.
 
-Unexpectedly seeing Uncle Toni made that reality feel less abstract.
+The Cathedral of Mallorca introduced an idea that would appear repeatedly throughout the journey. No single person created it. Generations contributed to it. Architects. Builders. Craftsmen. Patrons. Restorers.
 
-The academy celebrated results. What impressed me more was the process behind them. The facilities were excellent. The larger lesson felt older.
+**Cathedral Pic**
 
-Knowledge survives because someone chooses to teach it. Excellence survives because someone chooses to demand it.
+![Cathedral](/assets/images/spain2/cathedral.jpg)
 
-The same pattern would appear repeatedly throughout Spain.
+Each inherited something unfinished and passed it forward in a different form. The result felt larger than any individual contribution. The structure belonged to centuries of accumulated effort. Its permanence depended upon continuity. The same pattern appeared elsewhere on the island. 
+
+A visit to the Rafa Nadal Academy revealed a modern version of the same idea. Achievement is easy to see. The process behind it is not. More than a training facility, the academy functions as a living archive. Career milestones, championship trophies, hundreds of worn shoes, and the campus itself illustrate how accomplishments become institutions and how legacy is passed forward.
+
+Unexpectedly seeing Uncle Toni reinforced that distinction. Success rarely exists in isolation. Behind visible accomplishment sits a longer story. Discipline. Repetition. Expectation. Guidance. Mentorship.
+
+The academy celebrated results. What felt more significant was transmission. Knowledge passed forward. Standards passed forward. Experience passed forward. The cathedral preserved centuries. The academy prepared futures.
+
+The settings differed. The pattern remained. What survives rarely survives on its own.
+
+Someone carries it forward.
+
+**Nadal Pic**
+
+![Nadal](/assets/images/spain2/rafa.jpg)
 
 ---
 
