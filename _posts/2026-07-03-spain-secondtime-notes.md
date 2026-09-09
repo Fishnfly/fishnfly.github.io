@@ -191,6 +191,24 @@ Someone carries it forward.
 
 ---
 
+## Girona — What Endures
+
+![Girona](/assets/images/spain2/girona.jpg)
+
+The ancient walls of Girona offered a different perspective on continuity. Unlike a cathedral, they were not built to inspire. Unlike a museum, they were not built to preserve. They were built to defend.
+
+Walking the walls revealed how much of history survives long after its original purpose disappears. The city no longer depends upon fortification. The walls remain. The people changed. The threats changed. The purpose changed. The structure endured.
+
+From above, Girona revealed layers of time compressed into a single landscape. Roman foundations. Medieval streets. Modern life. Each period inherited something from the one before it and left something behind for the next.
+
+The walls became a visible record of that process. They no longer divide worlds. They help explain them.
+
+The experience introduced an idea that would continue appearing throughout the journey. Not everything survives because it remains useful. Some things survive because they help people remember.
+
+The walls were no longer protecting Girona. They were preserving its story.
+
+---
+
 ## Montjuïc — What Remains
 
 ![Monjuic](/assets/images/spain2/montjuic.jpg)
