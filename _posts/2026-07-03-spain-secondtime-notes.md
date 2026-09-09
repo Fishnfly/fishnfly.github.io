@@ -165,11 +165,7 @@ What survives rarely survives on its own. Someone carries it forward.
 
 ## Mallorca — What Gets Passed Forward
 
-**Mallorca Pic**
-
 ![Mallorca](/assets/images/spain2/mallorca.jpg)
-
-## Mallorca — What Gets Passed Forward
 
 The journey began before mainland Spain.
 
@@ -177,13 +173,13 @@ At first, Mallorca seemed separate from everything that followed. Looking back, 
 
 The Cathedral of Mallorca introduced an idea that would appear repeatedly throughout the journey. No single person created it. Generations contributed to it. Architects. Builders. Craftsmen. Patrons. Restorers.
 
-**Cathedral Pic**
-
 ![Cathedral](/assets/images/spain2/cathedral.jpg)
 
 Each inherited something unfinished and passed it forward in a different form. The result felt larger than any individual contribution. The structure belonged to centuries of accumulated effort. Its permanence depended upon continuity. The same pattern appeared elsewhere on the island. 
 
 A visit to the Rafa Nadal Academy revealed a modern version of the same idea. Achievement is easy to see. The process behind it is not. More than a training facility, the academy functions as a living archive. Career milestones, championship trophies, hundreds of worn shoes, and the campus itself illustrate how accomplishments become institutions and how legacy is passed forward.
+
+![Nadal](/assets/images/spain2/rafa.jpg)
 
 Unexpectedly seeing Uncle Toni reinforced that distinction. Success rarely exists in isolation. Behind visible accomplishment sits a longer story. Discipline. Repetition. Expectation. Guidance. Mentorship.
 
@@ -193,17 +189,11 @@ The settings differed. The pattern remained. What survives rarely survives on it
 
 Someone carries it forward.
 
-**Nadal Pic**
-
-![Nadal](/assets/images/spain2/rafa.jpg)
-
 ---
 
-**Monjuic Pic**
+## Montjuïc — What Remains
 
 ![Monjuic](/assets/images/spain2/montjuic.jpg)
-
-## Montjuïc — What Remains
 
 The fortress overlooking Barcelona carries a different kind of inheritance. Unlike the cathedrals, museums, and artistic landmarks encountered elsewhere on the journey, Castell de Montjuïc was built around power.
 
@@ -225,8 +215,6 @@ The function changed. The reminder remained.
 
 ## Picasso — Reinvention
 
-**Picasso Museum Photos**
-
 ![Picasso](/assets/images/spain2/picasso.jpg)
 
 The Picasso Museum revealed a side of the artist often overshadowed by his most famous work. Rather than presenting a single style, the collection showed constant evolution. The rooms traced a progression through different periods, techniques, and ways of seeing. The effect was striking.
@@ -243,9 +231,7 @@ The willingness to evolve became part of the inheritance itself. The artwork rem
 
 ## Gaudí — The Legacy of Imagination
 
-**Gaudí Photos**
-
-![Gaudi](/assets/images/spain2/gaudi.jpg)
+*![Gaudi](/assets/images/spain2/gaudi.jpg)
 
 Gaudí appeared repeatedly throughout the journey. Barcelona provided the expected encounters. Sagrada Família. Casa Batlló. Casa Milà. Casa Vicens. El Capricho appeared unexpectedly on the northern coast. Casa Botines appeared again in León. Hundreds of miles separated them.
 
@@ -260,8 +246,6 @@ Permission to think differently.
 ---
 
 ### Palau de la Música — Beauty as Public Space
-
-**Palau de la Música Photos**
 
 ![Palau](/assets/images/spain2/palau.jpg)
 
@@ -280,8 +264,6 @@ It is the belief that public places can inspire as well as serve.
 ---
 
 ## Dalí — The Legacy of Perspective
-
-**Dalí Museum Photos**
 
 ![Dali](/assets/images/spain2/dali.jpg)
 
