@@ -209,6 +209,50 @@ The walls were no longer protecting Girona. They were preserving its story.
 
 ---
 
+## Montserrat — What People Carry
+
+![Abbey](/assets/images/spain2/abbey.jpg)
+
+Some inheritances are physical. Walls. Buildings. Roads. Others are carried differently.
+
+Montserrat felt less like a destination and more like a continuation. The monastery sits high above the surrounding landscape, embedded within the mountain rather than simply built upon it. The setting alone helps explain why people have traveled there for centuries.
+
+Faith appeared inseparable from geography. The mountain seemed to participate in the experience. Pilgrims have been making their way here for generations. The specifics changed. The movement remained.
+
+Walking through the monastery revealed something that would appear repeatedly throughout Spain. Not every tradition survives because it is protected. Many survive because people continue finding value in them.
+
+Every generation inherits the same place. Every generation arrives with different questions. The monastery remains. The people change. The relationship continues.
+
+The significance of Montserrat did not seem rooted entirely in architecture, relics, or history. It felt rooted in repetition. People continued returning. Year after year. Century after century.
+
+The journey reminded me that belief itself can become an inheritance. Not because every person believes the same thing. Because every generation chooses what is worth carrying forward.
+
+Montserrat remains because people continue making that choice.
+
+---
+
+## Poblet — Stewardship
+
+![Poblet](/assets/images/spain2/poblet.jpg)
+
+The monastery at Poblet introduced a different form of continuity. Unlike Montserrat, where movement and pilgrimage felt central to the experience, Poblet felt rooted in preservation. The grounds carried a sense of permanence. Stone walls enclosed courtyards, cloisters, churches, and living spaces that have continued serving their purpose across centuries. 
+
+Staying overnight on the monastery grounds changed the experience. The site became more than a historical monument visited during the day. It became part of the surrounding landscape. The rhythm slowed.
+
+The spaces felt less like attractions and more like places intended to endure. During the audio tour, attention naturally moved toward architecture, royal tombs, and the history of the monastery.
+
+What lingered afterward was something simpler. Poblet exists because generation after generation chose to maintain it. Buildings require care. Institutions require care. Traditions require care. Continuity requires care.
+
+Preservation is often described as protecting the past. Poblet suggested something different. Preservation may be an investment in the future.
+
+The monastery did not survive because it avoided change. It survived because people continued considering it worth protecting. That distinction felt important.
+
+Many inheritances survive through transmission. Others survive through stewardship. Poblet demonstrated the difference.
+
+Someone built it. Someone preserved it. Someone handed it forward.
+
+---
+
 ## Montjuïc — What Remains
 
 ![Monjuic](/assets/images/spain2/montjuic.jpg)
