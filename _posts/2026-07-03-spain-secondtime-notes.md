@@ -437,11 +437,11 @@ People continue seeking connection. That desire may be one of the oldest inherit
 
 ## What Stayed
 
-The journey appeared to be about movement. Looking back, it felt equally about inheritance. Knowledge passed between mentor and student. Imagination passed between artist and observer. Perspective passed between generations. Craft passed between makers. Traditions passed between participants. Identity passed between communities.
+The journey appeared to be about movement. Looking back, it felt equally about survival. Knowledge survived through mentorship. Belief survived through participation. Places survived through memory. Institutions survived through stewardship. Ideas survived through imagination. Cities survived through reinvention. Craft survived through practice. Traditions survived through ritual. Communities survived through belonging.
 
-The landscapes were memorable. The cities were memorable. The stronger impression came from continuity.
+The landscapes remained memorable. The stronger impression came from continuity. Again and again, the route revealed the same truth.
 
-Again and again, the route revealed the same truth. What survives rarely survives on its own. Someone chooses to carry it forward.
+What survives rarely survives by accident. Someone teaches it. Someone protects it. Someone practices it. Someone believes in it. Someone carries it forward.
 
 That is what stayed.
 
