@@ -191,11 +191,9 @@ The walls were no longer protecting Girona. They were preserving its story.
 
 ---
 
-## Montserrat — What People Carry
+## Montserrat — What People Continue Believing
 
 ![Abbey](/assets/images/spain2/abbey.jpg)
-
-## Montserrat — What People Continue Believing
 
 Some inheritances are physical. Walls. Buildings. Roads. Others are carried differently.
 
