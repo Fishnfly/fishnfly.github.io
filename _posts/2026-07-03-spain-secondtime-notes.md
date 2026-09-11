@@ -213,19 +213,33 @@ The walls were no longer protecting Girona. They were preserving its story.
 
 ![Abbey](/assets/images/spain2/abbey.jpg)
 
+## Montserrat — What People Continue Believing
+
 Some inheritances are physical. Walls. Buildings. Roads. Others are carried differently.
 
-Montserrat felt less like a destination and more like a continuation. The monastery sits high above the surrounding landscape, embedded within the mountain rather than simply built upon it. The setting alone helps explain why people have traveled there for centuries.
+Montserrat felt less like a destination and more like a continuation.
 
-Faith appeared inseparable from geography. The mountain seemed to participate in the experience. Pilgrims have been making their way here for generations. The specifics changed. The movement remained.
+The monastery sits high above the surrounding landscape, embedded within the mountain rather than simply built upon it. The setting alone helps explain why people have traveled there for centuries. 
 
-Walking through the monastery revealed something that would appear repeatedly throughout Spain. Not every tradition survives because it is protected. Many survive because people continue finding value in them.
+Faith appeared inseparable from geography. The mountain seemed to participate in the experience. Yet the most memorable moment came inside. Visitors moved slowly through the space, each waiting for an opportunity to stand briefly before the Black Madonna. The process was orderly and unhurried. One person stepped forward. Then another. Then another. The ritual repeated continuously throughout the day.
 
-Every generation inherits the same place. Every generation arrives with different questions. The monastery remains. The people change. The relationship continues.
+The details were simple. The significance came from repetition. Every visitor arrived for personal reasons.
 
-The significance of Montserrat did not seem rooted entirely in architecture, relics, or history. It felt rooted in repetition. People continued returning. Year after year. Century after century.
+Some came through faith. Others through curiosity. Others through tradition.
 
-The journey reminded me that belief itself can become an inheritance. Not because every person believes the same thing. Because every generation chooses what is worth carrying forward.
+The motivations varied. The movement remained.
+
+Standing in the courtyard afterward, watching the steady flow of visitors, reinforced the same observation.
+
+Montserrat survives because people continue finding meaning there. Not because the buildings remain intact. Not because history demands attention. Because generation after generation continues to participate.
+
+The monastery remains. The people change. The relationship continues.
+
+The significance of Montserrat did not seem rooted entirely in architecture, relics, or history.
+
+It felt rooted in continuity. People continued returning. Year after year. Century after century.
+
+The journey reminded me that belief itself can become an inheritance. Not because every person believes the same thing. Because every generation decides what is worth carrying forward.
 
 Montserrat remains because people continue making that choice.
 
@@ -250,6 +264,26 @@ The monastery did not survive because it avoided change. It survived because peo
 Many inheritances survive through transmission. Others survive through stewardship. Poblet demonstrated the difference.
 
 Someone built it. Someone preserved it. Someone handed it forward.
+
+---
+
+## Zaragoza — Faith Across Generations
+
+![Basilica](/assets/images/spain2/basilica.jpg)
+
+The Basilica del Pilar revealed a different form of continuity.
+
+Montserrat felt personal. Pilar felt collective. The scale of the building immediately suggested that it belonged to something larger than any individual visitor.
+
+Generations had passed through the same space. Pilgrims. Travelers. Residents. Families.
+
+Each arrived in a different moment. Each inherited the same structure. Standing inside, it became difficult not to think about time. The people changed. The purpose remained remarkably consistent. The basilica exists because generation after generation continued finding meaning there. Not every visitor believes the same thing. Not every visitor arrives for the same reason.
+
+Yet the building continues drawing people toward a shared point of reference. That continuity felt significant. Modern life often emphasizes change. Places like Pilar demonstrated a different reality.
+
+Some institutions survive because they continue adapting. Others survive because they continue fulfilling a need that remains recognizable across centuries. Faith may be one of those things. The architecture was impressive. The larger story was endurance.
+
+The basilica reminded me that certain beliefs outlive the generations that carry them. Not because they remain unchanged. Because people continue finding reasons to return.
 
 ---
 
