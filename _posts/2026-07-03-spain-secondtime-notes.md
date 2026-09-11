@@ -383,6 +383,8 @@ The region reminded me that mastery is rarely invented. More often, it is accumu
 
 ## Pamplona — Ritual and Risk
 
+![Pamplona](/assets/images/spain2/pamplona.jpg)
+
 The running of the bulls is frequently described as a confrontation between people and animals. From the balcony, the event appeared different. The crowd became the story.
 
 The bulls were certainly dangerous. The greater unpredictability often appeared human. Individuals stumbled. Others hesitated. Momentum moved through the crowd faster than intention. The bulls moved with purpose. The crowd moved with uncertainty. The distinction mattered.
@@ -394,10 +396,6 @@ Year after year, a new group steps into an old tradition. The details differ. Th
 That continuity felt more significant than the spectacle itself. Traditions endure because people continue entering them. Not because they are preserved.
 
 Because they are practiced.
-
-**Pamplona Photos**
-
-/assets/images/spain/pamplona.jpg
 
 ---
 
