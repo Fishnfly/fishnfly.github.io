@@ -40,37 +40,21 @@ The miles mattered. The transitions mattered more.
 
 ---
 
-## The Myth Thread — What Gets Passed Forward
+## The Myth Thread — What Survives
 
-Many things disappear. Kingdoms disappear. Borders change. Businesses close. Buildings decay. People come and go.
+Most journeys begin with places. This one increasingly became about continuation.
 
-Yet some things remain. Not because they are permanent. Because they are carried forward.
+Again and again, the route returned to the same question. Why do some things endure while others disappear? The answers were rarely the same.
 
-The journey repeatedly returned to that idea. Sometimes it appeared through family. Sometimes through tradition. Sometimes through craft. Sometimes through belief.
+Some things survived through inheritance. Knowledge passed between teachers and students. Beliefs passed between generations. Traditions passed between families and communities. Others survived through reinvention.
 
-The form changed. The pattern remained.
+Ideas adapted. Cities transformed. Artists challenged existing assumptions and left behind new ways of seeing. Still others survived through participation.
 
-In Mallorca, the Rafa Nadal Academy demonstrated how knowledge moves from one generation to the next through discipline, mentorship, and repetition.
+Pilgrims continued walking. Winemakers continued practicing. Communities continued gathering. The forms changed. The continuation remained.
 
-Along the Camino, centuries of movement continued because people still choose to walk the same roads.
+Spain often appeared to be a country of history. Closer observation suggested something different.
 
-In Rioja, techniques shaped by generations remained visible in every vineyard and cellar.
-
-Pamplona revealed a ritual renewed each year by entirely different participants.
-
-Gaudí and Dalí left behind more than buildings or artwork. They left behind ways of seeing.
-
-The people changed. The ideas endured. The distinction became increasingly important. Much of what felt enduring throughout Spain was not preserved because it was protected. It survived because it remained useful, meaningful, or worth repeating.
-
-The Camino exists because people continue walking. Wine traditions survive because people continue practicing them. Regional identities persist because communities continue carrying them forward.
-
-What mattered was not preservation alone. It was participation. Again and again, the journey suggested the same lesson.
-
-Continuity is rarely automatic. It depends on people choosing to inherit something and then choosing to pass it on. The strongest stories were not found in monuments. They were found in transmission.
-
-Knowledge passed forward. Craft passed forward. Tradition passed forward. Identity passed forward. What survives rarely survives on its own.
-
-Someone carries it forward.
+It was a country of survival. Not survival through strength. Survival through continuation.
 
 ---
 
@@ -145,21 +129,21 @@ Return Home
 
 ---
 
-Some places are remembered for their landmarks. Others are remembered for their landscapes. Years later, it is often easy to recall where they were. More difficult to remember is what they meant.
+Some places are remembered for their landmarks. Others are remembered for their landscapes.
 
-Looking back, Spain remained memorable for a different reason. Again and again, the journey returned to the same idea. The most enduring things were rarely preserved behind glass. They were not confined to museums, monuments, or historic sites. They remained alive because people continued carrying them forward.
+Years later, it is often easy to recall where they were. More difficult to remember is why they endured. Looking back, Spain remained memorable because it repeatedly returned to the same question.
 
-Knowledge. Traditions. Beliefs. Craft. Identity. The forms changed. The pattern remained.
+What allows certain things to survive while others disappear? The answers were rarely the same. Sometimes survival came through inheritance. Knowledge passed between mentors and students. Beliefs passed between generations. Traditions passed between families and communities. Other times survival came through reinvention.
 
-A mentor passing lessons to an athlete. A family preserving a recipe. Winemakers refining techniques developed generations earlier. Pilgrims walking routes first traveled centuries ago. Artists influencing people they would never meet. Communities repeating rituals older than the buildings surrounding them.
+Ideas adapted. Cities transformed. Artists challenged assumptions and left behind new ways of seeing the world. Still other things survived through participation.
 
-The farther the journey extended, the more visible the pattern became. Spain often appeared as a country defined by history. Closer observation suggested something different. History alone explains very little.
+Pilgrims continued walking. Winemakers continued practicing. Communities continued gathering. The form changed. The continuation remained.
 
-What mattered was transmission. The ways ideas moved from one generation to the next. The ways traditions survived because people continued choosing them. The ways places maintained their identity not because they were frozen in time, but because they remained connected to those who came before.
+The route crossed islands, mountains, vineyards, monasteries, pilgrimage roads, museums, football crowds, and cities shaped by centuries of accumulated history. The settings rarely resembled one another. Yet the same question kept reappearing. Why do some ideas, places, traditions, and identities endure while others fade?
 
-The route crossed islands, mountains, vineyards, monasteries, pilgrimage roads, football crowds, museums, and cities. The settings changed constantly. The lesson remained remarkably consistent.
+Spain often appeared to be a country defined by history. Closer observation suggested something different. History alone explains very little. What mattered was continuation. The decision to teach. The decision to preserve. The decision to adapt. The decision to participate.
 
-What survives rarely survives on its own. Someone carries it forward.
+Again and again, the journey revealed the same truth. What survives rarely survives by accident. Someone believes in it. Someone practices it. Someone protects it. Someone reinvents it. Someone carries it forward.
 
 ---
 
@@ -186,8 +170,6 @@ Unexpectedly seeing Uncle Toni reinforced that distinction. Success rarely exist
 The academy celebrated results. What felt more significant was transmission. Knowledge passed forward. Standards passed forward. Experience passed forward. The cathedral preserved centuries. The academy prepared futures.
 
 The settings differed. The pattern remained. What survives rarely survives on its own.
-
-Someone carries it forward.
 
 ---
 
@@ -263,8 +245,6 @@ The monastery did not survive because it avoided change. It survived because peo
 
 Many inheritances survive through transmission. Others survive through stewardship. Poblet demonstrated the difference.
 
-Someone built it. Someone preserved it. Someone handed it forward.
-
 ---
 
 ## Zaragoza — Faith Across Generations
@@ -304,8 +284,6 @@ Yet traces remained visible long after the original purpose had faded. The fortr
 Not everything is passed forward intentionally. Some inheritances persist simply because they remain visible.
 
 Montjuïc felt like one of those places. The walls preserved more than stone. They preserved evidence of how societies choose to organize power, defend territory, and remember their past.
-
-The function changed. The reminder remained.
 
 ---
 
@@ -375,7 +353,23 @@ His legacy was not a collection. It was a way of looking.
 
 ---
 
+## Bilbao — Reinvention
+
+![Bilbao](/assets/images/spain2/bilbao.jpg)
+
+Not everything that survives remains unchanged. Bilbao demonstrated that.
+
+The city felt defined not by preservation alone but by reinvention. Industry remained visible. History remained visible. Yet neither appeared restrictive. The Guggenheim became a symbol of transformation. Not because it erased the city's past. Because it expanded it.
+
+Some traditions survive through continuity. Others survive through adaptation. Bilbao revealed the second path.
+
+The lesson felt surprisingly optimistic. Change is not always the opposite of preservation. Sometimes it is the reason preservation succeeds.
+
+---
+
 ## Rioja — Patience Made Visible
+
+![Rioja](/assets/images/spain2/rioja.jpg)
 
 The vineyards represented patience extended across decades. Sometimes centuries. The bottle may belong to a single year. The craft belongs to many.
 
@@ -386,10 +380,6 @@ Generations contributed to the same work. Each improved something. Each preserve
 The bottle represented a single year. The craft represented many lifetimes. What survived was not the product. It was the knowledge behind it.
 
 The region reminded me that mastery is rarely invented. More often, it is accumulated.
-
-**Rioja Photos**
-
-/assets/images/spain/rioja.jpg
 
 ---
 
@@ -426,22 +416,6 @@ That continuity felt remarkably alive.
 **Camino Photos**
 
 /assets/images/spain/camino.jpg
-
----
-
-## Bilbao — Reinvention
-
-Not everything that survives remains unchanged. Bilbao demonstrated that.
-
-The city felt defined not by preservation alone but by reinvention. Industry remained visible. History remained visible. Yet neither appeared restrictive. The Guggenheim became a symbol of transformation. Not because it erased the city's past. Because it expanded it.
-
-Some traditions survive through continuity. Others survive through adaptation. Bilbao revealed the second path.
-
-The lesson felt surprisingly optimistic. Change is not always the opposite of preservation. Sometimes it is the reason preservation succeeds.
-
-**Bilbao Photos**
-
-/assets/images/spain/bilbao.jpg
 
 ---
 
