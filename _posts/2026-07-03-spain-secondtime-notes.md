@@ -399,7 +399,94 @@ Because they are practiced.
 
 ---
 
+## The Green North — Landscapes That Still Matter
+
+![Atlantic](/assets/images/spain2/atlantic.jpg)
+
+
+The northern coast revealed a different Spain. Greener. Steeper. More Atlantic than Mediterranean.
+
+The landscapes felt less shaped by people than by geography itself.
+
+Roads wound along cliffs. Villages appeared between mountains and sea. Distance regained importance.
+
+The relationship between place and movement felt different here. Geography still imposed conditions.
+
+The northern regions did not feel isolated.
+
+---
+
+### Gaztelugatxe — The Long Way There
+
+![Gaztelugatxe](/assets/images/spain2/gaztelugatxe.jpg)
+
+Some destinations remain memorable because of what they are. Others because of what it takes to reach them.
+
+Gaztelugatxe belonged to the second category. The island appeared dramatic from a distance. 
+
+A narrow stone bridge connected the mainland to a staircase that climbed steadily toward the small hermitage above. The route felt older than the surrounding attention it now receives through film and television.
+
+Popular culture introduced many visitors to the location. The landscape supplied the lasting impression.
+
+The ocean remained present from every direction.
+
+---
+
+### Castro Urdiales — Where Histories Meet the Sea
+
+![Urdiales](/assets/images/spain2/urdiales.jpg)
+
+Castro Urdiales felt defined by its relationship with water.
+
+The Church of Santa María de la Asunción rose above the harbor, creating one of those scenes that appear designed by history rather than planning. The sea provided commerce. The church provided continuity. Both shaped the town.
+
+Standing near the harbor, it became difficult to separate natural geography from human geography. Each seemed to explain the other. The result felt distinctly northern.
+
+The Atlantic remained visible not only in the landscape but in the way communities developed around it.
+
+---
+
+### Picos de Europa — Scale
+
+Many parts of the journey focused on human inheritance. The mountains provided a different perspective.
+
+The Picos de Europa reduced human concerns to more appropriate proportions. Roads narrowed. Distances increased. Weather mattered. Terrain mattered.
+
+Movement depended less on preference and more on condition.
+
+The landscape dictated terms. Visitors adjusted accordingly. That relationship felt increasingly rare. The mountains remained among the few places where geography continues imposing limits.
+
+The experience felt refreshing rather than restrictive.
+
+---
+
+### Bulnes — Persistence
+
+The trail descending from Bulnes revealed another side of the mountains. The route required attention. The path followed terrain rather than convenience.
+
+Steep sections, elevation changes, and narrow passages reminded visitors that not every destination is intended to be easy. The effort became part of the experience. Any physical ailments immediately surfaced. The burdens of descent became a constant theme when observing other hikers.
+
+Bulnes itself seemed preserved partly by that reality. Accessibility remained limited. Character remained intact. The relationship felt connected.
+
+Some places survive because they remain difficult to reach. The tradeoff appeared worthwhile.
+
+---
+
+### Covadonga — Memory in the Landscape
+
+The Basilica of Santa María la Real de Covadonga appeared inseparable from its surroundings. Faith, history, and geography occupied the same space.
+
+The mountains provided scale. The basilica provided focus. Together they felt like a continuation of themes encountered elsewhere throughout the journey. The significance of the site extended beyond architecture.
+
+People returned because the place represented something larger than itself. A story. A memory. An identity.
+
+Covadonga felt like one of those rare places where history still appears anchored to geography.
+
+---
+
 ## The Camino — Movement Preserved
+
+![Camino](/assets/images/spain2/camino.jpg)
 
 The Camino appeared long before Santiago itself. Road markers surfaced unexpectedly. Shell symbols repeated. Hostels welcomed travelers.
 
@@ -408,10 +495,6 @@ The route rarely demanded attention. It simply remained present. Most historical
 Thousands of people inherit the same road. None inherit the same journey. The path remains. The travelers change. 
 
 That continuity felt remarkably alive.
-
-**Camino Photos**
-
-/assets/images/spain/camino.jpg
 
 ---
 
