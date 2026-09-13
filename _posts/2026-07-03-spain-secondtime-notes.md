@@ -586,11 +586,7 @@ The result was not nostalgia. It was continuity.
 
 The village demonstrated that preservation does not require becoming a museum. A place can remain alive without abandoning its identity. That may be one of the most difficult inheritances to sustain.
 
-The two locations approached the challenge differently.
-
-Salamanca preserved purpose. La Alberca preserved character.
-
-Both suggested the same lesson.
+The two locations approached the challenge differently. Salamanca preserved purpose. La Alberca preserved character. Both suggested the same lesson.
 
 Not everything survives because it changes.
 
