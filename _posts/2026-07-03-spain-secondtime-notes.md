@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spain-the Return"
+title: "Spain-Northern"
 dek: "A journey through the traditions, ideas, and rituals that continue long after the people who began them."
 date: 2026-07-03
 categories: [travel]

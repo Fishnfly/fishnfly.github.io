@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spain"
+title: "Spain-Interior"
 dek: "Following the edges where history, landscape, and identity meet."
 date: 2026-03-06
 categories: [travel]
