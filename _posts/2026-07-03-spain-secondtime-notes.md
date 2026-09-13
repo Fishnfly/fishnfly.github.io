@@ -448,6 +448,8 @@ The Atlantic remained visible not only in the landscape but in the way communiti
 
 ### Picos de Europa — Scale
 
+![Picos](/assets/images/spain2/picos.jpg)
+
 Many parts of the journey focused on human inheritance. The mountains provided a different perspective.
 
 The Picos de Europa reduced human concerns to more appropriate proportions. Roads narrowed. Distances increased. Weather mattered. Terrain mattered.
@@ -461,6 +463,8 @@ The experience felt refreshing rather than restrictive.
 ---
 
 ### Bulnes — Persistence
+
+![Bulnes](/assets/images/spain2/bulnes.jpg)
 
 The trail descending from Bulnes revealed another side of the mountains. The route required attention. The path followed terrain rather than convenience.
 
