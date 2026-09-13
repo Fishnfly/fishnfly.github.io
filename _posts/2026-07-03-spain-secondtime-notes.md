@@ -301,9 +301,31 @@ The willingness to evolve became part of the inheritance itself. The artwork rem
 
 ---
 
+## León — Continuity and Reinvention
+
+![Leon](/assets/images/spain2/leon.jpg)
+
+León felt like a meeting point between inheritance and adaptation. The city carried visible reminders of Spain's medieval past through its cathedral, plazas, and historic center.Yet it also became a place where familiar themes from earlier in the journey reappeared in new forms.
+
+Casa Botines provided one of those moments. Gaudí had already appeared in Barcelona. Seeing his work again in León felt different. The building remained unmistakably his. The details, materials, and imagination were instantly recognizable.Yet the setting changed the experience. In Barcelona, Gaudí often feels inseparable from the city itself.
+
+In León, Casa Botines appeared almost as a reminder that ideas travel farther than the places that first inspire them. The building felt both familiar and unexpected.
+
+Its presence suggested that creative influence does not remain confined to a single region. It spreads. The structure also revealed something important about continuity. Many forms of preservation focus on keeping the past intact. Casa Botines suggested another possibility.
+
+The past can continue contributing to the present. Ideas survive not only because they are remembered. Sometimes they survive because they continue finding new places to belong.
+
+That pattern appeared repeatedly throughout northern Spain. 
+
+Traditions endured. Communities endured. Institutions endured.
+
+Yet very little remained frozen in time. The strongest examples of continuity often involved adaptation.
+
+León seemed to sit comfortably within that balance. Respecting inheritance while remaining open to reinvention.
+
 ## Gaudí — The Legacy of Imagination
 
-*![Gaudi](/assets/images/spain2/gaudi.jpg)
+![Gaudi](/assets/images/spain2/gaudi.jpg)
 
 Gaudí appeared repeatedly throughout the journey. Barcelona provided the expected encounters. Sagrada Família. Casa Batlló. Casa Milà. Casa Vicens. El Capricho appeared unexpectedly on the northern coast. Casa Botines appeared again in León. Hundreds of miles separated them.
 
@@ -517,6 +539,62 @@ The match provided a reason. The deeper phenomenon was belonging. Every society 
 The forms change. The impulse remains.
 
 People continue seeking connection. That desire may be one of the oldest inheritances of all.
+
+---
+
+## Salamanca & La Alberca — Identity Preserved
+
+![Salamanca](/assets/images/spain2/salamanca.jpg)
+
+Many places preserve history. Fewer preserve identity.
+
+Salamanca revealed one side of that distinction.
+
+The city remains closely tied to learning, scholarship, and the institutions that shaped it for centuries. Walking through the plazas, university buildings, and cathedral complexes felt less like visiting a historic district and more like moving through a place where purpose continues alongside preservation.
+
+The buildings remain. The function remains. Each generation inherits both.
+
+The experience suggested that continuity does not always require reinvention.
+
+Sometimes it requires commitment.
+
+The Plaza Mayor became a symbol of that idea. The space felt simultaneously historic and alive. People gathered there for reasons entirely unrelated to its original construction. Yet the square continued serving the same broader purpose it always had.
+
+Bringing people together. The architecture survived.
+
+The social function survived with it.
+
+Nearby, the university offered another perspective. Students still move through spaces shaped by centuries of learning. The institution has changed repeatedly. The pursuit of knowledge remains recognizable.
+
+The generations differ. The aspiration persists.
+
+Salamanca felt less like a preserved city and more like a continuing conversation.
+
+![La Alberca](/assets/images/spain2/alberca.jpg)
+
+La Alberca revealed a quieter version of the same idea.
+
+The village felt remarkably distinct from many places encountered elsewhere along the route. Traditional architecture remained visible.
+
+Public spaces remained human in scale. The streets encouraged movement on foot rather than speed. Very little seemed hurried.
+
+The experience felt less defined by what had been added than by what had been intentionally retained. Many communities modernize by replacing older forms.
+
+La Alberca appeared to modernize selectively. The village continued functioning in the present while maintaining a strong connection to its past. That balance felt difficult to achieve.
+
+The result was not nostalgia. It was continuity.
+
+The village demonstrated that preservation does not require becoming a museum. A place can remain alive without abandoning its identity. That may be one of the most difficult inheritances to sustain.
+
+The two locations approached the challenge differently.
+
+Salamanca preserved purpose. La Alberca preserved character.
+
+Both suggested the same lesson.
+
+Not everything survives because it changes.
+
+Some things survive because people continue recognizing their value.
 
 ---
 
