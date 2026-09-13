@@ -492,9 +492,9 @@ The Netherlands revealed systems that often appeared visible.
 
 Canals. Dikes. Water control. Urban planning. The mechanisms could be seen directly.
 
-Brussels felt different. Many of the most important systems operated less visibly. The city carried multiple identities simultaneously. Belgian. European. Regional. Historical. Modern. The tension between those roles felt less like a contradiction and more like a condition of daily life.
+Brussels felt different. Many of the most important systems operated less visibly. The city carried multiple identities simultaneously. Belgian. European. Regional. Historical. Modern. 
 
-At the European Parliament, the scale of coordination became easier to appreciate.
+The tension between those roles felt less like a contradiction and more like a condition of daily life. At the European Parliament, the scale of coordination became easier to appreciate.
 
 ![European Parliament](/assets/images/belgium/parliament.jpg)
 
@@ -512,7 +512,6 @@ At the Grand Place, centuries of wealth, commerce, and civic ambition remained v
 
 The Royal Palace and Mont des Arts revealed another layer. Power, culture, governance, and public space intersected repeatedly throughout the city. Different institutions occupied different roles, yet each contributed to a broader system extending far beyond any single building.
 
-
 ![Royal Palace](/assets/images/belgium/palace.jpg)
 
 The House of European History added perspective. The museum rarely presented history as a straight line. Instead, it demonstrated how different societies experienced the same events in different ways.
@@ -522,6 +521,8 @@ Progress, conflict, cooperation, and division appeared repeatedly.
 What changed was the framework through which they were understood. That felt like an appropriate conclusion to the Belgian portion of the journey. The systems observed in the Netherlands often sought clarity. The systems encountered in Brussels appeared designed to manage complexity.
 
 The distinction mattered. One organized water. The other organized difference. Both represented attempts to live within realities that could not simply be ignored.
+
+**Mont des Art Pic**
 
 ![Mont des Art](/assets/images/belgium/montdesart.jpg)
 
