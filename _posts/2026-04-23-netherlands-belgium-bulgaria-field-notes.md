@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Low Countries to Eastern Europe "
+title: "Netherlands → Belgium → Bulgaria"
 dek: "Tracing how societies organize, adapt, and carry difference across borders."
 date: 2026-04-23
 categories: [travel]
