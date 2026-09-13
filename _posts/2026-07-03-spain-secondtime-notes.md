@@ -478,6 +478,8 @@ Some places survive because they remain difficult to reach. The tradeoff appeare
 
 ### Covadonga — Memory in the Landscape
 
+![Cavadonga](/assets/images/spain2/cavadonga.jpg)
+
 The Basilica of Santa María la Real de Covadonga appeared inseparable from its surroundings. Faith, history, and geography occupied the same space.
 
 The mountains provided scale. The basilica provided focus. Together they felt like a continuation of themes encountered elsewhere throughout the journey. The significance of the site extended beyond architecture.
