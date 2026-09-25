@@ -239,9 +239,9 @@ Nothing small. Nothing quiet.
 
   <div class="photo-grid">
     <a class="glightbox" data-gallery="egypt" data-title="Balloons over Luxor"
-    href="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}" loading="lazy" alt="Egypt 1"></a>
+    href="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}" loading="lazy" alt="Balloons over Luxor"></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Skyline"
-    href="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}" loading="lazy" alt="Egypt 2"></a>
+    href="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}" loading="lazy" alt="Cairo Skyline"></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Skyline"
     href="{{ '/assets/photos/egypt/egypt-3.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-3.jpg'  | relative_url }}" loading="lazy" alt="Egypt 3"></a>
     <a class="glightbox" data-gallery="egypt" data-title="Egypt Pyramids"
