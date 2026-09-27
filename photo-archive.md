@@ -150,17 +150,14 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-4.jpg' | relative_url }}" loading="lazy" alt="Jordan 4"><span class="photo-label">Dead Sea Shore-Movenpick Resort</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
     href="{{ '/assets/photos/jordan/jordan-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-5.jpg' | relative_url }}" loading="lazy" alt="Jordan 5"><span class="photo-label">Dead Sea -Movenpick Resort with Isreal in the distance</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
+    <a class="glightbox" data-gallery="jordan" data-title="Kerak Castle"
     href="{{ '/assets/photos/jordan/jordan-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-2.jpg' | relative_url }}" loading="lazy" alt="Jordan 2"><span class="photo-label">Kerak Castle-Jordan</span></a>
-    <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-6.jpg'  | relative_url }}">
-      <img src="{{ '/assets/photos/jordan/jordan-6.jpg'  | relative_url }}" loading="lazy" alt="Jordan 6">
-    </a>
-    <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-7.jpg'  | relative_url }}">
-      <img src="{{ '/assets/photos/jordan/jordan-7.jpg'  | relative_url }}" loading="lazy" alt="Jordan 7">
-    </a>
-    <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-8.jpg'  | relative_url }}">
-      <img src="{{ '/assets/photos/jordan/jordan-8.jpg'  | relative_url }}" loading="lazy" alt="Jordan 8">
-    </a>
+    <a class="glightbox" data-gallery="jordan" data-title="Baptism Place"
+    href="{{ '/assets/photos/jordan/jordan-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-6.jpg' | relative_url }}" loading="lazy" alt="Jordan 6"><span class="photo-label">Al-Maghtas believed to be where Jesus was baptised</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Mt Nebo"
+    href="{{ '/assets/photos/jordan/jordan-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-7.jpg' | relative_url }}" loading="lazy" alt="Jordan 7"><span class="photo-label">Mount /Nebo - Abu Badd</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Orthodox"
+    href="{{ '/assets/photos/jordan/jordan-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-8.jpg' | relative_url }}" loading="lazy" alt="Jordan 8"><span class="photo-label">Madaba Mosaic Map-St. George's Greek Orthodox Church</span></a>
     <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-9.jpg'  | relative_url }}">
       <img src="{{ '/assets/photos/jordan/jordan-9.jpg'  | relative_url }}" loading="lazy" alt="Jordan 9">
     </a>
