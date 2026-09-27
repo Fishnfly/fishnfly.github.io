@@ -392,3 +392,10 @@
 .card-grid > * {
   grid-column: 1 / -1 !important;
 }
+
+.photo-item figcaption {
+  text-align: center;
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+  color: #666;
+}
