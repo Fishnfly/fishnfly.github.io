@@ -264,6 +264,8 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-12.jpg' | relative_url }}" loading="lazy" alt="Egypt 12"><span class="photo-label">Karnak Temple Hall of Caryatids-Luxor</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Karnak Temple-Great Hypostlye-Luxor"
     href="{{ '/assets/photos/egypt/egypt-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-14.jpg' | relative_url }}" loading="lazy" alt="Egypt 14"><span class="photo-label">Karnak Temple-Great Hypostlye-Luxor</span></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Karnak Temple-Great Hypostlye-Luxor"
+    href="{{ '/assets/photos/egypt/egypt-42.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-42.jpg' | relative_url }}" loading="lazy" alt="Egypt 42"><span class="photo-label">Karnak Temple-Great Hypostlye-Luxor</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Karnak Temple"
     href="{{ '/assets/photos/egypt/egypt-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-15.jpg' | relative_url }}" loading="lazy" alt="Egypt 15"><span class="photo-label">Karnak Temple-Obelisk of Hatshepsut</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Temple of Kom Ombo"
@@ -278,6 +280,8 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-21.jpg' | relative_url }}" loading="lazy" alt="Egypt 21"><span class="photo-label">Luxor Temple at night</span></a>
      <a class="glightbox" data-gallery="egypt" data-title="Luxor Temple at night"
     href="{{ '/assets/photos/egypt/egypt-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-22.jpg' | relative_url }}" loading="lazy" alt="Egypt 22"><span class="photo-label">Luxor Temple at night</span></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Statue of Ramses-Luxor"
+    href="{{ '/assets/photos/egypt/egypt-43.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-43.jpg' | relative_url }}" loading="lazy" alt="Egypt 43"><span class="photo-label">Statue of Ramses II- Luxor Temple</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Dendera Temple"
     href="{{ '/assets/photos/egypt/egypt-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-19.jpg' | relative_url }}" loading="lazy" alt="Egypt 19"><span class="photo-label">Dendera Temple of Hathor</span></a> 
    <a class="glightbox" data-gallery="egypt" data-title="Tutankhamun"
@@ -286,8 +290,12 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-24.jpg' | relative_url }}" loading="lazy" alt="Egypt 24"><span class="photo-label">Tomb of Tutankhamun</span></a> 
     <a class="glightbox" data-gallery="egypt" data-title="Valley of the Kings"
     href="{{ '/assets/photos/egypt/egypt-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-25.jpg' | relative_url }}" loading="lazy" alt="Egypt 25"><span class="photo-label">Valley of the Kings</span></a> 
+    <a class="glightbox" data-gallery="egypt" data-title="Valley of the Kings"
+    href="{{ '/assets/photos/egypt/egypt-45.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-45.jpg' | relative_url }}" loading="lazy" alt="Egypt 45"><span class="photo-label">Valley of the Kings-Pharaoh Merenptah</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Mortuary"
     href="{{ '/assets/photos/egypt/egypt-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-26.jpg' | relative_url }}" loading="lazy" alt="Egypt 26"><span class="photo-label">Mortuary Temple of Hatshepsut</span></a> 
+    <a class="glightbox" data-gallery="egypt" data-title="Mortuary"
+    href="{{ '/assets/photos/egypt/egypt-44.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-44.jpg' | relative_url }}" loading="lazy" alt="Egypt 44"><span class="photo-label">Mortuary Temple of Hatshepsut</span></a> 
     <a class="glightbox" data-gallery="egypt" data-title="Mortuary"
     href="{{ '/assets/photos/egypt/egypt-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-27.jpg' | relative_url }}" loading="lazy" alt="Egypt 27"><span class="photo-label">Mortuary Temple of Hatshepsut</span></a> 
     <a class="glightbox" data-gallery="egypt" data-title="Abu Simble"
@@ -315,17 +323,16 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}" loading="lazy" alt="Egypt 38"><span class="photo-label">Cairo Grand Epyptian Museum</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Museum"
     href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"><span class="photo-label">Cairo Grand Epyptian Museum</span></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Museum"
+    href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"><span class="photo-label">Cairo Grand Epyptian Museum-King Ramses II</span></a>
+   <a class="glightbox" data-gallery="egypt" data-title="Museum"
+    href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"><span class="photo-label">Cairo Grand Epyptian Museum-Khafre Enthroned</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Airport"
     href="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}" loading="lazy" alt="Egypt 40"><span class="photo-label">Cairo Airport</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Sail Boats"
     href="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}" loading="lazy" alt="Egypt 41"><span class="photo-label">Felucca Boats gliding along the Nile</span></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-42.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-42.jpg' | relative_url }}" loading="lazy" alt="Egypt 42"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-43.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-43.jpg' | relative_url }}" loading="lazy" alt="Egypt 43"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-44.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-44.jpg' | relative_url }}" loading="lazy" alt="Egypt 44"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-45.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-45.jpg' | relative_url }}" loading="lazy" alt="Egypt 45"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-46.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-46.jpg' | relative_url }}" loading="lazy" alt="Egypt 46"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}" loading="lazy" alt="Egypt 47"></a>
-  </div>
+    
+      </div>
 </details>
 
 ---
