@@ -276,18 +276,28 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-18.jpg' | relative_url }}" loading="lazy" alt="Egypt 18"><span class="photo-label">Luxor Temple at night</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Luxor Temple at night"
     href="{{ '/assets/photos/egypt/egypt-20.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-20.jpg' | relative_url }}" loading="lazy" alt="Egypt 20"><span class="photo-label">Luxor Temple at night</span></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Luxor Temple at night"
+    href="{{ '/assets/photos/egypt/egypt-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-21.jpg' | relative_url }}" loading="lazy" alt="Egypt 21"><span class="photo-label">Luxor Temple at night</span></a>
+     <a class="glightbox" data-gallery="egypt" data-title="Luxor Temple at night"
+    href="{{ '/assets/photos/egypt/egypt-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-22.jpg' | relative_url }}" loading="lazy" alt="Egypt 22"><span class="photo-label">Luxor Temple at night</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Dendera Temple"
-    href="{{ '/assets/photos/egypt/egypt-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-19.jpg' | relative_url }}" loading="lazy" alt="Egypt 19"><span class="photo-label">Dendera Temple of Hathor</span></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-21.jpg' | relative_url }}" loading="lazy" alt="Egypt 21"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-22.jpg' | relative_url }}" loading="lazy" alt="Egypt 22"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-23.jpg' | relative_url }}" loading="lazy" alt="Egypt 23"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-24.jpg' | relative_url }}" loading="lazy" alt="Egypt 24"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-25.jpg' | relative_url }}" loading="lazy" alt="Egypt 25"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-26.jpg' | relative_url }}" loading="lazy" alt="Egypt 26"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-27.jpg' | relative_url }}" loading="lazy" alt="Egypt 27"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-28.jpg' | relative_url }}" loading="lazy" alt="Egypt 28"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-29.jpg' | relative_url }}" loading="lazy" alt="Egypt 29"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-30.jpg' | relative_url }}" loading="lazy" alt="Egypt 30"></a>
+    href="{{ '/assets/photos/egypt/egypt-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-19.jpg' | relative_url }}" loading="lazy" alt="Egypt 19"><span class="photo-label">Dendera Temple of Hathor</span></a> 
+   <a class="glightbox" data-gallery="egypt" data-title="Tutankhamun"
+    href="{{ '/assets/photos/egypt/egypt-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-23.jpg' | relative_url }}" loading="lazy" alt="Egypt 23"><span class="photo-label">Tomb of Tutankhamun</span></a> 
+    <a class="glightbox" data-gallery="egypt" data-title="Tutankhamun"
+    href="{{ '/assets/photos/egypt/egypt-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-24.jpg' | relative_url }}" loading="lazy" alt="Egypt 24"><span class="photo-label">Tomb of Tutankhamun</span></a> 
+    <a class="glightbox" data-gallery="egypt" data-title="Valley of the Kings"
+    href="{{ '/assets/photos/egypt/egypt-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-25.jpg' | relative_url }}" loading="lazy" alt="Egypt 25"><span class="photo-label">Valley of the Kings</span></a> 
+    <a class="glightbox" data-gallery="egypt" data-title="Mortuary"
+    href="{{ '/assets/photos/egypt/egypt-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-26.jpg' | relative_url }}" loading="lazy" alt="Egypt 26"><span class="photo-label">Mortuary Temple of Hatshepsut</span></a> 
+    <a class="glightbox" data-gallery="egypt" data-title="Mortuary"
+    href="{{ '/assets/photos/egypt/egypt-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-27.jpg' | relative_url }}" loading="lazy" alt="Egypt 27"><span class="photo-label">Mortuary Temple of Hatshepsut</span></a> 
+    <a class="glightbox" data-gallery="egypt" data-title="Abu Simble"
+    href="{{ '/assets/photos/egypt/egypt-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-28.jpg' | relative_url }}" loading="lazy" alt="Egypt 28"><span class="photo-label">Great Temple of Abu Simble</span></a> 
+    <a class="glightbox" data-gallery="egypt" data-title="Ramses II"
+    href="{{ '/assets/photos/egypt/egypt-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-29.jpg' | relative_url }}" loading="lazy" alt="Egypt 29"><span class="photo-label">Great Temple of Ramses II-Interior: Abu Simble</span></a> 
+    <a class="glightbox" data-gallery="egypt" data-title="Nefertari"
+    href="{{ '/assets/photos/egypt/egypt-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-30.jpg' | relative_url }}" loading="lazy" alt="Egypt 30"><span class="photo-label">Great Temple of Nefertari-Abu Simble</span></a> 
     <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-31.jpg' | relative_url }}" loading="lazy" alt="Egypt 31"></a>
     <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-32.jpg' | relative_url }}" loading="lazy" alt="Egypt 32"></a>
     <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}" loading="lazy" alt="Egypt 33"></a>
