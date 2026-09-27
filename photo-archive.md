@@ -312,6 +312,8 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}" loading="lazy" alt="Egypt 35"><span class="photo-label">Elephantine Island in Aswan</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Dhow Boat"
     href="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}" loading="lazy" alt="Egypt 39"><span class="photo-label">Dhow Boat-Aswan</span></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Sail Boats"
+    href="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}" loading="lazy" alt="Egypt 41"><span class="photo-label">Felucca Boats gliding along the Nile</span></a>
    <a class="glightbox" data-gallery="egypt" data-title="Temple"
     href="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}" loading="lazy" alt="Egypt 34"><span class="photo-label">Temple of Philae in Aswan</span></a>
     <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}" loading="lazy" alt="Egypt 33"></a>
@@ -329,9 +331,7 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}" loading="lazy" alt="Egypt 47"><span class="photo-label">Cairo Grand Epyptian Museum-Khafre Enthroned</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Airport"
     href="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}" loading="lazy" alt="Egypt 40"><span class="photo-label">Cairo Airport</span></a>
-    <a class="glightbox" data-gallery="egypt" data-title="Sail Boats"
-    href="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}" loading="lazy" alt="Egypt 41"><span class="photo-label">Felucca Boats gliding along the Nile</span></a>
-    
+        
       </div>
 </details>
 
