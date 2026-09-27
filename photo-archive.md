@@ -241,15 +241,15 @@ Nothing small. Nothing quiet.
     <a class="glightbox" data-gallery="egypt" data-title="Balloons over Luxor"
     href="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}" loading="lazy" alt="Balloons over Luxor"><span class="photo-label">Balloons over Luxor</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Skyline"
-    href="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}" loading="lazy" alt="Cairo Skyline"></a>
+    href="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}" loading="lazy" alt="Cairo Skyline"><span class="photo-label">Cairo Skyline</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Skyline"
-    href="{{ '/assets/photos/egypt/egypt-3.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-3.jpg'  | relative_url }}" loading="lazy" alt="Egypt 3"></a>
+    href="{{ '/assets/photos/egypt/egypt-3.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-3.jpg'  | relative_url }}" loading="lazy" alt="Egypt 3"><span class="photo-label">Cairo Skyline</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Egypt Pyramids"
-    href="{{ '/assets/photos/egypt/egypt-4.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-4.jpg'  | relative_url }}" loading="lazy" alt="Egypt 4"></a>
+    href="{{ '/assets/photos/egypt/egypt-4.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-4.jpg'  | relative_url }}" loading="lazy" alt="Egypt 4"><span class="photo-label">Egypt Pyramids</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Egypt Pyramids"
-    href="{{ '/assets/photos/egypt/egypt-5.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-5.jpg'  | relative_url }}" loading="lazy" alt="Egypt 5"></a>
+    href="{{ '/assets/photos/egypt/egypt-5.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-5.jpg'  | relative_url }}" loading="lazy" alt="Egypt 5"><span class="photo-label">Egypt Pyramids</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Egypt Sphinx"
-    href="{{ '/assets/photos/egypt/egypt-6.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-6.jpg'  | relative_url }}" loading="lazy" alt="Egypt 6"></a>
+    href="{{ '/assets/photos/egypt/egypt-6.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-6.jpg'  | relative_url }}" loading="lazy" alt="Egypt 6"><span class="photo-label">Egypt Sphinx</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Egypt Pyramids"
     href="{{ '/assets/photos/egypt/egypt-7.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-7.jpg'  | relative_url }}" loading="lazy" alt="Egypt 7"></a>
     <a class="glightbox" data-gallery="egypt" data-title="Egypt Pyramids"
