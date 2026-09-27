@@ -142,21 +142,16 @@ Edges worn smooth by time.
   <summary>Open field photographs from this journey</summary>
 
   <div class="photo-grid">
-    <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-1.jpg'  | relative_url }}">
-      <img src="{{ '/assets/photos/jordan/jordan-1.jpg'  | relative_url }}" loading="lazy" alt="Jordan 1">
-    </a>
-    <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-2.jpg'  | relative_url }}">
-      <img src="{{ '/assets/photos/jordan/jordan-2.jpg'  | relative_url }}" loading="lazy" alt="Jordan 2">
-    </a>
-    <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-3.jpg'  | relative_url }}">
-      <img src="{{ '/assets/photos/jordan/jordan-3.jpg'  | relative_url }}" loading="lazy" alt="Jordan 3">
-    </a>
-    <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-4.jpg'  | relative_url }}">
-      <img src="{{ '/assets/photos/jordan/jordan-4.jpg'  | relative_url }}" loading="lazy" alt="Jordan 4">
-    </a>
-    <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-5.jpg'  | relative_url }}">
-      <img src="{{ '/assets/photos/jordan/jordan-5.jpg'  | relative_url }}" loading="lazy" alt="Jordan 5">
-    </a>
+    <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
+    href="{{ '/assets/photos/jordan/jordan-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-1.jpg' | relative_url }}" loading="lazy" alt="Jordan 1"><span class="photo-label">Dead Sea-Movenpick Resort</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
+    href="{{ '/assets/photos/jordan/jordan-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-3.jpg' | relative_url }}" loading="lazy" alt="Jordan 3"><span class="photo-label">Dead Sea-Marriott Resort Pool</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
+    href="{{ '/assets/photos/jordan/jordan-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-4.jpg' | relative_url }}" loading="lazy" alt="Jordan 4"><span class="photo-label">Dead Sea Shore-Movenpick Resort</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
+    href="{{ '/assets/photos/jordan/jordan-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-5.jpg' | relative_url }}" loading="lazy" alt="Jordan 5"><span class="photo-label">Dead Sea -Movenpick Resort with Isreal in the distance</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
+    href="{{ '/assets/photos/jordan/jordan-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-2.jpg' | relative_url }}" loading="lazy" alt="Jordan 2"><span class="photo-label">Kerak Castle-Jordan</span></a>
     <a class="glightbox" data-gallery="jordan" href="{{ '/assets/photos/jordan/jordan-6.jpg'  | relative_url }}">
       <img src="{{ '/assets/photos/jordan/jordan-6.jpg'  | relative_url }}" loading="lazy" alt="Jordan 6">
     </a>
