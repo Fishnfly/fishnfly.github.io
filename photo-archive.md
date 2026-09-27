@@ -238,8 +238,8 @@ Nothing small. Nothing quiet.
   <summary>Open field photographs from this journey</summary>
 
   <div class="photo-grid">
-    <a class="glightbox" data-gallery="egypt" data-title="Balloons over Luxor"
-    href="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}" loading="lazy" alt="Balloons over Luxor"><span class="photo-label">Balloons over Luxor</span></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Cairo Airport"
+    href="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}" loading="lazy" alt="Egypt 40"><span class="photo-label">Cairo Airport</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Skyline"
     href="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}" loading="lazy" alt="Cairo Skyline"><span class="photo-label">Cairo Skyline</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Skyline"
@@ -258,6 +258,8 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-8.jpg' | relative_url }}" loading="lazy" alt="Egypt 8"><span class="photo-label">Pyramids of Giza</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Luxor Airport"
     href="{{ '/assets/photos/egypt/egypt-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-10.jpg' | relative_url }}" loading="lazy" alt="Egypt 10"><span class="photo-label">Luxor Airport</span></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Balloons over Luxor"
+    href="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}" loading="lazy" alt="Balloons over Luxor"><span class="photo-label">Balloons over Luxor</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Karnak Temple"
     href="{{ '/assets/photos/egypt/egypt-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-11.jpg' | relative_url }}" loading="lazy" alt="Egypt 11"><span class="photo-label">Karnak Temple Columns</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Karnak Temple Hall of Caryatids-Luxor"
@@ -330,9 +332,7 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-46.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-46.jpg' | relative_url }}" loading="lazy" alt="Egypt 46"><span class="photo-label">Cairo Grand Epyptian Museum-King Ramses II</span></a>
    <a class="glightbox" data-gallery="egypt" data-title="Museum"
     href="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}" loading="lazy" alt="Egypt 47"><span class="photo-label">Cairo Grand Epyptian Museum-Khafre Enthroned</span></a>
-    <a class="glightbox" data-gallery="egypt" data-title="Cairo Airport"
-    href="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}" loading="lazy" alt="Egypt 40"><span class="photo-label">Cairo Airport</span></a>
-        
+           
       </div>
 </details>
 
