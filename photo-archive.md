@@ -316,7 +316,8 @@ Nothing small. Nothing quiet.
     href="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}" loading="lazy" alt="Egypt 41"><span class="photo-label">Felucca Boats gliding along the Nile</span></a>
    <a class="glightbox" data-gallery="egypt" data-title="Temple"
     href="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}" loading="lazy" alt="Egypt 34"><span class="photo-label">Temple of Philae in Aswan</span></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}" loading="lazy" alt="Egypt 33"></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Aswan Market"
+    href="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}" loading="lazy" alt="Egypt 33"><span class="photo-label">Aswan Market</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Step Pyramid"
     href="{{ '/assets/photos/egypt/egypt-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-9.jpg' | relative_url }}" loading="lazy" alt="Egypt 9"><span class="photo-label">Step Pyramid of Djozer-Saqqarah</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Step Pyramid"
