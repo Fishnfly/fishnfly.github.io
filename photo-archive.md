@@ -305,15 +305,18 @@ Nothing small. Nothing quiet.
     <a class="glightbox" data-gallery="egypt" data-title="Waters"
     href="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-35.jpg' | relative_url }}" loading="lazy" alt="Egypt 35"><span class="photo-label">Elephantine Island in Aswan</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Dhow Boat"
-    href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"><span class="photo-label">Dhow Boat-Aswan</span></a>
+    href="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}" loading="lazy" alt="Egypt 39"><span class="photo-label">Dhow Boat-Aswan</span></a>
    <a class="glightbox" data-gallery="egypt" data-title="Temple"
     href="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-34.jpg' | relative_url }}" loading="lazy" alt="Egypt 34"><span class="photo-label">Temple of Philae in Aswan</span></a>
     <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-33.jpg' | relative_url }}" loading="lazy" alt="Egypt 33"></a>
     <a class="glightbox" data-gallery="egypt" data-title="Step Pyramid"
     href="{{ '/assets/photos/egypt/egypt-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-37.jpg' | relative_url }}" loading="lazy" alt="Egypt 37"><span class="photo-label">Step Pyramid of Djozer-Saqqarah</span></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}" loading="lazy" alt="Egypt 38"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-39.jpg' | relative_url }}" loading="lazy" alt="Egypt 39"></a>
-    <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}" loading="lazy" alt="Egypt 40"></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Museum"
+    href="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-38.jpg' | relative_url }}" loading="lazy" alt="Egypt 38"><span class="photo-label">Cairo Grand Epyptian Museum</span></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Museum"
+    href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"><span class="photo-label">Cairo Grand Epyptian Museum</span></a>
+    <a class="glightbox" data-gallery="egypt" data-title="Museum"
+    href="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}" loading="lazy" alt="Egypt 40"><span class="photo-label">Cairo Grand Epyptian Museum</span></a>
     <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-41.jpg' | relative_url }}" loading="lazy" alt="Egypt 41"></a>
     <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-42.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-42.jpg' | relative_url }}" loading="lazy" alt="Egypt 42"></a>
     <a class="glightbox" data-gallery="egypt" href="{{ '/assets/photos/egypt/egypt-43.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-43.jpg' | relative_url }}" loading="lazy" alt="Egypt 43"></a>
