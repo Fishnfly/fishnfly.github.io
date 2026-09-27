@@ -237,20 +237,9 @@ Nothing small. Nothing quiet.
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
 
- <div class="photo-grid">
-
-  <figure class="photo-item">
-    {{ '/assets/photos/egypt/egypt-1.jpg' | relative_url }}
-      {{ '/assets/photos/egypt/egypt-1.jpg' | relative_url }}
-    </a>
-
-    <figcaption>Balloons over Luxor</figcaption>
-  </figure>
-
-  <!-- all the other images unchanged -->
-
-</div>
-
+  <div class="photo-grid">
+    <a class="glightbox" data-gallery="egypt" data-title="Balloons over Luxor"
+    href="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-1.jpg'  | relative_url }}" loading="lazy" alt="Balloons over Luxor"></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Skyline"
     href="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-2.jpg'  | relative_url }}" loading="lazy" alt="Cairo Skyline"></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Skyline"
