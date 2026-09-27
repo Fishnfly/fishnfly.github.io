@@ -324,9 +324,9 @@ Nothing small. Nothing quiet.
     <a class="glightbox" data-gallery="egypt" data-title="Museum"
     href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"><span class="photo-label">Cairo Grand Epyptian Museum</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Museum"
-    href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"><span class="photo-label">Cairo Grand Epyptian Museum-King Ramses II</span></a>
+    href="{{ '/assets/photos/egypt/egypt-46.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-46.jpg' | relative_url }}" loading="lazy" alt="Egypt 46"><span class="photo-label">Cairo Grand Epyptian Museum-King Ramses II</span></a>
    <a class="glightbox" data-gallery="egypt" data-title="Museum"
-    href="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-36.jpg' | relative_url }}" loading="lazy" alt="Egypt 36"><span class="photo-label">Cairo Grand Epyptian Museum-Khafre Enthroned</span></a>
+    href="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-47.jpg' | relative_url }}" loading="lazy" alt="Egypt 47"><span class="photo-label">Cairo Grand Epyptian Museum-Khafre Enthroned</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Cairo Airport"
     href="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/egypt/egypt-40.jpg' | relative_url }}" loading="lazy" alt="Egypt 40"><span class="photo-label">Cairo Airport</span></a>
     <a class="glightbox" data-gallery="egypt" data-title="Sail Boats"
