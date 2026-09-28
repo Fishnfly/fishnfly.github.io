@@ -143,7 +143,7 @@ Edges worn smooth by time.
 
   <div class="photo-grid">
     <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
-    href="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}" loading="lazy" alt="Jordan 22"><span class="photo-label">Dead Sea</span></a>
+    href="{{ '/assets/photos/jordan/jordan-20.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-20.jpg' | relative_url }}" loading="lazy" alt="Jordan 20"><span class="photo-label">Dead Sea</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
     href="{{ '/assets/photos/jordan/jordan-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-1.jpg' | relative_url }}" loading="lazy" alt="Jordan 1"><span class="photo-label">Dead Sea-Movenpick Resort</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
@@ -178,23 +178,23 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}" loading="lazy" alt="Jordan 15"><span class="photo-label">Corinthian Tomb-Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Urn"
     href="{{ '/assets/photos/jordan/jordan-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-16.jpg' | relative_url }}" loading="lazy" alt="Jordan 16"><span class="photo-label">Urn Tomb-Royal Tombs of Petra</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Urn Tomb"
+    <a class="glightbox" data-gallery="jordan" data-title="Castle"
     href="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}" loading="lazy" alt="Jordan 17"><span class="photo-label">Kerak Castle-Jordan</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Urn Tomb"
-    href="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}" loading="lazy" alt="Jordan 18"><span class="photo-label">Roman Theatre of Amman-Jordan</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Kerak Castle"
-    href="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}" loading="lazy" alt="Jordan 19"><span class="photo-label">Ritz Carlton Amman Hotel-Jordan</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Roman Theatre"
-    href="{{ '/assets/photos/jordan/jordan-20.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-20.jpg' | relative_url }}" loading="lazy" alt="Jordan 20"><span class="photo-label">Mount Nebo - Memorial of Moses</span></a>
+    href="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}" loading="lazy" alt="Jordan 18"><span class="photo-label">Roman Theatre of Amman-Jordan</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Ritz"
+    href="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}" loading="lazy" alt="Jordan 19"><span class="photo-label">Ritz Carlton Amman Hotel-Jordan</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Memorial"
+    href="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}" loading="lazy" alt="Jordan 22"><span class="photo-label">Mount Nebo - Memorial of Moses</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Serpent"
     href="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}" loading="lazy" alt="Jordan 21"><span class="photo-label">Mount Nebo - Serpent Cross</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Mt Nebo"
+    <a class="glightbox" data-gallery="jordan" data-title="Wadi"
     href="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}" loading="lazy" alt="Jordan 24"><span class="photo-label">Wadi Mujib Siq in route to Petra</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Mt Nebo"
+    <a class="glightbox" data-gallery="jordan" data-title="Treasury"
     href="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}" loading="lazy" alt="Jordan 25"><span class="photo-label">Al-Khazneh aka "Treasury"-Petra</span></a>
    <a class="glightbox" data-gallery="jordan" data-title="Citadel"
     href="{{ '/assets/photos/jordan/jordan-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-26.jpg' | relative_url }}" loading="lazy" alt="Jordan 26"><span class="photo-label">Roman Temple of Hercules-Amman</span></a>
-   <a class="glightbox" data-gallery="jordan" data-title="Citadel"
+   <a class="glightbox" data-gallery="jordan" data-title="Street Food"
     href="{{ '/assets/photos/jordan/jordan-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-27.jpg' | relative_url }}" loading="lazy" alt="Jordan 27"><span class="photo-label">Amman Street Food</span></a>
   </div>
 </details>
