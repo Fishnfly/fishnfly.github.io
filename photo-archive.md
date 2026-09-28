@@ -12,8 +12,8 @@ What you’ll find here are small collections, grouped by journey, left mostly a
 
 ---
 
-<a id="spain"></a>
-## Spain
+<a id="spain-interior"></a>
+## Spain-Interior
 
 Stone cities, narrow streets, long shadows.  
 Patience in the walls. Weight in the air.
