@@ -215,7 +215,7 @@ The significance came from witnessing continuity in motion.
 
 The system extended beyond what could be seen from shore.
 
-During a snorkeling excursion, visibility opened into another layer of the islands. Fish, currents, and movement existed within a structure operating largely out of sight. At one point, a large shark moved through that space without hesitation or acknowledgment. The encounter felt significant to us. For the system itself, it appeared routine. The distinction mattered. Observation did not alter what was occurring.
+During a snorkeling excursion, visibility opened into another layer of the islands. Fish, currents, and movement existed within a structure operating largely out of sight. At one point, a large shark moved through that space without hesitation or acknowledgment. The encounter felt significant to us. For the system itself, it appeared routine. Observation did not alter what was occurring.
 
 It merely revealed it.
 
@@ -294,7 +294,7 @@ Survival within it remained uncertain.
 
 Leaving the islands felt less like departure and more like withdrawal. The system continued exactly as it had before arrival. Wildlife would remain. Currents would continue. The landscape would keep shaping what could exist within it. Nothing required our presence. The realization was humbling. What made the Galápagos remarkable was not what it provided to visitors. It was how little it required from them. The reality felt stark. The islands appeared timeless. They were not. What looked permanent depended upon countless conditions remaining within narrow limits. Food availability, ocean temperatures, rainfall patterns, migration cycles, and breeding success all remained connected through relationships that were easy to overlook until something shifted.
 
-The system persisted. Its balance remained fragile. The distinction mattered. Abundance was not permanence. What appeared resilient often depended upon conditions that could change unexpectedly. The lesson extended beyond the islands themselves. The rarest things are often assumed to be enduring simply because they have survived for so long. Yet rarity and vulnerability frequently travel together. The Galápagos did not demonstrate invincibility. It demonstrated balance.
+The system persisted. Its balance remained fragile. Abundance was not permanence. What appeared resilient often depended upon conditions that could change unexpectedly. The lesson extended beyond the islands themselves. The rarest things are often assumed to be enduring simply because they have survived for so long. Yet rarity and vulnerability frequently travel together. The Galápagos did not demonstrate invincibility. It demonstrated balance.
 
 And balance, however beautiful, is never guaranteed.
 
@@ -340,8 +340,6 @@ Access existed everywhere.
 
 Freedom did not.
 
-The distinction mattered.
-
 Observation required distance, patience, and restraint.
 
 ---
@@ -356,7 +354,7 @@ The system accommodated visitors without reorganizing itself around them.
 
 ## On place
 
-Many destinations become memorable because of what they contain. The Galápagos became memorable because of what it permitted. Wildlife remained wildlife. Landscapes remained landscapes. The experience was shaped less by access and more by restraint. Very little felt curated. Very little felt performed. The islands allowed the natural world to remain the primary subject. That distinction mattered. It changed how observation felt.
+Many destinations become memorable because of what they contain. The Galápagos became memorable because of what it permitted. Wildlife remained wildlife. Landscapes remained landscapes. The experience was shaped less by access and more by restraint. Very little felt curated. Very little felt performed. The islands allowed the natural world to remain the primary subject. It changed how observation felt.
 
 The experience became less about finding something and more about noticing it.
 
@@ -400,7 +398,7 @@ Given the choice, we would allow even more time for that process.
 
 The reality felt stark. The islands appeared timeless. They were not.
  
-What looked permanent depended upon countless conditions remaining within narrow limits. Food availability, ocean temperatures, rainfall patterns, migration cycles, and breeding success all remained bound together through balances that were rarely visible until they began to shift. The system persisted. Its balance remained fragile. The distinction mattered. Nothing here felt fragile at first.
+What looked permanent depended upon countless conditions remaining within narrow limits. Food availability, ocean temperatures, rainfall patterns, migration cycles, and breeding success all remained bound together through balances that were rarely visible until they began to shift. The system persisted. Its balance remained fragile. Nothing here felt fragile at first.
  
 That was precisely the point. The rarest things rarely announce their vulnerability. They simply depend upon conditions we learn to appreciate only when they begin to disappear.
 
@@ -417,9 +415,9 @@ Fragility is not weakness. It is the price of rarity.
 
 See other movements across landscapes:
 
-- [Morocco Balloon Ride](/story-content/morocco-before-sunrise.html)
 - [Travel Index](/travel/)
 
 Green Sea Turtle, Shark, Yellow-tailed surgeonfish, StingRay
+
 - [Snorkeling video](https://youtu.be/E9I01PeMBRQ)
 

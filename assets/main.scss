@@ -421,10 +421,15 @@
 
   pointer-events: none;
 }
-.photo-archive img {
-  max-width: 900px;
-  max-height: 80vh;
-  width: auto;
-  height: auto;
-  margin: 2rem auto;
+
+/* Desktop lightbox portrait image test */
+
+.gslide-description {
+  display: none !important;
+}
+
+.gslide-image img,
+.gslide-image img.zoomable {
+  max-height: 98vh !important;
+  max-width: 98vw !important;
 }

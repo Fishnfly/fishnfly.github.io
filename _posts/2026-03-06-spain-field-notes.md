@@ -936,7 +936,7 @@ It was a trip about understanding how Spain reveals itself—
 one threshold at a time.
 
 *Field photographs from this journey:*  
-[View the photo archive](/photo-archive/#spain)
+[View the photo archive](/photo-archive/#spain-interior)
 
 ---
 

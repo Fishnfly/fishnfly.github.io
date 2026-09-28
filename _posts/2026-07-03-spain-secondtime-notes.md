@@ -409,7 +409,7 @@ The region reminded me that mastery is rarely invented. More often, it is accumu
 
 The running of the bulls is frequently described as a confrontation between people and animals. From the balcony, the event appeared different. The crowd became the story.
 
-The bulls were certainly dangerous. The greater unpredictability often appeared human. Individuals stumbled. Others hesitated. Momentum moved through the crowd faster than intention. The bulls moved with purpose. The crowd moved with uncertainty. The distinction mattered.
+The bulls were certainly dangerous. The greater unpredictability often appeared human. Individuals stumbled. Others hesitated. Momentum moved through the crowd faster than intention. The bulls moved with purpose. The crowd moved with uncertainty. 
 
 The animals were important. The ritual was larger. Every participant eventually changes. Every spectator changes. The event remains.
 
