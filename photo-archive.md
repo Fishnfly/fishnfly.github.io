@@ -157,7 +157,7 @@ Edges worn smooth by time.
     <a class="glightbox" data-gallery="jordan" data-title="Baptism Place"
     href="{{ '/assets/photos/jordan/jordan-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-6.jpg' | relative_url }}" loading="lazy" alt="Jordan 6"><span class="photo-label">Al-Maghtas believed to be where Jesus was baptised</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Baptism"
-    href="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}" loading="lazy" alt="Jordan 23"><span class="photo-label">Al-Maghtas</span></a>
+    href="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}" loading="lazy" alt="Jordan 23"><span class="photo-label">Mt. Nebo-Serpent Cross</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Mt Nebo"
     href="{{ '/assets/photos/jordan/jordan-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-7.jpg' | relative_url }}" loading="lazy" alt="Jordan 7"><span class="photo-label">Mount Nebo - Abu Badd</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Orthodox"
@@ -187,7 +187,7 @@ Edges worn smooth by time.
     <a class="glightbox" data-gallery="jordan" data-title="Memorial"
     href="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}" loading="lazy" alt="Jordan 22"><span class="photo-label">Mount Nebo - Memorial of Moses</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Serpent"
-    href="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}" loading="lazy" alt="Jordan 21"><span class="photo-label">Mount Nebo - Serpent Cross</span></a>
+    href="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}" loading="lazy" alt="Jordan 21"><span class="photo-label">Al-Maghtas</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Wadi"
     href="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}" loading="lazy" alt="Jordan 24"><span class="photo-label">Wadi Mujib Siq in route to Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Treasury"
