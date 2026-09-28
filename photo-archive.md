@@ -323,8 +323,8 @@ Nothing fixed. Everything practiced.
 <div class="photo-grid">
   <a class="glightbox" data-gallery="morocco" data-title="Hassan II Mosque-Casablanca"
   href="{{ '/assets/photos/morocco/morco-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-1.jpg' | relative_url }}" loading="lazy" alt="Morocco 1"><span class="photo-label">Hassan II Mosque-Casablanca</span></a>
-  <a class="glightbox" data-gallery="morocco" data-title="Hassan II Mosque and Minarets-Casablanca"
-  href="{{ '/assets/photos/morocco/morco-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-2.jpg' | relative_url }}" loading="lazy" alt="Morocco 2"><span class="photo-label">Hassan II Mosque and Minarets-Casablanca</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Hassan II Mosque & Minaret-Casablanca"
+  href="{{ '/assets/photos/morocco/morco-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-2.jpg' | relative_url }}" loading="lazy" alt="Morocco 2"><span class="photo-label">Hassan II Mosque & Minaret-Casablanca</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Casablanca Catherdral-Church of the Sacred Heart"
   href="{{ '/assets/photos/morocco/morco-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-3.jpg' | relative_url }}" loading="lazy" alt="Morocco 3"><span class="photo-label">Casablanca Catherdral-Church of the Sacred Heart</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Hillside of Chefchaouen-Blue Pearl"
@@ -337,20 +337,20 @@ Nothing fixed. Everything practiced.
   href="{{ '/assets/photos/morocco/morco-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-7.jpg' | relative_url }}" loading="lazy" alt="Morocco 7"><span class="photo-label">Medieval Fortification of Chellah-Rabat</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Cemetery near the Medieval Fortification of Chellah-Rabat"
   href="{{ '/assets/photos/morocco/morco-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-8.jpg' | relative_url }}" loading="lazy" alt="Morocco 8"><span class="photo-label">Cemetery near the Medieval Fortification of Chellah-Rabat</span></a>
- <a class="glightbox" data-gallery="morocco" data-title="Medieval Fortification of Chellah-Rabat"
-  href="{{ '/assets/photos/morocco/morco-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-9.jpg' | relative_url }}" loading="lazy" alt="Morocco 9"><span class="photo-label">Medieval Fortification of Chellah-Rabat</span></a>
  <a class="glightbox" data-gallery="morocco" data-title="Kasbah of the Udayas-overlooking the estuary of the Bou Regreg River"
-  href="{{ '/assets/photos/morocco/morco-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-10.jpg' | relative_url }}" loading="lazy" alt="Morocco 10"><span class="photo-label">Kasbah of the Udayas-overlooking the estuary of the Bou Regreg River</span></a>
- <a class="glightbox" data-gallery="morocco" data-title="Hassan Tower-Rabat"
-  href="{{ '/assets/photos/morocco/morco-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-11.jpg' | relative_url }}" loading="lazy" alt="Morocco 11"><span class="photo-label">Hassan Tower-Rabat</span></a>
-  <a class="glightbox" data-gallery="morocco" data-title="Hassan Tower-Rabat"
-  href="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}" loading="lazy" alt="Morocco 12"><span class="photo-label">Hassan Tower-Rabat</span></a>
+  href="{{ '/assets/photos/morocco/morco-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-9.jpg' | relative_url }}" loading="lazy" alt="Morocco 9"><span class="photo-label">Kasbah of the Udayas-overlooking the estuary of the Bou Regreg River</span></a>
+ <a class="glightbox" data-gallery="morocco" data-title=">Hassan Tower-Rabat"
+  href="{{ '/assets/photos/morocco/morco-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-10.jpg' | relative_url }}" loading="lazy" alt="Morocco 10"><span class="photo-label">>Hassan Tower-Rabat</span></a>
  <a class="glightbox" data-gallery="morocco" data-title="Roman Ruins of Volubilis-Capital Temple"
-  href="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}" loading="lazy" alt="Morocco 13"><span class="photo-label">Roman Ruins of Volubilis-Capital Temple"</span></a>
+  href="{{ '/assets/photos/morocco/morco-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-11.jpg' | relative_url }}" loading="lazy" alt="Morocco 11"><span class="photo-label">Roman Ruins of Volubilis</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Roman Ruins of Volubilis-Capital Temple"
+  href="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}" loading="lazy" alt="Morocco 12"><span class="photo-label">Roman Ruins of Volubilis-Capital Temple</span></a>
  <a class="glightbox" data-gallery="morocco" data-title="Arch of Caracalla-Volubilis"
-  href="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}" loading="lazy" alt="Morocco 14"><span class="photo-label">Arch of Caracalla-Volubilis</span></a>
- <a class="glightbox" data-gallery="morocco" data-title="Riad Salam Fes"
-  href="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}" loading="lazy" alt="Morocco 15"><span class="photo-label">Riad Salam Fes-Fez</span></a>
+  href="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}" loading="lazy" alt="Morocco 13"><span class="photo-label">Arch of Caracalla-Volubilis"</span></a>
+ <a class="glightbox" data-gallery="morocco" data-title="Riad Salam Fes-Fez"
+  href="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}" loading="lazy" alt="Morocco 14"><span class="photo-label">Riad Salam Fes-Fez</span></a>
+ <a class="glightbox" data-gallery="morocco" data-title="Place Seffarine-Fez"
+  href="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}" loading="lazy" alt="Morocco 15"><span class="photo-label">Place Seffarine-Fez</span></a>
   <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}" loading="lazy" alt="Morocco 16"></a>
   <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}" loading="lazy" alt="Morocco 17"></a>
   <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-18.jpg' | relative_url }}" loading="lazy" alt="Morocco 18"></a>
