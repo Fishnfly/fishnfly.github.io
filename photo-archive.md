@@ -158,6 +158,8 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}" loading="lazy" alt="Jordan 17"><span class="photo-label">Kerak Castle-Jordan</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Baptism Place"
     href="{{ '/assets/photos/jordan/jordan-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-6.jpg' | relative_url }}" loading="lazy" alt="Jordan 6"><span class="photo-label">Al-Maghtas believed to be where Jesus was baptised</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Serpent"
+    href="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}" loading="lazy" alt="Jordan 21"><span class="photo-label">Al-Maghtas</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Baptism"
     href="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}" loading="lazy" alt="Jordan 23"><span class="photo-label">Mt. Nebo-Serpent Cross</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Mt Nebo"
@@ -190,8 +192,6 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}" loading="lazy" alt="Jordan 18"><span class="photo-label">Roman Theatre of Amman-Jordan</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Ritz"
     href="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}" loading="lazy" alt="Jordan 19"><span class="photo-label">Ritz Carlton Amman Hotel-Jordan</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Serpent"
-    href="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}" loading="lazy" alt="Jordan 21"><span class="photo-label">Al-Maghtas</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Citadel"
     href="{{ '/assets/photos/jordan/jordan-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-26.jpg' | relative_url }}" loading="lazy" alt="Jordan 26"><span class="photo-label">Roman Temple of Hercules-Amman</span></a>
    <a class="glightbox" data-gallery="jordan" data-title="Street Food"
