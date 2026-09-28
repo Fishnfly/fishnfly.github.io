@@ -143,7 +143,8 @@ Edges worn smooth by time.
 
   <div class="photo-grid">
     <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
-    href="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}" loading="lazy" alt="Jordan 22"><span class="photo-label">Dead Sea</span></a><a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
+    href="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}" loading="lazy" alt="Jordan 22"><span class="photo-label">Dead Sea</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
     href="{{ '/assets/photos/jordan/jordan-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-1.jpg' | relative_url }}" loading="lazy" alt="Jordan 1"><span class="photo-label">Dead Sea-Movenpick Resort</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Dead Sea"
     href="{{ '/assets/photos/jordan/jordan-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-3.jpg' | relative_url }}" loading="lazy" alt="Jordan 3"><span class="photo-label">Dead Sea-Marriott Resort Pool</span></a>
@@ -173,7 +174,7 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-13.jpg' | relative_url }}" loading="lazy" alt="Jordan 13"><span class="photo-label">Petra Theatre</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Monastery"
     href="{{ '/assets/photos/jordan/jordan-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-14.jpg' | relative_url }}" loading="lazy" alt="Jordan 14"><span class="photo-label">Monastery of Petra</span></a>
-   <a class="glightbox" data-gallery="jordan" data-title="Corinthian"
+    <a class="glightbox" data-gallery="jordan" data-title="Corinthian"
     href="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}" loading="lazy" alt="Jordan 15"><span class="photo-label">Corinthian Tomb-Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Urn"
     href="{{ '/assets/photos/jordan/jordan-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-16.jpg' | relative_url }}" loading="lazy" alt="Jordan 16"><span class="photo-label">Urn Tomb-Royal Tombs of Petra</span></a>
