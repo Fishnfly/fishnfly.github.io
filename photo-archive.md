@@ -154,6 +154,8 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-5.jpg' | relative_url }}" loading="lazy" alt="Jordan 5"><span class="photo-label">Dead Sea -Movenpick Resort with Isreal in the distance</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Kerak Castle"
     href="{{ '/assets/photos/jordan/jordan-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-2.jpg' | relative_url }}" loading="lazy" alt="Jordan 2"><span class="photo-label">Kerak Castle-Jordan</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Castle"
+    href="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}" loading="lazy" alt="Jordan 17"><span class="photo-label">Kerak Castle-Jordan</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Baptism Place"
     href="{{ '/assets/photos/jordan/jordan-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-6.jpg' | relative_url }}" loading="lazy" alt="Jordan 6"><span class="photo-label">Al-Maghtas believed to be where Jesus was baptised</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Baptism"
@@ -184,8 +186,6 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}" loading="lazy" alt="Jordan 15"><span class="photo-label">Corinthian Tomb-Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Urn"
     href="{{ '/assets/photos/jordan/jordan-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-16.jpg' | relative_url }}" loading="lazy" alt="Jordan 16"><span class="photo-label">Urn Tomb-Royal Tombs of Petra</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Castle"
-    href="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-17.jpg' | relative_url }}" loading="lazy" alt="Jordan 17"><span class="photo-label">Kerak Castle-Jordan</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Roman Theatre"
     href="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}" loading="lazy" alt="Jordan 18"><span class="photo-label">Roman Theatre of Amman-Jordan</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Ritz"
