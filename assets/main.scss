@@ -422,14 +422,11 @@
   pointer-events: none;
 }
 
-/* Desktop lightbox portrait image test */
-
-.gslide-description {
-  display: none !important;
-}
+/* Reduce portrait image size in GLightbox */
 
 .gslide-image img,
 .gslide-image img.zoomable {
-  max-height: 98vh !important;
-  max-width: 98vw !important;
+  max-height: 75vh !important;
+  width: auto !important;
+  height: auto !important;
 }
