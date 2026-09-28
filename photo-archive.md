@@ -172,8 +172,6 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}" loading="lazy" alt="Jordan 24"><span class="photo-label">Wadi Mujib Siq in route to Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Treasury"
     href="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}" loading="lazy" alt="Jordan 25"><span class="photo-label">Al-Khazneh aka "Treasury"-Petra</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Obelisk"
-    href="{{ '/assets/photos/jordan/jordan-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-9.jpg' | relative_url }}" loading="lazy" alt="Jordan 9"><span class="photo-label">Obelisk Tomb-Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Orthodox"
     href="{{ '/assets/photos/jordan/jordan-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-10.jpg' | relative_url }}" loading="lazy" alt="Jordan 10"><span class="photo-label">Al-Khazneh aka "Treasury"-Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Facades"
@@ -184,6 +182,8 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-13.jpg' | relative_url }}" loading="lazy" alt="Jordan 13"><span class="photo-label">Petra Theatre</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Monastery"
     href="{{ '/assets/photos/jordan/jordan-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-14.jpg' | relative_url }}" loading="lazy" alt="Jordan 14"><span class="photo-label">Monastery of Petra</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Obelisk"
+    href="{{ '/assets/photos/jordan/jordan-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-9.jpg' | relative_url }}" loading="lazy" alt="Jordan 9"><span class="photo-label">Obelisk Tomb-Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Corinthian"
     href="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-15.jpg' | relative_url }}" loading="lazy" alt="Jordan 15"><span class="photo-label">Corinthian Tomb-Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Urn"
