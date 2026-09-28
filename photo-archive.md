@@ -159,9 +159,15 @@ Edges worn smooth by time.
     <a class="glightbox" data-gallery="jordan" data-title="Baptism"
     href="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-23.jpg' | relative_url }}" loading="lazy" alt="Jordan 23"><span class="photo-label">Mt. Nebo-Serpent Cross</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Mt Nebo"
-    href="{{ '/assets/photos/jordan/jordan-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-7.jpg' | relative_url }}" loading="lazy" alt="Jordan 7"><span class="photo-label">Mount Nebo - Abu Badd</span></a>
+    href="{{ '/assets/photos/jordan/jordan-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-7.jpg' | relative_url }}" loading="lazy" alt="Jordan 7"><span class="photo-label">Mt. Nebo - Abu Badd</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Memorial"
+    href="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}" loading="lazy" alt="Jordan 22"><span class="photo-label">Mt. Nebo - Memorial of Moses</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Orthodox"
     href="{{ '/assets/photos/jordan/jordan-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-8.jpg' | relative_url }}" loading="lazy" alt="Jordan 8"><span class="photo-label">Madaba Mosaic Map-St. George's Greek Orthodox Church</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Wadi"
+    href="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}" loading="lazy" alt="Jordan 24"><span class="photo-label">Wadi Mujib Siq in route to Petra</span></a>
+    <a class="glightbox" data-gallery="jordan" data-title="Treasury"
+    href="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}" loading="lazy" alt="Jordan 25"><span class="photo-label">Al-Khazneh aka "Treasury"-Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Obelisk"
     href="{{ '/assets/photos/jordan/jordan-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-9.jpg' | relative_url }}" loading="lazy" alt="Jordan 9"><span class="photo-label">Obelisk Tomb-Petra</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Orthodox"
@@ -184,15 +190,9 @@ Edges worn smooth by time.
     href="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-18.jpg' | relative_url }}" loading="lazy" alt="Jordan 18"><span class="photo-label">Roman Theatre of Amman-Jordan</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Ritz"
     href="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-19.jpg' | relative_url }}" loading="lazy" alt="Jordan 19"><span class="photo-label">Ritz Carlton Amman Hotel-Jordan</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Memorial"
-    href="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-22.jpg' | relative_url }}" loading="lazy" alt="Jordan 22"><span class="photo-label">Mount Nebo - Memorial of Moses</span></a>
     <a class="glightbox" data-gallery="jordan" data-title="Serpent"
     href="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-21.jpg' | relative_url }}" loading="lazy" alt="Jordan 21"><span class="photo-label">Al-Maghtas</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Wadi"
-    href="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-24.jpg' | relative_url }}" loading="lazy" alt="Jordan 24"><span class="photo-label">Wadi Mujib Siq in route to Petra</span></a>
-    <a class="glightbox" data-gallery="jordan" data-title="Treasury"
-    href="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-25.jpg' | relative_url }}" loading="lazy" alt="Jordan 25"><span class="photo-label">Al-Khazneh aka "Treasury"-Petra</span></a>
-   <a class="glightbox" data-gallery="jordan" data-title="Citadel"
+    <a class="glightbox" data-gallery="jordan" data-title="Citadel"
     href="{{ '/assets/photos/jordan/jordan-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-26.jpg' | relative_url }}" loading="lazy" alt="Jordan 26"><span class="photo-label">Roman Temple of Hercules-Amman</span></a>
    <a class="glightbox" data-gallery="jordan" data-title="Street Food"
     href="{{ '/assets/photos/jordan/jordan-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/jordan/jordan-27.jpg' | relative_url }}" loading="lazy" alt="Jordan 27"><span class="photo-label">Amman Street Food</span></a>
