@@ -74,8 +74,10 @@ Patience in the walls. Weight in the air.
    href="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}" loading="lazy" alt="Spain-36"><span class="photo-label">Spice Market-Medievo-Granada</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Carrera del Darro-Granada"
    href="{{ '/assets/photos/spain/spain-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-37.jpg' | relative_url }}" loading="lazy" alt="Spain-37"><span class="photo-label">Carrera del Darro-Granada</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Al Hambra-Granada"
+   href="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}" loading="lazy" alt="Spain-38"><span class="photo-label">Al Hambra-Granada</span></a> 
    <a class="glightbox" data-gallery="spain-interior" data-title="Al Hambra Fortress-Granada"
-   href="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}" loading="lazy" alt="Spain-38"><span class="photo-label">Al Hambra Fortress-Granada</span></a>  
+   href="{{ '/assets/photos/spain/spain-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-40.jpg' | relative_url }}" loading="lazy" alt="Spain-40"><span class="photo-label">Al Hambra Fortress-Granada</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Casas Colgadas-Cuenca-Castile La Mancha"
    href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" loading="lazy" alt="Spain-4"><span class="photo-label">Casas Colgadas-Cuenca-Castile La Mancha"</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Falla Sculpture-Valencia"
