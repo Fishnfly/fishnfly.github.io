@@ -52,21 +52,18 @@ Patience in the walls. Weight in the air.
    href="{{ '/assets/photos/spain/spain-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-22.jpg' | relative_url }}" loading="lazy" alt="Spain-22"><span class="photo-label">City of Arts and Sciences-Valencia</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Costa del Sol Cliff's view from El Castell de Guadalest"
    href="{{ '/assets/photos/spain/spain-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-25.jpg' | relative_url }}" loading="lazy" alt="Spain-25"><span class="photo-label">Costa del Sol Cliff's view from El Castell de Guadalest</span></a>
-   <a class="glightbox" data-gallery="spain-interior" data-title="Barranco de Gebas"
-   href="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}" loading="lazy" alt="Spain-26"><span class="photo-label">Barranco de Gebas</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Historic Village of Guadalest"
+   href="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}" loading="lazy" alt="Spain-26"><span class="photo-label">Historic Village of Guadalest</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Barranco de Gebas"
    href="{{ '/assets/photos/spain/spain-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-27.jpg' | relative_url }}" loading="lazy" alt="Spain-27"><span class="photo-label">Barranco de Gebas</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Barranco de Gebas"
    href="{{ '/assets/photos/spain/spain-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-28.jpg' | relative_url }}" loading="lazy" alt="Spain-28"><span class="photo-label">Barranco de Gebas</span></a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}" loading="lazy" alt="Spain 29">
-        </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}" loading="lazy" alt="Spain 30">
-        </a>    
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}" loading="lazy" alt="Spain 32">
-        </a>    
+   <a class="glightbox" data-gallery="spain-interior" data-title="Barranco de Gebas"
+   href="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}" loading="lazy" alt="Spain-29"><span class="photo-label">Barranco de Gebas</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Guadix Caves-Andalusia"
+   href="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}" loading="lazy" alt="Spain-30"><span class="photo-label">Guadix Caves-Andalusia</span></a>  
+   <a class="glightbox" data-gallery="spain-interior" data-title="Monastery of San Jeronimo-Granada"
+   href="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}" loading="lazy" alt="Spain-32"><span class="photo-label">Monastery of San Jeronimo-Granada</span></a>      
      <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-33.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-33.jpg' | relative_url }}" loading="lazy" alt="Spain 33">
         </a>    
