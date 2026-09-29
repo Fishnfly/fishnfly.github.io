@@ -79,19 +79,19 @@ Patience in the walls. Weight in the air.
    <a class="glightbox" data-gallery="spain-interior" data-title="Al Hambra-Granada"
    href="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}" loading="lazy" alt="Spain-38"><span class="photo-label">Al Hambra-Granada</span></a> 
    <a class="glightbox" data-gallery="spain-interior" data-title="Casas Colgadas-Cuenca-Castile La Mancha"
-   href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" loading="lazy" alt="Spain-4"><span class="photo-label">Casas Colgadas-Cuenca-Castile La Mancha"</span></a>
+   href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" loading="lazy" alt="Spain-4"><span class="photo-label">Casas Colgadas-Cuenca-Castile La Mancha</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Falla Sculpture-Valencia"
-   href="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}" loading="lazy" alt="Spain-6"><span class="photo-label">Falla Sculpture-Valencia"</span></a>
+   href="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}" loading="lazy" alt="Spain-6"><span class="photo-label">Falla Sculpture-Valencia</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Narrow Street in Granada"
-   href="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}" loading="lazy" alt="Spain-13"><span class="photo-label">Narrow Street in Granada"</span></a>
+   href="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}" loading="lazy" alt="Spain-13"><span class="photo-label">Narrow Street in Granada</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Guadix Caves-Andalusia"
-   href="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}" loading="lazy" alt="Spain-31"><span class="photo-label">Guadix Caves-Andalusia"</span></a>
+   href="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}" loading="lazy" alt="Spain-31"><span class="photo-label">Guadix Caves-Andalusia</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="La Lonja de la Seda-Valencia"
-   href="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}" loading="lazy" alt="Spain-19"><span class="photo-label">La Lonja de la Seda-Valencia"</span></a>
+   href="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}" loading="lazy" alt="Spain-19"><span class="photo-label">La Lonja de la Seda-Valencia</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Cafe de Las Horas-Valencia"
-   href="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}" loading="lazy" alt="Spain-23"><span class="photo-label">Cafe de Las Horas-Valencia"</span></a>
+   href="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}" loading="lazy" alt="Spain-23"><span class="photo-label">Cafe de Las Horas-Valencia</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Cafe de Las Horas-Inside"
-   href="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}" loading="lazy" alt="Spain-24"><span class="photo-label">Cafe de Las Horas-Inside"</span></a>
+   href="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}" loading="lazy" alt="Spain-24"><span class="photo-label">Cafe de Las Horas-Inside</span></a>
      </div>
 </details>
 
