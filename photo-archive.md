@@ -42,9 +42,8 @@ Patience in the walls. Weight in the air.
    href="{{ '/assets/photos/spain/spain-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-12.jpg' | relative_url }}" loading="lazy" alt="Spain-12"><span class="photo-label">Toledo-Castilla La Mancha</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Hanging Houses-La Mancha"
    href="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}" loading="lazy" alt="Spain-15"><span class="photo-label">Hanging Houses-La Mancha</span></a>
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}" loading="lazy" alt="Spain 16">
-    </a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Iglesia de San Juan de la Cruz-Valencia"
+   href="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}" loading="lazy" alt="Spain-16"><span class="photo-label">Iglesia de San Juan de la Cruz-Valencia</span></a>
     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-17.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-17.jpg' | relative_url }}" loading="lazy" alt="Spain 17">
     </a>
