@@ -44,27 +44,20 @@ Patience in the walls. Weight in the air.
    href="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}" loading="lazy" alt="Spain-15"><span class="photo-label">Hanging Houses-La Mancha</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Iglesia de San Juan de la Cruz-Valencia"
    href="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}" loading="lazy" alt="Spain-16"><span class="photo-label">Iglesia de San Juan de la Cruz-Valencia</span></a>
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-17.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-17.jpg' | relative_url }}" loading="lazy" alt="Spain 17">
-    </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-21.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-21.jpg' | relative_url }}" loading="lazy" alt="Spain 21">
-        </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-22.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-22.jpg' | relative_url }}" loading="lazy" alt="Spain 22">
-        </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-25.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-25.jpg' | relative_url }}" loading="lazy" alt="Spain 25">
-        </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}" loading="lazy" alt="Spain 26">
-        </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-27.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-27.jpg' | relative_url }}" loading="lazy" alt="Spain 27">
-        </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-28.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-28.jpg' | relative_url }}" loading="lazy" alt="Spain 28">
-        </a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Estatua del Arcangel San Miguel"
+   href="{{ '/assets/photos/spain/spain-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-17.jpg' | relative_url }}" loading="lazy" alt="Spain-17"><span class="photo-label">Estatua del Arcangel San Miguel-Valencia</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Porto de la Mar-Valencia"
+   href="{{ '/assets/photos/spain/spain-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-21.jpg' | relative_url }}" loading="lazy" alt="Spain-21"><span class="photo-label">Porto de la Mar-Valencia</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="City of Arts and Sciences-Valencia"
+   href="{{ '/assets/photos/spain/spain-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-22.jpg' | relative_url }}" loading="lazy" alt="Spain-22"><span class="photo-label">City of Arts and Sciences-Valencia</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Costa del Sol Cliff's view from El Castell de Guadalest"
+   href="{{ '/assets/photos/spain/spain-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-25.jpg' | relative_url }}" loading="lazy" alt="Spain-25"><span class="photo-label">Costa del Sol Cliff's view from El Castell de Guadalest</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Barranco de Gebas"
+   href="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-26.jpg' | relative_url }}" loading="lazy" alt="Spain-26"><span class="photo-label">Barranco de Gebas</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Barranco de Gebas"
+   href="{{ '/assets/photos/spain/spain-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-27.jpg' | relative_url }}" loading="lazy" alt="Spain-27"><span class="photo-label">Barranco de Gebas</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Barranco de Gebas"
+   href="{{ '/assets/photos/spain/spain-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-28.jpg' | relative_url }}" loading="lazy" alt="Spain-28"><span class="photo-label">Barranco de Gebas</span></a>
      <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}" loading="lazy" alt="Spain 29">
         </a>
