@@ -61,51 +61,37 @@ Patience in the walls. Weight in the air.
    <a class="glightbox" data-gallery="spain-interior" data-title="Barranco de Gebas"
    href="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-29.jpg' | relative_url }}" loading="lazy" alt="Spain-29"><span class="photo-label">Barranco de Gebas</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Guadix Caves-Andalusia"
-   href="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}" loading="lazy" alt="Spain-30"><span class="photo-label">Guadix Caves-Andalusia</span></a>  
+   href="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-30.jpg' | relative_url }}" loading="lazy" alt="Spain-30"><span class="photo-label">Guadix Caves-Andalusia</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Monastery of San Jeronimo-Granada"
-   href="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}" loading="lazy" alt="Spain-32"><span class="photo-label">Monastery of San Jeronimo-Granada</span></a>      
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-33.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-33.jpg' | relative_url }}" loading="lazy" alt="Spain 33">
-        </a>    
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}" loading="lazy" alt="Spain 34">
-        </a>    
-        <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}" loading="lazy" alt="Spain 36">
-        </a>    
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-37.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-37.jpg' | relative_url }}" loading="lazy" alt="Spain 37">
-        </a>    
-        <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-39.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-39.jpg' | relative_url }}" loading="lazy" alt="Spain 39">
-        </a>    
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" loading="lazy" alt="Spain 4">
-    </a>
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}" loading="lazy" alt="Spain 6">
-    </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}" loading="lazy" alt="Spain 13">
-    </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}" loading="lazy" alt="Spain 31">
-        </a> 
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}" loading="lazy" alt="Spain 19">
-    </a>
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}" loading="lazy" alt="Spain 23">
-        </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}" loading="lazy" alt="Spain 24">
-        </a>
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-35.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-35.jpg' | relative_url }}" loading="lazy" alt="Spain 35">
-        </a>    
-     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}" loading="lazy" alt="Spain 38">
-        </a>   
+   href="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-32.jpg' | relative_url }}" loading="lazy" alt="Spain-32"><span class="photo-label">Monastery of San Jeronimo-Granada</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Inside the Monastery of San Jeronimo-Granada"
+   href="{{ '/assets/photos/spain/spain-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-33.jpg' | relative_url }}" loading="lazy" alt="Spain-33"><span class="photo-label">Inside the Monastery of San Jeronimo-Granada</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Basilica of San Juan de Dios-Granada"
+   href="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}" loading="lazy" alt="Spain-34"><span class="photo-label">Basilica of San Juan de Dios-Granada</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Basilica of San Juan de Dios Interior-Granada"
+   href="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}" loading="lazy" alt="Spain-34"><span class="photo-label">Basilica of San Juan de Dios Interior-Granada</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Spice Market-Medievo-Granada"
+   href="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}" loading="lazy" alt="Spain-36"><span class="photo-label">Spice Market-Medievo-Granada</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Carrera del Darro-Granada"
+   href="{{ '/assets/photos/spain/spain-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-37.jpg' | relative_url }}" loading="lazy" alt="Spain-37"><span class="photo-label">Carrera del Darro-Granada</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Al Hambra Fortress-Granada"
+   href="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-38.jpg' | relative_url }}" loading="lazy" alt="Spain-38"><span class="photo-label">Al Hambra Fortress-Granada</span></a>  
+   <a class="glightbox" data-gallery="spain-interior" data-title="Casas Colgadas-Cuenca-Castile La Mancha"
+   href="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-4.jpg' | relative_url }}" loading="lazy" alt="Spain-4"><span class="photo-label">Casas Colgadas-Cuenca-Castile La Mancha"</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Falla Sculpture-Valencia"
+   href="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-6.jpg' | relative_url }}" loading="lazy" alt="Spain-6"><span class="photo-label">Falla Sculpture-Valencia"</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Narrow Street in Granada"
+   href="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-13.jpg' | relative_url }}" loading="lazy" alt="Spain-13"><span class="photo-label">Narrow Street in Granada"</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Guadix Caves-Andalusia"
+   href="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-31.jpg' | relative_url }}" loading="lazy" alt="Spain-31"><span class="photo-label">Guadix Caves-Andalusia"</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="La Lonja de la Seda-Valencia"
+   href="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-19.jpg' | relative_url }}" loading="lazy" alt="Spain-19"><span class="photo-label">La Lonja de la Seda-Valencia"</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Cafe de Las Horas-Valencia"
+   href="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}" loading="lazy" alt="Spain-23"><span class="photo-label">Cafe de Las Horas-Valencia"</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Cafe de Las Horas-Inside"
+   href="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}" loading="lazy" alt="Spain-24"><span class="photo-label">Cafe de Las Horas-Inside"</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Al Hambra Fortress-Granada"
+   href="{{ '/assets/photos/spain/spain-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-40.jpg' | relative_url }}" loading="lazy" alt="Spain-40"><span class="photo-label">Al Hambra Fortress-Granada</span></a>  
   </div>
 </details>
 
