@@ -21,22 +21,16 @@ Patience in the walls. Weight in the air.
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
 
-   <div class="photo-grid">
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}" loading="lazy" alt="Spain 1">
-    </a>
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}" loading="lazy" alt="Spain 2">
-    </a>
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}" loading="lazy" alt="Spain 3">
-    </a>
-      <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}" loading="lazy" alt="Spain 5">
-    </a>
-      <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}" loading="lazy" alt="Spain 7">
-    </a>
+   <<a class="glightbox" data-gallery="spain-interior" data-title="Puente de San Martin-Toledo"
+    href="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}" loading="lazy" alt="Spain-1"><span class="photo-label">Puente de San Martin-Toledo</span></a>
+    <<a class="glightbox" data-gallery="spain-interior" data-title="Puente de San Martin-Toledo"
+    href="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}" loading="lazy" alt="Spain-2"><span class="photo-label">Puente de San Martin-Toledo</span></a>
+    <<a class="glightbox" data-gallery="spain-interior" data-title="Walled City of Toledo along the Tagus River"
+    href="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}" loading="lazy" alt="Spain-3"><span class="photo-label">Walled City of Toledo along the Tagus River</span></a>
+    <<a class="glightbox" data-gallery="spain-interior" data-title="Medieval Hanging Houses-La Mancha"
+    href="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}" loading="lazy" alt="Spain-5"><span class="photo-label">Medieval Hanging Houses-La Mancha</span></a>
+    <<a class="glightbox" data-gallery="spain-interior" data-title="El Castell de Guadalest"
+    href="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}" loading="lazy" alt="Spain-7"><span class="photo-label">El Castell de Guadalest</span></a>
        <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}" loading="lazy" alt="Spain 9">
     </a>
@@ -337,19 +331,19 @@ Nothing fixed. Everything practiced.
   href="{{ '/assets/photos/morocco/morco-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-7.jpg' | relative_url }}" loading="lazy" alt="Morocco 7"><span class="photo-label">Medieval Fortification of Chellah-Rabat</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Cemetery near the Medieval Fortification of Chellah-Rabat"
   href="{{ '/assets/photos/morocco/morco-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-8.jpg' | relative_url }}" loading="lazy" alt="Morocco 8"><span class="photo-label">Cemetery near the Medieval Fortification of Chellah-Rabat</span></a>
- <a class="glightbox" data-gallery="morocco" data-title="Kasbah of the Udayas-overlooking the estuary of the Bou Regreg River"
+  <a class="glightbox" data-gallery="morocco" data-title="Kasbah of the Udayas-overlooking the estuary of the Bou Regreg River"
   href="{{ '/assets/photos/morocco/morco-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-9.jpg' | relative_url }}" loading="lazy" alt="Morocco 9"><span class="photo-label">Kasbah of the Udayas-overlooking the estuary of the Bou Regreg River</span></a>
- <a class="glightbox" data-gallery="morocco" data-title=">Hassan Tower-Rabat"
-  href="{{ '/assets/photos/morocco/morco-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-10.jpg' | relative_url }}" loading="lazy" alt="Morocco 10"><span class="photo-label">>Hassan Tower-Rabat</span></a>
- <a class="glightbox" data-gallery="morocco" data-title="Roman Ruins of Volubilis-Capital Temple"
+  <a class="glightbox" data-gallery="morocco" data-title=">Hassan Tower-Rabat"
+  href="{{ '/assets/photos/morocco/morco-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-10.jpg' | relative_url }}" loading="lazy" alt="Morocco 10"><span class="photo-label">Hassan Tower-Rabat</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Roman Ruins of Volubilis-Capital Temple"
   href="{{ '/assets/photos/morocco/morco-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-11.jpg' | relative_url }}" loading="lazy" alt="Morocco 11"><span class="photo-label">Roman Ruins of Volubilis</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Roman Ruins of Volubilis-Capital Temple"
   href="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}" loading="lazy" alt="Morocco 12"><span class="photo-label">Roman Ruins of Volubilis-Capital Temple</span></a>
- <a class="glightbox" data-gallery="morocco" data-title="Arch of Caracalla-Volubilis"
+  <a class="glightbox" data-gallery="morocco" data-title="Arch of Caracalla-Volubilis"
   href="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}" loading="lazy" alt="Morocco 13"><span class="photo-label">Arch of Caracalla-Volubilis"</span></a>
- <a class="glightbox" data-gallery="morocco" data-title="Riad Salam Fes-Fez"
+  <a class="glightbox" data-gallery="morocco" data-title="Riad Salam Fes-Fez"
   href="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}" loading="lazy" alt="Morocco 14"><span class="photo-label">Riad Salam Fes-Fez</span></a>
- <a class="glightbox" data-gallery="morocco" data-title="Place Seffarine-Fez"
+  <a class="glightbox" data-gallery="morocco" data-title="Place Seffarine-Fez"
   href="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}" loading="lazy" alt="Morocco 15"><span class="photo-label">Place Seffarine-Fez</span></a>
   <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}" loading="lazy" alt="Morocco 16"></a>
   <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}" loading="lazy" alt="Morocco 17"></a>
