@@ -21,18 +21,19 @@ Patience in the walls. Weight in the air.
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
 
-  <a class="glightbox" data-gallery="spain-interior" data-title="Puente de San Martin-Toledo"
-  href="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}" loading="lazy" alt="Spain-1"><span class="photo-label">Puente de San Martin-Toledo</span></a>
-  <a class="glightbox" data-gallery="spain-interior" data-title="Puente de San Martin-Toledo"
-  href="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}" loading="lazy" alt="Spain-2"><span class="photo-label">Puente de San Martin-Toledo</span></a>
-  <a class="glightbox" data-gallery="spain-interior" data-title="Walled City of Toledo along the Tagus River"
-  href="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}" loading="lazy" alt="Spain-3"><span class="photo-label">Walled City of Toledo along the Tagus River</span></a>
-  <a class="glightbox" data-gallery="spain-interior" data-title="Medieval Hanging Houses-La Mancha"
-  href="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}" loading="lazy" alt="Spain-5"><span class="photo-label">Medieval Hanging Houses-La Mancha</span></a>
-  <a class="glightbox" data-gallery="spain-interior" data-title="El Castell de Guadalest"
-  href="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}" loading="lazy" alt="Spain-7"><span class="photo-label">El Castell de Guadalest</span></a>
-  <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}">
-  <img src="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}" loading="lazy" alt="Spain 9">
+  <div class="photo-grid">
+   <a class="glightbox" data-gallery="spain-interior" data-title="Puente de San Martin-Toledo"
+   href="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-1.jpg' | relative_url }}" loading="lazy" alt="Spain 1"><span class="photo-label">Puente de San Martin-Toledo</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Puente de San Martin-Toledo"
+   href="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-2.jpg' | relative_url }}" loading="lazy" alt="Spain-2"><span class="photo-label">Puente de San Martin-Toledo</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Walled City of Toledo along the Tagus River"
+   href="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-3.jpg' | relative_url }}" loading="lazy" alt="Spain-3"><span class="photo-label">Walled City of Toledo along the Tagus River</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Medieval Hanging Houses-La Mancha"
+   href="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}" loading="lazy" alt="Spain-5"><span class="photo-label">Medieval Hanging Houses-La Mancha</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="El Castell de Guadalest"
+   href="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}" loading="lazy" alt="Spain-7"><span class="photo-label">El Castell de Guadalest</span></a>
+   <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}">
+   <img src="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}" loading="lazy" alt="Spain 9">
     </a>
     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}" loading="lazy" alt="Spain 10">
