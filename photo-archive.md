@@ -69,7 +69,7 @@ Patience in the walls. Weight in the air.
    <a class="glightbox" data-gallery="spain-interior" data-title="Basilica of San Juan de Dios-Granada"
    href="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}" loading="lazy" alt="Spain-34"><span class="photo-label">Basilica of San Juan de Dios-Granada</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Basilica of San Juan de Dios Interior-Granada"
-   href="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-34.jpg' | relative_url }}" loading="lazy" alt="Spain-34"><span class="photo-label">Basilica of San Juan de Dios Interior-Granada</span></a>
+   href="{{ '/assets/photos/spain/spain-35jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-35.jpg' | relative_url }}" loading="lazy" alt="Spain-35"><span class="photo-label">Basilica of San Juan de Dios Interior-Granada</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Spice Market-Medievo-Granada"
    href="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-36.jpg' | relative_url }}" loading="lazy" alt="Spain-36"><span class="photo-label">Spice Market-Medievo-Granada</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Carrera del Darro-Granada"
