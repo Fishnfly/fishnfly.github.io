@@ -32,21 +32,16 @@ Patience in the walls. Weight in the air.
    href="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-5.jpg' | relative_url }}" loading="lazy" alt="Spain-5"><span class="photo-label">Medieval Hanging Houses-La Mancha</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="El Castell de Guadalest"
    href="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-7.jpg' | relative_url }}" loading="lazy" alt="Spain-7"><span class="photo-label">El Castell de Guadalest</span></a>
-   <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}">
-   <img src="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}" loading="lazy" alt="Spain 9">
-    </a>
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}" loading="lazy" alt="Spain 10">
-    </a>
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-11.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-11.jpg' | relative_url }}" loading="lazy" alt="Spain 11">
-    </a>
-    <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-12.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-12.jpg' | relative_url }}" loading="lazy" alt="Spain 12">
-    </a>
-       <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}">
-      <img src="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}" loading="lazy" alt="Spain 15">
-    </a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Pottery Shop in Guadalest"
+   href="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-9.jpg' | relative_url }}" loading="lazy" alt="Spain-9"><span class="photo-label">Pottery Shop in Guadalest</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Outside the Walled City of Toledo"
+   href="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-10.jpg' | relative_url }}" loading="lazy" alt="Spain-10"><span class="photo-label">Outside the Walled City of Toledo</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Toledo Cathedral"
+   href="{{ '/assets/photos/spain/spain-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-11.jpg' | relative_url }}" loading="lazy" alt="Spain-11"><span class="photo-label">Toledo Cathedral</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Toledo-Castilla La Mancha"
+   href="{{ '/assets/photos/spain/spain-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-12.jpg' | relative_url }}" loading="lazy" alt="Spain-12"><span class="photo-label">Toledo-Castilla La Mancha</span></a>
+   <a class="glightbox" data-gallery="spain-interior" data-title="Hanging Houses-La Mancha"
+   href="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-15.jpg' | relative_url }}" loading="lazy" alt="Spain-15"><span class="photo-label">Hanging Houses-La Mancha</span></a>
     <a class="glightbox" data-gallery="spain" href="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}">
       <img src="{{ '/assets/photos/spain/spain-16.jpg' | relative_url }}" loading="lazy" alt="Spain 16">
     </a>
