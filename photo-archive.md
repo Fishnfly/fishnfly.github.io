@@ -8,7 +8,38 @@ These additional photographs live alongside the written journeys.
 
 They are not illustrations of the stories, nor substitutes for them—just fragments that remained after the words were done. Some moments resist explanation. Others don’t need it.
 
-What you’ll find here are small collections, grouped by journey, left mostly alone. Think of them as galleries: evidence of time spent, light noticed, distance walked.
+What you’ll find here are collections, grouped by journey, left mostly alone, and no particular order. Think of them as galleries: evidence of time spent, light noticed, distance walked.
+
+---
+
+<a id="netherlands"></a>
+## Netherlands
+
+Water managed, not resisted. Land negotiated into existence.
+Order shaped by necessity. Beauty found in restraint.
+
+<details class="photo-fold">
+  <summary>Open field photographs from this journey</summary>
+
+  <div class="photo-grid">
+   <a class="glightbox" data-gallery="netherlands" data-title="add text"
+   href="{{ '/assets/photos/netherlands/photo-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-1.jpg' | relative_url }}" loading="lazy" alt="Netherlands 1"><span class="photo-label">Add Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="add text"
+   href="{{ '/assets/photos/netherlands/photo-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-2.jpg' | relative_url }}" loading="lazy" alt="Netherlands 2"><span class="photo-label">Add Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="add text"
+   href="{{ '/assets/photos/netherlands/photo-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-3.jpg' | relative_url }}" loading="lazy" alt="Netherlands 3"><span class="photo-label">Add Name</span></a>
+<a class="glightbox" data-gallery="netherlands" data-title="add text"
+   href="{{ '/assets/photos/netherlands/photo-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-4.jpg' | relative_url }}" loading="lazy" alt="Netherlands 4"><span class="photo-label">Add Name</span></a>
+<a class="glightbox" data-gallery="netherlands" data-title="add text"
+   href="{{ '/assets/photos/netherlands/photo-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-5.jpg' | relative_url }}" loading="lazy" alt="Netherlands 5"><span class="photo-label">Add Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="add text"
+   href="{{ '/assets/photos/netherlands/photo-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-6.jpg' | relative_url }}" loading="lazy" alt="Netherlands 6"><span class="photo-label">Add Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="add text"
+   href="{{ '/assets/photos/netherlands/photo-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-7.jpg' | relative_url }}" loading="lazy" alt="Netherlands 7"><span class="photo-label">Add Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="add text"
+   href="{{ '/assets/photos/netherlands/photo-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-8.jpg' | relative_url }}" loading="lazy" alt="Netherlands 8"><span class="photo-label">Add Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="add text"
+   href="{{ '/assets/photos/netherlands/photo-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-9.jpg' | relative_url }}" loading="lazy" alt="Netherlands 9"><span class="photo-label">Add Name</span></a>
 
 ---
 
