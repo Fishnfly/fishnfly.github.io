@@ -20,7 +20,7 @@ Order shaped by necessity. Beauty found in restraint.
 
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
-
+ 
   <div class="photo-grid">
    <a class="glightbox" data-gallery="netherlands" data-title="add text"
    href="{{ '/assets/photos/netherlands/photo-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-1.jpg' | relative_url }}" loading="lazy" alt="Netherlands 1"><span class="photo-label">Add Name</span></a>
