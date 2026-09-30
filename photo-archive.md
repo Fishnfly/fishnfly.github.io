@@ -40,6 +40,8 @@ Order shaped by necessity. Beauty found in restraint.
    href="{{ '/assets/photos/netherlands/photo-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-8.jpg' | relative_url }}" loading="lazy" alt="Netherlands 8"><span class="photo-label">Add Name</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="add text"
    href="{{ '/assets/photos/netherlands/photo-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-9.jpg' | relative_url }}" loading="lazy" alt="Netherlands 9"><span class="photo-label">Add Name</span></a>
+   </div>
+</details>
 
 ---
 
@@ -123,7 +125,7 @@ Patience in the walls. Weight in the air.
    href="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-23.jpg' | relative_url }}" loading="lazy" alt="Spain-23"><span class="photo-label">Cafe de Las Horas-Valencia</span></a>
    <a class="glightbox" data-gallery="spain-interior" data-title="Cafe de Las Horas-Inside"
    href="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain/spain-24.jpg' | relative_url }}" loading="lazy" alt="Spain-24"><span class="photo-label">Cafe de Las Horas-Inside</span></a>
-     </div>
+  </div>
 </details>
 
 ---
