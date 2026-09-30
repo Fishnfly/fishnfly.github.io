@@ -30,22 +30,20 @@ Beauty found in restraint.
    href="{{ '/assets/photos/netherlands/photo-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-2.jpg' | relative_url }}" loading="lazy" alt="Netherlands 2"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Damrak Canal"
    href="{{ '/assets/photos/netherlands/photo-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-3.jpg' | relative_url }}" loading="lazy" alt="Netherlands 3"><span class="photo-label">Damrak Canal</span></a>
-<a class="glightbox" data-gallery="netherlands" data-title="Side of building with Hoist to load furniture-Outside of Building"
-   href="{{ '/assets/photos/netherlands/photo-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-5.jpg' | relative_url }}" loading="lazy" alt="Netherlands 5"><span class="photo-label">Side of building with Hoist to load furniture-Outside of Building</span></a>
+<a class="glightbox" data-gallery="netherlands" data-title="Side of building with Hoist to load furniture"
+   href="{{ '/assets/photos/netherlands/photo-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-5.jpg' | relative_url }}" loading="lazy" alt="Netherlands 5"><span class="photo-label">Side of building with Hoist to load furniture</span></a>
 <a class="glightbox" data-gallery="netherlands" data-title="Amesterdam Canal Houses"
    href="{{ '/assets/photos/netherlands/photo-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-7.jpg' | relative_url }}" loading="lazy" alt="Netherlands 7"><span class="photo-label">Amesterdam Canal Houses</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Bredero Monument-Nieuwmarkt Square"
    href="{{ '/assets/photos/netherlands/photo-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-8.jpg' | relative_url }}" loading="lazy" alt="Netherlands 8"><span class="photo-label">Bredero Monument-Nieuwmarkt Square</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="De Waaqg-near Ann Frank Museum"
    href="{{ '/assets/photos/netherlands/photo-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-9.jpg' | relative_url }}" loading="lazy" alt="Netherlands 9"><span class="photo-label">De Waaqg-near Ann Frank Museum</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="add text"
-   href="{{ '/assets/photos/netherlands/photo-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-10.jpg' | relative_url }}" loading="lazy" alt="Netherlands 10"><span class="photo-label">Add Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="add text"
-   href="{{ '/assets/photos/netherlands/photo-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-11.jpg' | relative_url }}" loading="lazy" alt="Netherlands 11"><span class="photo-label">Add Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="add text"
-   href="{{ '/assets/photos/netherlands/photo-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-12.jpg' | relative_url }}" loading="lazy" alt="Netherlands 12"><span class="photo-label">Add Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="add text"
-   href="{{ '/assets/photos/netherlands/photo-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-13.jpg' | relative_url }}" loading="lazy" alt="Netherlands 13"><span class="photo-label">Add Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Street Art-Yellow Clog"
+   href="{{ '/assets/photos/netherlands/photo-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-10.jpg' | relative_url }}" loading="lazy" alt="Netherlands 10"><span class="photo-label">Street Art-Yellow Clog</span></a>
+      <a class="glightbox" data-gallery="netherlands" data-title="Canal Photo"
+   href="{{ '/assets/photos/netherlands/photo-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-12.jpg' | relative_url }}" loading="lazy" alt="Netherlands 12"><span class="photo-label">Canal Photo</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Stolpersteine Memorial Placques"
+   href="{{ '/assets/photos/netherlands/photo-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-13.jpg' | relative_url }}" loading="lazy" alt="Netherlands 13"><span class="photo-label">Stolpersteine Memorial Placques</span></a>
   </div>
 </details>
 
