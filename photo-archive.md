@@ -44,6 +44,40 @@ Beauty found in restraint.
    href="{{ '/assets/photos/netherlands/photo-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-12.jpg' | relative_url }}" loading="lazy" alt="Netherlands 12"><span class="photo-label">Canal Photo</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Stolpersteine Memorial Placques"
    href="{{ '/assets/photos/netherlands/photo-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-13.jpg' | relative_url }}" loading="lazy" alt="Netherlands 13"><span class="photo-label">Stolpersteine Memorial Placques</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-14.jpg' | relative_url }}" loading="lazy" alt="Netherlands 14"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-15.jpg' | relative_url }}" loading="lazy" alt="Netherlands 15"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-16.jpg' | relative_url }}" loading="lazy" alt="Netherlands 16"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-17.jpg' | relative_url }}" loading="lazy" alt="Netherlands 17"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-18.jpg' | relative_url }}" loading="lazy" alt="Netherlands 18"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-19.jpg' | relative_url }}" loading="lazy" alt="Netherlands 19"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-20.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-20.jpg' | relative_url }}" loading="lazy" alt="Netherlands 20"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-21.jpg' | relative_url }}" loading="lazy" alt="Netherlands 21"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-22.jpg' | relative_url }}" loading="lazy" alt="Netherlands 22"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-23.jpg' | relative_url }}" loading="lazy" alt="Netherlands 23"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-24.jpg' | relative_url }}" loading="lazy" alt="Netherlands 24"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-25.jpg' | relative_url }}" loading="lazy" alt="Netherlands 25"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-26.jpg' | relative_url }}" loading="lazy" alt="Netherlands 26"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-27.jpg' | relative_url }}" loading="lazy" alt="Netherlands 27"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-28.jpg' | relative_url }}" loading="lazy" alt="Netherlands 28"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-29.jpg' | relative_url }}" loading="lazy" alt="Netherlands 29"><span class="photo-label">Name here</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Name here"
+   href="{{ '/assets/photos/netherlands/photo-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-30.jpg' | relative_url }}" loading="lazy" alt="Netherlands 30"><span class="photo-label">Name here</span></a>
   </div>
 </details>
 
