@@ -81,9 +81,9 @@ Beauty found in restraint.
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-31.jpg' | relative_url }}" loading="lazy" alt="Netherlands 31"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-302jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-32.jpg' | relative_url }}" loading="lazy" alt="Netherlands 32"><span class="photo-label">Keukenhof Gardens</span></a>
+   href="{{ '/assets/photos/netherlands/photo-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-32.jpg' | relative_url }}" loading="lazy" alt="Netherlands 32"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-33.jpg' | relative_url }}" loading="lazy" alt="Netherlands 33><span class="photo-label">Keukenhof Gardens</span></a>
+   href="{{ '/assets/photos/netherlands/photo-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-33.jpg' | relative_url }}" loading="lazy" alt="Netherlands 33"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-34.jpg' | relative_url }}" loading="lazy" alt="Netherlands 34"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
@@ -92,7 +92,7 @@ Beauty found in restraint.
    href="{{ '/assets/photos/netherlands/photo-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-36.jpg' | relative_url }}" loading="lazy" alt="Netherlands 36"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-37.jpg' | relative_url }}" loading="lazy" alt="Netherlands 37"><span class="photo-label">Keukenhof Gardens</span></a>
-  <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
+   <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-38.jpg' | relative_url }}" loading="lazy" alt="Netherlands 38"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-39.jpg' | relative_url }}" loading="lazy" alt="Netherlands 39"><span class="photo-label">Keukenhof Gardens</span></a>
