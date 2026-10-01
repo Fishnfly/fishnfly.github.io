@@ -92,7 +92,7 @@ Beauty found in restraint.
    href="{{ '/assets/photos/netherlands/photo-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-36.jpg' | relative_url }}" loading="lazy" alt="Netherlands 36"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-37.jpg' | relative_url }}" loading="lazy" alt="Netherlands 37"><span class="photo-label">Keukenhof Gardens</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
+  <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-38.jpg' | relative_url }}" loading="lazy" alt="Netherlands 38"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-39.jpg' | relative_url }}" loading="lazy" alt="Netherlands 39"><span class="photo-label">Keukenhof Gardens</span></a>
