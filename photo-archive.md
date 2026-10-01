@@ -73,8 +73,6 @@ Beauty found in restraint.
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-27.jpg' | relative_url }}" loading="lazy" alt="Netherlands 27"><span class="photo-label">Keukenhof  Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-28.jpg' | relative_url }}" loading="lazy" alt="Netherlands 28"><span class="photo-label">Keukenhof  Gardens</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-29.jpg' | relative_url }}" loading="lazy" alt="Netherlands 29"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-30.jpg' | relative_url }}" loading="lazy" alt="Netherlands 30"><span class="photo-label">Keukenhof Gardens</span></a>
