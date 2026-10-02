@@ -68,12 +68,12 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
 
 ---
 <a id="keukenhof gardens"></a>
-## Netherlands
+## Keukenhof Gardens
 
 Beauty found in restraint.
 
 <details class="photo-fold">
-  <summary>Open field photographs from Keukenhof Gardens</summary>
+  <summary>Open field photographs from the Gardens</summary>
  
   <div class="photo-grid">
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
