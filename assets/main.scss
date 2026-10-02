@@ -141,7 +141,7 @@
   margin-bottom: 2.5rem;
   padding-bottom: 2.5rem;
 
-  border-bottom: 1px solid rgba(0,0,0,.12);
+  border-bottom: 1px solid rgba(0,0,0,.30);
 }
 
 .card-grid > .card-thumb:last-child {
@@ -428,4 +428,12 @@
   text-align: center;
 
   pointer-events: none;
+}
+
+@media (max-width: 768px) {
+ 
+.card-thumb__media img {
+aspect-ratio: 4 / 3;
+}
+ 
 }
