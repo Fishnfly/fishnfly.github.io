@@ -141,7 +141,11 @@
   margin-bottom: 2.5rem;
   padding-bottom: 2.5rem;
 
-  border-bottom: 1px solid rgba(0,0,0,.08);
+  border-bottom: 4px solid red !important;
+}
+
+.card-grid > .card-thumb:last-child {
+  border-bottom: none;
 }
 
 /* Title + dek overlay */
@@ -424,8 +428,4 @@
   text-align: center;
 
   pointer-events: none;
-}
-
-.card-grid > .card-thumb:last-child {
-  border-bottom: none;
 }
