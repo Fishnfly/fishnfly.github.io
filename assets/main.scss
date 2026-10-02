@@ -137,7 +137,11 @@
   display: block;
   text-decoration: none;
   color: inherit;
-  margin-bottom: 1rem;
+
+  margin-bottom: 2.5rem;
+  padding-bottom: 2.5rem;
+
+  border-bottom: 1px solid rgba(0,0,0,.08);
 }
 
 /* Title + dek overlay */
@@ -420,4 +424,8 @@
   text-align: center;
 
   pointer-events: none;
+}
+
+.card-grid > .card-thumb:last-child {
+  border-bottom: none;
 }
