@@ -15,19 +15,12 @@ What you’ll find here are collections, grouped by journey, left mostly alone, 
 <a id="netherlands"></a>
 ## Netherlands
 
-Water managed, not resisted. 
-Land negotiated into existence.
-Order shaped by necessity. 
-Beauty found in restraint.
+Water managed, not resisted. Land negotiated into existence. Order shaped by necessity.
 
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
  
   <div class="photo-grid">
-   <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-1.jpg' | relative_url }}" loading="lazy" alt="Netherlands 1"><span class="photo-label">Keukenhof Gardens</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-2.jpg' | relative_url }}" loading="lazy" alt="Netherlands 2"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Damrak Canal"
    href="{{ '/assets/photos/netherlands/photo-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-3.jpg' | relative_url }}" loading="lazy" alt="Netherlands 3"><span class="photo-label">Damrak Canal</span></a>
 <a class="glightbox" data-gallery="netherlands" data-title="Side of building with Hoist to load furniture"
@@ -70,6 +63,23 @@ Beauty found in restraint.
    href="{{ '/assets/photos/netherlands/photo-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-25.jpg' | relative_url }}" loading="lazy" alt="Netherlands 25"><span class="photo-label">Amstel Hotel</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Rotterdam skyline at sunset"
    href="{{ '/assets/photos/netherlands/photo-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-26.jpg' | relative_url }}" loading="lazy" alt="Netherlands 26"><span class="photo-label">Rotterdam skyline at sunset</span></a>
+   </div>
+</details>
+
+---
+<a id="keukenhof gardens"></a>
+## Netherlands
+
+Beauty found in restraint.
+
+<details class="photo-fold">
+  <summary>Open field photographs from Keukenhof Gardens</summary>
+ 
+  <div class="photo-grid">
+   <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
+   href="{{ '/assets/photos/netherlands/photo-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-1.jpg' | relative_url }}" loading="lazy" alt="Netherlands 1"><span class="photo-label">Keukenhof Gardens</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
+   href="{{ '/assets/photos/netherlands/photo-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-2.jpg' | relative_url }}" loading="lazy" alt="Netherlands 2"><span class="photo-label">Keukenhof Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
    href="{{ '/assets/photos/netherlands/photo-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-27.jpg' | relative_url }}" loading="lazy" alt="Netherlands 27"><span class="photo-label">Keukenhof  Gardens</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Keukenhof Gardens"
