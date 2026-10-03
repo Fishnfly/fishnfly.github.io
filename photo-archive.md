@@ -20,102 +20,102 @@ Empires faded. Mountains endured. Traditions carried forward through practice, n
   <summary>Open field photographs from this journey</summary>
  
   <div class="photo-grid">
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-1.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 1"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-2.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 2"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-3.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 3"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-4.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 4"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-5.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 5"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-6.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 6"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-7.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 7"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-8.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 8"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-9.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 9"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Bells Monument-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-1.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 1"><span class="photo-label">Bells Monument-Sophia</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="St. Alexander Levsky Cathedral"
+   href="{{ '/assets/photos/bulgaria/photo-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-2.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 2"><span class="photo-label">St. Alexander Levsky Cathedral</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Greeting Opposite Cathedral"
+   href="{{ '/assets/photos/bulgaria/photo-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-3.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 3"><span class="photo-label">Greeting Opposite Cathedral</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="St. Sophia Cathedral"
+   href="{{ '/assets/photos/bulgaria/photo-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-4.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 4"><span class="photo-label">St. Sophia Cathedral</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Ancient Mosaic Floors-St. Sophia Cathedral"
+   href="{{ '/assets/photos/bulgaria/photo-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-5.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 5"><span class="photo-label">Ancient Mosaic Floors-St. Sophia Cathedral</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Ancient Mosaic Floors-St. Sophia Cathedral"
+   href="{{ '/assets/photos/bulgaria/photo-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-6.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 6"><span class="photo-label">Ancient Mosaic Floors-St. Sophia Cathedral</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Ancient Mosaic Floors-St. Sophia Cathedral"
+   href="{{ '/assets/photos/bulgaria/photo-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-7.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 7"><span class="photo-label">Ancient Mosaic Floors-St. Sophia Cathedral</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Ancient Mosaic Floors-St. Sophia Cathedral"
+   href="{{ '/assets/photos/bulgaria/photo-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-8.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 8"><span class="photo-label">Ancient Mosaic Floors-St. Sophia Cathedral</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Soviet Soldier-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-9.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 9"><span class="photo-label">Soviet Soldier-Sophia</span></a>
     <a class="glightbox" data-gallery="bulgaria" data-title="Label"
    href="{{ '/assets/photos/bulgaria/photo-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-10.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 10"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-11.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 11"><span class="photo-label">Label</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-12.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 12"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-13.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 13"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-14.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 14"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-15.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 15"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-16.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 16"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-17.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 17"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-18.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 18"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-21.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 21"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-22.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 22"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-23.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 23"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-24.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 24"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-25.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 25"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-26.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 26"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-27.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 27"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-28.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 28><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 29"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 30"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 31"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-32.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 32"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-33.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 33"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-34.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 34"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-35.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 35"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-36.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 36"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-37.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 37"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-38.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 38"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-39.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 39"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-40.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 40"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-41.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 41"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-42.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-42.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 42"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-43.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-43.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 43"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-44.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-44.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 44"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-45.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-45.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 45"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-46.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-46.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 46"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-47.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 47"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-48.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-48.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 48"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-49.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-49.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 49"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-50.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-50.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 50"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Church of St. Nicholas-the Miracle Maker"
+   href="{{ '/assets/photos/bulgaria/photo-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-11.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 11"><span class="photo-label">Church of St. Nicholas-the Miracle Maker</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="St. Alexander Levsky Cathedral"
+   href="{{ '/assets/photos/bulgaria/photo-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-12.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 12"><span class="photo-label">St. Alexander Levsky Cathedral</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Banya Bashi Mosque-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-13.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 13"><span class="photo-label">Banya Bashi Mosque-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Green Vintage Tram-Tourist info"
+   href="{{ '/assets/photos/bulgaria/photo-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-14.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 14"><span class="photo-label">Green Vintage Tram-Tourist info</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Central Mineral Baths-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-15.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 15"><span class="photo-label">Central Mineral Baths-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Ancient Ruins of Serdica-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-16.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 16"><span class="photo-label">Ancient Ruins of Serdica-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Presidential Palace-Republic of Bulgaria"
+   href="{{ '/assets/photos/bulgaria/photo-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-17.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 17"><span class="photo-label">Presidential Palace-Republic of Bulgaria</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Church of St. George-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-18.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 18"><span class="photo-label">Church of St. George-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Ivan Vazov National Theatre"
+   href="{{ '/assets/photos/bulgaria/photo-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-21.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 21"><span class="photo-label">Ivan Vazov National Theatre</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Chariot Statue-Mineral Baths Building"
+   href="{{ '/assets/photos/bulgaria/photo-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-22.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 22"><span class="photo-label">Chariot Statue-Mineral Baths Building</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="National Palace of Culture-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-23.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 23"><span class="photo-label">National Palace of Culture-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Saint Nedelya Cathedral-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-24.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 24"><span class="photo-label">Saint Nedelya Cathedral-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Church of St. Nicholas-the Miracle Maker"
+   href="{{ '/assets/photos/bulgaria/photo-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-25.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 25"><span class="photo-label">Church of St. Nicholas-the Miracle Maker</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="St. Alexander Levsky Cathedral"
+   href="{{ '/assets/photos/bulgaria/photo-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-26.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 26"><span class="photo-label">St. Alexander Levsky Cathedral</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Bells Monument-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-27.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 27"><span class="photo-label">Bells Monument-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Boyana Church-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-28.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 28"><span class="photo-label">Boyana Church-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Dragalevtsi Monastery-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 29"><span class="photo-label">Dragalevtsi Monastery-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Dragalevtsi Monastery-Inside--Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 30"><span class="photo-label">Dragalevtsi Monastery-Inside--Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Dragalevtsi Monastery-Inside--Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 31"><span class="photo-label">Dragalevtsi Monastery-Inside--Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-32.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 32"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-33.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 33"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-34.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 34"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-35.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 35"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-36.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 36"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-37.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 37"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-38.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 38"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-39.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 39"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-40.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 40"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-41.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 41"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-42.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-42.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 42"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-43.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-43.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 43"><span class="photo-label">LRila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-44.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-44.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 44"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-45.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-45.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 45"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-46.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-46.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 46"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-47.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 47"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-48.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-48.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 48"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
+   href="{{ '/assets/photos/bulgaria/photo-49.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-49.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 49"><span class="photo-label">Rila Monastery</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="St. Alexander Levsky Cathedral-Night"
+   href="{{ '/assets/photos/bulgaria/photo-50.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-50.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 50"><span class="photo-label">"St. Alexander Levsky Cathedral-Night</span></a>
 </div>
 </details>
 
