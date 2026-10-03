@@ -22,6 +22,28 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
   <div class="photo-grid">
    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
    href="{{ '/assets/photos/bulgaria/photo-1.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-1.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 1"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-2.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-2.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 2"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-3.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-3.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 3"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-4.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-4.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 4"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-5.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-5.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 5"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-6.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-6.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 6"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-7.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-7.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 7"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-8.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 8"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-9.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 9"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-10.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 10"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-11.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 11"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
+   href="{{ '/assets/photos/bulgaria/photo-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-12.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 12"><span class="photo-label">Label</span></a>
 </div>
 </details>
 
