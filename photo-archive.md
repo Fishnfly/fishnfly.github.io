@@ -78,30 +78,30 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
    href="{{ '/assets/photos/netherlands/photo-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-25.jpg' | relative_url }}" loading="lazy" alt="Netherlands 25"><span class="photo-label">Amstel Hotel</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Rotterdam skyline at sunset"
    href="{{ '/assets/photos/netherlands/photo-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-26.jpg' | relative_url }}" loading="lazy" alt="Netherlands 26"><span class="photo-label">Rotterdam skyline at sunset</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-70.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-70.jpg' | relative_url }}" loading="lazy" alt="Netherlands 70"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-71.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-71.jpg' | relative_url }}" loading="lazy" alt="Netherlands 71"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-72.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-72.jpg' | relative_url }}" loading="lazy" alt="Netherlands 72"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-73.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-73.jpg' | relative_url }}" loading="lazy" alt="Netherlands 73"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-74.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-74.jpg' | relative_url }}" loading="lazy" alt="Netherlands 74"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-75.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-75.jpg' | relative_url }}" loading="lazy" alt="Netherlands 75"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-76.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-76.jpg' | relative_url }}" loading="lazy" alt="Netherlands 76"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-77.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-77.jpg' | relative_url }}" loading="lazy" alt="Netherlands 77"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-78.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-78.jpg' | relative_url }}" loading="lazy" alt="Netherlands 78"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-79.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-79.jpg' | relative_url }}" loading="lazy" alt="Netherlands 79"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-80.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-80.jpg' | relative_url }}" loading="lazy" alt="Netherlands 80"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-81.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-81.jpg' | relative_url }}" loading="lazy" alt="Netherlands 81"><span class="photo-label">Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Bloermenmarkt"
+   href="{{ '/assets/photos/netherlands/photo-70.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-70.jpg' | relative_url }}" loading="lazy" alt="Netherlands 70"><span class="photo-label">Bloermenmarkt</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Westerkirk"
+   href="{{ '/assets/photos/netherlands/photo-71.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-71.jpg' | relative_url }}" loading="lazy" alt="Netherlands 71"><span class="photo-label">Westerkirk</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Amsterdam Ring Canal"
+   href="{{ '/assets/photos/netherlands/photo-72.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-72.jpg' | relative_url }}" loading="lazy" alt="Netherlands 72"><span class="photo-label">Amsterdam Ring Canal</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Zaanse Schans Cheese Farm"
+   href="{{ '/assets/photos/netherlands/photo-73.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-73.jpg' | relative_url }}" loading="lazy" alt="Netherlands 73"><span class="photo-label">Zaanse Schans Cheese Farm</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Zaanse Schans Cheese Farm""
+   href="{{ '/assets/photos/netherlands/photo-74.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-74.jpg' | relative_url }}" loading="lazy" alt="Netherlands 74"><span class="photo-label">Zaanse Schans Cheese Farm"</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Kings Day Celebration"
+   href="{{ '/assets/photos/netherlands/photo-75.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-75.jpg' | relative_url }}" loading="lazy" alt="Netherlands 75"><span class="photo-label">Kings Day Celebration</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Kings Day Celebration"
+   href="{{ '/assets/photos/netherlands/photo-76.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-76.jpg' | relative_url }}" loading="lazy" alt="Netherlands 76"><span class="photo-label">Kings Day Celebration</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Westerkirk"
+   href="{{ '/assets/photos/netherlands/photo-77.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-77.jpg' | relative_url }}" loading="lazy" alt="Netherlands 77"><span class="photo-label">Westerkirk</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Spice Market"
+   href="{{ '/assets/photos/netherlands/photo-78.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-78.jpg' | relative_url }}" loading="lazy" alt="Netherlands 78"><span class="photo-label">Spice Market</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Cube Houses-Rotterdam"
+   href="{{ '/assets/photos/netherlands/photo-79.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-79.jpg' | relative_url }}" loading="lazy" alt="Netherlands 79"><span class="photo-label">Cube Houses-Rotterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Cube Houses-Rotterdam"
+   href="{{ '/assets/photos/netherlands/photo-80.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-80.jpg' | relative_url }}" loading="lazy" alt="Netherlands 80"><span class="photo-label">Cube Houses-Rotterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Delft Canal"
+   href="{{ '/assets/photos/netherlands/photo-81.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-81.jpg' | relative_url }}" loading="lazy" alt="Netherlands 81"><span class="photo-label">Delft Canal</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="name"
    href="{{ '/assets/photos/netherlands/photo-82.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-82.jpg' | relative_url }}" loading="lazy" alt="Netherlands 82"><span class="photo-label">Name</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="name"
