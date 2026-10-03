@@ -110,36 +110,36 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
    href="{{ '/assets/photos/netherlands/photo-84.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-84.jpg' | relative_url }}" loading="lazy" alt="Netherlands 84"><span class="photo-label">Statue of William I-Hague</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Mauritshuis - Hague"
    href="{{ '/assets/photos/netherlands/photo-85.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-85.jpg' | relative_url }}" loading="lazy" alt="Netherlands 85"><span class="photo-label">Mauritshuis - Hague</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-86.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-86.jpg' | relative_url }}" loading="lazy" alt="Netherlands 86"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-87.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-87.jpg' | relative_url }}" loading="lazy" alt="Netherlands 87"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-88.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-88.jpg' | relative_url }}" loading="lazy" alt="Netherlands 88"><span class="photo-label">Name</span></a>
-   <<a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-89.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-89.jpg' | relative_url }}" loading="lazy" alt="Netherlands 89"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-90.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-90.jpg' | relative_url }}" loading="lazy" alt="Netherlands 90"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-91.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-91.jpg' | relative_url }}" loading="lazy" alt="Netherlands 01"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-92.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-92.jpg' | relative_url }}" loading="lazy" alt="Netherlands 92"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-93.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-93.jpg' | relative_url }}" loading="lazy" alt="Netherlands 93"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-94.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-94.jpg' | relative_url }}" loading="lazy" alt="Netherlands 94"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-95.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-95.jpg' | relative_url }}" loading="lazy" alt="Netherlands 95"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-96.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-96.jpg' | relative_url }}" loading="lazy" alt="Netherlands 96"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-97.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-97.jpg' | relative_url }}" loading="lazy" alt="Netherlands 97"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-98.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-98.jpg' | relative_url }}" loading="lazy" alt="Netherlands 98"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-99.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-99.jpg' | relative_url }}" loading="lazy" alt="Netherlands 99"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Name"
-   href="{{ '/assets/photos/netherlands/photo-1005.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-100.jpg' | relative_url }}" loading="lazy" alt="Netherlands 100"><span class="photo-label">Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Peace Palace-Hague"
+   href="{{ '/assets/photos/netherlands/photo-86.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-86.jpg' | relative_url }}" loading="lazy" alt="Netherlands 86"><span class="photo-label">Peace Palace-Hague</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Windmills-Zaan River"
+   href="{{ '/assets/photos/netherlands/photo-87.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-87.jpg' | relative_url }}" loading="lazy" alt="Netherlands 87"><span class="photo-label">Windmills-Zaan River</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Windmills-Zaan River"
+   href="{{ '/assets/photos/netherlands/photo-88.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-88.jpg' | relative_url }}" loading="lazy" alt="Netherlands 88"><span class="photo-label">Windmills-Zaan River</span></a>
+   <<a class="glightbox" data-gallery="netherlands" data-title="Maritime Museum Hugo-Rotterdam"
+   href="{{ '/assets/photos/netherlands/photo-89.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-89.jpg' | relative_url }}" loading="lazy" alt="Netherlands 89"><span class="photo-label">Maritime Museum Hugo-Rotterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Maritime Museum-Rotterdam"
+   href="{{ '/assets/photos/netherlands/photo-90.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-90.jpg' | relative_url }}" loading="lazy" alt="Netherlands 90"><span class="photo-label">Maritime Museum-Rotterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Leie River-Ghent"
+   href="{{ '/assets/photos/netherlands/photo-91.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-91.jpg' | relative_url }}" loading="lazy" alt="Netherlands 01"><span class="photo-label">Leie River-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Gravensteen Castle-Ghent"
+   href="{{ '/assets/photos/netherlands/photo-92.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-92.jpg' | relative_url }}" loading="lazy" alt="Netherlands 92"><span class="photo-label">Gravensteen Castle-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Gravensteen Castle-Ghent"
+   href="{{ '/assets/photos/netherlands/photo-93.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-93.jpg' | relative_url }}" loading="lazy" alt="Netherlands 93"><span class="photo-label">Gravensteen Castle-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Rabot Bridge-Ghent"
+   href="{{ '/assets/photos/netherlands/photo-94.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-94.jpg' | relative_url }}" loading="lazy" alt="Netherlands 94"><span class="photo-label">Rabot Bridge-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Monument to Jacob van Arteveide-Ghent"
+   href="{{ '/assets/photos/netherlands/photo-95.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-95.jpg' | relative_url }}" loading="lazy" alt="Netherlands 95"><span class="photo-label">Monument to Jacob van Arteveide-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Toreken-Ghent"
+   href="{{ '/assets/photos/netherlands/photo-96.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-96.jpg' | relative_url }}" loading="lazy" alt="Netherlands 96"><span class="photo-label">Toreken-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Monument Jan Frans Willems-Ghent"
+   href="{{ '/assets/photos/netherlands/photo-97.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-97.jpg' | relative_url }}" loading="lazy" alt="Netherlands 97"><span class="photo-label">Monument Jan Frans Willems-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Canal-Brugge"
+   href="{{ '/assets/photos/netherlands/photo-98.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-98.jpg' | relative_url }}" loading="lazy" alt="Netherlands 98"><span class="photo-label">Canal-Brugge</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Saint Nicholas Church-Ghent"
+   href="{{ '/assets/photos/netherlands/photo-99.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-99.jpg' | relative_url }}" loading="lazy" alt="Netherlands 99"><span class="photo-label">Saint Nicholas Church-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Canal-Brugge"
+   href="{{ '/assets/photos/netherlands/photo-1005.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-100.jpg' | relative_url }}" loading="lazy" alt="Netherlands 100"><span class="photo-label">Canal-Brugge</span></a>
    </div>
 </details>
 
