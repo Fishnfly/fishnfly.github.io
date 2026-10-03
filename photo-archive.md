@@ -86,8 +86,8 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
    href="{{ '/assets/photos/netherlands/photo-72.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-72.jpg' | relative_url }}" loading="lazy" alt="Netherlands 72"><span class="photo-label">Amsterdam Ring Canal</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Zaanse Schans Cheese Farm"
    href="{{ '/assets/photos/netherlands/photo-73.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-73.jpg' | relative_url }}" loading="lazy" alt="Netherlands 73"><span class="photo-label">Zaanse Schans Cheese Farm</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Zaanse Schans Cheese Farm""
-   href="{{ '/assets/photos/netherlands/photo-74.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-74.jpg' | relative_url }}" loading="lazy" alt="Netherlands 74"><span class="photo-label">Zaanse Schans Cheese Farm"</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Zaanse Schans Cheese Farm"
+   href="{{ '/assets/photos/netherlands/photo-74.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-74.jpg' | relative_url }}" loading="lazy" alt="Netherlands 74"><span class="photo-label">Zaanse Schans Cheese Farm</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Kings Day Celebration"
    href="{{ '/assets/photos/netherlands/photo-75.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-75.jpg' | relative_url }}" loading="lazy" alt="Netherlands 75"><span class="photo-label">Kings Day Celebration</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Kings Day Celebration"
@@ -102,14 +102,14 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
    href="{{ '/assets/photos/netherlands/photo-80.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-80.jpg' | relative_url }}" loading="lazy" alt="Netherlands 80"><span class="photo-label">Cube Houses-Rotterdam</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Delft Canal"
    href="{{ '/assets/photos/netherlands/photo-81.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-81.jpg' | relative_url }}" loading="lazy" alt="Netherlands 81"><span class="photo-label">Delft Canal</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-82.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-82.jpg' | relative_url }}" loading="lazy" alt="Netherlands 82"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-83.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-83.jpg' | relative_url }}" loading="lazy" alt="Netherlands 83"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-84.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-84.jpg' | relative_url }}" loading="lazy" alt="Netherlands 84"><span class="photo-label">Name</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="name"
-   href="{{ '/assets/photos/netherlands/photo-85.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-85.jpg' | relative_url }}" loading="lazy" alt="Netherlands 85"><span class="photo-label">Name</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Traditional Dutch Canal House-Delft"
+   href="{{ '/assets/photos/netherlands/photo-82.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-82.jpg' | relative_url }}" loading="lazy" alt="Netherlands 82"><span class="photo-label">Traditional Dutch Canal House-Delft</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Leaning Oude Kerk-Delft"
+   href="{{ '/assets/photos/netherlands/photo-83.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-83.jpg' | relative_url }}" loading="lazy" alt="Netherlands 83"><span class="photo-label">Leaning Oude Kerk-Delft</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Statue of William I-Hague"
+   href="{{ '/assets/photos/netherlands/photo-84.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-84.jpg' | relative_url }}" loading="lazy" alt="Netherlands 84"><span class="photo-label">Statue of William I-Hague</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Mauritshuis - Hague"
+   href="{{ '/assets/photos/netherlands/photo-85.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-85.jpg' | relative_url }}" loading="lazy" alt="Netherlands 85"><span class="photo-label">Mauritshuis - Hague</span></a>
    </div>
 </details>
 
