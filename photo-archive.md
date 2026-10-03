@@ -14,7 +14,7 @@ What you’ll find here are collections, grouped by journey, left mostly alone, 
 <a id="bulgaria"></a>
 ## Bulgaria
 
-Water managed, not resisted. Land negotiated into existence. Order shaped by necessity.
+Empires faded. Mountains endured. Traditions carried forward through practice, not preservation.
 
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
