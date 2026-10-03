@@ -76,8 +76,8 @@ Empires faded. Mountains endured. Traditions carried forward through practice, n
    href="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 29"><span class="photo-label">Dragalevtsi Monastery-Sophia</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Dragalevtsi Monastery-Inside--Sophia"
    href="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 30"><span class="photo-label">Dragalevtsi Monastery-Inside--Sophia</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Dragalevtsi Monastery-Inside--Sophia"
-   href="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 31"><span class="photo-label">Dragalevtsi Monastery-Inside--Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Dragalevtsi Monastery-Inside-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 31"><span class="photo-label">Dragalevtsi Monastery-Inside-Sophia</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
    href="{{ '/assets/photos/bulgaria/photo-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-32.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 32"><span class="photo-label">Rila Monastery</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
