@@ -222,8 +222,8 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
    href="{{ '/assets/photos/netherlands/photo-93.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-93.jpg' | relative_url }}" loading="lazy" alt="Netherlands 93"><span class="photo-label">Gravensteen Castle-Ghent</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Rabot Bridge-Ghent"
    href="{{ '/assets/photos/netherlands/photo-94.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-94.jpg' | relative_url }}" loading="lazy" alt="Netherlands 94"><span class="photo-label">Rabot Bridge-Ghent</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Monument to Jacob van Arteveide-Ghent"
-   href="{{ '/assets/photos/netherlands/photo-95.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-95.jpg' | relative_url }}" loading="lazy" alt="Netherlands 95"><span class="photo-label">Monument to Jacob van Arteveide-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Monument to Jacob van Artevelde-Ghent"
+   href="{{ '/assets/photos/netherlands/photo-95.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-95.jpg' | relative_url }}" loading="lazy" alt="Netherlands 95"><span class="photo-label">Monument to Jacob van Artevelde-Ghent</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Toreken-Ghent"
    href="{{ '/assets/photos/netherlands/photo-96.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-96.jpg' | relative_url }}" loading="lazy" alt="Netherlands 96"><span class="photo-label">Toreken-Ghent</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Monument Jan Frans Willems-Ghent"
