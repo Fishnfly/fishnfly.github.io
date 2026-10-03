@@ -57,17 +57,13 @@ Empires faded. Mountains endured. Traditions carried forward through practice, n
    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
    href="{{ '/assets/photos/bulgaria/photo-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-18.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 18"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-19.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 19"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-20.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-20.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 20"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Label"
    href="{{ '/assets/photos/bulgaria/photo-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-21.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 21"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
    href="{{ '/assets/photos/bulgaria/photo-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-22.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 22"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
    href="{{ '/assets/photos/bulgaria/photo-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-23.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 23"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-24.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 20"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/bulgaria/photo-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-24.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 24"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
    href="{{ '/assets/photos/bulgaria/photo-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-25.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 25"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
