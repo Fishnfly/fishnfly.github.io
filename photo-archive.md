@@ -38,8 +38,8 @@ Empires faded. Mountains endured. Traditions carried forward through practice, n
    href="{{ '/assets/photos/bulgaria/photo-8.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-8.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 8"><span class="photo-label">Ancient Mosaic Floors-St. Sophia Cathedral</span></a>
     <a class="glightbox" data-gallery="bulgaria" data-title="Soviet Soldier-Sophia"
    href="{{ '/assets/photos/bulgaria/photo-9.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-9.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 9"><span class="photo-label">Soviet Soldier-Sophia</span></a>
-    <a class="glightbox" data-gallery="bulgaria" data-title="Label"
-   href="{{ '/assets/photos/bulgaria/photo-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-10.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 10"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="bulgaria" data-title="Statue-Blinded Soldiers of King Samuil's-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-10.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-10.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 10"><span class="photo-label">Statue-Blinded Soldiers of King Samuil's-Sophia</span></a>
     <a class="glightbox" data-gallery="bulgaria" data-title="Church of St. Nicholas-the Miracle Maker"
    href="{{ '/assets/photos/bulgaria/photo-11.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-11.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 11"><span class="photo-label">Church of St. Nicholas-the Miracle Maker</span></a>
     <a class="glightbox" data-gallery="bulgaria" data-title="St. Alexander Levsky Cathedral"
