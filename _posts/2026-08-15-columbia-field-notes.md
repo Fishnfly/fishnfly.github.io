@@ -6,8 +6,13 @@ dek: "Not a story about what Colombia was, but what it continues to become."
 excerpt: "The more interesting story was what happened afterward."
 location: "Colombia"
 date: 2026-08-15
-hero: /assets/images/colombia/hero.jpg
+categories: [travel]
 image: /assets/images/colombia/hero.jpg
+hero_image: /assets/images/colombia/hero.jpg
+hero_alt: "Colombia"
+thumbnail:
+  base: /assets/images/colombia/hero.jpg
+  alt: "Colombia"
 
 ---
 
