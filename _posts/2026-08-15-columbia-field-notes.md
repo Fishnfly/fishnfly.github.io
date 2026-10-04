@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Colombia"
-subtitle: "Following how places, identities, and traditions evolve without losing connection to what came before."
 dek: "Not a story about what Colombia was, but what it continues to become."
-excerpt: "The more interesting story was what happened afterward."
-location: "Colombia"
 date: 2026-08-15
 categories: [travel]
+excerpt: "The more interesting story was what happened afterward."
+subtitle: "Following how places, identities, and traditions evolve without losing connection to what came before."
 
 thumbnail:
   layout: duo
