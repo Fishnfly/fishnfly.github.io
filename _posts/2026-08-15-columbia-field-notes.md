@@ -244,6 +244,10 @@ Return home.
 
 ---
 
+![Colombia](/assets/photos/colombia/base.jpg)
+
+---
+
 ## Bogotá — Layers
 
 Bogotá provided the first clue.
