@@ -430,9 +430,7 @@ Perhaps that was the most unexpected observation. The farther the journey progre
 
 We would leave more room for the unexpected.
 
-The itinerary introduced mountain towns, colonial cities, coffee farms, artisan workshops, growing urban centers, and Caribbean communities. The structure was excellent. The surprises were better. Some of the most memorable moments were not the locations themselves. They were the conversations.
-
-The workshops. The stories shared by guides, farmers, artisans, and residents.
+The itinerary introduced mountain towns, colonial cities, coffee farms, artisan workshops, growing urban centers, and Caribbean communities. The structure was excellent. The surprises were better. Some of the most memorable moments were not the locations themselves. They were the conversations. The workshops. The stories shared by guides, farmers, artisans, and residents.
 
 Villa de Leyva and Barichara rewarded slowing down. The plazas, workshops, streets, and surrounding landscapes revealed themselves gradually. More time there would have been welcome.
 
