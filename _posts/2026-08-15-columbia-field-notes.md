@@ -10,8 +10,8 @@ categories: [travel]
 
 thumbnail:
   layout: duo
-  img1: /assets/images/colombia/cannon.jpg
-  img2: /assets/images/colombia/botero2.jpg
+  img1: /assets/images/colombia/arch.jpg
+  img2: /assets/images/colombia/cannon.jpg
   alt: "Colombia"
 
 hero_image: /assets/images/colombia/hero.jpg
