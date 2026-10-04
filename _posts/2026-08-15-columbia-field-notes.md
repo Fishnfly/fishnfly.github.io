@@ -14,6 +14,9 @@ thumbnail:
   img2: /assets/images/colombia/botero2.jpg
   alt: "Colombia"
 
+hero_image: /assets/images/colombia/hero.jpg
+hero_alt: "Colombia"
+
 ---
 
 Some countries reveal themselves quickly. Others take time. Colombia belonged firmly in the second category.
