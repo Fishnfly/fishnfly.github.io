@@ -8,6 +8,7 @@ location: "Colombia"
 date: 2026-08-15
 hero: /assets/images/colombia/hero.jpg
 image: /assets/images/colombia/hero.jpg
+
 ---
 
 Some countries reveal themselves quickly. Others take time. Colombia belonged firmly in the second category.
