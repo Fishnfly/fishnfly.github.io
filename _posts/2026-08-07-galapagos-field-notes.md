@@ -10,7 +10,7 @@ subtitle: "Isolation created wonders. Fragility remains their constant companion
 thumbnail:
   layout: duo
   img1: /assets/images/galapagos/iguana.jpg
-  img2: /assets/images/galapagos/fish.jpg
+  img2: /assets/images/galapagos/tortoise3.jpg
   alt: "Galápagos wildlife"
 
 hero_image: /assets/images/galapagos/hero1.jpg
