@@ -7,11 +7,11 @@ excerpt: "The more interesting story was what happened afterward."
 location: "Colombia"
 date: 2026-08-15
 categories: [travel]
-image: /assets/images/colombia/hero.jpg
-hero_image: /assets/images/colombia/hero.jpg
-hero_alt: "Colombia"
+
 thumbnail:
-  base: /assets/images/colombia/hero.jpg
+  layout: duo
+  img1: /assets/images/colombia/cannon.jpg
+  img2: /assets/images/colombia/botero2.jpg
   alt: "Colombia"
 
 ---
