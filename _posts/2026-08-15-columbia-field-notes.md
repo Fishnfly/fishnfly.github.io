@@ -254,15 +254,11 @@ Bogotá provided the first clue.
 
 From Monserrate, the city stretched across the high plateau, framed by mountains that have shaped movement, settlement, and identity for centuries. The scale was impressive, but what lingered afterward was the sense of layers.
 
-The historic center revealed one layer.
-
-Plaza de Bolívar revealed another.
+The historic center revealed one layer. Plaza de Bolívar revealed another.
 
 The Gold Museum introduced civilizations that existed long before modern Colombia emerged, while the Botero Museum demonstrated how contemporary artists continue interpreting the country's culture and history through a different lens.
 
-Bogotá resisted simplification.
-
-It introduced many Colombias existing at the same time.
+Bogotá resisted simplification. It introduced many Colombias existing at the same time.
 
 ---
 
@@ -272,21 +268,9 @@ Before arriving, it was difficult to understand how a mine could become one of C
 
 Inside, the transition felt remarkably natural.
 
-The chambers remained underground.
+The chambers remained underground. The walls remained salt. Evidence of labor remained visible everywhere. Yet the purpose had changed entirely. The experience was memorable not because of its scale, but because of its reinterpretation.
 
-The walls remained salt.
-
-Evidence of labor remained visible everywhere.
-
-Yet the purpose had changed entirely.
-
-The experience was memorable not because of its scale, but because of its reinterpretation.
-
-The cathedral acknowledged its origins without being constrained by them.
-
-The mine remained visible.
-
-Its purpose evolved.
+The cathedral acknowledged its origins without being constrained by them. The mine remained visible. Its purpose evolved.
 
 ---
 
@@ -294,21 +278,9 @@ Its purpose evolved.
 
 Further north, Villa de Leyva revealed a different relationship with time.
 
-Whitewashed buildings lined cobbled streets.
+Whitewashed buildings lined cobbled streets. The Plaza Mayor remained the center of public life. Generations had altered the community, yet its character endured.
 
-The Plaza Mayor remained the center of public life.
-
-Generations had altered the community, yet its character endured.
-
-The town did not feel frozen.
-
-It felt connected.
-
-That distinction mattered.
-
-The buildings remained useful.
-
-The streets remained active.
+The town did not feel frozen. It felt connected. The buildings remained useful. The streets remained active.
 
 History felt less like an exhibit and more like part of everyday life.
 
@@ -316,17 +288,9 @@ History felt less like an exhibit and more like part of everyday life.
 
 ## Barichara — Craft
 
-Barichara expanded on that idea through craft.
+Barichara expanded on that idea through craft. Its earthen architecture reflected knowledge accumulated over centuries. Techniques survived not because they had been preserved in books, but because people continued using them. The Earth Painting workshop and Tapia Pisada construction methods made that visible.
 
-Its earthen architecture reflected knowledge accumulated over centuries.
-
-Techniques survived not because they had been preserved in books, but because people continued using them.
-
-The Earth Painting workshop and Tapia Pisada construction methods made that visible.
-
-Each wall represented more than construction.
-
-It represented accumulated experience.
+Each wall represented more than construction. It represented accumulated experience.
 
 The town itself seemed built from continuity.
 
@@ -336,21 +300,9 @@ The town itself seemed built from continuity.
 
 Nearby, the Camino Real to Guane revealed another kind of inheritance.
 
-The path existed long before modern transportation.
+The path existed long before modern transportation. Long before modern Colombia. Yet people still moved along it. The landscape changed little. The travelers changed constantly.
 
-Long before modern Colombia.
-
-Yet people still moved along it.
-
-The landscape changed little.
-
-The travelers changed constantly.
-
-Walking the trail made it easier to understand how places continue shaping movement across generations.
-
-Some roads persist because people continue using them.
-
-Others remain relevant long after their original creators disappear.
+Walking the trail made it easier to understand how places continue shaping movement across generations. Some roads persist because people continue using them. Others remain relevant long after their original creators disappear.
 
 The Camino Real felt like both.
 
