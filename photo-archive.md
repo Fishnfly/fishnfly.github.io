@@ -40,24 +40,24 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    href="{{ '/assets/photos/spain2/spain2-010.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-010.jpg' | relative_url }}" loading="lazy" alt="Spain2 10"><span class="photo-label">Basilica Sagrada Familia-Barcelona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Casa Batlio by Gaudi-Barcelona"
    href="{{ '/assets/photos/spain2/spain2-011.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-011.jpg' | relative_url }}" loading="lazy" alt="Spain2 11"><span class="photo-label">Casa Batlio by Gaudi-Barcelona</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-012.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-012.jpg' | relative_url }}" loading="lazy" alt="Spain2 12"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-013.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-013.jpg' | relative_url }}" loading="lazy" alt="Spain2 13"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-014.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-014.jpg' | relative_url }}" loading="lazy" alt="Spain2 14"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-015.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-015.jpg' | relative_url }}" loading="lazy" alt="Spain2 15"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-016.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-016.jpg' | relative_url }}" loading="lazy" alt="Spain2 16"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-017.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-017.jpg' | relative_url }}" loading="lazy" alt="Spain2 17"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-018.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-018.jpg' | relative_url }}" loading="lazy" alt="Spain2 18"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}" loading="lazy" alt="Spain2 19"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}" loading="lazy" alt="Spain2 20"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa Batlio Center Courtyard-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-012.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-012.jpg' | relative_url }}" loading="lazy" alt="Spain2 12"><span class="photo-label">Casa Batlio Center Courtyard-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa Batlio Center Courtyard-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-013.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-013.jpg' | relative_url }}" loading="lazy" alt="Spain2 13"><span class="photo-label">Casa Batlio Center Courtyard-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Basilica Sagrada Familia (Evening)-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-014.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-014.jpg' | relative_url }}" loading="lazy" alt="Spain2 14"><span class="photo-label">Basilica Sagrada Familia (Evening)-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa Batlio Center Courtyard-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-015.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-015.jpg' | relative_url }}" loading="lazy" alt="Spain2 15"><span class="photo-label">Casa Batlio Center Courtyard-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa Batlio Center Courtyard-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-016.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-016.jpg' | relative_url }}" loading="lazy" alt="Spain2 16"><span class="photo-label">Casa Batlio Center Courtyard-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa Batlio Center (Evening)-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-017.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-017.jpg' | relative_url }}" loading="lazy" alt="Spain2 17"><span class="photo-label">Casa Batlio Center (Evening)-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa Batlio Center (Evening)-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-018.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-018.jpg' | relative_url }}" loading="lazy" alt="Spain2 18"><span class="photo-label">Casa Batlio Center (Evening)-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa Vicens (Gaudi)-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}" loading="lazy" alt="Spain2 19"><span class="photo-label">Casa Vicens (Gaudi)-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Misica Catalana-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}" loading="lazy" alt="Spain2 20"><span class="photo-label">Palua de la Misica Catalana-Barcelona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}" loading="lazy" alt="Spain2 21"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
