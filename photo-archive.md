@@ -20,12 +20,12 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
   <summary>Open field photographs from this journey</summary>
  
   <div class="photo-grid">
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-001.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-001.jpg' | relative_url }}" loading="lazy" alt="Spain2 1"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-002.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-002.jpg' | relative_url }}" loading="lazy" alt="Spain2 2"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Mallorca Coastline"
+   href="{{ '/assets/photos/spain2/spain2-001.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-001.jpg' | relative_url }}" loading="lazy" alt="Spain2 1"><span class="photo-label">Mallorca Coastline</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Mallorca Coastline"
+   href="{{ '/assets/photos/spain2/spain2-002.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-002.jpg' | relative_url }}" loading="lazy" alt="Spain2 2"><span class="photo-label">Mallorca Coastline</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cathedral of Soller-Mallorca"
+   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Cathedral of Soller-Mallorca</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-004.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-004.jpg' | relative_url }}" loading="lazy" alt="Spain2 4"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
