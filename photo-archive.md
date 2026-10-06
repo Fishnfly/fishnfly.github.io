@@ -56,54 +56,54 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    href="{{ '/assets/photos/spain2/spain2-018.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-018.jpg' | relative_url }}" loading="lazy" alt="Spain2 18"><span class="photo-label">Casa Batlio Center (Evening)-Barcelona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Casa Vicens (Gaudi)-Barcelona"
    href="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}" loading="lazy" alt="Spain2 19"><span class="photo-label">Casa Vicens (Gaudi)-Barcelona</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Musica Catalana-Barcelona"
-   href="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}" loading="lazy" alt="Spain2 20"><span class="photo-label">Palua de la Musica Catalana-Barcelona</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Musica Catalana-Barcelona"
-   href="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}" loading="lazy" alt="Spain2 21"><span class="photo-label">Palua de la Musica Catalana-Barcelona</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Musica Catalana-Barcelona"
-   href="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}" loading="lazy" alt="Spain2 22"><span class="photo-label">Palua de la Musica Catalana-Barcelona</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Musica Catalana-Barcelona"
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palau de la Musica Catalana-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}" loading="lazy" alt="Spain2 20"><span class="photo-label">Palau de la Musica Catalana-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palau de la Musica Catalana-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}" loading="lazy" alt="Spain2 21"><span class="photo-label">Palau de la Musica Catalana-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palau de la Musica Catalana-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}" loading="lazy" alt="Spain2 22"><span class="photo-label">Palau de la Musica Catalana-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palau de la Musica Catalana-Barcelona"
    href="{{ '/assets/photos/spain2/spain2-023.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-023.jpg' | relative_url }}" loading="lazy" alt="Spain2 23"><span class="photo-label">Palua de la Musica Catalana-Barcelona</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Musica Catalana-Barcelona"
-   href="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}" loading="lazy" alt="Spain2 24"><span class="photo-label">Palua de la Musica Catalana-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palau de la Musica Catalana-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}" loading="lazy" alt="Spain2 24"><span class="photo-label">Palau de la Musica Catalana-Barcelona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="The Two Faces (Picasso)-Barcelano"
    href="{{ '/assets/photos/spain2/spain2-025.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-025.jpg' | relative_url }}" loading="lazy" alt="Spain2 25"><span class="photo-label">The Two Faces (Picasso)-Barcelano</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="(Waiting Margot) Picasso-Barcelona"
    href="{{ '/assets/photos/spain2/spain2-026.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-026.jpg' | relative_url }}" loading="lazy" alt="Spain2 26"><span class="photo-label">(Waiting Margot) Picasso-Barcelona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="(The Dwarf Dancer) Picasso-Barcelona"
    href="{{ '/assets/photos/spain2/spain2-027.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-027.jpg' | relative_url }}" loading="lazy" alt="Spain2 27"><span class="photo-label">(The Dwarf Dancer) Picasso-Barcelona</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-028.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-028.jpg' | relative_url }}" loading="lazy" alt="Spain2 28"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-029.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-029.jpg' | relative_url }}" loading="lazy" alt="Spain2 29"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-030.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-030.jpg' | relative_url }}" loading="lazy" alt="Spain2 30"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-031.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-031.jpg' | relative_url }}" loading="lazy" alt="Spain2 31"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-032.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-032.jpg' | relative_url }}" loading="lazy" alt="Spain2 32"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-033.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-033.jpg' | relative_url }}" loading="lazy" alt="Spain2 33"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-034.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-034.jpg' | relative_url }}" loading="lazy" alt="Spain2 34"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-035.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-035.jpg' | relative_url }}" loading="lazy" alt="Spain2 35"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-036.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-036.jpg' | relative_url }}" loading="lazy" alt="Spain2 36"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-037.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-037.jpg' | relative_url }}" loading="lazy" alt="Spain2 37"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-038.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-038.jpg' | relative_url }}" loading="lazy" alt="Spain2 38"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Cataluna"
-   href="{{ '/assets/photos/spain2/spain2-039.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-039.jpg' | relative_url }}" loading="lazy" alt="Spain2 39"><span class="photo-label">Salvador Dali Museum House-Cataluna</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-040.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-040.jpg' | relative_url }}" loading="lazy" alt="Spain2 40"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-041.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-041.jpg' | relative_url }}" loading="lazy" alt="Spain2 41"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-042.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-042.jpg' | relative_url }}" loading="lazy" alt="Spain2 42"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}" loading="lazy" alt="Spain2 43"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-028.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-028.jpg' | relative_url }}" loading="lazy" alt="Spain2 28"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-029.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-029.jpg' | relative_url }}" loading="lazy" alt="Spain2 29"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-030.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-030.jpg' | relative_url }}" loading="lazy" alt="Spain2 30"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-031.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-031.jpg' | relative_url }}" loading="lazy" alt="Spain2 31"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-032.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-032.jpg' | relative_url }}" loading="lazy" alt="Spain2 32"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-033.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-033.jpg' | relative_url }}" loading="lazy" alt="Spain2 33"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-034.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-034.jpg' | relative_url }}" loading="lazy" alt="Spain2 34"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-035.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-035.jpg' | relative_url }}" loading="lazy" alt="Spain2 35"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-036.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-036.jpg' | relative_url }}" loading="lazy" alt="Spain2 36"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-037.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-037.jpg' | relative_url }}" loading="lazy" alt="Spain2 37"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-038.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-038.jpg' | relative_url }}" loading="lazy" alt="Spain2 38"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Salvador Dali Museum House-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-039.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-039.jpg' | relative_url }}" loading="lazy" alt="Spain2 39"><span class="photo-label">Salvador Dali Museum House-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Bridge and riverside view in Girona"
+   href="{{ '/assets/photos/spain2/spain2-040.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-040.jpg' | relative_url }}" loading="lazy" alt="Spain2 40"><span class="photo-label">Bridge and riverside view in Girona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Riverside view in Girona"
+   href="{{ '/assets/photos/spain2/spain2-041.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-041.jpg' | relative_url }}" loading="lazy" alt="Spain2 41"><span class="photo-label">Riverside view in Girona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Walled Old Quarter-Girona"
+   href="{{ '/assets/photos/spain2/spain2-042.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-042.jpg' | relative_url }}" loading="lazy" alt="Spain2 42"><span class="photo-label">Walled Old Quarter-Girona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Santa Maria de Montserrat Abbey-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}" loading="lazy" alt="Spain2 43"><span class="photo-label">Santa Maria de Montserrat Abbey-Catalonia</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-044.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-044.jpg' | relative_url }}" loading="lazy" alt="Spain2 44"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
