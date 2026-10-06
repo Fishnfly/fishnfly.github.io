@@ -32,14 +32,14 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    href="{{ '/assets/photos/spain2/spain2-005.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-005.jpg' | relative_url }}" loading="lazy" alt="Spain2 5"><span class="photo-label">Gaudi Architecture in Palma-Mallorca</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Natural Rock Arch-Mallorca"
    href="{{ '/assets/photos/spain2/spain2-007.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-007.jpg' | relative_url }}" loading="lazy" alt="Spain2 7"><span class="photo-label">Natural Rock Arch-Mallorca</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-008.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-008.jpg' | relative_url }}" loading="lazy" alt="Spain2 8"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-009.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-009.jpg' | relative_url }}" loading="lazy" alt="Spain2 9"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-010.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-010.jpg' | relative_url }}" loading="lazy" alt="Spain2 10"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-011.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-011.jpg' | relative_url }}" loading="lazy" alt="Spain2 11"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cala Figuera-Mallorca"
+   href="{{ '/assets/photos/spain2/spain2-008.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-008.jpg' | relative_url }}" loading="lazy" alt="Spain2 8"><span class="photo-label">Cala Figuera-Mallorca</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Basilica Sagrada Familia-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-009.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-009.jpg' | relative_url }}" loading="lazy" alt="Spain2 9"><span class="photo-label">Basilica Sagrada Familia-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Basilica Sagrada Familia-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-010.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-010.jpg' | relative_url }}" loading="lazy" alt="Spain2 10"><span class="photo-label">Basilica Sagrada Familia-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa Batlio by Gaudi-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-011.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-011.jpg' | relative_url }}" loading="lazy" alt="Spain2 11"><span class="photo-label">Casa Batlio by Gaudi-Barcelona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-012.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-012.jpg' | relative_url }}" loading="lazy" alt="Spain2 12"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
