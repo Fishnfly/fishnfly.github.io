@@ -58,20 +58,20 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    href="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}" loading="lazy" alt="Spain2 19"><span class="photo-label">Casa Vicens (Gaudi)-Barcelona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Misica Catalana-Barcelona"
    href="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}" loading="lazy" alt="Spain2 20"><span class="photo-label">Palua de la Misica Catalana-Barcelona</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}" loading="lazy" alt="Spain2 21"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}" loading="lazy" alt="Spain2 22"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-023.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-023.jpg' | relative_url }}" loading="lazy" alt="Spain2 23"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}" loading="lazy" alt="Spain2 24"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-025.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-025.jpg' | relative_url }}" loading="lazy" alt="Spain2 25"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-026.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-026.jpg' | relative_url }}" loading="lazy" alt="Spain2 26"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-027.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-027.jpg' | relative_url }}" loading="lazy" alt="Spain2 27"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Misica Catalana-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}" loading="lazy" alt="Spain2 21"><span class="photo-label">Palua de la Misica Catalana-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Misica Catalana-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}" loading="lazy" alt="Spain2 22"><span class="photo-label">Palua de la Misica Catalana-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Misica Catalana-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-023.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-023.jpg' | relative_url }}" loading="lazy" alt="Spain2 23"><span class="photo-label">Palua de la Misica Catalana-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palua de la Misica Catalana-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}" loading="lazy" alt="Spain2 24"><span class="photo-label">Palua de la Misica Catalana-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="The Two Faces (Picasso)-Barcelano"
+   href="{{ '/assets/photos/spain2/spain2-025.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-025.jpg' | relative_url }}" loading="lazy" alt="Spain2 25"><span class="photo-label">The Two Faces (Picasso)-Barcelano</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="(Waiting Margot) Picasso-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-026.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-026.jpg' | relative_url }}" loading="lazy" alt="Spain2 26"><span class="photo-label">(Waiting Margot) Picasso-Barcelona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="(The Dwarf Dancer) Picasso-Barcelona"
+   href="{{ '/assets/photos/spain2/spain2-027.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-027.jpg' | relative_url }}" loading="lazy" alt="Spain2 27"><span class="photo-label">(The Dwarf Dancer) Picasso-Barcelona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-028.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-028.jpg' | relative_url }}" loading="lazy" alt="Spain2 28"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
