@@ -6,9 +6,9 @@ permalink: /photo-archive/
 
 These additional photographs live alongside the written journeys.
 
-They are not illustrations of the stories, nor substitutes for themâ€”just fragments that remained after the words were done. Some moments resist explanation. Others donâ€™t need it.
+They are not illustrations of the stories, nor substitutes for them, just fragments that remained after the words were done. Some moments resist explanation. Others don't need it.
 
-What youâ€™ll find here are collections, grouped by journey, left mostly alone, and no particular order. Think of them as galleries: evidence of time spent, light noticed, distance walked.
+What you'll find here are collections, grouped by journey, left mostly alone, and no particular order. Think of them as galleries: evidence of time spent, light noticed, distance walked.
 
 ---
 <a id="spain-nothern"></a>
