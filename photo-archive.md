@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Photo Archive
 permalink: /photo-archive/
@@ -6,15 +6,15 @@ permalink: /photo-archive/
 
 These additional photographs live alongside the written journeys.
 
-They are not illustrations of the stories, nor substitutes for them—just fragments that remained after the words were done. Some moments resist explanation. Others don’t need it.
+They are not illustrations of the stories, nor substitutes for themâ€”just fragments that remained after the words were done. Some moments resist explanation. Others donâ€™t need it.
 
-What you’ll find here are collections, grouped by journey, left mostly alone, and no particular order. Think of them as galleries: evidence of time spent, light noticed, distance walked.
+What youâ€™ll find here are collections, grouped by journey, left mostly alone, and no particular order. Think of them as galleries: evidence of time spent, light noticed, distance walked.
 
 ---
 <a id="spain-nothern"></a>
 ## Spain-Northern
 
-Pilgrimage, ritual, and the things that survive because people continue carrying them forward
+Pilgrimage shaped the path. Tradition sustained it. Communities carried forward what time could not erase.
 
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
@@ -27,433 +27,341 @@ Pilgrimage, ritual, and the things that survive because people continue carrying
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-004.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-004.jpg' | relative_url }}" loading="lazy" alt="Spain2 4"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-005.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-005.jpg' | relative_url }}" loading="lazy" alt="Spain2 5"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-006.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-006.jpg' | relative_url }}" loading="lazy" alt="Spain2 6"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-007.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-007.jpg' | relative_url }}" loading="lazy" alt="Spain2 7"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-008.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-008.jpg' | relative_url }}" loading="lazy" alt="Spain2 8"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-009.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-009.jpg' | relative_url }}" loading="lazy" alt="Spain2 9"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-010.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-010.jpg' | relative_url }}" loading="lazy" alt="Spain2 10"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-011.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-011.jpg' | relative_url }}" loading="lazy" alt="Spain2 11"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-012.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-012.jpg' | relative_url }}" loading="lazy" alt="Spain2 12"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-013.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-013.jpg' | relative_url }}" loading="lazy" alt="Spain2 13"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-014.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-014.jpg' | relative_url }}" loading="lazy" alt="Spain2 14"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-015.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-015.jpg' | relative_url }}" loading="lazy" alt="Spain2 15"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-016.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-016.jpg' | relative_url }}" loading="lazy" alt="Spain2 16"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-017.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-017.jpg' | relative_url }}" loading="lazy" alt="Spain2 17"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-018.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-018.jpg' | relative_url }}" loading="lazy" alt="Spain2 18"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-019.jpg' | relative_url }}" loading="lazy" alt="Spain2 19"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-020.jpg' | relative_url }}" loading="lazy" alt="Spain2 20"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-021.jpg' | relative_url }}" loading="lazy" alt="Spain2 21"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-022.jpg' | relative_url }}" loading="lazy" alt="Spain2 22"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-023.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-023.jpg' | relative_url }}" loading="lazy" alt="Spain2 23"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-024.jpg' | relative_url }}" loading="lazy" alt="Spain2 24"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-025.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-025.jpg' | relative_url }}" loading="lazy" alt="Spain2 25"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-026.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-026.jpg' | relative_url }}" loading="lazy" alt="Spain2 26"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-027.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-027.jpg' | relative_url }}" loading="lazy" alt="Spain2 27"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-028.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-028.jpg' | relative_url }}" loading="lazy" alt="Spain2 28"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-029.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-029.jpg' | relative_url }}" loading="lazy" alt="Spain2 29"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-030.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-030.jpg' | relative_url }}" loading="lazy" alt="Spain2 30"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-031.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-031.jpg' | relative_url }}" loading="lazy" alt="Spain2 31"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-032.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-032.jpg' | relative_url }}" loading="lazy" alt="Spain2 32"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-033.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-033.jpg' | relative_url }}" loading="lazy" alt="Spain2 33"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-034.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-034.jpg' | relative_url }}" loading="lazy" alt="Spain2 34"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-035.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-035.jpg' | relative_url }}" loading="lazy" alt="Spain2 35"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-036.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-036.jpg' | relative_url }}" loading="lazy" alt="Spain2 36"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-037.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-037.jpg' | relative_url }}" loading="lazy" alt="Spain2 37"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-038.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-038.jpg' | relative_url }}" loading="lazy" alt="Spain2 38"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-039.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-039.jpg' | relative_url }}" loading="lazy" alt="Spain2 39"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-040.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-040.jpg' | relative_url }}" loading="lazy" alt="Spain2 40"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-041.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-041.jpg' | relative_url }}" loading="lazy" alt="Spain2 41"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-042.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-042.jpg' | relative_url }}" loading="lazy" alt="Spain2 42"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}" loading="lazy" alt="Spain2 43"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-044.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-044.jpg' | relative_url }}" loading="lazy" alt="Spain2 44"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-045.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-045.jpg' | relative_url }}" loading="lazy" alt="Spain2 45"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-046.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-046.jpg' | relative_url }}" loading="lazy" alt="Spain2 46"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-047.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-047.jpg' | relative_url }}" loading="lazy" alt="Spain2 47"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-048.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-048.jpg' | relative_url }}" loading="lazy" alt="Spain2 48"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-049.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-049.jpg' | relative_url }}" loading="lazy" alt="Spain2 49"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-050.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-050.jpg' | relative_url }}" loading="lazy" alt="Spain2 50"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-051.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-051.jpg' | relative_url }}" loading="lazy" alt="Spain2 51"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-052.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-052.jpg' | relative_url }}" loading="lazy" alt="Spain2 52"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-053.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-053.jpg' | relative_url }}" loading="lazy" alt="Spain2 53"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-054.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-054.jpg' | relative_url }}" loading="lazy" alt="Spain2 54"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-055.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-055.jpg' | relative_url }}" loading="lazy" alt="Spain2 55"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-056.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-056.jpg' | relative_url }}" loading="lazy" alt="Spain2 56"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-057.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-057.jpg' | relative_url }}" loading="lazy" alt="Spain2 57"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-058.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-058.jpg' | relative_url }}" loading="lazy" alt="Spain2 58"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-059.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-059.jpg' | relative_url }}" loading="lazy" alt="Spain2 59"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-060.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-060.jpg' | relative_url }}" loading="lazy" alt="Spain2 60"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-061.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-061.jpg' | relative_url }}" loading="lazy" alt="Spain2 61"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-062.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-062.jpg' | relative_url }}" loading="lazy" alt="Spain2 62"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-063.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-063.jpg' | relative_url }}" loading="lazy" alt="Spain2 63"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-064.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-064.jpg' | relative_url }}" loading="lazy" alt="Spain2 64"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-065.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-065.jpg' | relative_url }}" loading="lazy" alt="Spain2 65"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-066.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-066.jpg' | relative_url }}" loading="lazy" alt="Spain2 66"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-067.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-067.jpg' | relative_url }}" loading="lazy" alt="Spain2 67"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-068.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-068.jpg' | relative_url }}" loading="lazy" alt="Spain2 68"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-069.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-069.jpg' | relative_url }}" loading="lazy" alt="Spain2 69"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-070.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-070.jpg' | relative_url }}" loading="lazy" alt="Spain2 70"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-071.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-071.jpg' | relative_url }}" loading="lazy" alt="Spain2 71"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-072.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-072.jpg' | relative_url }}" loading="lazy" alt="Spain2 72"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-073.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-073.jpg' | relative_url }}" loading="lazy" alt="Spain2 73"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-074.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-074.jpg' | relative_url }}" loading="lazy" alt="Spain2 74"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-075.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-075.jpg' | relative_url }}" loading="lazy" alt="Spain2 75"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-076.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-076.jpg' | relative_url }}" loading="lazy" alt="Spain2 76"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-077.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-077.jpg' | relative_url }}" loading="lazy" alt="Spain2 77"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-078.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-078.jpg' | relative_url }}" loading="lazy" alt="Spain2 78"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-079.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-079.jpg' | relative_url }}" loading="lazy" alt="Spain2 79"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-080.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-080.jpg' | relative_url }}" loading="lazy" alt="Spain2 80"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-081.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-081.jpg' | relative_url }}" loading="lazy" alt="Spain2 81"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-082.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-082.jpg' | relative_url }}" loading="lazy" alt="Spain2 82"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-083.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-083.jpg' | relative_url }}" loading="lazy" alt="Spain2 83"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-084.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-084.jpg' | relative_url }}" loading="lazy" alt="Spain2 84"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-085.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-085.jpg' | relative_url }}" loading="lazy" alt="Spain2 85"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-086.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-086.jpg' | relative_url }}" loading="lazy" alt="Spain2 86"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-087.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-087.jpg' | relative_url }}" loading="lazy" alt="Spain2 87"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-088.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-088.jpg' | relative_url }}" loading="lazy" alt="Spain2 88"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-089.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-089.jpg' | relative_url }}" loading="lazy" alt="Spain2 89"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-090.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-090.jpg' | relative_url }}" loading="lazy" alt="Spain2 90"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-091.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-091.jpg' | relative_url }}" loading="lazy" alt="Spain2 91"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-092.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-092.jpg' | relative_url }}" loading="lazy" alt="Spain2 92"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-093.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-093.jpg' | relative_url }}" loading="lazy" alt="Spain2 93"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-094.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-094.jpg' | relative_url }}" loading="lazy" alt="Spain2 94"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}" loading="lazy" alt="Spain2 95"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}" loading="lazy" alt="Spain2 96"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-097.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-097.jpg' | relative_url }}" loading="lazy" alt="Spain2 97"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-098.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-098.jpg' | relative_url }}" loading="lazy" alt="Spain2 98"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-099.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-099.jpg' | relative_url }}" loading="lazy" alt="Spain2 99"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-100.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-100.jpg' | relative_url }}" loading="lazy" alt="Spain2 100"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-101.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-101.jpg' | relative_url }}" loading="lazy" alt="Spain2 101"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-102.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-102.jpg' | relative_url }}" loading="lazy" alt="Spain2 102"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-103.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-103.jpg' | relative_url }}" loading="lazy" alt="Spain2 103"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-104.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-104.jpg' | relative_url }}" loading="lazy" alt="Spain2 104"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-105.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-105.jpg' | relative_url }}" loading="lazy" alt="Spain2 105"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-106.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-106.jpg' | relative_url }}" loading="lazy" alt="Spain2 106"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-107.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-107.jpg' | relative_url }}" loading="lazy" alt="Spain2 107"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-108.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-108.jpg' | relative_url }}" loading="lazy" alt="Spain2 108"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-109.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-109.jpg' | relative_url }}" loading="lazy" alt="Spain2 109"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-110.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-110.jpg' | relative_url }}" loading="lazy" alt="Spain2 110"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-111.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-111.jpg' | relative_url }}" loading="lazy" alt="Spain2 111"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-112.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-112.jpg' | relative_url }}" loading="lazy" alt="Spain2 112"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-113.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-113.jpg' | relative_url }}" loading="lazy" alt="Spain2 113"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-114.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-114.jpg' | relative_url }}" loading="lazy" alt="Spain2 114"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-115.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-115.jpg' | relative_url }}" loading="lazy" alt="Spain2 115"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-116.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-116.jpg' | relative_url }}" loading="lazy" alt="Spain2 116"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-117.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-117.jpg' | relative_url }}" loading="lazy" alt="Spain2 117"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-118.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-118.jpg' | relative_url }}" loading="lazy" alt="Spain2 118"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-119.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-119.jpg' | relative_url }}" loading="lazy" alt="Spain2 119"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-120.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-120.jpg' | relative_url }}" loading="lazy" alt="Spain2 120"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-121.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-121.jpg' | relative_url }}" loading="lazy" alt="Spain2 121"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-122.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-122.jpg' | relative_url }}" loading="lazy" alt="Spain2 122"><span class="photo-label">Label</span></a>
 <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-123.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-123.jpg' | relative_url }}" loading="lazy" alt="Spain2 123"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-124.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-124.jpg' | relative_url }}" loading="lazy" alt="Spain2 124"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-125.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-125.jpg' | relative_url }}" loading="lazy" alt="Spain2 125"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-126.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-126.jpg' | relative_url }}" loading="lazy" alt="Spain2 126"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-127.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-127.jpg' | relative_url }}" loading="lazy" alt="Spain2 127"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-128.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-128.jpg' | relative_url }}" loading="lazy" alt="Spain2 128"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-129.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-129.jpg' | relative_url }}" loading="lazy" alt="Spain2 129"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-130.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-130.jpg' | relative_url }}" loading="lazy" alt="Spain2 130"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-131.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-131.jpg' | relative_url }}" loading="lazy" alt="Spain2 131"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-132.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-132.jpg' | relative_url }}" loading="lazy" alt="Spain2 132"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-133.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-133.jpg' | relative_url }}" loading="lazy" alt="Spain2 133"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-134.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-134.jpg' | relative_url }}" loading="lazy" alt="Spain2 134"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-135.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-135.jpg' | relative_url }}" loading="lazy" alt="Spain2 135"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-136.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-136.jpg' | relative_url }}" loading="lazy" alt="Spain2 136"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-137.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-137.jpg' | relative_url }}" loading="lazy" alt="Spain2 137"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-138.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-138.jpg' | relative_url }}" loading="lazy" alt="Spain2 138"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-139.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-139.jpg' | relative_url }}" loading="lazy" alt="Spain2 139"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-140.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-140.jpg' | relative_url }}" loading="lazy" alt="Spain2 140"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-141.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-141.jpg' | relative_url }}" loading="lazy" alt="Spain2 141"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-142.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-142.jpg' | relative_url }}" loading="lazy" alt="Spain2 142"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-143.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-143.jpg' | relative_url }}" loading="lazy" alt="Spain2 143"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-144.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-144.jpg' | relative_url }}" loading="lazy" alt="Spain2 144"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-145.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-145.jpg' | relative_url }}" loading="lazy" alt="Spain2 145"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-146.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-146.jpg' | relative_url }}" loading="lazy" alt="Spain2 146"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-147.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-147.jpg' | relative_url }}" loading="lazy" alt="Spain2 147"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-148.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-148.jpg' | relative_url }}" loading="lazy" alt="Spain2 148"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-149.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-149.jpg' | relative_url }}" loading="lazy" alt="Spain2 149"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-150.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-150.jpg' | relative_url }}" loading="lazy" alt="Spain2 150"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-151.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-151.jpg' | relative_url }}" loading="lazy" alt="Spain2 151"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-152.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-152.jpg' | relative_url }}" loading="lazy" alt="Spain2 152"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-153.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-153.jpg' | relative_url }}" loading="lazy" alt="Spain2 153"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-154.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-154.jpg' | relative_url }}" loading="lazy" alt="Spain2 154"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-155.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-155.jpg' | relative_url }}" loading="lazy" alt="Spain2 155"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-156.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-156.jpg' | relative_url }}" loading="lazy" alt="Spain2 156"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-157.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-157.jpg' | relative_url }}" loading="lazy" alt="Spain2 157"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-158.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-158.jpg' | relative_url }}" loading="lazy" alt="Spain2 158"><span class="photo-label">Label</span></a>
 <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-159.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-159.jpg' | relative_url }}" loading="lazy" alt="Spain2 159"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-160.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-160.jpg' | relative_url }}" loading="lazy" alt="Spain2 160"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-161.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-161.jpg' | relative_url }}" loading="lazy" alt="Spain2 161"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-162.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-162.jpg' | relative_url }}" loading="lazy" alt="Spain2 162"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-163.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-163.jpg' | relative_url }}" loading="lazy" alt="Spain2 163"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-164.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-164.jpg' | relative_url }}" loading="lazy" alt="Spain2 164"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-165.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-165.jpg' | relative_url }}" loading="lazy" alt="Spain2 165"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-166.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-166.jpg' | relative_url }}" loading="lazy" alt="Spain2 166"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-167.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-167.jpg' | relative_url }}" loading="lazy" alt="Spain2 167"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-168.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-168.jpg' | relative_url }}" loading="lazy" alt="Spain2 168"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-169.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-169.jpg' | relative_url }}" loading="lazy" alt="Spain2 169"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Label</span></a>
-      </div>
+   href="{{ '/assets/photos/spain2/spain2-170.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-170.jpg' | relative_url }}" loading="lazy" alt="Spain2 170"><span class="photo-label">Label</span></a>
+   </div>
 </details>
-
-
 
 ---
 
@@ -592,8 +500,8 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
    href="{{ '/assets/photos/netherlands/photo-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-12.jpg' | relative_url }}" loading="lazy" alt="Netherlands 12"><span class="photo-label">Canal Photo</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Stolpersteine Memorial Placques"
    href="{{ '/assets/photos/netherlands/photo-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-13.jpg' | relative_url }}" loading="lazy" alt="Netherlands 13"><span class="photo-label">Stolpersteine Memorial Placques</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Café De Sluyswacht "
-   href="{{ '/assets/photos/netherlands/photo-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-14.jpg' | relative_url }}" loading="lazy" alt="Netherlands 14"><span class="photo-label">Café De Sluyswacht </span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="CafÃ© De Sluyswacht "
+   href="{{ '/assets/photos/netherlands/photo-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-14.jpg' | relative_url }}" loading="lazy" alt="Netherlands 14"><span class="photo-label">CafÃ© De Sluyswacht </span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Dutch architecture e"
    href="{{ '/assets/photos/netherlands/photo-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-15.jpg' | relative_url }}" loading="lazy" alt="Netherlands 15"><span class="photo-label">Dutch architecture </span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Tree-lined Canal with Westerkerk Tower"
