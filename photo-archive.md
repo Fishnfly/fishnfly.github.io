@@ -26,14 +26,12 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    href="{{ '/assets/photos/spain2/spain2-002.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-002.jpg' | relative_url }}" loading="lazy" alt="Spain2 2"><span class="photo-label">Mallorca Coastline</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Cathedral of Soller-Mallorca"
    href="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-003.jpg' | relative_url }}" loading="lazy" alt="Spain2 3"><span class="photo-label">Cathedral of Soller-Mallorca</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-004.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-004.jpg' | relative_url }}" loading="lazy" alt="Spain2 4"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-005.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-005.jpg' | relative_url }}" loading="lazy" alt="Spain2 5"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-006.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-006.jpg' | relative_url }}" loading="lazy" alt="Spain2 6"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-007.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-007.jpg' | relative_url }}" loading="lazy" alt="Spain2 7"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Basilica de Santa Maria de Mallorca"
+   href="{{ '/assets/photos/spain2/spain2-004.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-004.jpg' | relative_url }}" loading="lazy" alt="Spain2 4"><span class="photo-label">Basilica de Santa Maria de Mallorca</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Gaudi Architecture in Palma-Mallorca"
+   href="{{ '/assets/photos/spain2/spain2-005.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-005.jpg' | relative_url }}" loading="lazy" alt="Spain2 5"><span class="photo-label">Gaudi Architecture in Palma-Mallorca</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Natural Rock Arch-Mallorca"
+   href="{{ '/assets/photos/spain2/spain2-007.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-007.jpg' | relative_url }}" loading="lazy" alt="Spain2 7"><span class="photo-label">Natural Rock Arch-Mallorca</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-008.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-008.jpg' | relative_url }}" loading="lazy" alt="Spain2 8"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
