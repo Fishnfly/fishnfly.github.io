@@ -447,3 +447,11 @@ aspect-ratio: 1 / 1;
   height: auto !important;
   object-fit: contain !important;
 }
+
+.photo-grid a {
+  display: block;
+}
+
+.photo-grid img {
+  display: block;
+}
