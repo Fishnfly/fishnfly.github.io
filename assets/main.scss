@@ -436,16 +436,14 @@ aspect-ratio: 1 / 1;
   gap: 1rem;
 }
 
-.photo-grid img {
-  width: 100%;
-  height: auto !important;
-  object-fit: contain !important;
-}
-
 .photo-grid a {
+  position: relative;
   display: block;
+  width: 100%;
 }
 
 .photo-grid img {
   display: block;
+  width: 100%;
+  height: auto;
 }
