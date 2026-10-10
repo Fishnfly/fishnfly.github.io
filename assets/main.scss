@@ -441,3 +441,9 @@ aspect-ratio: 1 / 1;
   grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
   gap: 1rem;
 }
+
+.photo-grid img {
+  width: 100%;
+  height: auto !important;
+  object-fit: contain !important;
+}
