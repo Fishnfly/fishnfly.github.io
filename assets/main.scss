@@ -401,26 +401,21 @@
   grid-column: 1 / -1 !important;
 }
 
-.photo-grid a {
-  position: relative;
-  display: block;
-}
-
 .photo-label {
   position: absolute;
-  left: 8px;
-  bottom: 8px;
+  left: 0;
+  right: 0;
+  bottom: 0;
 
-  padding: 4px 8px;
+  padding: 4px 6px;
 
   background: rgba(0,0,0,.70);
-  border-radius: 4px;
 
   color: #fff;
   font-size: 0.70rem;
   line-height: 1.2;
+  text-align: center;
 
-  text-align: left;
   pointer-events: none;
 }
 
@@ -438,12 +433,12 @@ aspect-ratio: 1 / 1;
 
 .photo-grid a {
   position: relative;
-  display: block;
-  width: 100%;
+  display: inline-block;
+  width: auto;
 }
 
 .photo-grid img {
   display: block;
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
