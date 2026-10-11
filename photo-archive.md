@@ -562,7 +562,7 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
    href="{{ '/assets/photos/netherlands/photo-87.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-87.jpg' | relative_url }}" loading="lazy" alt="Netherlands 87"><span class="photo-label">Windmills-Zaan River</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Windmills-Zaan River"
    href="{{ '/assets/photos/netherlands/photo-88.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-88.jpg' | relative_url }}" loading="lazy" alt="Netherlands 88"><span class="photo-label">Windmills-Zaan River</span></a>
-   <<a class="glightbox" data-gallery="netherlands" data-title="Maritime Museum Hugo-Rotterdam"
+   <a class="glightbox" data-gallery="netherlands" data-title="Maritime Museum Hugo-Rotterdam"
    href="{{ '/assets/photos/netherlands/photo-89.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-89.jpg' | relative_url }}" loading="lazy" alt="Netherlands 89"><span class="photo-label">Maritime Museum Hugo-Rotterdam</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Maritime Museum-Rotterdam"
    href="{{ '/assets/photos/netherlands/photo-90.jpg' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-90.jpg' | relative_url }}" loading="lazy" alt="Netherlands 90"><span class="photo-label">Maritime Museum-Rotterdam</span></a>
