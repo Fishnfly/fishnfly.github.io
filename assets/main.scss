@@ -425,15 +425,16 @@ aspect-ratio: 1 / 1;
 }
 }
 
-.photo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
-  gap: 1rem;
+.photo-grid a {
+  position: relative;
+  display: block;
 }
 
-.photo-grid a {
-  display: inline-block;
-  position: relative;
+.photo-grid img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .photo-grid img {
