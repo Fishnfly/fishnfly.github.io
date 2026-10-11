@@ -405,17 +405,20 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
   gap: 1rem;
+
+  align-items: start;
 }
 
 .photo-grid a {
   position: relative;
   display: block;
+  align-self: start;
 }
 
 .photo-grid img {
-  display: block;
   width: 100%;
   height: auto;
+  display: block;
 }
 
 .photo-label {
