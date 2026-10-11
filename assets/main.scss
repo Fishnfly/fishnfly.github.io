@@ -401,11 +401,15 @@
   grid-column: 1 / -1 !important;
 }
 
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+  gap: 1rem;
+}
+
 .photo-grid a {
   position: relative;
   display: block;
-  overflow: hidden;
-  line-height: 0;
 }
 
 .photo-grid img {
