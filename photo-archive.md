@@ -422,12 +422,12 @@ Empires faded. Mountains endured. Traditions carried forward through practice, n
    href="{{ '/assets/photos/bulgaria/photo-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-26.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 26"><span class="photo-label">St. Alexander Levsky Cathedral</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Bells Monument-Sophia"
    href="{{ '/assets/photos/bulgaria/photo-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-27.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 27"><span class="photo-label">Bells Monument-Sophia</span></a>
+   <a class="glightbox" data-gallery="bulgaria" data-title="Bells Monument-Sophia"
+   href="{{ '/assets/photos/bulgaria/photo-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-28.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 28"><span class="photo-label">Bells Monument-Sophia</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Boyana Church-Sophia"
-   href="{{ '/assets/photos/bulgaria/photo-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-28.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 28"><span class="photo-label">Boyana Church-Sophia</span></a>
+   href="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 29"><span class="photo-label">Boyana Church-Sophia</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Dragalevtsi Monastery-Sophia"
-   href="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-29.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 29"><span class="photo-label">Dragalevtsi Monastery-Sophia</span></a>
-   <a class="glightbox" data-gallery="bulgaria" data-title="Dragalevtsi Monastery-Inside--Sophia"
-   href="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 30"><span class="photo-label">Dragalevtsi Monastery-Inside--Sophia</span></a>
+   href="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-30.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 30"><span class="photo-label">Dragalevtsi Monastery-Sophia</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Dragalevtsi Monastery-Inside-Sophia"
    href="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-31.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 31"><span class="photo-label">Dragalevtsi Monastery-Inside-Sophia</span></a>
    <a class="glightbox" data-gallery="bulgaria" data-title="Rila Monastery"
