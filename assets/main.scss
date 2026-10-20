@@ -101,7 +101,7 @@
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 1/1;
+  aspect-ratio: 16/10;
   object-fit: cover;
 }
 
@@ -436,4 +436,14 @@
   line-height: 1.2;
 
   z-index: 10;
+}
+
+/* ===========================
+   FINAL OVERRIDE — FORCE MOBILE OVERRIDE
+   =========================== */
+
+@media (max-width: 768px) {
+  .card-thumb__media img {
+    aspect-ratio: 1/1;
+  }
 }
