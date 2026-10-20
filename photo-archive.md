@@ -206,93 +206,93 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    <a class="glightbox" data-gallery="spain-northern" data-title="Walled Old Quarter-Girona"
    href="{{ '/assets/photos/spain2/spain2-042.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-042.jpg' | relative_url }}" loading="lazy" alt="Spain2 42"><span class="photo-label">Walled Old Quarter-Girona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Santa Maria de Montserrat Abbey-Catalonia"
-   href="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}" loading="lazy" alt="Spain2 43"><span class="photo-label">Santa Maria de Montserrat Abbey-Catalonia</span></a>
+   href="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-043.jpg' | relative_url }}" loading="lazy" alt="Spain2 43"><span class="photo-label"> Santa Maria de Montserrat Abbey-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Santa Maria de Montserrat Abbey-Courtyard-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-044.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-044.jpg' | relative_url }}" loading="lazy" alt="Spain2 44"><span class="photo-label">Santa Maria de Montserrat Abbey-Courtyard-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Santa Maria de Montserrat Abbey-Black Madonna-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-045.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-045.jpg' | relative_url }}" loading="lazy" alt="Spain2 45"><span class="photo-label">Santa Maria de Montserrat Abbey-Black Madonna-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Santa Maria de Montserrat Abbey-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-046.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-046.jpg' | relative_url }}" loading="lazy" alt="Spain2 46"><span class="photo-label">Santa Maria de Montserrat Abbey-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Santa Maria de Montserrat Abbey-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-047.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-047.jpg' | relative_url }}" loading="lazy" alt="Spain2 47"><span class="photo-label">Santa Maria de Montserrat Abbey-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Santa Maria de Montserrat Abbey-Catalonia"
+   href="{{ '/assets/photos/spain2/spain2-048.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-048.jpg' | relative_url }}" loading="lazy" alt="Spain2 48"><span class="photo-label">Santa Maria de Montserrat Abbey-Catalonia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Poblet Monastery"
+   href="{{ '/assets/photos/spain2/spain2-049.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-049.jpg' | relative_url }}" loading="lazy" alt="Spain2 49"><span class="photo-label">Poblet Monastery</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Poblet Monastery"
+   href="{{ '/assets/photos/spain2/spain2-050.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-050.jpg' | relative_url }}" loading="lazy" alt="Spain2 50"><span class="photo-label">Poblet Monastery</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Fuente de la Haspanidad"
+   href="{{ '/assets/photos/spain2/spain2-051.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-051.jpg' | relative_url }}" loading="lazy" alt="Spain2 51"><span class="photo-label">Fuente de la Haspanidad</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Basilica of Oud Lady of the Pillar-Zaragoza"
+   href="{{ '/assets/photos/spain2/spain2-052.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-052.jpg' | relative_url }}" loading="lazy" alt="Spain2 52"><span class="photo-label">Basilica of Oud Lady of the Pillar-Zaragoza</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palacio Real de Olite-Nazarro"
+   href="{{ '/assets/photos/spain2/spain2-053.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-053.jpg' | relative_url }}" loading="lazy" alt="Spain2 53"><span class="photo-label">Palacio Real de Olite-Nazarro</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-054.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-054.jpg' | relative_url }}" loading="lazy" alt="Spain2 54"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-055.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-055.jpg' | relative_url }}" loading="lazy" alt="Spain2 55"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-056.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-056.jpg' | relative_url }}" loading="lazy" alt="Spain2 56"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-057.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-057.jpg' | relative_url }}" loading="lazy" alt="Spain2 57"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-058.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-058.jpg' | relative_url }}" loading="lazy" alt="Spain2 58"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-044.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-044.jpg' | relative_url }}" loading="lazy" alt="Spain2 44"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-059.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-059.jpg' | relative_url }}" loading="lazy" alt="Spain2 59"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-045.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-045.jpg' | relative_url }}" loading="lazy" alt="Spain2 45"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-046.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-046.jpg' | relative_url }}" loading="lazy" alt="Spain2 46"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-047.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-047.jpg' | relative_url }}" loading="lazy" alt="Spain2 47"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-048.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-048.jpg' | relative_url }}" loading="lazy" alt="Spain2 48"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-049.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-049.jpg' | relative_url }}" loading="lazy" alt="Spain2 49"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-050.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-050.jpg' | relative_url }}" loading="lazy" alt="Spain2 50"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-051.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-051.jpg' | relative_url }}" loading="lazy" alt="Spain2 51"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-052.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-052.jpg' | relative_url }}" loading="lazy" alt="Spain2 52"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-053.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-053.jpg' | relative_url }}" loading="lazy" alt="Spain2 53"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-054.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-054.jpg' | relative_url }}" loading="lazy" alt="Spain2 54"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-055.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-055.jpg' | relative_url }}" loading="lazy" alt="Spain2 55"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-056.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-056.jpg' | relative_url }}" loading="lazy" alt="Spain2 56"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-057.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-057.jpg' | relative_url }}" loading="lazy" alt="Spain2 57"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-058.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-058.jpg' | relative_url }}" loading="lazy" alt="Spain2 58"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-059.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-059.jpg' | relative_url }}" loading="lazy" alt="Spain2 59"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-060.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-060.jpg' | relative_url }}" loading="lazy" alt="Spain2 60"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-061.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-061.jpg' | relative_url }}" loading="lazy" alt="Spain2 61"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-062.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-062.jpg' | relative_url }}" loading="lazy" alt="Spain2 62"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-063.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-063.jpg' | relative_url }}" loading="lazy" alt="Spain2 63"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-064.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-064.jpg' | relative_url }}" loading="lazy" alt="Spain2 64"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-065.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-065.jpg' | relative_url }}" loading="lazy" alt="Spain2 65"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-066.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-066.jpg' | relative_url }}" loading="lazy" alt="Spain2 66"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-067.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-067.jpg' | relative_url }}" loading="lazy" alt="Spain2 67"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-068.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-068.jpg' | relative_url }}" loading="lazy" alt="Spain2 68"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-069.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-069.jpg' | relative_url }}" loading="lazy" alt="Spain2 69"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-070.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-070.jpg' | relative_url }}" loading="lazy" alt="Spain2 70"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-071.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-071.jpg' | relative_url }}" loading="lazy" alt="Spain2 71"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-072.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-072.jpg' | relative_url }}" loading="lazy" alt="Spain2 72"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-073.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-073.jpg' | relative_url }}" loading="lazy" alt="Spain2 73"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-074.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-074.jpg' | relative_url }}" loading="lazy" alt="Spain2 74"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-075.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-075.jpg' | relative_url }}" loading="lazy" alt="Spain2 75"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-076.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-076.jpg' | relative_url }}" loading="lazy" alt="Spain2 76"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-077.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-077.jpg' | relative_url }}" loading="lazy" alt="Spain2 77"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-078.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-078.jpg' | relative_url }}" loading="lazy" alt="Spain2 78"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-079.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-079.jpg' | relative_url }}" loading="lazy" alt="Spain2 79"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-080.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-080.jpg' | relative_url }}" loading="lazy" alt="Spain2 80"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-081.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-081.jpg' | relative_url }}" loading="lazy" alt="Spain2 81"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-082.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-082.jpg' | relative_url }}" loading="lazy" alt="Spain2 82"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-083.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-083.jpg' | relative_url }}" loading="lazy" alt="Spain2 83"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-084.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-084.jpg' | relative_url }}" loading="lazy" alt="Spain2 84"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-085.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-085.jpg' | relative_url }}" loading="lazy" alt="Spain2 85"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-086.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-086.jpg' | relative_url }}" loading="lazy" alt="Spain2 86"><span class="photo-label">Label</span></a>
+   href="{{ '/assets/photos/spain2/spain2-060.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-060.jpg' | relative_url }}" loading="lazy" alt="Spain2 60"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-061.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-061.jpg' | relative_url }}" loading="lazy" alt="Spain2 61"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-062.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-062.jpg' | relative_url }}" loading="lazy" alt="Spain2 62"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-063.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-063.jpg' | relative_url }}" loading="lazy" alt="Spain2 63"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="CrossFit-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-064.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-064.jpg' | relative_url }}" loading="lazy" alt="Spain2 64"><span class="photo-label">CrossFit-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Monumento al Encierro-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-065.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-065.jpg' | relative_url }}" loading="lazy" alt="Spain2 65"><span class="photo-label">Monumento al Encierro-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Running of the Bulls-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-066.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-066.jpg' | relative_url }}" loading="lazy" alt="Spain2 66"><span class="photo-label">San Fermin Festival-Running of the Bulls-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Running of the Bulls-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-067.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-067.jpg' | relative_url }}" loading="lazy" alt="Spain2 67"><span class="photo-label">San Fermin Festival-Running of the Bulls-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Running of the Bulls-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-068.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-068.jpg' | relative_url }}" loading="lazy" alt="Spain2 68"><span class="photo-label">San Fermin Festival-Running of the Bulls-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Running of the Bulls-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-069.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-069.jpg' | relative_url }}" loading="lazy" alt="Spain2 69"><span class="photo-label">San Fermin Festival-Running of the Bulls-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Running of the Bulls-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-070.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-070.jpg' | relative_url }}" loading="lazy" alt="Spain2 70"><span class="photo-label">San Fermin Festival-Running of the Bulls-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Fermin Festival-Pamplona"
+   href="{{ '/assets/photos/spain2/spain2-071.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-071.jpg' | relative_url }}" loading="lazy" alt="Spain2 71"><span class="photo-label">San Fermin Festival-Pamplona</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="City Hall of San Sebastian-Basque Country"
+   href="{{ '/assets/photos/spain2/spain2-072.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-072.jpg' | relative_url }}" loading="lazy" alt="Spain2 72"><span class="photo-label">City Hall of San Sebastian-Basque Country</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="City Hall of San Sebastian-Basque Country"
+   href="{{ '/assets/photos/spain2/spain2-073.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-073.jpg' | relative_url }}" loading="lazy" alt="Spain2 73"><span class="photo-label">City Hall of San Sebastian-Basque Country</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Peine del Viento-San Sebastian-Basque Country"
+   href="{{ '/assets/photos/spain2/spain2-074.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-074.jpg' | relative_url }}" loading="lazy" alt="Spain2 74"><span class="photo-label">Peine del Viento-San Sebastian-Basque Country</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="San Juan de Gaztelugatze"
+   href="{{ '/assets/photos/spain2/spain2-075.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-075.jpg' | relative_url }}" loading="lazy" alt="Spain2 75"><span class="photo-label">San Juan de Gaztelugatze</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Guggenheim Museum Bilboa"
+   href="{{ '/assets/photos/spain2/spain2-076.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-076.jpg' | relative_url }}" loading="lazy" alt="Spain2 76"><span class="photo-label">Guggenheim Museum Bilboa</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Guggenheim Museum Bilboa"
+   href="{{ '/assets/photos/spain2/spain2-077.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-077.jpg' | relative_url }}" loading="lazy" alt="Spain2 77"><span class="photo-label">Guggenheim Museum Bilboa</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Guggenheim Suspension Bridge-Bilboa"
+   href="{{ '/assets/photos/spain2/spain2-078.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-078.jpg' | relative_url }}" loading="lazy" alt="Spain2 78"><span class="photo-label">Guggenheim Suspension Bridge-Bilboa</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Guggenheim Museum Bilboa"
+   href="{{ '/assets/photos/spain2/spain2-079.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-079.jpg' | relative_url }}" loading="lazy" alt="Spain2 79"><span class="photo-label">Guggenheim Museum Bilboa</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Bodegas Baigorri Winery-Rioja"
+   href="{{ '/assets/photos/spain2/spain2-080.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-080.jpg' | relative_url }}" loading="lazy" alt="Spain2 80"><span class="photo-label">Bodegas Baigorri Winery-Rioja</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Hotel Marques de Riscal-Rioja"
+   href="{{ '/assets/photos/spain2/spain2-081.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-081.jpg' | relative_url }}" loading="lazy" alt="Spain2 81"><span class="photo-label">Hotel Marques de Riscal-Rioja</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Marques de Riscal-Rioja"
+   href="{{ '/assets/photos/spain2/spain2-082.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-082.jpg' | relative_url }}" loading="lazy" alt="Spain2 82"><span class="photo-label">Marques de Riscal-Rioja</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Marques de Riscal-Rioja"
+   href="{{ '/assets/photos/spain2/spain2-083.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-083.jpg' | relative_url }}" loading="lazy" alt="Spain2 83"><span class="photo-label">Marques de Riscal-Rioja</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Marques de Riscal-Rioja"
+   href="{{ '/assets/photos/spain2/spain2-084.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-084.jpg' | relative_url }}" loading="lazy" alt="Spain2 84"><span class="photo-label">Marques de Riscal-Rioja</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Bodegas Ysios-Rioja"
+   href="{{ '/assets/photos/spain2/spain2-085.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-085.jpg' | relative_url }}" loading="lazy" alt="Spain2 85"><span class="photo-label">Bodegas Ysios-Rioja</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Haro-Capital of Rioja"
+   href="{{ '/assets/photos/spain2/spain2-086.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-086.jpg' | relative_url }}" loading="lazy" alt="Spain2 86"><span class="photo-label">Haro-Capital of Rioja</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-087.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-087.jpg' | relative_url }}" loading="lazy" alt="Spain2 87"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
