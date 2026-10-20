@@ -101,7 +101,7 @@
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 16/10;
+  aspect-ratio: 1/1;
   object-fit: cover;
 }
 
@@ -188,7 +188,7 @@
   display: grid;
   place-items: center;
   width: 100%;
-  aspect-ratio: 16/10;
+  aspect-ratio: 1/1;
   border-radius: 8px;
   background: linear-gradient(180deg, rgba(0,0,0,.04), rgba(0,0,0,.08));
   color: #6b7280;
