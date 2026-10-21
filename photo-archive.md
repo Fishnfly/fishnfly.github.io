@@ -300,28 +300,28 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    href="{{ '/assets/photos/spain2/spain2-085.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-085.jpg' | relative_url }}" loading="lazy" alt="Spain2 85"><span class="photo-label">Bodegas Ysios-Rioja</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Haro-Capital of Rioja"
    href="{{ '/assets/photos/spain2/spain2-086.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-086.jpg' | relative_url }}" loading="lazy" alt="Spain2 86"><span class="photo-label">Haro-Capital of Rioja</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-087.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-087.jpg' | relative_url }}" loading="lazy" alt="Spain2 87"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-088.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-088.jpg' | relative_url }}" loading="lazy" alt="Spain2 88"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-089.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-089.jpg' | relative_url }}" loading="lazy" alt="Spain2 89"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-090.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-090.jpg' | relative_url }}" loading="lazy" alt="Spain2 90"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-091.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-091.jpg' | relative_url }}" loading="lazy" alt="Spain2 91"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-092.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-092.jpg' | relative_url }}" loading="lazy" alt="Spain2 92"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-093.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-093.jpg' | relative_url }}" loading="lazy" alt="Spain2 93"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-094.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-094.jpg' | relative_url }}" loading="lazy" alt="Spain2 94"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}" loading="lazy" alt="Spain2 95"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}" loading="lazy" alt="Spain2 96"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-097.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-097.jpg' | relative_url }}" loading="lazy" alt="Spain2 97"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Gigantes y Cabezudos-Castro Urdiales"
+   href="{{ '/assets/photos/spain2/spain2-087.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-087.jpg' | relative_url }}" loading="lazy" alt="Spain2 87"><span class="photo-label">Gigantes y Cabezudos-Castro Urdiales</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Iglesias de Santa Maria de la Asuncion-Castro Urdiales"
+   href="{{ '/assets/photos/spain2/spain2-088.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-088.jpg' | relative_url }}" loading="lazy" alt="Spain2 88"><span class="photo-label">Iglesias de Santa Maria de la Asuncion-Castro Urdiales</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Iglesias de Santa Maria de la Asuncion-Castro Urdiales"
+   href="{{ '/assets/photos/spain2/spain2-089.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-089.jpg' | relative_url }}" loading="lazy" alt="Spain2 89"><span class="photo-label">Iglesias de Santa Maria de la Asuncion-Castro Urdiales</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Castillo-Faro de Santa Ana-Castro Urdiales"
+   href="{{ '/assets/photos/spain2/spain2-090.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-090.jpg' | relative_url }}" loading="lazy" alt="Spain2 90"><span class="photo-label">Castillo-Faro de Santa Ana-Castro Urdiales</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Hermitage of Santa Ana-Castro Urdiales"
+   href="{{ '/assets/photos/spain2/spain2-091.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-091.jpg' | relative_url }}" loading="lazy" alt="Spain2 91"><span class="photo-label">Hermitage of Santa Ana-Castro Urdiales</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Iglesias de Santa Maria de la Asuncion-Castro Urdiales"
+   href="{{ '/assets/photos/spain2/spain2-092.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-092.jpg' | relative_url }}" loading="lazy" alt="Spain2 92"><span class="photo-label">Iglesias de Santa Maria de la Asuncion-Castro Urdiales</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Iglesias de Santa Maria de la Asuncion-Castro Urdiales"
+   href="{{ '/assets/photos/spain2/spain2-093.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-093.jpg' | relative_url }}" loading="lazy" alt="Spain2 93"><span class="photo-label">Iglesias de Santa Maria de la Asuncion-Castro Urdiales</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Whaler Fisherman-Seaport in Castro Urdiales"
+   href="{{ '/assets/photos/spain2/spain2-094.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-094.jpg' | relative_url }}" loading="lazy" alt="Spain2 94"><span class="photo-label">Whaler Fisherman-Seaport in Castro Urdiales</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cobblestone Streets ofSantilana del Mar"
+   href="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}" loading="lazy" alt="Spain2 95"><span class="photo-label">Cobblestone Streets ofSantilana del Mar</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="El Capricho de Gaudi-Comillas"
+   href="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}" loading="lazy" alt="Spain2 96"><span class="photo-label">El Capricho de Gaudi-Comillas</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Former Site of Comillas Pontifical University"
+   href="{{ '/assets/photos/spain2/spain2-097.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-097.jpg' | relative_url }}" loading="lazy" alt="Spain2 97"><span class="photo-label">Former Site of Comillas Pontifical University</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-098.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-098.jpg' | relative_url }}" loading="lazy" alt="Spain2 98"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
