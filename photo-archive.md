@@ -317,7 +317,7 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    <a class="glightbox" data-gallery="spain-northern" data-title="Whaler Fisherman-Seaport in Castro Urdiales"
    href="{{ '/assets/photos/spain2/spain2-094.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-094.jpg' | relative_url }}" loading="lazy" alt="Spain2 94"><span class="photo-label">Whaler Fisherman-Seaport in Castro Urdiales</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Cobblestone Streets ofSantilana del Mar"
-   href="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}" loading="lazy" alt="Spain2 95"><span class="photo-label">Cobblestone Streets ofSantilana del Mar</span></a>
+   href="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-095.jpg' | relative_url }}" loading="lazy" alt="Spain2 95"><span class="photo-label">Cobblestone Streets of Santilana del Mar</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="El Capricho de Gaudi-Comillas"
    href="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}" loading="lazy" alt="Spain2 96"><span class="photo-label">El Capricho de Gaudi-Comillas</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Former Site of Comillas Pontifical University"
@@ -350,124 +350,124 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    href="{{ '/assets/photos/spain2/spain2-110.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-110.jpg' | relative_url }}" loading="lazy" alt="Spain2 110"><span class="photo-label">Goats on the Trail-Desfiladero de La Hermida-Cantabria</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Desfiladero de La Hermida-Cantabria"
    href="{{ '/assets/photos/spain2/spain2-111.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-111.jpg' | relative_url }}" loading="lazy" alt="Spain2 111"><span class="photo-label">Desfiladero de La Hermida-Cantabria</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-112.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-112.jpg' | relative_url }}" loading="lazy" alt="Spain2 112"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-113.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-113.jpg' | relative_url }}" loading="lazy" alt="Spain2 113"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-114.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-114.jpg' | relative_url }}" loading="lazy" alt="Spain2 114"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-115.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-115.jpg' | relative_url }}" loading="lazy" alt="Spain2 115"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-116.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-116.jpg' | relative_url }}" loading="lazy" alt="Spain2 116"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-117.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-117.jpg' | relative_url }}" loading="lazy" alt="Spain2 117"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-118.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-118.jpg' | relative_url }}" loading="lazy" alt="Spain2 118"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-119.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-119.jpg' | relative_url }}" loading="lazy" alt="Spain2 119"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-120.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-120.jpg' | relative_url }}" loading="lazy" alt="Spain2 120"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-121.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-121.jpg' | relative_url }}" loading="lazy" alt="Spain2 121"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-122.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-122.jpg' | relative_url }}" loading="lazy" alt="Spain2 122"><span class="photo-label">Label</span></a>
-<a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-123.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-123.jpg' | relative_url }}" loading="lazy" alt="Spain2 123"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-124.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-124.jpg' | relative_url }}" loading="lazy" alt="Spain2 124"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-125.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-125.jpg' | relative_url }}" loading="lazy" alt="Spain2 125"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-126.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-126.jpg' | relative_url }}" loading="lazy" alt="Spain2 126"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-127.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-127.jpg' | relative_url }}" loading="lazy" alt="Spain2 127"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-128.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-128.jpg' | relative_url }}" loading="lazy" alt="Spain2 128"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-129.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-129.jpg' | relative_url }}" loading="lazy" alt="Spain2 129"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-130.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-130.jpg' | relative_url }}" loading="lazy" alt="Spain2 130"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-131.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-131.jpg' | relative_url }}" loading="lazy" alt="Spain2 131"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-132.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-132.jpg' | relative_url }}" loading="lazy" alt="Spain2 132"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-133.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-133.jpg' | relative_url }}" loading="lazy" alt="Spain2 133"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-134.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-134.jpg' | relative_url }}" loading="lazy" alt="Spain2 134"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-135.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-135.jpg' | relative_url }}" loading="lazy" alt="Spain2 135"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-136.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-136.jpg' | relative_url }}" loading="lazy" alt="Spain2 136"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-137.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-137.jpg' | relative_url }}" loading="lazy" alt="Spain2 137"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-138.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-138.jpg' | relative_url }}" loading="lazy" alt="Spain2 138"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-139.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-139.jpg' | relative_url }}" loading="lazy" alt="Spain2 139"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-140.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-140.jpg' | relative_url }}" loading="lazy" alt="Spain2 140"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-141.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-141.jpg' | relative_url }}" loading="lazy" alt="Spain2 141"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-142.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-142.jpg' | relative_url }}" loading="lazy" alt="Spain2 142"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-143.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-143.jpg' | relative_url }}" loading="lazy" alt="Spain2 143"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-144.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-144.jpg' | relative_url }}" loading="lazy" alt="Spain2 144"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-145.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-145.jpg' | relative_url }}" loading="lazy" alt="Spain2 145"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-146.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-146.jpg' | relative_url }}" loading="lazy" alt="Spain2 146"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-147.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-147.jpg' | relative_url }}" loading="lazy" alt="Spain2 147"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-148.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-148.jpg' | relative_url }}" loading="lazy" alt="Spain2 148"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-149.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-149.jpg' | relative_url }}" loading="lazy" alt="Spain2 149"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-150.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-150.jpg' | relative_url }}" loading="lazy" alt="Spain2 150"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-151.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-151.jpg' | relative_url }}" loading="lazy" alt="Spain2 151"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-152.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-152.jpg' | relative_url }}" loading="lazy" alt="Spain2 152"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-153.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-153.jpg' | relative_url }}" loading="lazy" alt="Spain2 153"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-154.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-154.jpg' | relative_url }}" loading="lazy" alt="Spain2 154"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-155.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-155.jpg' | relative_url }}" loading="lazy" alt="Spain2 155"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-156.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-156.jpg' | relative_url }}" loading="lazy" alt="Spain2 156"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-157.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-157.jpg' | relative_url }}" loading="lazy" alt="Spain2 157"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-158.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-158.jpg' | relative_url }}" loading="lazy" alt="Spain2 158"><span class="photo-label">Label</span></a>
-<a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-159.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-159.jpg' | relative_url }}" loading="lazy" alt="Spain2 159"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-160.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-160.jpg' | relative_url }}" loading="lazy" alt="Spain2 160"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-161.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-161.jpg' | relative_url }}" loading="lazy" alt="Spain2 161"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-162.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-162.jpg' | relative_url }}" loading="lazy" alt="Spain2 162"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-163.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-163.jpg' | relative_url }}" loading="lazy" alt="Spain2 163"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-164.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-164.jpg' | relative_url }}" loading="lazy" alt="Spain2 164"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-165.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-165.jpg' | relative_url }}" loading="lazy" alt="Spain2 165"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-166.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-166.jpg' | relative_url }}" loading="lazy" alt="Spain2 166"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-167.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-167.jpg' | relative_url }}" loading="lazy" alt="Spain2 167"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-168.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-168.jpg' | relative_url }}" loading="lazy" alt="Spain2 168"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-169.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-169.jpg' | relative_url }}" loading="lazy" alt="Spain2 169"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-170.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-170.jpg' | relative_url }}" loading="lazy" alt="Spain2 170"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Basilica de Santa Maria la Real de Covadonga-Asturias"
+   href="{{ '/assets/photos/spain2/spain2-112.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-112.jpg' | relative_url }}" loading="lazy" alt="Spain2 112"><span class="photo-label">Basilica de Santa Maria la Real de Covadonga-Asturias</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Santa Cuevas de Covadonga-Holy Cave-Astuarias"
+   href="{{ '/assets/photos/spain2/spain2-113.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-113.jpg' | relative_url }}" loading="lazy" alt="Spain2 113"><span class="photo-label">Santa Cuevas de Covadonga-Holy Cave-Astuarias</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Fuente de los Siete Canos-Marriage Fountain-Covadonga"
+   href="{{ '/assets/photos/spain2/spain2-114.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-114.jpg' | relative_url }}" loading="lazy" alt="Spain2 114"><span class="photo-label">Fuente de los Siete Canos-Marriage Fountain-Covadonga</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Basilica de Santa Maria la Real de Covadonga-Asturias"
+   href="{{ '/assets/photos/spain2/spain2-115.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-115.jpg' | relative_url }}" loading="lazy" alt="Spain2 115"><span class="photo-label">Basilica de Santa Maria la Real de Covadonga-Asturias</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Santa Cuevas de Covadonga-Holy Cave-Astuarias"
+   href="{{ '/assets/photos/spain2/spain2-116.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-116.jpg' | relative_url }}" loading="lazy" alt="Spain2 116"><span class="photo-label">Santa Cuevas de Covadonga-Holy Cave-Astuarias</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Bridge-Puente Romano de Cangas de Onis"
+   href="{{ '/assets/photos/spain2/spain2-117.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-117.jpg' | relative_url }}" loading="lazy" alt="Spain2 117"><span class="photo-label">Bridge-Puente Romano de Cangas de Onis</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Asturian natural cider-traditional escanciado pour-Cangas de Onis"
+   href="{{ '/assets/photos/spain2/spain2-118.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-118.jpg' | relative_url }}" loading="lazy" alt="Spain2 118"><span class="photo-label">Asturian natural cider-traditional escanciado pour-Cangas de Onis</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Church of Santa Maria de la Asuncion-Cangas de Onis"
+   href="{{ '/assets/photos/spain2/spain2-119.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-119.jpg' | relative_url }}" loading="lazy" alt="Spain2 119"><span class="photo-label">Church of Santa Maria de la Asuncion-Cangas de Onis</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Iglesia de San Isidor el Real"
+   href="{{ '/assets/photos/spain2/spain2-120.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-120.jpg' | relative_url }}" loading="lazy" alt="Spain2 120"><span class="photo-label">Iglesia de San Isidor el Real</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Facade of Building-Oviedo"
+   href="{{ '/assets/photos/spain2/spain2-121.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-121.jpg' | relative_url }}" loading="lazy" alt="Spain2 121"><span class="photo-label">Facade of Building-Oviedo</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="La Regenta-Oviedo"
+   href="{{ '/assets/photos/spain2/spain2-122.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-122.jpg' | relative_url }}" loading="lazy" alt="Spain2 122"><span class="photo-label">La Regenta-Oviedo</span></a>
+<a class="glightbox" data-gallery="spain-northern" data-title="Cathedral Metropolitana de San Salvador de Oviedo"
+   href="{{ '/assets/photos/spain2/spain2-123.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-123.jpg' | relative_url }}" loading="lazy" alt="Spain2 123"><span class="photo-label">Cathedral Metropolitana de San Salvador de Oviedo</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Jardines de los Reyes Caudillos-Oviedo"
+   href="{{ '/assets/photos/spain2/spain2-124.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-124.jpg' | relative_url }}" loading="lazy" alt="Spain2 124"><span class="photo-label">Jardines de los Reyes Caudillos-Oviedo</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Iglesia de San Isidor el Real"
+   href="{{ '/assets/photos/spain2/spain2-125.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-125.jpg' | relative_url }}" loading="lazy" alt="Spain2 125"><span class="photo-label">Iglesia de San Isidor el Real</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Calle Gascona-Boulevard of Cider-Oviedo"
+   href="{{ '/assets/photos/spain2/spain2-126.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-126.jpg' | relative_url }}" loading="lazy" alt="Spain2 126"><span class="photo-label">Calle Gascona-Boulevard of Cider-Oviedo</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Oviedo"
+   href="{{ '/assets/photos/spain2/spain2-127.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-127.jpg' | relative_url }}" loading="lazy" alt="Spain2 127"><span class="photo-label">Oviedo</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cudillero-Fishing Village-Asturias"
+   href="{{ '/assets/photos/spain2/spain2-128.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-128.jpg' | relative_url }}" loading="lazy" alt="Spain2 128"><span class="photo-label">Cudillero-Fishing Village-Asturias</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cudillero-Fishing Village-Asturias"
+   href="{{ '/assets/photos/spain2/spain2-129.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-129.jpg' | relative_url }}" loading="lazy" alt="Spain2 129"><span class="photo-label">Cudillero-Fishing Village-Asturias</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cudillero-Fishing Village-Asturias"
+   href="{{ '/assets/photos/spain2/spain2-130.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-130.jpg' | relative_url }}" loading="lazy" alt="Spain2 130"><span class="photo-label">Cudillero-Fishing Village-Asturias</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cudillero-Fishing Village-Asturias"
+   href="{{ '/assets/photos/spain2/spain2-131.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-131.jpg' | relative_url }}" loading="lazy" alt="Spain2 131"><span class="photo-label">Cudillero-Fishing Village-Asturias</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cudillero-Fishing Village-Asturias"
+   href="{{ '/assets/photos/spain2/spain2-132.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-132.jpg' | relative_url }}" loading="lazy" alt="Spain2 132"><span class="photo-label">Cudillero-Fishing Village-Asturias</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Playa del Silencia"
+   href="{{ '/assets/photos/spain2/spain2-133.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-133.jpg' | relative_url }}" loading="lazy" alt="Spain2 133"><span class="photo-label">Playa del Silencia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Playa del Silencia"
+   href="{{ '/assets/photos/spain2/spain2-134.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-134.jpg' | relative_url }}" loading="lazy" alt="Spain2 134"><span class="photo-label">Playa del Silencia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Illa Pancha Lighthouse-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-135.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-135.jpg' | relative_url }}" loading="lazy" alt="Spain2 135"><span class="photo-label">Illa Pancha Lighthouse-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cathedral of Santiago de Compostela-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-136.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-136.jpg' | relative_url }}" loading="lazy" alt="Spain2 136"><span class="photo-label">Cathedral of Santiago de Compostela-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Monastery of San Martin Pinario-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-137.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-137.jpg' | relative_url }}" loading="lazy" alt="Spain2 137"><span class="photo-label">Monastery of San Martin Pinario-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Las Dos Marias-Alameda de Santiago de Compostela"
+   href="{{ '/assets/photos/spain2/spain2-138.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-138.jpg' | relative_url }}" loading="lazy" alt="Spain2 138"><span class="photo-label">Las Dos Marias-Alameda de Santiago de Compostela</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Church of Compania-Santiago de Compostela"
+   href="{{ '/assets/photos/spain2/spain2-139.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-139.jpg' | relative_url }}" loading="lazy" alt="Spain2 139"><span class="photo-label">Church of Compania-Santiago de Compostela</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Courtyard-Santiago de Compostela"
+   href="{{ '/assets/photos/spain2/spain2-140.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-140.jpg' | relative_url }}" loading="lazy" alt="Spain2 140"><span class="photo-label">Courtyard-Santiago de Compostela</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Fonte dos Cabalos-Santiago de Compostela"
+   href="{{ '/assets/photos/spain2/spain2-141.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-141.jpg' | relative_url }}" loading="lazy" alt="Spain2 141"><span class="photo-label">Fonte dos Cabalos-Santiago de Compostela</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cathedral of Santiago de Compostela-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-142.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-142.jpg' | relative_url }}" loading="lazy" alt="Spain2 142"><span class="photo-label">Cathedral of Santiago de Compostela-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Baroque Pipe Organ-Cathedral of Santiago de Compostela-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-143.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-143.jpg' | relative_url }}" loading="lazy" alt="Spain2 143"><span class="photo-label">Baroque Pipe Organ-Cathedral of Santiago de Compostela-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="World Cup-Square-Santiago de Compostela-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-144.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-144.jpg' | relative_url }}" loading="lazy" alt="Spain2 144"><span class="photo-label">World Cup-Square-Santiago de Compostela-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="World Cup-Square-Santiago de Compostela-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-145.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-145.jpg' | relative_url }}" loading="lazy" alt="Spain2 145"><span class="photo-label">World Cup-Square-Santiago de Compostela-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="World Cup-Square-Santiago de Compostela-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-146.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-146.jpg' | relative_url }}" loading="lazy" alt="Spain2 146"><span class="photo-label">World Cup-Square-Santiago de Compostela-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="World Cup-Square-Santiago de Compostela-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-147.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-147.jpg' | relative_url }}" loading="lazy" alt="Spain2 147"><span class="photo-label">World Cup-Square-Santiago de Compostela-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="World Cup-Square-Santiago de Compostela-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-148.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-148.jpg' | relative_url }}" loading="lazy" alt="Spain2 148"><span class="photo-label">World Cup-Square-Santiago de Compostela-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cathedral of Lugo-Galicia"
+   href="{{ '/assets/photos/spain2/spain2-149.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-149.jpg' | relative_url }}" loading="lazy" alt="Spain2 149"><span class="photo-label">Cathedral of Lugo-Galicia</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Las Medulas-UNESCO-Leon"
+   href="{{ '/assets/photos/spain2/spain2-150.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-150.jpg' | relative_url }}" loading="lazy" alt="Spain2 150"><span class="photo-label">Las Medulas-UNESCO-Leon</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palacio Episcopal de Astorga"
+   href="{{ '/assets/photos/spain2/spain2-151.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-151.jpg' | relative_url }}" loading="lazy" alt="Spain2 151"><span class="photo-label">Palacio Episcopal de Astorga</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palacio Episcopal de Astorga"
+   href="{{ '/assets/photos/spain2/spain2-152.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-152.jpg' | relative_url }}" loading="lazy" alt="Spain2 152"><span class="photo-label">Palacio Episcopal de Astorga</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palacio Episcopal de Astorga"
+   href="{{ '/assets/photos/spain2/spain2-153.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-153.jpg' | relative_url }}" loading="lazy" alt="Spain2 153"><span class="photo-label">Palacio Episcopal de Astorga</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cathedral of Astorga"
+   href="{{ '/assets/photos/spain2/spain2-154.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-154.jpg' | relative_url }}" loading="lazy" alt="Spain2 154"><span class="photo-label">Cathedral of Astorga</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Cathedral of Astorga"
+   href="{{ '/assets/photos/spain2/spain2-155.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-155.jpg' | relative_url }}" loading="lazy" alt="Spain2 155"><span class="photo-label">Cathedral of Astorga</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Basilica of San Isidoro-Leon"
+   href="{{ '/assets/photos/spain2/spain2-156.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-156.jpg' | relative_url }}" loading="lazy" alt="Spain2 156"><span class="photo-label">Basilica of San Isidoro-Leon</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa Botines-Gaudi designed-Leon"
+   href="{{ '/assets/photos/spain2/spain2-157.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-157.jpg' | relative_url }}" loading="lazy" alt="Spain2 157"><span class="photo-label">Casa Botines-Gaudi designed-Leon</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Colegiata de Santa Juliana-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-158.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-158.jpg' | relative_url }}" loading="lazy" alt="Spain2 158"><span class="photo-label">Colegiata de Santa Juliana-Cantabria</span></a>
+<a class="glightbox" data-gallery="spain-northern" data-title="Colegiata de Santa Juliana-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-159.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-159.jpg' | relative_url }}" loading="lazy" alt="Spain2 159"><span class="photo-label">Colegiata de Santa Juliana-Cantabria</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Sunflowers along the drive"
+   href="{{ '/assets/photos/spain2/spain2-160.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-160.jpg' | relative_url }}" loading="lazy" alt="Spain2 160"><span class="photo-label">Sunflowers along the drive</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Iglesia de Santa Maria la Antigua"
+   href="{{ '/assets/photos/spain2/spain2-161.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-161.jpg' | relative_url }}" loading="lazy" alt="Spain2 161"><span class="photo-label">Iglesia de Santa Maria la Antigua</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Baroque Patio of the Escuelas Menored-Salamanca"
+   href="{{ '/assets/photos/spain2/spain2-162.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-162.jpg' | relative_url }}" loading="lazy" alt="Spain2 162"><span class="photo-label">Baroque Patio of the Escuelas Menored-Salamanca</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa de las Conchas-Salamanca"
+   href="{{ '/assets/photos/spain2/spain2-163.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-163.jpg' | relative_url }}" loading="lazy" alt="Spain2 163"><span class="photo-label">Casa de las Conchas-Salamanca</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Casa de las Conchas-Salamanca"
+   href="{{ '/assets/photos/spain2/spain2-164.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-164.jpg' | relative_url }}" loading="lazy" alt="Spain2 164"><span class="photo-label">Casa de las Conchas-Salamanca</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Plaza Major-Salamanca"
+   href="{{ '/assets/photos/spain2/spain2-165.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-165.jpg' | relative_url }}" loading="lazy" alt="Spain2 165"><span class="photo-label">Plaza Major-Salamanca</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Medieval Walls of Avila-UNESCO"
+   href="{{ '/assets/photos/spain2/spain2-166.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-166.jpg' | relative_url }}" loading="lazy" alt="Spain2 166"><span class="photo-label">Walls of Avila-UNESCO</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Puerto del Rastro-Avila"
+   href="{{ '/assets/photos/spain2/spain2-167.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-167.jpg' | relative_url }}" loading="lazy" alt="Spain2 167"><span class="photo-label">Puerto del Rastro-Avila</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palacio Episcopal de Avila"
+   href="{{ '/assets/photos/spain2/spain2-168.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-168.jpg' | relative_url }}" loading="lazy" alt="Spain2 168"><span class="photo-label">Palacio Episcopal de Avila</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Rooftops of Avila"
+   href="{{ '/assets/photos/spain2/spain2-169.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-169.jpg' | relative_url }}" loading="lazy" alt="Spain2 169"><span class="photo-label">Rooftops of Avila</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Medieval Walls of Avila-UNESCO"
+   href="{{ '/assets/photos/spain2/spain2-170.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-170.jpg' | relative_url }}" loading="lazy" alt="Spain2 170"><span class="photo-label">Medieval Walls of Avila-UNESCO</span></a>
    </div>
 </details>
 
