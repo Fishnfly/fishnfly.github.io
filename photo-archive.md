@@ -15,7 +15,7 @@ What you'll find here are collections, grouped by journey, left mostly alone, an
 <a id="galapagos"></a>
 ## Galapagos
 
-Empires faded. Mountains endured. Traditions carried forward through practice, not preservation.
+Isolation shaped evolution. Life adapted to boundaries rather than overcoming them. Nothing wasted. Nothing hurried.
 
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
