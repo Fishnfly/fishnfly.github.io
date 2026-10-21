@@ -322,34 +322,34 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
    href="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-096.jpg' | relative_url }}" loading="lazy" alt="Spain2 96"><span class="photo-label">El Capricho de Gaudi-Comillas</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Former Site of Comillas Pontifical University"
    href="{{ '/assets/photos/spain2/spain2-097.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-097.jpg' | relative_url }}" loading="lazy" alt="Spain2 97"><span class="photo-label">Former Site of Comillas Pontifical University</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-098.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-098.jpg' | relative_url }}" loading="lazy" alt="Spain2 98"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-099.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-099.jpg' | relative_url }}" loading="lazy" alt="Spain2 99"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-100.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-100.jpg' | relative_url }}" loading="lazy" alt="Spain2 100"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-101.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-101.jpg' | relative_url }}" loading="lazy" alt="Spain2 101"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-102.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-102.jpg' | relative_url }}" loading="lazy" alt="Spain2 102"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-103.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-103.jpg' | relative_url }}" loading="lazy" alt="Spain2 103"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-104.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-104.jpg' | relative_url }}" loading="lazy" alt="Spain2 104"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-105.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-105.jpg' | relative_url }}" loading="lazy" alt="Spain2 105"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-106.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-106.jpg' | relative_url }}" loading="lazy" alt="Spain2 106"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-107.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-107.jpg' | relative_url }}" loading="lazy" alt="Spain2 107"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-108.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-108.jpg' | relative_url }}" loading="lazy" alt="Spain2 108"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-109.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-109.jpg' | relative_url }}" loading="lazy" alt="Spain2 109"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-110.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-110.jpg' | relative_url }}" loading="lazy" alt="Spain2 110"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="spain-northern" data-title="Label"
-   href="{{ '/assets/photos/spain2/spain2-111.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-111.jpg' | relative_url }}" loading="lazy" alt="Spain2 111"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Palacio de Sobrellano-Comillas"
+   href="{{ '/assets/photos/spain2/spain2-098.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-098.jpg' | relative_url }}" loading="lazy" alt="Spain2 98"><span class="photo-label">Palacio de Sobrellano-Comillas</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="El Capricho de Gaudi-Comillas"
+   href="{{ '/assets/photos/spain2/spain2-099.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-099.jpg' | relative_url }}" loading="lazy" alt="Spain2 99"><span class="photo-label">El Capricho de Gaudi-Comillas</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Mirador de Santa Catalina-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-100.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-100.jpg' | relative_url }}" loading="lazy" alt="Spain2 100"><span class="photo-label">Mirador de Santa Catalina-Cantabria</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Parador de Fuente De-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-101.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-101.jpg' | relative_url }}" loading="lazy" alt="Spain2 101"><span class="photo-label">Parador de Fuente De-Cantabria</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Picos de Europa-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-102.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-102.jpg' | relative_url }}" loading="lazy" alt="Spain2 102"><span class="photo-label">Picos de Europa-Cantabria</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Picos de Europa-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-103.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-103.jpg' | relative_url }}" loading="lazy" alt="Spain2 103"><span class="photo-label">Picos de Europa-CantabriaLabel</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Desfiladero de La Hermida-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-104.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-104.jpg' | relative_url }}" loading="lazy" alt="Spain2 104"><span class="photo-label">Desfiladero de La Hermida-Cantabria</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Bulnes-Picos de Europa"
+   href="{{ '/assets/photos/spain2/spain2-105.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-105.jpg' | relative_url }}" loading="lazy" alt="Spain2 105"><span class="photo-label">Bulnes-Picos de Europa</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Bulnes-Picos de Europa"
+   href="{{ '/assets/photos/spain2/spain2-106.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-106.jpg' | relative_url }}" loading="lazy" alt="Spain2 106"><span class="photo-label">Bulnes-Picos de Europa</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Desfiladero de La Hermida-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-107.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-107.jpg' | relative_url }}" loading="lazy" alt="Spain2 107"><span class="photo-label">Desfiladero de La Hermida-Cantabria</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Desfiladero de La Hermida-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-108.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-108.jpg' | relative_url }}" loading="lazy" alt="Spain2 108"><span class="photo-label">Desfiladero de La Hermida-Cantabria</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Goats on the Trail-Desfiladero de La Hermida-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-109.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-109.jpg' | relative_url }}" loading="lazy" alt="Spain2 109"><span class="photo-label">Goats on the Trail-Desfiladero de La Hermida-Cantabria</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Goats on the Trail-Desfiladero de La Hermida-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-110.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-110.jpg' | relative_url }}" loading="lazy" alt="Spain2 110"><span class="photo-label">Goats on the Trail-Desfiladero de La Hermida-Cantabria</span></a>
+   <a class="glightbox" data-gallery="spain-northern" data-title="Desfiladero de La Hermida-Cantabria"
+   href="{{ '/assets/photos/spain2/spain2-111.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-111.jpg' | relative_url }}" loading="lazy" alt="Spain2 111"><span class="photo-label">Desfiladero de La Hermida-Cantabria</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
    href="{{ '/assets/photos/spain2/spain2-112.jpg' | relative_url }}"><img src="{{ '/assets/photos/spain2/spain2-112.jpg' | relative_url }}" loading="lazy" alt="Spain2 112"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="spain-northern" data-title="Label"
