@@ -312,7 +312,7 @@ It held from within.
 
 **Cappadocia Pic**
 
-![Cappadocia2](/assets/images/turkey/ballooncombo.jpg)
+![Balooncombo](/assets/images/turkey/ballooncombo.jpg)
 
 Further into the country, the relationship between environment and structure became more complete.
 
