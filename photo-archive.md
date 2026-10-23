@@ -580,6 +580,305 @@ Empires faded. Mountains endured. Traditions carried forward through practice, n
    href="{{ '/assets/photos/bulgaria/photo-50.jpg' | relative_url }}"><img src="{{ '/assets/photos/bulgaria/photo-50.jpg' | relative_url }}" loading="lazy" alt="Bulgaria 50"><span class="photo-label">"St. Alexander Levsky Cathedral-Night</span></a>
  </div>
 </details>
+---
+
+<a id="turkey"></a>
+## Turkey
+
+Crossroads without conclusion. Empires, faiths, and cultures layered across the same landscape.
+
+<details class="photo-fold">
+  <summary>Open field photographs from this journey</summary>
+ 
+  <div class="photo-grid">
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}" loading="lazy" alt="photo-001"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}" loading="lazy" alt="photo-002"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}" loading="lazy" alt="photo-003"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-004.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-004.jpg' | relative_url }}" loading="lazy" alt="photo-004"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}" loading="lazy" alt="photo-005"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-006.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-006.jpg' | relative_url }}" loading="lazy" alt="photo-006"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-007.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-007.jpg' | relative_url }}" loading="lazy" alt="photo-007"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-008.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-008.jpg' | relative_url }}" loading="lazy" alt="photo-008"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-009.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-009.jpg' | relative_url }}" loading="lazy" alt="photo-009"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-010.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-010.jpg' | relative_url }}" loading="lazy" alt="photo-010"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-011.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-011.jpg' | relative_url }}" loading="lazy" alt="photo-011"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-012.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-012.jpg' | relative_url }}" loading="lazy" alt="photo-012"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-013.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-013.jpg' | relative_url }}" loading="lazy" alt="photo-013"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-014.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-014.jpg' | relative_url }}" loading="lazy" alt="photo-014"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-015.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-015.jpg' | relative_url }}" loading="lazy" alt="photo-015"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-016.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-016.jpg' | relative_url }}" loading="lazy" alt="photo-016"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-017.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-017.jpg' | relative_url }}" loading="lazy" alt="photo-017"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-018.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-018.jpg' | relative_url }}" loading="lazy" alt="photo-018"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-019.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-019.jpg' | relative_url }}" loading="lazy" alt="photo-019"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-020.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-020.jpg' | relative_url }}" loading="lazy" alt="photo-020"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-021.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-021.jpg' | relative_url }}" loading="lazy" alt="photo-021"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-022.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-022.jpg' | relative_url }}" loading="lazy" alt="photo-022"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-023.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-023.jpg' | relative_url }}" loading="lazy" alt="photo-023"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}" loading="lazy" alt="photo-024"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-025.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-025.jpg' | relative_url }}" loading="lazy" alt="photo-025"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-026.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-026.jpg' | relative_url }}" loading="lazy" alt="photo-026"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-027.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-027.jpg' | relative_url }}" loading="lazy" alt="photo-027"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-028.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-028.jpg' | relative_url }}" loading="lazy" alt="photo-028"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-029.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-029.jpg' | relative_url }}" loading="lazy" alt="photo-029"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-030.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-030.jpg' | relative_url }}" loading="lazy" alt="photo-030"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-031.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-031.jpg' | relative_url }}" loading="lazy" alt="photo-031"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-032.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-032.jpg' | relative_url }}" loading="lazy" alt="photo-032"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-033.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-033.jpg' | relative_url }}" loading="lazy" alt="photo-033"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-034.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-034.jpg' | relative_url }}" loading="lazy" alt="photo-034"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-035.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-035.jpg' | relative_url }}" loading="lazy" alt="photo-035"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-036.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-036.jpg' | relative_url }}" loading="lazy" alt="photo-036"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-037.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-037.jpg' | relative_url }}" loading="lazy" alt="photo-037"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-038.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-038.jpg' | relative_url }}" loading="lazy" alt="photo-038"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-039.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-039.jpg' | relative_url }}" loading="lazy" alt="photo-039"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-040.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-040.jpg' | relative_url }}" loading="lazy" alt="photo-040"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-041.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-041.jpg' | relative_url }}" loading="lazy" alt="photo-041"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-042.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-042.jpg' | relative_url }}" loading="lazy" alt="photo-042"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-043.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-043.jpg' | relative_url }}" loading="lazy" alt="photo-043"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-044.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-044.jpg' | relative_url }}" loading="lazy" alt="photo-044"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-045.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-045.jpg' | relative_url }}" loading="lazy" alt="photo-045"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-046.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-046.jpg' | relative_url }}" loading="lazy" alt="photo-046"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-047.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-047.jpg' | relative_url }}" loading="lazy" alt="photo-047"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-048.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-048.jpg' | relative_url }}" loading="lazy" alt="photo-048"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-049.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-049.jpg' | relative_url }}" loading="lazy" alt="photo-049"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-050.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-050.jpg' | relative_url }}" loading="lazy" alt="photo-050"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-051.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-051.jpg' | relative_url }}" loading="lazy" alt="photo-051"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-052.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-052.jpg' | relative_url }}" loading="lazy" alt="photo-052"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-053.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-053.jpg' | relative_url }}" loading="lazy" alt="photo-053"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-054.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-054.jpg' | relative_url }}" loading="lazy" alt="photo-054"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-055.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-055.jpg' | relative_url }}" loading="lazy" alt="photo-055"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-056.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-056.jpg' | relative_url }}" loading="lazy" alt="photo-056"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-057.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-057.jpg' | relative_url }}" loading="lazy" alt="photo-057"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-058.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-058.jpg' | relative_url }}" loading="lazy" alt="photo-058"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-059.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-059.jpg' | relative_url }}" loading="lazy" alt="photo-059"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-060.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-060.jpg' | relative_url }}" loading="lazy" alt="photo-060"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-061.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-061.jpg' | relative_url }}" loading="lazy" alt="photo-061"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-062.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-062.jpg' | relative_url }}" loading="lazy" alt="photo-062"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-063.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-063.jpg' | relative_url }}" loading="lazy" alt="photo-063"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-064.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-064.jpg' | relative_url }}" loading="lazy" alt="photo-064"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-065.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-065.jpg' | relative_url }}" loading="lazy" alt="photo-065"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-066.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-066.jpg' | relative_url }}" loading="lazy" alt="photo-066"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-067.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-067.jpg' | relative_url }}" loading="lazy" alt="photo-067"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-068.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-068.jpg' | relative_url }}" loading="lazy" alt="photo-068"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-069.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-069.jpg' | relative_url }}" loading="lazy" alt="photo-069"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-070.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-070.jpg' | relative_url }}" loading="lazy" alt="photo-070"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-071.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-071.jpg' | relative_url }}" loading="lazy" alt="photo-071"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-072.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-072.jpg' | relative_url }}" loading="lazy" alt="photo-072"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-073.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-073.jpg' | relative_url }}" loading="lazy" alt="photo-073"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-074.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-074.jpg' | relative_url }}" loading="lazy" alt="photo-074"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-075.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-075.jpg' | relative_url }}" loading="lazy" alt="photo-075"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-076.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-076.jpg' | relative_url }}" loading="lazy" alt="photo-076"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-077.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-077.jpg' | relative_url }}" loading="lazy" alt="photo-077"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-078.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-078.jpg' | relative_url }}" loading="lazy" alt="photo-078"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-079.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-079.jpg' | relative_url }}" loading="lazy" alt="photo-079"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-080.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-080.jpg' | relative_url }}" loading="lazy" alt="photo-080"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-081.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-081.jpg' | relative_url }}" loading="lazy" alt="photo-081"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-082.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-082.jpg' | relative_url }}" loading="lazy" alt="photo-082"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-083.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-083.jpg' | relative_url }}" loading="lazy" alt="photo-083"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-084.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-084.jpg' | relative_url }}" loading="lazy" alt="photo-084"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-085.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-085.jpg' | relative_url }}" loading="lazy" alt="photo-085"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-086.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-086.jpg' | relative_url }}" loading="lazy" alt="photo-086"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-087.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-087.jpg' | relative_url }}" loading="lazy" alt="photo-087"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-088.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-088.jpg' | relative_url }}" loading="lazy" alt="photo-088"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-089.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-089.jpg' | relative_url }}" loading="lazy" alt="photo-089"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-090.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-090.jpg' | relative_url }}" loading="lazy" alt="photo-090"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-091.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-091.jpg' | relative_url }}" loading="lazy" alt="photo-091"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-092.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-092.jpg' | relative_url }}" loading="lazy" alt="photo-092"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-093.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-093.jpg' | relative_url }}" loading="lazy" alt="photo-093"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-094.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-094.jpg' | relative_url }}" loading="lazy" alt="photo-094"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-095.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-095.jpg' | relative_url }}" loading="lazy" alt="photo-095"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-096.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-096.jpg' | relative_url }}" loading="lazy" alt="photo-096"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-097.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-097.jpg' | relative_url }}" loading="lazy" alt="photo-097"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-098.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-098.jpg' | relative_url }}" loading="lazy" alt="photo-098"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-099.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-099.jpg' | relative_url }}" loading="lazy" alt="photo-099"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-100.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-100.jpg' | relative_url }}" loading="lazy" alt="photo-100"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-101.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-101.jpg' | relative_url }}" loading="lazy" alt="photo-101"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-102.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-102.jpg' | relative_url }}" loading="lazy" alt="photo-102"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-103.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-103.jpg' | relative_url }}" loading="lazy" alt="photo-103"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-104.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-104.jpg' | relative_url }}" loading="lazy" alt="photo-104"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-105.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-105.jpg' | relative_url }}" loading="lazy" alt="photo-105"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-106.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-106.jpg' | relative_url }}" loading="lazy" alt="photo-106"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-107.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-107.jpg' | relative_url }}" loading="lazy" alt="photo-107"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-108.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-108.jpg' | relative_url }}" loading="lazy" alt="photo-108"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-109.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-109.jpg' | relative_url }}" loading="lazy" alt="photo-109"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-110.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-110.jpg' | relative_url }}" loading="lazy" alt="photo-110"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-111.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-111.jpg' | relative_url }}" loading="lazy" alt="photo-111"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-112.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-112.jpg' | relative_url }}" loading="lazy" alt="photo-112"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-113.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-113.jpg' | relative_url }}" loading="lazy" alt="photo-113"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-114.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-114.jpg' | relative_url }}" loading="lazy" alt="photo-114"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-115.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-115.jpg' | relative_url }}" loading="lazy" alt="photo-115"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-116.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-116.jpg' | relative_url }}" loading="lazy" alt="photo-116"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-117.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-117.jpg' | relative_url }}" loading="lazy" alt="photo-117"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-118.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-118.jpg' | relative_url }}" loading="lazy" alt="photo-118"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-119.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-119.jpg' | relative_url }}" loading="lazy" alt="photo-119"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-120.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-120.jpg' | relative_url }}" loading="lazy" alt="photo-120"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-121.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-121.jpg' | relative_url }}" loading="lazy" alt="photo-121"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-122.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-122.jpg' | relative_url }}" loading="lazy" alt="photo-122"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-123.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-123.jpg' | relative_url }}" loading="lazy" alt="photo-123"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-124.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-124.jpg' | relative_url }}" loading="lazy" alt="photo-124"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-125.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-125.jpg' | relative_url }}" loading="lazy" alt="photo-125"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-126.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-126.jpg' | relative_url }}" loading="lazy" alt="photo-126"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-127.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-127.jpg' | relative_url }}" loading="lazy" alt="photo-127"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-128.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-128.jpg' | relative_url }}" loading="lazy" alt="photo-128"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-129.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-129.jpg' | relative_url }}" loading="lazy" alt="photo-129"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-130.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-130.jpg' | relative_url }}" loading="lazy" alt="photo-130"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-131.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-131.jpg' | relative_url }}" loading="lazy" alt="photo-131"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-132.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-132.jpg' | relative_url }}" loading="lazy" alt="photo-132"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-133.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-133.jpg' | relative_url }}" loading="lazy" alt="photo-133"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-134.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-134.jpg' | relative_url }}" loading="lazy" alt="photo-134"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-135.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-135.jpg' | relative_url }}" loading="lazy" alt="photo-135"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-136.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-136.jpg' | relative_url }}" loading="lazy" alt="photo-136"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-137.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-137.jpg' | relative_url }}" loading="lazy" alt="photo-137"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-138.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-138.jpg' | relative_url }}" loading="lazy" alt="photo-138"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-139.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-139.jpg' | relative_url }}" loading="lazy" alt="photo-139"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-140.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-140.jpg' | relative_url }}" loading="lazy" alt="photo-140"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-141.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-141.jpg' | relative_url }}" loading="lazy" alt="photo-141"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-142.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-142.jpg' | relative_url }}" loading="lazy" alt="photo-142"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Label"
+    href="{{ '/assets/photos/turkey/photo-143.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-143.jpg' | relative_url }}" loading="lazy" alt="photo-143"><span class="photo-label">Label</span></a>
+  </div>
+</details>
 
 ---
 
