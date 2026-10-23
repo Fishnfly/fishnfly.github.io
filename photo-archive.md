@@ -482,12 +482,12 @@ Crossroads without conclusion. Empires, faiths, and cultures layered across the 
   <summary>Open field photographs from this journey</summary>
  
   <div class="photo-grid">
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}" loading="lazy" alt="photo-001"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}" loading="lazy" alt="photo-002"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}" loading="lazy" alt="photo-003"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Aerial View of Istanbul"
+    href="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}" loading="lazy" alt="photo-001"><span class="photo-label">Aerial View of Istanbul</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Aerial View of Istanbul"
+    href="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}" loading="lazy" alt="photo-002"><span class="photo-label">Aerial View of Istanbul</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Aerial View of Istanbul"
+    href="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}" loading="lazy" alt="photo-003"><span class="photo-label">Aerial View of Istanbul</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Label"
     href="{{ '/assets/photos/turkey/photo-004.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-004.jpg' | relative_url }}" loading="lazy" alt="photo-004"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Label"
