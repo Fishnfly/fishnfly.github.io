@@ -596,60 +596,60 @@ Crossroads without conclusion. Empires, faiths, and cultures layered across the 
     href="{{ '/assets/photos/turkey/photo-057.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-057.jpg' | relative_url }}" loading="lazy" alt="photo-057"><span class="photo-label">Bosphorus View</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Topkapi Palace Garden"
     href="{{ '/assets/photos/turkey/photo-058.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-058.jpg' | relative_url }}" loading="lazy" alt="photo-058"><span class="photo-label">Topkapi Palace Garden</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Ciragan Palace Interior"
-    href="{{ '/assets/photos/turkey/photo-059.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-059.jpg' | relative_url }}" loading="lazy" alt="photo-059"><span class="photo-label">Ciragan Palace Interior</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Ciragan Palace Lounge"
-    href="{{ '/assets/photos/turkey/photo-060.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-060.jpg' | relative_url }}" loading="lazy" alt="photo-060"><span class="photo-label">Ciragan Palace Lounge</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Ciragan Palace Exterior"
-    href="{{ '/assets/photos/turkey/photo-061.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-061.jpg' | relative_url }}" loading="lazy" alt="photo-061"><span class="photo-label">Ciragan Palace Exterior</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pera Palace Grand Hall"
+    href="{{ '/assets/photos/turkey/photo-059.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-059.jpg' | relative_url }}" loading="lazy" alt="photo-059"><span class="photo-label">Pera Palace Grand Hall</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pera Palace Lounge"
+    href="{{ '/assets/photos/turkey/photo-060.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-060.jpg' | relative_url }}" loading="lazy" alt="photo-060"><span class="photo-label">Pera Palace Lounge</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pera Palace Exterior"
+    href="{{ '/assets/photos/turkey/photo-061.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-061.jpg' | relative_url }}" loading="lazy" alt="photo-061"><span class="photo-label">Pera Palace Exterior</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Trojan Horse Statue"
     href="{{ '/assets/photos/turkey/photo-062.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-062.jpg' | relative_url }}" loading="lazy" alt="photo-062"><span class="photo-label">Trojan Horse Statue</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Ancient Troy Ruins"
     href="{{ '/assets/photos/turkey/photo-063.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-063.jpg' | relative_url }}" loading="lazy" alt="photo-063"><span class="photo-label">Ancient Troy Ruins</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Troy Archaeological Site"
     href="{{ '/assets/photos/turkey/photo-064.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-064.jpg' | relative_url }}" loading="lazy" alt="photo-064"><span class="photo-label">Troy Archaeological Site</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-065.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-065.jpg' | relative_url }}" loading="lazy" alt="photo-065"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-066.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-066.jpg' | relative_url }}" loading="lazy" alt="photo-066"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-067.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-067.jpg' | relative_url }}" loading="lazy" alt="photo-067"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-068.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-068.jpg' | relative_url }}" loading="lazy" alt="photo-068"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-069.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-069.jpg' | relative_url }}" loading="lazy" alt="photo-069"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-070.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-070.jpg' | relative_url }}" loading="lazy" alt="photo-070"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-071.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-071.jpg' | relative_url }}" loading="lazy" alt="photo-071"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-072.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-072.jpg' | relative_url }}" loading="lazy" alt="photo-072"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-073.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-073.jpg' | relative_url }}" loading="lazy" alt="photo-073"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-074.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-074.jpg' | relative_url }}" loading="lazy" alt="photo-074"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-075.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-075.jpg' | relative_url }}" loading="lazy" alt="photo-075"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-076.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-076.jpg' | relative_url }}" loading="lazy" alt="photo-076"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-077.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-077.jpg' | relative_url }}" loading="lazy" alt="photo-077"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-078.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-078.jpg' | relative_url }}" loading="lazy" alt="photo-078"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-079.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-079.jpg' | relative_url }}" loading="lazy" alt="photo-079"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-080.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-080.jpg' | relative_url }}" loading="lazy" alt="photo-080"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-081.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-081.jpg' | relative_url }}" loading="lazy" alt="photo-081"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-082.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-082.jpg' | relative_url }}" loading="lazy" alt="photo-082"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-083.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-083.jpg' | relative_url }}" loading="lazy" alt="photo-083"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-084.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-084.jpg' | relative_url }}" loading="lazy" alt="photo-084"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-085.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-085.jpg' | relative_url }}" loading="lazy" alt="photo-085"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Ancient Troy Ruins"
+    href="{{ '/assets/photos/turkey/photo-065.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-065.jpg' | relative_url }}" loading="lazy" alt="photo-065"><span class="photo-label">Ancient Troy Ruins</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Troy Archaeological Site"
+    href="{{ '/assets/photos/turkey/photo-066.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-066.jpg' | relative_url }}" loading="lazy" alt="photo-066"><span class="photo-label">Troy Archaeological Site</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Trojan Horse Statue"
+    href="{{ '/assets/photos/turkey/photo-067.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-067.jpg' | relative_url }}" loading="lazy" alt="photo-067"><span class="photo-label">Trojan Horse Statue</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Çanakkale Waterfront Hotel"
+    href="{{ '/assets/photos/turkey/photo-068.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-068.jpg' | relative_url }}" loading="lazy" alt="photo-068"><span class="photo-label">Çanakkale Waterfront Hotel</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Aegean Sunset"
+    href="{{ '/assets/photos/turkey/photo-069.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-069.jpg' | relative_url }}" loading="lazy" alt="photo-069"><span class="photo-label">Aegean Sunset</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Ephesus Terrace Houses"
+    href="{{ '/assets/photos/turkey/photo-070.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-070.jpg' | relative_url }}" loading="lazy" alt="photo-070"><span class="photo-label">Ephesus Terrace Houses</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Ephesus Underground Passage"
+    href="{{ '/assets/photos/turkey/photo-071.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-071.jpg' | relative_url }}" loading="lazy" alt="photo-071"><span class="photo-label">Ephesus Underground Passage</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Ephesus Hillside Ruins"
+    href="{{ '/assets/photos/turkey/photo-072.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-072.jpg' | relative_url }}" loading="lazy" alt="photo-072"><span class="photo-label">Ephesus Hillside Ruins</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Aegean Waterfront Dining"
+    href="{{ '/assets/photos/turkey/photo-073.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-073.jpg' | relative_url }}" loading="lazy" alt="photo-073"><span class="photo-label">Aegean Waterfront Dining</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Aegean Sunset Cruise"
+    href="{{ '/assets/photos/turkey/photo-074.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-074.jpg' | relative_url }}" loading="lazy" alt="photo-074"><span class="photo-label">Aegean Sunset Cruise</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Kuşadası Waterfront Monument"
+    href="{{ '/assets/photos/turkey/photo-075.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-075.jpg' | relative_url }}" loading="lazy" alt="photo-075"><span class="photo-label">Kuşadası Waterfront Monument</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Kusadasi Harbor"
+    href="{{ '/assets/photos/turkey/photo-076.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-076.jpg' | relative_url }}" loading="lazy" alt="photo-076"><span class="photo-label">Kusadasi Harbor</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pamukkale Wildflowers"
+    href="{{ '/assets/photos/turkey/photo-077.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-077.jpg' | relative_url }}" loading="lazy" alt="photo-077"><span class="photo-label">Pamukkale Wildflowers</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Hierapolis Tomb Caves"
+    href="{{ '/assets/photos/turkey/photo-078.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-078.jpg' | relative_url }}" loading="lazy" alt="photo-078"><span class="photo-label">Hierapolis Tomb Caves</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pamukkale Travertines"
+    href="{{ '/assets/photos/turkey/photo-079.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-079.jpg' | relative_url }}" loading="lazy" alt="photo-079"><span class="photo-label">Pamukkale Travertines</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pamukkale Terrace Pools"
+    href="{{ '/assets/photos/turkey/photo-080.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-080.jpg' | relative_url }}" loading="lazy" alt="photo-080"><span class="photo-label">Pamukkale Terrace Pools</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pamukkale Terraces"
+    href="{{ '/assets/photos/turkey/photo-081.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-081.jpg' | relative_url }}" loading="lazy" alt="photo-081"><span class="photo-label">Pamukkale Terraces</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pamukkale Thermal Pools"
+    href="{{ '/assets/photos/turkey/photo-082.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-082.jpg' | relative_url }}" loading="lazy" alt="photo-082"><span class="photo-label">Pamukkale Thermal Pools</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pamukkale Limestone Terraces"
+    href="{{ '/assets/photos/turkey/photo-083.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-083.jpg' | relative_url }}" loading="lazy" alt="photo-083"><span class="photo-label">Pamukkale Limestone Terraces</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Pamukkale White Terraces"
+    href="{{ '/assets/photos/turkey/photo-084.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-084.jpg' | relative_url }}" loading="lazy" alt="photo-084"><span class="photo-label">Pamukkale White Terraces</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Hierapolis Frontinus Gate"
+    href="{{ '/assets/photos/turkey/photo-085.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-085.jpg' | relative_url }}" loading="lazy" alt="photo-085"><span class="photo-label">Hierapolis Frontinus Gate</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Label"
     href="{{ '/assets/photos/turkey/photo-086.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-086.jpg' | relative_url }}" loading="lazy" alt="photo-086"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Label"
