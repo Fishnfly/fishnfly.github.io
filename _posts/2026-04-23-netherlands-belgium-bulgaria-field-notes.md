@@ -528,7 +528,10 @@ The distinction mattered. One organized water. The other organized difference. B
 
 ![Mont des Art](/assets/images/belgium/montdesart.jpg)
 
-*Field photographs from this journey:*  
+---
+
+# Field photographs from this journey
+  
 [View the photo archive](/photo-archive/#netherlands)
 
 ---
@@ -645,7 +648,7 @@ If anything, it clarified it. Systems could be designed, lived, scaled, or layer
 
 Movement continued east, but the expectation of order had shifted.
 
-*Field photographs from this journey:*  
+# Field photographs from this journey  
 
 [View the photo archive](/photo-archive/#bulgaria)
 
@@ -770,6 +773,7 @@ and how that expectation changes as you move through them.
 ---
 
 ## More Field Notes
+
 See other movements across landscapes:
 
 - [Travel Index](/travel/)

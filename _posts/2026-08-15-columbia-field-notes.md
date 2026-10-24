@@ -393,3 +393,17 @@ The biggest change, however, would not involve adding destinations. It would inv
 The strongest insights came through participation. The workshops. The agricultural visits. The community projects. The shared meals. The local conversations.
 
 If we returned, we would build the trip around more of them. The destinations introduced Colombia. The people explained it.
+
+---
+
+# Field photographs from this journey:
+
+[View the photo archive](/photo-archive/#columbia)
+
+---
+
+## More Field Notes
+See other movements across landscapes:
+
+- [Travel Index](/travel/)
+
