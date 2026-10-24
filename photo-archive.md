@@ -758,18 +758,18 @@ Crossroads without conclusion. Empires, faiths, and cultures layered across the 
     href="{{ '/assets/photos/turkey/photo-136.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-136.jpg' | relative_url }}" loading="lazy" alt="photo-136"><span class="photo-label">Anıtkabir Mausoleum</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Anıtkabir Ceremonial Plaza"
     href="{{ '/assets/photos/turkey/photo-137.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-137.jpg' | relative_url }}" loading="lazy" alt="photo-137"><span class="photo-label">Anıtkabir Ceremonial Plaza</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Dolmabahçe Palace Waterfront"
-    href="{{ '/assets/photos/turkey/photo-138.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-138.jpg' | relative_url }}" loading="lazy" alt="photo-138"><span class="photo-label">Dolmabahçe Palace Waterfront</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Beylerbeyi Palace"
+    href="{{ '/assets/photos/turkey/photo-138.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-138.jpg' | relative_url }}" loading="lazy" alt="photo-138"><span class="photo-label">Beylerbeyi Palace</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Küçüksu Pavilion"
     href="{{ '/assets/photos/turkey/photo-139.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-139.jpg' | relative_url }}" loading="lazy" alt="photo-139"><span class="photo-label">Küçüksu Pavilion</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Rumeli Hisarı"
-    href="{{ '/assets/photos/turkey/photo-140.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-140.jpg' | relative_url }}" loading="lazy" alt="photo-140"><span class="photo-label">Rumeli Hisarı</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Rumeli Fortress"
+    href="{{ '/assets/photos/turkey/photo-140.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-140.jpg' | relative_url }}" loading="lazy" alt="photo-140"><span class="photo-label">Rumeli Fortress</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Ortaköy Mosque"
     href="{{ '/assets/photos/turkey/photo-141.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-141.jpg' | relative_url }}" loading="lazy" alt="photo-141"><span class="photo-label">Ortaköy Mosque</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Çırağan Palace"
+    href="{{ '/assets/photos/turkey/photo-142.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-142.jpg' | relative_url }}" loading="lazy" alt="photo-142"><span class="photo-label">Çırağan Palace</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Dolmabahçe Palace Waterfront"
-    href="{{ '/assets/photos/turkey/photo-142.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-142.jpg' | relative_url }}" loading="lazy" alt="photo-142"><span class="photo-label">Dolmabahçe Palace Waterfront</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Dolmabahçe Palace Seafront"
-    href="{{ '/assets/photos/turkey/photo-143.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-143.jpg' | relative_url }}" loading="lazy" alt="photo-143"><span class="photo-label">Dolmabahçe Palace Seafront</span></a>
+    href="{{ '/assets/photos/turkey/photo-143.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-143.jpg' | relative_url }}" loading="lazy" alt="photo-143"><span class="photo-label">Dolmabahçe Palace Waterfront</span></a>
   </div>
 </details>
 
