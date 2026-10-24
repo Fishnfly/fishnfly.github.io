@@ -526,8 +526,8 @@ Crossroads without conclusion. Empires, faiths, and cultures layered across the 
     href="{{ '/assets/photos/turkey/photo-022.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-022.jpg' | relative_url }}" loading="lazy" alt="photo-022"><span class="photo-label">Basilica Cistern Interior</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Columns"
     href="{{ '/assets/photos/turkey/photo-023.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-023.jpg' | relative_url }}" loading="lazy" alt="photo-023"><span class="photo-label">Basilica Cistern Columns</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Exterior"
-    href="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}" loading="lazy" alt="photo-024"><span class="photo-label">Blue Mosque Exterior</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque"
+    href="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}" loading="lazy" alt="photo-024"><span class="photo-label">Suleymaniye Mosque</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque Courtyard"
     href="{{ '/assets/photos/turkey/photo-025.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-025.jpg' | relative_url }}" loading="lazy" alt="photo-025"><span class="photo-label">Suleymaniye Mosque Courtyard</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque Courtyard"
