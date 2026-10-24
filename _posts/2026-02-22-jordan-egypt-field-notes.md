@@ -274,7 +274,7 @@ Optional museum and market visits.
 
 ---
 
-# Field photographs from the Jordan | Egypt journey
+### Field photographs from the Jordan | Egypt journey
 
 [View the photo archive](/photo-archive/#jordan)
 
@@ -321,6 +321,7 @@ This wasn’t a trip about seeing Egypt and Jordan. It was a trip about learning
 ---
 
 ## More Field Notes
+
 See other movements across landscapes:
 
 - [Travel Index](/travel/)

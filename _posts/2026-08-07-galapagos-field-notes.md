@@ -406,7 +406,7 @@ Fragility is not weakness. It is the price of rarity.
 
 ---
 
-# Field photographs from this journey
+### Field photographs from this journey
 
 [View the photo archive](/photo-archive/#galapogos)
 

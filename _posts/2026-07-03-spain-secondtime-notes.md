@@ -696,7 +696,7 @@ That is what stayed.
 
 ---
 
-# Field photographs from this journey
+### Field photographs from this journey
   
 [View the photo archive](/photo-archive/#spain)
 

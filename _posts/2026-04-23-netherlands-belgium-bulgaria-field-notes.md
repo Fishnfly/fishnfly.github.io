@@ -530,7 +530,7 @@ The distinction mattered. One organized water. The other organized difference. B
 
 ---
 
-# Field photographs from this journey
+### Field photographs from this journey
   
 [View the photo archive](/photo-archive/#netherlands)
 
@@ -648,7 +648,9 @@ If anything, it clarified it. Systems could be designed, lived, scaled, or layer
 
 Movement continued east, but the expectation of order had shifted.
 
-# Field photographs from this journey  
+---
+
+### Field photographs from this journey
 
 [View the photo archive](/photo-archive/#bulgaria)
 

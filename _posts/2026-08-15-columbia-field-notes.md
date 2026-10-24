@@ -396,7 +396,7 @@ If we returned, we would build the trip around more of them. The destinations in
 
 ---
 
-# Field photographs from this journey:
+### Field photographs from this journey:
 
 [View the photo archive](/photo-archive/#columbia)
 
