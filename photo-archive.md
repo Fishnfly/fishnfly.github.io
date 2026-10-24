@@ -482,90 +482,90 @@ Crossroads without conclusion. Empires, faiths, and cultures layered across the 
   <summary>Open field photographs from this journey</summary>
  
   <div class="photo-grid">
-   <a class="glightbox" data-gallery="turkey" data-title="Aerial View of Istanbul"
-    href="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}" loading="lazy" alt="photo-001"><span class="photo-label">Aerial View of Istanbul</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Aerial View of Istanbul"
-    href="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}" loading="lazy" alt="photo-002"><span class="photo-label">Aerial View of Istanbul</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Aerial View of Istanbul"
-    href="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}" loading="lazy" alt="photo-003"><span class="photo-label">Aerial View of Istanbul</span></a>
-    <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque-Old City-Istanbul"
-    href="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}" loading="lazy" alt="photo-005"><span class="photo-label">Suleymaniye Mosque-Old City-Istanbul</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-006.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-006.jpg' | relative_url }}" loading="lazy" alt="photo-006"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-007.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-007.jpg' | relative_url }}" loading="lazy" alt="photo-007"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-008.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-008.jpg' | relative_url }}" loading="lazy" alt="photo-008"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-009.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-009.jpg' | relative_url }}" loading="lazy" alt="photo-009"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-010.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-010.jpg' | relative_url }}" loading="lazy" alt="photo-010"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-011.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-011.jpg' | relative_url }}" loading="lazy" alt="photo-011"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-012.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-012.jpg' | relative_url }}" loading="lazy" alt="photo-012"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-013.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-013.jpg' | relative_url }}" loading="lazy" alt="photo-013"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-014.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-014.jpg' | relative_url }}" loading="lazy" alt="photo-014"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-015.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-015.jpg' | relative_url }}" loading="lazy" alt="photo-015"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-016.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-016.jpg' | relative_url }}" loading="lazy" alt="photo-016"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-017.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-017.jpg' | relative_url }}" loading="lazy" alt="photo-017"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-018.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-018.jpg' | relative_url }}" loading="lazy" alt="photo-018"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-019.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-019.jpg' | relative_url }}" loading="lazy" alt="photo-019"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-020.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-020.jpg' | relative_url }}" loading="lazy" alt="photo-020"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-021.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-021.jpg' | relative_url }}" loading="lazy" alt="photo-021"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-022.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-022.jpg' | relative_url }}" loading="lazy" alt="photo-022"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-023.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-023.jpg' | relative_url }}" loading="lazy" alt="photo-023"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}" loading="lazy" alt="photo-024"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-025.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-025.jpg' | relative_url }}" loading="lazy" alt="photo-025"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-026.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-026.jpg' | relative_url }}" loading="lazy" alt="photo-026"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-027.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-027.jpg' | relative_url }}" loading="lazy" alt="photo-027"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-028.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-028.jpg' | relative_url }}" loading="lazy" alt="photo-028"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-029.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-029.jpg' | relative_url }}" loading="lazy" alt="photo-029"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-030.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-030.jpg' | relative_url }}" loading="lazy" alt="photo-030"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-031.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-031.jpg' | relative_url }}" loading="lazy" alt="photo-031"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-032.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-032.jpg' | relative_url }}" loading="lazy" alt="photo-032"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-033.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-033.jpg' | relative_url }}" loading="lazy" alt="photo-033"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-034.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-034.jpg' | relative_url }}" loading="lazy" alt="photo-034"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-035.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-035.jpg' | relative_url }}" loading="lazy" alt="photo-035"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-036.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-036.jpg' | relative_url }}" loading="lazy" alt="photo-036"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-037.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-037.jpg' | relative_url }}" loading="lazy" alt="photo-037"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-038.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-038.jpg' | relative_url }}" loading="lazy" alt="photo-038"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-039.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-039.jpg' | relative_url }}" loading="lazy" alt="photo-039"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-040.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-040.jpg' | relative_url }}" loading="lazy" alt="photo-040"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-041.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-041.jpg' | relative_url }}" loading="lazy" alt="photo-041"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-042.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-042.jpg' | relative_url }}" loading="lazy" alt="photo-042"><span class="photo-label">Label</span></a>
-   <a class="glightbox" data-gallery="turkey" data-title="Label"
-    href="{{ '/assets/photos/turkey/photo-043.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-043.jpg' | relative_url }}" loading="lazy" alt="photo-043"><span class="photo-label">Label</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Aerial Istanbul Peninsula"
+    href="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-001.jpg' | relative_url }}" loading="lazy" alt="photo-001"><span class="photo-label">Aerial Istanbul Peninsula</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Istanbul from the Air"
+    href="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}" loading="lazy" alt="photo-002"><span class="photo-label">Istanbul from the Air</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Istanbul Coastline and Wetlands"
+    href="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}" loading="lazy" alt="photo-003"><span class="photo-label">Istanbul Coastline and Wetlands</span></a>
+    <a class="glightbox" data-gallery="turkey" data-title="Istanbul Rooftop View"
+    href="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}" loading="lazy" alt="photo-005"><span class="photo-label">Istanbul Rooftop View</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Istanbul Sunset Skyline"
+    href="{{ '/assets/photos/turkey/photo-006.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-006.jpg' | relative_url }}" loading="lazy" alt="photo-006"><span class="photo-label">Istanbul Sunset Skyline</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Bosphorus Waterfront View"
+    href="{{ '/assets/photos/turkey/photo-007.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-007.jpg' | relative_url }}" loading="lazy" alt="photo-007"><span class="photo-label">Bosphorus Waterfront View</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Istanbul Night Skyline"
+    href="{{ '/assets/photos/turkey/photo-008.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-008.jpg' | relative_url }}" loading="lazy" alt="photo-008"><span class="photo-label">Istanbul Night Skyline</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Istanbul Night Panorama"
+    href="{{ '/assets/photos/turkey/photo-009.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-009.jpg' | relative_url }}" loading="lazy" alt="photo-009"><span class="photo-label">Istanbul Night Panorama</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Fountain Show"
+    href="{{ '/assets/photos/turkey/photo-010.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-010.jpg' | relative_url }}" loading="lazy" alt="photo-010"><span class="photo-label">Blue Mosque Fountain Show</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque at Night"
+    href="{{ '/assets/photos/turkey/photo-011.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-011.jpg' | relative_url }}" loading="lazy" alt="photo-011"><span class="photo-label">Blue Mosque at Night</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Interior Dome"
+    href="{{ '/assets/photos/turkey/photo-012.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-012.jpg' | relative_url }}" loading="lazy" alt="photo-012"><span class="photo-label">Blue Mosque Interior Dome</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Ceiling Detail"
+    href="{{ '/assets/photos/turkey/photo-013.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-013.jpg' | relative_url }}" loading="lazy" alt="photo-013"><span class="photo-label">Blue Mosque Ceiling Detail</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Courtyard"
+    href="{{ '/assets/photos/turkey/photo-014.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-014.jpg' | relative_url }}" loading="lazy" alt="photo-014"><span class="photo-label">Blue Mosque Courtyard</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern"
+    href="{{ '/assets/photos/turkey/photo-015.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-015.jpg' | relative_url }}" loading="lazy" alt="photo-015"><span class="photo-label">Basilica Cistern</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Columns"
+    href="{{ '/assets/photos/turkey/photo-016.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-016.jpg' | relative_url }}" loading="lazy" alt="photo-016"><span class="photo-label">Basilica Cistern Columns</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Reflections"
+    href="{{ '/assets/photos/turkey/photo-017.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-017.jpg' | relative_url }}" loading="lazy" alt="photo-017"><span class="photo-label">Basilica Cistern Reflections</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Pool"
+    href="{{ '/assets/photos/turkey/photo-018.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-018.jpg' | relative_url }}" loading="lazy" alt="photo-018"><span class="photo-label">Basilica Cistern Pool</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Walkway"
+    href="{{ '/assets/photos/turkey/photo-019.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-019.jpg' | relative_url }}" loading="lazy" alt="photo-019"><span class="photo-label">Basilica Cistern Walkway</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Medusa Area"
+    href="{{ '/assets/photos/turkey/photo-020.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-020.jpg' | relative_url }}" loading="lazy" alt="photo-020"><span class="photo-label">Basilica Cistern Medusa Area</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Gallery"
+    href="{{ '/assets/photos/turkey/photo-021.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-021.jpg' | relative_url }}" loading="lazy" alt="photo-021"><span class="photo-label">Basilica Cistern Gallery</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Interior"
+    href="{{ '/assets/photos/turkey/photo-022.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-022.jpg' | relative_url }}" loading="lazy" alt="photo-022"><span class="photo-label">Basilica Cistern Interior</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Columns"
+    href="{{ '/assets/photos/turkey/photo-023.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-023.jpg' | relative_url }}" loading="lazy" alt="photo-023"><span class="photo-label">Basilica Cistern Columns</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Exterior"
+    href="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-024.jpg' | relative_url }}" loading="lazy" alt="photo-024"><span class="photo-label">Blue Mosque Exterior</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque Courtyard"
+    href="{{ '/assets/photos/turkey/photo-025.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-025.jpg' | relative_url }}" loading="lazy" alt="photo-025"><span class="photo-label">Suleymaniye Mosque Courtyard</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque Courtyard"
+    href="{{ '/assets/photos/turkey/photo-026.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-026.jpg' | relative_url }}" loading="lazy" alt="photo-026"><span class="photo-label">Suleymaniye Mosque Courtyard</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Golden Horn View"
+    href="{{ '/assets/photos/turkey/photo-027.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-027.jpg' | relative_url }}" loading="lazy" alt="photo-027"><span class="photo-label">Golden Horn View</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Golden Horn Panorama"
+    href="{{ '/assets/photos/turkey/photo-028.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-028.jpg' | relative_url }}" loading="lazy" alt="photo-028"><span class="photo-label">Golden Horn Panorama</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque View"
+    href="{{ '/assets/photos/turkey/photo-029.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-029.jpg' | relative_url }}" loading="lazy" alt="photo-029"><span class="photo-label">Suleymaniye Mosque View</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Galata Waterfront"
+    href="{{ '/assets/photos/turkey/photo-030.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-030.jpg' | relative_url }}" loading="lazy" alt="photo-030"><span class="photo-label">Galata Waterfront</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Golden Horn Rooftops"
+    href="{{ '/assets/photos/turkey/photo-031.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-031.jpg' | relative_url }}" loading="lazy" alt="photo-031"><span class="photo-label">Golden Horn Rooftops</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Golden Horn Harbor"
+    href="{{ '/assets/photos/turkey/photo-032.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-032.jpg' | relative_url }}" loading="lazy" alt="photo-032"><span class="photo-label">Golden Horn Harbor</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque Street View"
+    href="{{ '/assets/photos/turkey/photo-033.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-033.jpg' | relative_url }}" loading="lazy" alt="photo-033"><span class="photo-label">Suleymaniye Mosque Street View</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Morning View"
+    href="{{ '/assets/photos/turkey/photo-034.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-034.jpg' | relative_url }}" loading="lazy" alt="photo-034"><span class="photo-label">Blue Mosque Morning View</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Hagia Sophia Apse"
+    href="{{ '/assets/photos/turkey/photo-035.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-035.jpg' | relative_url }}" loading="lazy" alt="photo-035"><span class="photo-label">Hagia Sophia Apse</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Hagia Sophia Chandeliers"
+    href="{{ '/assets/photos/turkey/photo-036.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-036.jpg' | relative_url }}" loading="lazy" alt="photo-036"><span class="photo-label">Hagia Sophia Chandeliers</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Hagia Sophia Interior"
+    href="{{ '/assets/photos/turkey/photo-037.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-037.jpg' | relative_url }}" loading="lazy" alt="photo-037"><span class="photo-label">Hagia Sophia Interior</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Hagia Sophia Mosaic"
+    href="{{ '/assets/photos/turkey/photo-038.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-038.jpg' | relative_url }}" loading="lazy" alt="photo-038"><span class="photo-label">Hagia Sophia Mosaic</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Hagia Sophia Madonna Mosaic"
+    href="{{ '/assets/photos/turkey/photo-039.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-039.jpg' | relative_url }}" loading="lazy" alt="photo-039"><span class="photo-label">Hagia Sophia Madonna Mosaic</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Theodosius Cistern Sculpture"
+    href="{{ '/assets/photos/turkey/photo-040.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-040.jpg' | relative_url }}" loading="lazy" alt="photo-040"><span class="photo-label">Theodosius Cistern Sculpture</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Theodosius Cistern"
+    href="{{ '/assets/photos/turkey/photo-041.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-041.jpg' | relative_url }}" loading="lazy" alt="photo-041"><span class="photo-label">Theodosius Cistern</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Theodosius Cistern Columns"
+    href="{{ '/assets/photos/turkey/photo-042.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-042.jpg' | relative_url }}" loading="lazy" alt="photo-042"><span class="photo-label">Theodosius Cistern Columns</span></a>
+   <a class="glightbox" data-gallery="turkey" data-title="Theodosius Cistern Sculpture"
+    href="{{ '/assets/photos/turkey/photo-043.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-043.jpg' | relative_url }}" loading="lazy" alt="photo-043"><span class="photo-label">Theodosius Cistern Sculpture</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Label"
     href="{{ '/assets/photos/turkey/photo-044.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-044.jpg' | relative_url }}" loading="lazy" alt="photo-044"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Label"
