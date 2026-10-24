@@ -488,7 +488,8 @@ Crossroads without conclusion. Empires, faiths, and cultures layered across the 
     href="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-002.jpg' | relative_url }}" loading="lazy" alt="photo-002"><span class="photo-label">Aerial View of Istanbul</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Aerial View of Istanbul"
     href="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-003.jpg' | relative_url }}" loading="lazy" alt="photo-003"><span class="photo-label">Aerial View of Istanbul</span></a>
-    href="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}" loading="lazy" alt="photo-005"><span class="photo-label">Label</span></a>
+    <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque-Old City-Istanbul"
+    href="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-005.jpg' | relative_url }}" loading="lazy" alt="photo-005"><span class="photo-label">Suleymaniye Mosque-Old City-Istanbul</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Label"
     href="{{ '/assets/photos/turkey/photo-006.jpg' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-006.jpg' | relative_url }}" loading="lazy" alt="photo-006"><span class="photo-label">Label</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Label"
