@@ -54,7 +54,7 @@ Isolation shaped evolution. Life adapted to boundaries rather than overcoming th
    <a class="glightbox" data-gallery="galapagos" data-title="North Seymour Frigatebird Flight" 
    href="{{ '/assets/photos/galapagos/photo-016.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-016.jpg' | relative_url }}" loading="lazy" alt="Galapagos-016"><span class="photo-label">North Seymour Frigatebird Flight</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="North Seymour Booby Chick" 
-   href="{{ '/assets/photos/galapagos/photo-017.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-017.jpg' | relative_url }}" loading="lazy" alt="Galapagos-017"><span class="photo-label">North Seymour Booby Chick</span></a>
+   href="{{ '/assets/photos/galapagos/photo-017.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-017.jpg' | relative_url }}" loading="lazy" alt="Galapagos-017"><span class="photo-label">North Seymour Booby with Egg</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="North Seymour Frigatebird" 
    href="{{ '/assets/photos/galapagos/photo-018.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-018.jpg' | relative_url }}" loading="lazy" alt="Galapagos-018"><span class="photo-label">North Seymour Frigatebird</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="North Seymour Sea Lion" 
@@ -100,7 +100,7 @@ Isolation shaped evolution. Life adapted to boundaries rather than overcoming th
    <a class="glightbox" data-gallery="galapagos" data-title="Puerto Ayora Harbor" 
    href="{{ '/assets/photos/galapagos/photo-039.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-039.jpg' | relative_url }}" loading="lazy" alt="Galapagos-039"><span class="photo-label">Puerto Ayora Harbor</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galápagos Sea Lion" 
-   href="{{ '/assets/photos/galapagos/photo-040.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-040.jpg' | relative_url }}" loading="lazy" alt="Galapagos-040"><span class="photo-label">Galápagos Sea Lion</span></a>
+   href="{{ '/assets/photos/galapagos/photo-040.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-040.jpg' | relative_url }}" loading="lazy" alt="Galapagos-040"><span class="photo-label">South Plaza Sea Lion</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="South Plaza Land Iguana" 
    href="{{ '/assets/photos/galapagos/photo-041.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-041.jpg' | relative_url }}" loading="lazy" alt="Galapagos-041"><span class="photo-label">South Plaza Land Iguana</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="South Plaza Opuntia Forest" 
@@ -112,17 +112,14 @@ Isolation shaped evolution. Life adapted to boundaries rather than overcoming th
    <a class="glightbox" data-gallery="galapagos" data-title="South Plaza Coastal View" 
    href="{{ '/assets/photos/galapagos/photo-045.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-045.jpg' | relative_url }}" loading="lazy" alt="Galapagos-045"><span class="photo-label">South Plaza Coastal View</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="South Plaza Sea Cliffs" 
-   href="{{ '/assets/photos/galapagos/photo-046.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-046.jpg' | relative_url }}" loading="lazy" alt="Galapagos-046"><span class="photo-label">South Plaza Sea Cliffs</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="South Plaza Sea Cliffs" 
    href="{{ '/assets/photos/galapagos/photo-047.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-047.jpg' | relative_url }}" loading="lazy" alt="Galapagos-047"><span class="photo-label">South Plaza Sea Cliffs</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="South Plaza Lava Cliffs" 
-   href="{{ '/assets/photos/galapagos/photo-048.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-048.jpg' | relative_url }}" loading="lazy" alt="Galapagos-048"><span class="photo-label">South Plaza Lava Cliffs</span></a>
+   href="{{ '/assets/photos/galapagos/photo-048.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-048.jpg' | relative_url }}" loading="lazy" alt="Galapagos-048"><span class="photo-label">South Plaza Sea Gull and Iguana</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos photo 049" href="{{ '/assets/photos/galapagos/photo-049.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-049.jpg' | relative_url }}" loading="lazy" alt="Galapagos-049"><span class="photo-label">Galapagos photo 049</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos photo 050" href="{{ '/assets/photos/galapagos/photo-050.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-050.jpg' | relative_url }}" loading="lazy" alt="Galapagos-050"><span class="photo-label">Galapagos photo 050</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos photo 051" href="{{ '/assets/photos/galapagos/photo-051.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-051.jpg' | relative_url }}" loading="lazy" alt="Galapagos-051"><span class="photo-label">Galapagos photo 051</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos photo 052" href="{{ '/assets/photos/galapagos/photo-052.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-052.jpg' | relative_url }}" loading="lazy" alt="Galapagos-052"><span class="photo-label">Galapagos photo 052</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos photo 053" href="{{ '/assets/photos/galapagos/photo-053.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-053.jpg' | relative_url }}" loading="lazy" alt="Galapagos-053"><span class="photo-label">Galapagos photo 053</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="Galapagos photo 054" href="{{ '/assets/photos/galapagos/photo-054.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-054.jpg' | relative_url }}" loading="lazy" alt="Galapagos-054"><span class="photo-label">Galapagos photo 054</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos photo 055" href="{{ '/assets/photos/galapagos/photo-055.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-055.jpg' | relative_url }}" loading="lazy" alt="Galapagos-055"><span class="photo-label">Galapagos photo 055</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos photo 056" href="{{ '/assets/photos/galapagos/photo-056.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-056.jpg' | relative_url }}" loading="lazy" alt="Galapagos-056"><span class="photo-label">Galapagos photo 056</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos photo 057" href="{{ '/assets/photos/galapagos/photo-057.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-057.jpg' | relative_url }}" loading="lazy" alt="Galapagos-057"><span class="photo-label">Galapagos photo 057</span></a>
