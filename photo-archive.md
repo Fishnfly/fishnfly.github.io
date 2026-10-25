@@ -48,7 +48,7 @@ Isolation shaped evolution. Life adapted to boundaries rather than overcoming th
    <a class="glightbox" data-gallery="galapagos" data-title="North Seymour Booby" 
    href="{{ '/assets/photos/galapagos/photo-013.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-013.jpg' | relative_url }}" loading="lazy" alt="Galapagos-013"><span class="photo-label">North Seymour Booby</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="North Seymour Booby Perch" 
-   href="{{ '/assets/photos/galapagos/photo-014.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-014.jpg' | relative_url }}" loading="lazy" alt="Galapagos-014"><span class="photo-label">North Seymour Booby Perch</span></a>
+   href="{{ '/assets/photos/galapagos/photo-014.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-014.jpg' | relative_url }}" loading="lazy" alt="Galapagos-014"><span class="photo-label">North Seymour Iguana</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="North Seymour Land Iguana" 
    href="{{ '/assets/photos/galapagos/photo-015.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-015.jpg' | relative_url }}" loading="lazy" alt="Galapagos-015"><span class="photo-label">North Seymour Land Iguana</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="North Seymour Frigatebird Flight" 
