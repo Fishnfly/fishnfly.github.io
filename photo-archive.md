@@ -107,7 +107,6 @@ A country shaped by geography, colored by culture, and connected by the warmth o
 ---
 
 <a id="galapagos"></a>
-## Galapagos
 
 ## Galapagos
 
@@ -281,6 +280,7 @@ Isolation shaped evolution. Life adapted to boundaries rather than overcoming th
 
 ---
 <a id="spain-nothern"></a>
+
 ## Spain-Northern
 
 Pilgrimage shaped the path. Tradition sustained it. Communities carried forward what time could not erase.
@@ -633,6 +633,7 @@ Pilgrimage shaped the path. Tradition sustained it. Communities carried forward 
 ---
 
 <a id="turkey"></a>
+
 ## Turkey
 
 Crossroads without conclusion. Empires, faiths, and cultures layered across the same landscape.
@@ -935,6 +936,7 @@ Crossroads without conclusion. Empires, faiths, and cultures layered across the 
 ---
 
 <a id="bulgaria"></a>
+
 ## Bulgaria
 
 Empires faded. Mountains endured. Traditions carried forward through practice, not preservation.
@@ -1045,6 +1047,7 @@ Empires faded. Mountains endured. Traditions carried forward through practice, n
 ---
 
 <a id="netherlands"></a>
+
 ## Netherlands
 
 Water managed, not resisted. Land negotiated into existence. Order shaped by necessity.
@@ -1163,6 +1166,7 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
 ---
 
 <a id="keukenhof gardens"></a>
+
 ## Keukenhof Gardens
 
 Beauty found in restraint.
@@ -1265,6 +1269,7 @@ Beauty found in restraint.
 ---
 
 <a id="spain-interior"></a>
+
 ## Spain-Interior
 
 Stone cities, narrow streets, long shadows.  
@@ -1350,6 +1355,7 @@ Patience in the walls. Weight in the air.
 ---
 
 <a id="jordan"></a>
+
 ## Jordan
 
 Heat and stone. Long distances compressed into silence.  
@@ -1419,6 +1425,7 @@ Edges worn smooth by time.
 ---
 
 <a id="egypt"></a>
+
 ## Egypt
 
 Scale without apology. Lives layered over deep time.  
@@ -1529,6 +1536,7 @@ Nothing small. Nothing quiet.
 ---
 
 <a id="morocco"></a>
+
 ## Morocco
 
 Variation without rupture. Registers shifting in close proximity.  
@@ -1568,49 +1576,92 @@ Nothing fixed. Everything practiced.
   href="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}" loading="lazy" alt="Morocco 14"><span class="photo-label">Riad Salam Fes-Fez</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Place Seffarine-Fez"
   href="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-15.jpg' | relative_url }}" loading="lazy" alt="Morocco 15"><span class="photo-label">Place Seffarine-Fez</span></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}" loading="lazy" alt="Morocco 16"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}" loading="lazy" alt="Morocco 17"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-18.jpg' | relative_url }}" loading="lazy" alt="Morocco 18"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-19.jpg' | relative_url }}" loading="lazy" alt="Morocco 19"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-20.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-20.jpg' | relative_url }}" loading="lazy" alt="Morocco 20"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-21.jpg' | relative_url }}" loading="lazy" alt="Morocco 21"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-22.jpg' | relative_url }}" loading="lazy" alt="Morocco 22"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-23.jpg' | relative_url }}" loading="lazy" alt="Morocco 23"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-24.jpg' | relative_url }}" loading="lazy" alt="Morocco 24"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-25.jpg' | relative_url }}" loading="lazy" alt="Morocco 25"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-26.jpg' | relative_url }}" loading="lazy" alt="Morocco 26"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-27.jpg' | relative_url }}" loading="lazy" alt="Morocco 27"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-28.jpg' | relative_url }}" loading="lazy" alt="Morocco 28"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-29.jpg' | relative_url }}" loading="lazy" alt="Morocco 29"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-30.jpg' | relative_url }}" loading="lazy" alt="Morocco 30"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-31.jpg' | relative_url }}" loading="lazy" alt="Morocco 31"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-32.jpg' | relative_url }}" loading="lazy" alt="Morocco 32"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-33.jpg' | relative_url }}" loading="lazy" alt="Morocco 33"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-34.jpg' | relative_url }}" loading="lazy" alt="Morocco 34"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-35.jpg' | relative_url }}" loading="lazy" alt="Morocco 35"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-36.jpg' | relative_url }}" loading="lazy" alt="Morocco 36"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}" loading="lazy" alt="Morocco 37"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-38.jpg' | relative_url }}" loading="lazy" alt="Morocco 38"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-39.jpg' | relative_url }}" loading="lazy" alt="Morocco 39"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-40.jpg' | relative_url }}" loading="lazy" alt="Morocco 40"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-41.jpg' | relative_url }}" loading="lazy" alt="Morocco 41"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-42.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-42.jpg' | relative_url }}" loading="lazy" alt="Morocco 42"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-43.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-43.jpg' | relative_url }}" loading="lazy" alt="Morocco 43"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-44.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-44.jpg' | relative_url }}" loading="lazy" alt="Morocco 44"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-45.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-45.jpg' | relative_url }}" loading="lazy" alt="Morocco 45"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-46.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-46.jpg' | relative_url }}" loading="lazy" alt="Morocco 46"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-47.jpg' | relative_url }}" loading="lazy" alt="Morocco 47"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-48.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-48.jpg' | relative_url }}" loading="lazy" alt="Morocco 48"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-49.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-49.jpg' | relative_url }}" loading="lazy" alt="Morocco 49"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-50.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-50.jpg' | relative_url }}" loading="lazy" alt="Morocco 50"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-51.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-51.jpg' | relative_url }}" loading="lazy" alt="Morocco 51"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-52.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-52.jpg' | relative_url }}" loading="lazy" alt="Morocco 52"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-53.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-53.jpg' | relative_url }}" loading="lazy" alt="Morocco 53"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-54.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-54.jpg' | relative_url }}" loading="lazy" alt="Morocco 54"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-55.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-55.jpg' | relative_url }}" loading="lazy" alt="Morocco 55"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-56.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-56.jpg' | relative_url }}" loading="lazy" alt="Morocco 56"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-57.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-57.jpg' | relative_url }}" loading="lazy" alt="Morocco 57"></a>
-  <a class="glightbox" data-gallery="morocco" href="{{ '/assets/photos/morocco/morco-58.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-58.jpg' | relative_url }}" loading="lazy" alt="Morocco 58"></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Fez Medina from Above"
+  href="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-16.jpg' | relative_url }}" loading="lazy" alt="Morocco 16"><span class="photo-label">Fez Medina from Above</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Snowy Atlas Mountains"
+  href="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-17.jpg' | relative_url }}" loading="lazy" alt="Morocco 17"><span class="photo-label">Snowy Atlas Mountains</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="River Valley in the Atlas Mountains"
+  href="{{ '/assets/photos/morocco/morco-18.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-18.jpg' | relative_url }}" loading="lazy" alt="Morocco 18"><span class="photo-label">River Valley in the Atlas Mountains</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Desert Kasbah at Sunset"
+  href="{{ '/assets/photos/morocco/morco-19.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-19.jpg' | relative_url }}" loading="lazy" alt="Morocco 19"><span class="photo-label">Desert Kasbah at Sunset</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Riad Interior"
+  href="{{ '/assets/photos/morocco/morco-20.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-20.jpg' | relative_url }}" loading="lazy" alt="Morocco 20"><span class="photo-label">Riad Interior</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Sunset from the Rooftop"
+  href="{{ '/assets/photos/morocco/morco-21.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-21.jpg' | relative_url }}" loading="lazy" alt="Morocco 21"><span class="photo-label">Sunset from the Rooftop</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Desert Kasbah Reflected in the Pool"
+  href="{{ '/assets/photos/morocco/morco-22.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-22.jpg' | relative_url }}" loading="lazy" alt="Morocco 22"><span class="photo-label">Desert Kasbah Reflected in the Pool</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Camel Caravan across the Dunes"
+  href="{{ '/assets/photos/morocco/morco-23.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-23.jpg' | relative_url }}" loading="lazy" alt="Morocco 23"><span class="photo-label">Camel Caravan across the Dunes</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Sahara Sunset"
+  href="{{ '/assets/photos/morocco/morco-24.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-24.jpg' | relative_url }}" loading="lazy" alt="Morocco 24"><span class="photo-label">Sahara Sunset</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Campfire in the Desert"
+  href="{{ '/assets/photos/morocco/morco-25.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-25.jpg' | relative_url }}" loading="lazy" alt="Morocco 25"><span class="photo-label">Campfire in the Desert</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Desert Camp at Night"
+  href="{{ '/assets/photos/morocco/morco-26.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-26.jpg' | relative_url }}" loading="lazy" alt="Morocco 26"><span class="photo-label">Desert Camp at Night</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Cafe beneath an Olive Tree"
+  href="{{ '/assets/photos/morocco/morco-27.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-27.jpg' | relative_url }}" loading="lazy" alt="Morocco 27"><span class="photo-label">Cafe beneath an Olive Tree</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Carved Columns in a Madrasa"
+  href="{{ '/assets/photos/morocco/morco-28.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-28.jpg' | relative_url }}" loading="lazy" alt="Morocco 28"><span class="photo-label">Carved Columns in a Madrasa</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Colorful Market Baskets"
+  href="{{ '/assets/photos/morocco/morco-29.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-29.jpg' | relative_url }}" loading="lazy" alt="Morocco 29"><span class="photo-label">Colorful Market Baskets</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Inside a Berber Tent"
+  href="{{ '/assets/photos/morocco/morco-30.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-30.jpg' | relative_url }}" loading="lazy" alt="Morocco 30"><span class="photo-label">Inside a Berber Tent</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Fire Performers in the Square"
+  href="{{ '/assets/photos/morocco/morco-31.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-31.jpg' | relative_url }}" loading="lazy" alt="Morocco 31"><span class="photo-label">Fire Performers in the Square</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Hot Air Balloons at Dawn"
+  href="{{ '/assets/photos/morocco/morco-32.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-32.jpg' | relative_url }}" loading="lazy" alt="Morocco 32"><span class="photo-label">Hot Air Balloons at Dawn</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Balloons over the Desert"
+  href="{{ '/assets/photos/morocco/morco-33.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-33.jpg' | relative_url }}" loading="lazy" alt="Morocco 33"><span class="photo-label">Balloons over the Desert</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Sunrise Balloon Flight"
+  href="{{ '/assets/photos/morocco/morco-34.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-34.jpg' | relative_url }}" loading="lazy" alt="Morocco 34"><span class="photo-label">Sunrise Balloon Flight</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Hotel Lobby"
+  href="{{ '/assets/photos/morocco/morco-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-35.jpg' | relative_url }}" loading="lazy" alt="Morocco 35"><span class="photo-label">Hotel Lobby</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Argan Tree in the Countryside"
+  href="{{ '/assets/photos/morocco/morco-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-36.jpg' | relative_url }}" loading="lazy" alt="Morocco 36"><span class="photo-label">Argan Tree in the Countryside</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Tea with a Berber Family"
+  href="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}" loading="lazy" alt="Morocco 37"><span class="photo-label">Tea with a Berber Family</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Sunset over the Atlantic"
+  href="{{ '/assets/photos/morocco/morco-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-38.jpg' | relative_url }}" loading="lazy" alt="Morocco 38"><span class="photo-label">Sunset over the Atlantic</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Casablanca at Night"
+  href="{{ '/assets/photos/morocco/morco-39.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-39.jpg' | relative_url }}" loading="lazy" alt="Morocco 39"><span class="photo-label">Casablanca at Night</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Hassan II Mosque"
+  href="{{ '/assets/photos/morocco/morco-40.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-40.jpg' | relative_url }}" loading="lazy" alt="Morocco 40"><span class="photo-label">Hassan II Mosque</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Riad Sitting Room"
+  href="{{ '/assets/photos/morocco/morco-41.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-41.jpg' | relative_url }}" loading="lazy" alt="Morocco 41"><span class="photo-label">Riad Sitting Room</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Riad Dining Room"
+  href="{{ '/assets/photos/morocco/morco-42.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-42.jpg' | relative_url }}" loading="lazy" alt="Morocco 42"><span class="photo-label">Riad Dining Room</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Walking the Blue Streets of Chefchaouen"
+  href="{{ '/assets/photos/morocco/morco-43.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-43.jpg' | relative_url }}" loading="lazy" alt="Morocco 43"><span class="photo-label">Walking the Blue Streets of Chefchaouen</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Blue Steps in Chefchaouen"
+  href="{{ '/assets/photos/morocco/morco-44.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-44.jpg' | relative_url }}" loading="lazy" alt="Morocco 44"><span class="photo-label">Blue Steps in Chefchaouen</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Textile-lined Alley in Chefchaouen"
+  href="{{ '/assets/photos/morocco/morco-45.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-45.jpg' | relative_url }}" loading="lazy" alt="Morocco 45"><span class="photo-label">Textile-lined Alley in Chefchaouen</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Colorful Steps in Chefchaouen"
+  href="{{ '/assets/photos/morocco/morco-46.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-46.jpg' | relative_url }}" loading="lazy" alt="Morocco 46"><span class="photo-label">Colorful Steps in Chefchaouen</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Blue Doorway in Chefchaouen"
+  href="{{ '/assets/photos/morocco/morco-47.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-47.jpg' | relative_url }}" loading="lazy" alt="Morocco 47"><span class="photo-label">Blue Doorway in Chefchaouen</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Narrow Alley in the Medina"
+  href="{{ '/assets/photos/morocco/morco-48.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-48.jpg' | relative_url }}" loading="lazy" alt="Morocco 48"><span class="photo-label">Narrow Alley in the Medina</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Carpets in the Medina"
+  href="{{ '/assets/photos/morocco/morco-49.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-49.jpg' | relative_url }}" loading="lazy" alt="Morocco 49"><span class="photo-label">Carpets in the Medina</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Mosaic Columns in a Courtyard"
+  href="{{ '/assets/photos/morocco/morco-50.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-50.jpg' | relative_url }}" loading="lazy" alt="Morocco 50"><span class="photo-label">Mosaic Columns in a Courtyard</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Mounted Guard at the Gate"
+  href="{{ '/assets/photos/morocco/morco-51.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-51.jpg' | relative_url }}" loading="lazy" alt="Morocco 51"><span class="photo-label">Mounted Guard at the Gate</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Mausoleum Interior"
+  href="{{ '/assets/photos/morocco/morco-52.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-52.jpg' | relative_url }}" loading="lazy" alt="Morocco 52"><span class="photo-label">Mausoleum Interior</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Ornate Riad Ceiling"
+  href="{{ '/assets/photos/morocco/morco-53.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-53.jpg' | relative_url }}" loading="lazy" alt="Morocco 53"><span class="photo-label">Ornate Riad Ceiling</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Riad Courtyard and Fountain"
+  href="{{ '/assets/photos/morocco/morco-54.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-54.jpg' | relative_url }}" loading="lazy" alt="Morocco 54"><span class="photo-label">Riad Courtyard and Fountain</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Quiet Medina Alley"
+  href="{{ '/assets/photos/morocco/morco-55.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-55.jpg' | relative_url }}" loading="lazy" alt="Morocco 55"><span class="photo-label">Quiet Medina Alley</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Market Street in the Medina"
+  href="{{ '/assets/photos/morocco/morco-56.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-56.jpg' | relative_url }}" loading="lazy" alt="Morocco 56"><span class="photo-label">Market Street in the Medina</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Hot Air Balloons over the Desert"
+  href="{{ '/assets/photos/morocco/morco-57.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-57.jpg' | relative_url }}" loading="lazy" alt="Morocco 57"><span class="photo-label">Hot Air Balloons over the Desert</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Balloons over the Sahara"
+  href="{{ '/assets/photos/morocco/morco-58.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-58.jpg' | relative_url }}" loading="lazy" alt="Morocco 58"><span class="photo-label">Balloons over the Sahara</span></a>
 </div>
 </details>
 
