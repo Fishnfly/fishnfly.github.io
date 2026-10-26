@@ -12,7 +12,26 @@ What you'll find here are collections, grouped by journey, left mostly alone, an
 
 ---
 
+<a id="colombia"></a>
+## Colombia
+
+Mountains, rivers, jungle, and sea.
+A country shaped by geography, colored by culture, and connected by the warmth of its people.
+
+<details class="photo-fold">
+  <summary>Open field photographs from this journey</summary>
+ 
+  <div class="photo-grid">
+   <a class="glightbox" data-gallery="colombia" data-title="Label" 
+   href="{{ '/assets/photos/colombia/photo-001.jpg' | relative_url }}"><img src="{{ '/assets/photos/colombia/photo-001.jpg' | relative_url }}" loading="lazy" alt="Colombia-001"><span class="photo-label">Label</span></a>
+   </div>
+</details>
+
+---
+
 <a id="galapagos"></a>
+## Galapagos
+
 ## Galapagos
 
 Isolation shaped evolution. Life adapted to boundaries rather than overcoming them. Nothing wasted. Nothing hurried.
@@ -146,17 +165,24 @@ Isolation shaped evolution. Life adapted to boundaries rather than overcoming th
    <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Sea Lion Interaction" href="{{ '/assets/photos/galapagos/photo-077.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-077.jpg' | relative_url }}" loading="lazy" alt="Galapagos-077"><span class="photo-label">Santa Fe Sea Lion Interaction</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Sea Lions on Beach" href="{{ '/assets/photos/galapagos/photo-078.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-078.jpg' | relative_url }}" loading="lazy" alt="Galapagos-078"><span class="photo-label">Santa Fe Sea Lions on Beach</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Sea Lion Pup" href="{{ '/assets/photos/galapagos/photo-079.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-079.jpg' | relative_url }}" loading="lazy" alt="Galapagos-079"><span class="photo-label">Santa Fe Sea Lion Pup</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Curious Sea Lion
-" href="{{ '/assets/photos/galapagos/photo-080.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-080.jpg' | relative_url }}" loading="lazy" alt="Galapagos-080"><span class="photo-label">Santa Fe Curious Sea Lion
-</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Sea Lions" href="{{ '/assets/photos/galapagos/photo-081.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-081.jpg' | relative_url }}" loading="lazy" alt="Galapagos-081"><span class="photo-label">Santa Fe Sea Lions</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Sea Lions" href="{{ '/assets/photos/galapagos/photo-082.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-082.jpg' | relative_url }}" loading="lazy" alt="Galapagos-082"><span class="photo-label">Santa Fe Sea Lions</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Sea Lion Mom & Pup" href="{{ '/assets/photos/galapagos/photo-083.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-083.jpg' | relative_url }}" loading="lazy" alt="Galapagos-083"><span class="photo-label">Santa Fe Sea Lion Mom & Pup</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Land Iguana" href="{{ '/assets/photos/galapagos/photo-084.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-084.jpg' | relative_url }}" loading="lazy" alt="Galapagos-084"><span class="photo-label">Santa Fe Land Iguana</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Land Iguana" href="{{ '/assets/photos/galapagos/photo-085.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-085.jpg' | relative_url }}" loading="lazy" alt="Galapagos-085"><span class="photo-label">Santa Fe Land Iguana</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Land Iguana" href="{{ '/assets/photos/galapagos/photo-086.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-086.jpg' | relative_url }}" loading="lazy" alt="Galapagos-086"><span class="photo-label">Santa Fe Land Iguana</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Land Iguana" href="{{ '/assets/photos/galapagos/photo-087.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-087.jpg' | relative_url }}" loading="lazy" alt="Galapagos-087"><span class="photo-label">Santa Fe Land Iguana</span></a>
-   <a class="glightbox" data-gallery="galapagos" data-title=" Finch Bay Resort" href="{{ '/assets/photos/galapagos/photo-088.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-088.jpg' | relative_url }}" loading="lazy" alt="Galapagos-088"><span class="photo-label"> Finch Bay Resort</span></a>
+   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Curious Sea Lion" 
+   href="{{ '/assets/photos/galapagos/photo-080.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-080.jpg' | relative_url }}" loading="lazy" alt="Galapagos-080"><span class="photo-label">Santa Fe Curious Sea Lion</span></a>
+   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Sea Lions" 
+   href="{{ '/assets/photos/galapagos/photo-081.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-081.jpg' | relative_url }}" loading="lazy" alt="Galapagos-081"><span class="photo-label">Santa Fe Sea Lions</span></a>
+   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Sea Lions" 
+   href="{{ '/assets/photos/galapagos/photo-082.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-082.jpg' | relative_url }}" loading="lazy" alt="Galapagos-082"><span class="photo-label">Santa Fe Sea Lions</span></a>
+   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Sea Lion Mom & Pup" 
+   href="{{ '/assets/photos/galapagos/photo-083.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-083.jpg' | relative_url }}" loading="lazy" alt="Galapagos-083"><span class="photo-label">Santa Fe Sea Lion Mom & Pup</span></a>
+   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Land Iguana" 
+   href="{{ '/assets/photos/galapagos/photo-084.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-084.jpg' | relative_url }}" loading="lazy" alt="Galapagos-084"><span class="photo-label">Santa Fe Land Iguana</span></a>
+   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Land Iguana" 
+   href="{{ '/assets/photos/galapagos/photo-085.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-085.jpg' | relative_url }}" loading="lazy" alt="Galapagos-085"><span class="photo-label">Santa Fe Land Iguana</span></a>
+   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Land Iguana" 
+   href="{{ '/assets/photos/galapagos/photo-086.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-086.jpg' | relative_url }}" loading="lazy" alt="Galapagos-086"><span class="photo-label">Santa Fe Land Iguana</span></a>
+   <a class="glightbox" data-gallery="galapagos" data-title="Santa Fe Land Iguana" 
+   href="{{ '/assets/photos/galapagos/photo-087.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-087.jpg' | relative_url }}" loading="lazy" alt="Galapagos-087"><span class="photo-label">Santa Fe Land Iguana</span></a>
+   <a class="glightbox" data-gallery="galapagos" data-title=" Finch Bay Resort" 
+   href="{{ '/assets/photos/galapagos/photo-088.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-088.jpg' | relative_url }}" loading="lazy" alt="Galapagos-088"><span class="photo-label"> Finch Bay Resort</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Bartolomé Island Pinnacle Rock" 
    href="{{ '/assets/photos/galapagos/photo-089.jpg' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-089.jpg' | relative_url }}" loading="lazy" alt="Galapagos-089"><span class="photo-label">Bartolomé Island Pinnacle Rock</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Marchena Offshore Islets" 
