@@ -1571,7 +1571,7 @@ Nothing fixed. Everything practiced.
   <a class="glightbox" data-gallery="morocco" data-title="Roman Ruins of Volubilis-Capital Temple"
   href="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-12.jpg' | relative_url }}" loading="lazy" alt="Morocco 12"><span class="photo-label">Roman Ruins of Volubilis-Capital Temple</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Arch of Caracalla-Volubilis"
-  href="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}" loading="lazy" alt="Morocco 13"><span class="photo-label">Arch of Caracalla-Volubilis"</span></a>
+  href="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-13.jpg' | relative_url }}" loading="lazy" alt="Morocco 13"><span class="photo-label">Arch of Caracalla-Volubilis</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Riad Salam Fes-Fez"
   href="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-14.jpg' | relative_url }}" loading="lazy" alt="Morocco 14"><span class="photo-label">Riad Salam Fes-Fez</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Place Seffarine-Fez"
@@ -1618,8 +1618,8 @@ Nothing fixed. Everything practiced.
   href="{{ '/assets/photos/morocco/morco-35.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-35.jpg' | relative_url }}" loading="lazy" alt="Morocco 35"><span class="photo-label">Hotel Lobby</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Argan Tree in the Countryside"
   href="{{ '/assets/photos/morocco/morco-36.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-36.jpg' | relative_url }}" loading="lazy" alt="Morocco 36"><span class="photo-label">Argan Tree in the Countryside</span></a>
-  <a class="glightbox" data-gallery="morocco" data-title="Tea with a Berber Family"
-  href="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}" loading="lazy" alt="Morocco 37"><span class="photo-label">Tea with a Berber Family</span></a>
+  <a class="glightbox" data-gallery="morocco" data-title="Argan Tree Staff"
+  href="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-37.jpg' | relative_url }}" loading="lazy" alt="Morocco 37"><span class="photo-label">Argan Tree Staff</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Sunset over the Atlantic"
   href="{{ '/assets/photos/morocco/morco-38.jpg' | relative_url }}"><img src="{{ '/assets/photos/morocco/morco-38.jpg' | relative_url }}" loading="lazy" alt="Morocco 38"><span class="photo-label">Sunset over the Atlantic</span></a>
   <a class="glightbox" data-gallery="morocco" data-title="Casablanca at Night"
