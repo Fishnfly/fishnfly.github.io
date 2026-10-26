@@ -114,6 +114,10 @@ What appears spontaneous is controlled.
 
 The effect is abundance without permanence — a system designed to peak, dissolve, and begin again. Even beauty here is managed, not preserved.
 
+---
+
+### Field photographs from this journey
+
 [View the photo archive](/photo-archive/#keukenhof gardens)
 
 ---
