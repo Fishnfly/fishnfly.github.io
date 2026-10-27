@@ -48,6 +48,46 @@ The distances mattered. The transitions mattered more.
 
 ---
 
+## The Myth Thread — Transformation
+
+Some countries tell their story in monuments.
+
+Colombia tells it in transformations.
+
+The Andes split and fold across the landscape, turning a single nation into many worlds. Rainforest becomes mountain. Mountain becomes coffee country. Coffee country gives way to cities, coastlines, deserts, and jungle.
+
+Nothing stays only one thing for long.
+
+History follows the same pattern.
+
+For generations, Colombia carried stories of conflict that became its identity in the eyes of outsiders. Yet beneath those headlines, something else was happening. Communities endured. Traditions survived. Beauty persisted. What looked broken from a distance was quietly rebuilding itself from within.
+
+The myth thread of Colombia is alchemy.
+
+The ability to take adversity and turn it into something life-giving.
+
+Coffee growers transform steep volcanic slopes into abundance. Musicians transform hardship into rhythm. Artists transform memory into color. Families transform ordinary gatherings into celebrations that spill into streets and plazas.
+
+Even nature participates.
+
+Rivers carve mountains. Forests reclaim what is abandoned. Life erupts from places where it should not.
+
+Colombia does not pretend the past never happened.
+
+It carries it forward and turns it into something new.
+
+That may be its deepest lesson:
+
+Transformation is not forgetting.
+
+Transformation is remembering, and choosing what comes next.
+
+Three days before we arrived, an earthquake rattled the region around Cali. It was a reminder that Colombia is still being shaped. Mountains are still rising. Rivers are still carving valleys. The landscape itself remains unfinished.
+
+Perhaps that's why transformation feels woven so deeply into the country's character. In Colombia, change is not an interruption of the story. Change is the story.
+
+---
+
 ## The Itinerary (Reference)
 
 
