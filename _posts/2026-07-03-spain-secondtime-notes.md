@@ -153,8 +153,6 @@ Again and again, the journey revealed the same truth. What survives rarely survi
 
 The journey began before mainland Spain.
 
-At first, Mallorca seemed separate from everything that followed. Looking back, it became the first clue.
-
 The Cathedral of Mallorca introduced an idea that would appear repeatedly throughout the journey. No single person created it. Generations contributed to it. Architects. Builders. Craftsmen. Patrons. Restorers.
 
 ![Cathedral](/assets/images/spain2/cathedral.jpg)
