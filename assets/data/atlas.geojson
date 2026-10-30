@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Colombia",
+        "myth": "Transformation",
+        "year": 2026,
+        "route": "Bogotá → Medellín → Cartagena",
+        "photos": 127,
+        "story": "/travel/2026/08/15/colombia-field-notes.html",
+        "color": "#3498db"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0721, 4.7110]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Egypt",
+        "myth": "Memory",
+        "year": 2026,
+        "route": "Cairo → Luxor → Aswan",
+        "photos": 95,
+        "story": "/travel/2026/02/22/jordan-egypt-field-notes.html",
+        "color": "#f1c40f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.2357, 30.0444]
+      }
+    }
+  ]
+}
