@@ -48,20 +48,23 @@ document.addEventListener("DOMContentLoaded", function() {
           const photos = props.photos || "N/A";
           const story = props.story ? "<a href='" + props.story + "'>Read Journey</a>" : "";
 
-          layer.on("click", function() {
+          onEachFeature: function(feature, layer) {
 
-  const props = feature.properties;
+  layer.on("click", function() {
 
-  document.getElementById("country-card").innerHTML =
-    "<h2>" + props.country + "</h2>" +
-    "<p><strong>Myth Thread:</strong> " + props.myth + "</p>" +
-    "<p><strong>Route:</strong><br>" + props.route + "</p>" +
-    "<p><strong>Photos:</strong> " + props.photos + "</p>" +
-    "<p><strong>Year:</strong> " + props.year + "</p>" +
-    "<p><a href='" + props.story + "'>Read Journey</a></p>";
+    const props = feature.properties || {};
 
-        }
-      });
+    document.getElementById("country-card").innerHTML =
+      "<h2>" + (props.country || "Location") + "</h2>" +
+      "<p><strong>Myth Thread:</strong> " + (props.myth || "") + "</p>" +
+      "<p><strong>Route:</strong><br>" + (props.route || "") + "</p>" +
+      "<p><strong>Photos:</strong> " + (props.photos || "") + "</p>" +
+      "<p><strong>Year:</strong> " + (props.year || "") + "</p>" +
+      "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
+
+  });
+
+}
 
       atlasLayer.addTo(map);
       const bounds = atlasLayer.getBounds();
