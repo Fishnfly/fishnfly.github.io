@@ -6,6 +6,9 @@ layout: default
 
 <div id="map" style="height:600px;"></div>
 
+Select a Destination
+Click a marker on the map.
+
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -45,13 +48,18 @@ document.addEventListener("DOMContentLoaded", function() {
           const photos = props.photos || "N/A";
           const story = props.story ? "<a href='" + props.story + "'>Read Journey</a>" : "";
 
-          layer.bindPopup(
-            "<strong>" + country + "</strong><br>" +
-            "Myth Thread: " + myth + "<br>" +
-            "<strong>Route:</strong> " + route + "<br>" +
-            "<strong>Photos:</strong> " + photos + "<br>" +
-            story
-          );
+          layer.on("click", function() {
+
+  const props = feature.properties;
+
+  document.getElementById("country-card").innerHTML =
+    "<h2>" + props.country + "</h2>" +
+    "<p><strong>Myth Thread:</strong> " + props.myth + "</p>" +
+    "<p><strong>Route:</strong><br>" + props.route + "</p>" +
+    "<p><strong>Photos:</strong> " + props.photos + "</p>" +
+    "<p><strong>Year:</strong> " + props.year + "</p>" +
+    "<p><a href='" + props.story + "'>Read Journey</a></p>";
+
         }
       });
 
