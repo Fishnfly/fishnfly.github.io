@@ -6,74 +6,13 @@ layout: default
 
 <div id="map" style="height:600px;"></div>
 
-Select a Destination
-Click a marker on the map.
+<div id="country-card">
+  <h2>Select a Destination</h2>
+  <p>Click a marker on the map.</p>
+</div>
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const map = L.map("map").setView([20, 0], 2);
-
-  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution: "&copy; OpenStreetMap"
-  }).addTo(map);
-
-  fetch("/assets/data/atlas.geojson")
-    .then(response => {
-      if (!response.ok) {
-        throw new Error("Failed to load atlas.geojson: " + response.status);
-      }
-      return response.json();
-    })
-    .then(data => {
-      const atlasLayer = L.geoJSON(data, {
-        pointToLayer: function(feature, latlng) {
-          return L.circleMarker(latlng, {
-            radius: 8,
-            fillColor: feature.properties.color || "#3388ff",
-            color: "#ffffff",
-            weight: 2,
-            fillOpacity: 0.9
-          });
-        },
-
-        onEachFeature: function(feature, layer) {
-          const props = feature.properties || {};
-          const country = props.country || "Location";
-          const myth = props.myth || "N/A";
-          const route = props.route || "N/A";
-          const photos = props.photos || "N/A";
-          const story = props.story ? "<a href='" + props.story + "'>Read Journey</a>" : "";
-
-          onEachFeature: function(feature, layer) {
-
-  layer.on("click", function() {
-
-    const props = feature.properties || {};
-
-    document.getElementById("country-card").innerHTML =
-      "<h2>" + (props.country || "Location") + "</h2>" +
-      "<p><strong>Myth Thread:</strong> " + (props.myth || "") + "</p>" +
-      "<p><strong>Route:</strong><br>" + (props.route || "") + "</p>" +
-      "<p><strong>Photos:</strong> " + (props.photos || "") + "</p>" +
-      "<p><strong>Year:</strong> " + (props.year || "") + "</p>" +
-      "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
-
-  });
-
-}
-
-      atlasLayer.addTo(map);
-      const bounds = atlasLayer.getBounds();
-      if (bounds.isValid()) {
-        map.fitBounds(bounds.pad(0.3));
-      }
-    })
-    .catch(error => {
-      console.error("Atlas map failed to load:", error);
-    });
-});
-</script>
+<script src="/assets/js/atlas.js"></script>
