@@ -7,30 +7,178 @@
         "country": "Colombia",
         "myth": "Transformation",
         "year": 2026,
-        "route": "Bogotá → Medellín → Cartagena",
         "photos": 127,
         "story": "/travel/2026/08/15/colombia-field-notes.html",
-        "color": "#3498db"
+        "color": "#3498db",
+        "route": [
+          "Bogotá",
+          "Zipaquirá",
+          "Villa de Leyva",
+          "Barichara",
+          "Guane",
+          "Chicamocha Canyon",
+          "Bucaramanga",
+          "Medellín",
+          "Cartagena",
+          "La Boquilla"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-74.0721, 4.7110]
       }
     },
+
     {
       "type": "Feature",
       "properties": {
-        "country": "Egypt",
+        "country": "Jordan & Egypt",
         "myth": "Memory",
         "year": 2026,
-        "route": "Cairo → Luxor → Aswan",
         "photos": 95,
         "story": "/travel/2026/02/22/jordan-egypt-field-notes.html",
-        "color": "#f1c40f"
+        "color": "#f1c40f",
+        "route": [
+          "Dead Sea",
+          "Madaba",
+          "Petra",
+          "Kerak",
+          "Amman",
+          "Cairo",
+          "Giza",
+          "Luxor",
+          "Nile Cruise",
+          "Aswan",
+          "Cairo"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [31.2357, 30.0444]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Spain",
+        "myth": "Discovery",
+        "year": 2026,
+        "photos": 85,
+        "story": "/travel/2026/07/03/spain-secondtime-notes.html",
+        "color": "#9b59b6",
+        "route": [
+          "Madrid",
+          "Segovia",
+          "Toledo",
+          "Seville",
+          "Granada",
+          "Córdoba",
+          "Barcelona"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7038, 40.4168]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Galápagos",
+        "myth": "Fragility",
+        "year": 2026,
+        "photos": 143,
+        "story": "/travel/2026/08/07/galapagos-field-notes.html",
+        "color": "#27ae60",
+        "route": [
+          "Quito",
+          "Baltra",
+          "Santa Cruz",
+          "Isabela",
+          "Fernandina",
+          "Española",
+          "San Cristóbal"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.9656, -0.9538]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Turkey",
+        "myth": "Civilizations",
+        "year": 2026,
+        "photos": 118,
+        "story": "/travel/2026/05/11/turkey-field-notes.html",
+        "color": "#e74c3c",
+        "route": [
+          "Istanbul",
+          "Gallipoli",
+          "Troy",
+          "Pergamon",
+          "Ephesus",
+          "Pamukkale",
+          "Cappadocia"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.9784, 41.0082]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Netherlands & Belgium",
+        "myth": "Commerce",
+        "year": 2026,
+        "photos": 72,
+        "story": "/travel/2026/04/23/netherlands-belgium-field-notes.html",
+        "color": "#16a085",
+        "route": [
+          "Amsterdam",
+          "Haarlem",
+          "Rotterdam",
+          "Antwerp",
+          "Bruges",
+          "Brussels"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9041, 52.3676]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Morocco",
+        "myth": "Transition",
+        "year": 2025,
+        "photos": 102,
+        "story": "/travel/2025/02/15/morocco-field-notes.html",
+        "color": "#d35400",
+        "route": [
+          "Casablanca",
+          "Fes",
+          "Meknes",
+          "Midelt",
+          "Merzouga",
+          "Dades Valley",
+          "Marrakech"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.5898, 33.5731]
       }
     }
   ]
