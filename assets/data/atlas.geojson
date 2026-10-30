@@ -168,13 +168,19 @@
         "color": "#d35400",
         "route": [
           "Casablanca",
-          "Fes",
+          "Tangier",
+          "Chefchaouen",
+          "Rabat",
+          "Volubilis",
           "Meknes",
-          "Midelt",
-          "Merzouga",
-          "Dades Valley",
-          "Marrakech"
-        ]
+          "Fez",
+          "Erfoud",
+          "Sahara (Merzouga)",
+          "Aït Benhaddou",
+          "Marrakesh",
+          "Essaouira",
+          "Casablanca"
+]
       },
       "geometry": {
         "type": "Point",
