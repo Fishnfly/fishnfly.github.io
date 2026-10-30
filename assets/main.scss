@@ -447,3 +447,17 @@
     aspect-ratio: 1/1;
   }
 }
+
+/* Atlas Responsive Layout */
+
+#map {
+  height: 600px;
+}
+
+@media screen and (max-width: 768px) {
+  #map {
+    height: 35vh;
+    min-height: 220px;
+    max-height: 320px;
+  }
+}
