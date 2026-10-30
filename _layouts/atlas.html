@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<h1>The FishnFly Atlas</h1>
+
+<div id="map" style="height:600px;"></div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function() {
+
+  const map = L.map("map").setView([20,0],2);
+
+  L.tileLayer(
+    "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    {
+      attribution: "&copy; OpenStreetMap"
+    }
+  ).addTo(map);
+
+  L.marker([4.7110,-74.0721])
+    .addTo(map)
+    .bindPopup("Colombia");
+
+});
+
+</script>
