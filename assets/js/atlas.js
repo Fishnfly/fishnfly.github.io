@@ -33,10 +33,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   var journeys = data.features.length;
 
-  ...
-
-  var journeys = data.features.length;
-
   var photos = data.features.reduce(function(total, feature) {
     return total + (feature.properties.photos || 0);
   }, 0);
