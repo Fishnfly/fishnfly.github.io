@@ -198,6 +198,24 @@ var map = L.map("map").setView([20, 0], 2);
 
       atlasLayer.addTo(map);
 
+      function applyMythFilter(selectedMyth) {
+
+  atlasLayer.clearLayers();
+
+  atlasLayer.addData({
+    type: "FeatureCollection",
+    features: data.features.filter(function(feature) {
+
+      return (
+        !selectedMyth ||
+        feature.properties.myth === selectedMyth
+      );
+
+    })
+  });
+
+}
+
       var bounds = atlasLayer.getBounds();
       if (bounds.isValid()) {
         map.fitBounds(bounds.pad(0.30));
