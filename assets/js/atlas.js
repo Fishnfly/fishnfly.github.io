@@ -16,7 +16,24 @@ document.addEventListener("DOMContentLoaded", function () {
   }).addTo(map);
 
   fetch("/assets/data/atlas.geojson")
-   .then(function (data) {
+  .then(function(response) {
+
+    if (!response.ok) {
+      throw new Error(
+        "Failed to load atlas.geojson: " +
+        response.status
+      );
+    }
+
+    return response.json();
+
+})
+
+.then(function(data) {
+
+  var journeys = data.features.length;
+
+  ...
 
   var journeys = data.features.length;
 
