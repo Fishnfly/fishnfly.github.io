@@ -10,44 +10,52 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function renderLegend(data) {
-    var legendEl = document.getElementById("atlas-legend");
-    if (!legendEl) return;
 
-    var seen = {};
-    var items = [];
+  var legendEl =
+    document.getElementById("atlas-legend");
 
-    data.features.forEach(function (feature) {
-      var props = feature.properties || {};
-      var country = props.country || "Location";
-      var color = props.color || "#3388ff";
+  if (!legendEl) return;
 
-      if (!seen[color]) {
-        seen[color] = true;
-        items.push({ country: country, color: color });
-      }
-    });
+  var seen = {};
+  var items = [];
 
-    legendEl.innerHTML = "<h3>Journey Legend</h3><div class='legend-items'></div>";
-    var list = legendEl.querySelector(".legend-items");
+  data.features.forEach(function(feature) {
 
-    items.forEach(function (item) {
-      var row = document.createElement("div");
-      row.className = "legend-item";
+    var props =
+      feature.properties || {};
 
-      var swatch = document.createElement("span");
-      swatch.className = "legend-swatch";
-      swatch.style.backgroundColor = item.color;
+    var myth =
+      props.myth || "Unknown";
 
-      var label = document.createElement("span");
-      label.textContent = item.country;
+    var color =
+      props.color || "#3388ff";
 
-      row.appendChild(swatch);
-      row.appendChild(label);
-      list.appendChild(row);
-    });
-  }
+    if (!seen[myth]) {
 
-  var map = L.map("map").setView([20, 0], 2);
+      seen[myth] = true;
+
+      items.push(
+        "<div class='legend-item'>" +
+          "<span class='legend-swatch' " +
+          "style='background-color:" +
+          color +
+          "'></span>" +
+          "<span>" +
+          myth +
+          "</span>" +
+        "</div>"
+      );
+
+    }
+
+  });
+
+  legendEl.innerHTML =
+    items.join("");
+
+}
+
+var map = L.map("map").setView([20, 0], 2);
 
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap"
@@ -180,7 +188,7 @@ document.addEventListener("DOMContentLoaded", function () {
               stopCount +
              " Stops • " +
              (props.photos || 0) +
-             " Photos</p>" + "</p>" +
+             " Photos</p>" +
               "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
           });
         }
