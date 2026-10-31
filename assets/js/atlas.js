@@ -9,6 +9,44 @@ document.addEventListener("DOMContentLoaded", function () {
     return;
   }
 
+  function renderLegend(data) {
+    var legendEl = document.getElementById("atlas-legend");
+    if (!legendEl) return;
+
+    var seen = {};
+    var items = [];
+
+    data.features.forEach(function (feature) {
+      var props = feature.properties || {};
+      var country = props.country || "Location";
+      var color = props.color || "#3388ff";
+
+      if (!seen[color]) {
+        seen[color] = true;
+        items.push({ country: country, color: color });
+      }
+    });
+
+    legendEl.innerHTML = "<h3>Journey Legend</h3><div class='legend-items'></div>";
+    var list = legendEl.querySelector(".legend-items");
+
+    items.forEach(function (item) {
+      var row = document.createElement("div");
+      row.className = "legend-item";
+
+      var swatch = document.createElement("span");
+      swatch.className = "legend-swatch";
+      swatch.style.backgroundColor = item.color;
+
+      var label = document.createElement("span");
+      label.textContent = item.country;
+
+      row.appendChild(swatch);
+      row.appendChild(label);
+      list.appendChild(row);
+    });
+  }
+
   var map = L.map("map").setView([20, 0], 2);
 
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -16,82 +54,61 @@ document.addEventListener("DOMContentLoaded", function () {
   }).addTo(map);
 
   fetch("/assets/data/atlas.geojson")
-  .then(function(response) {
-
-    if (!response.ok) {
-      throw new Error(
-        "Failed to load atlas.geojson: " +
-        response.status
-      );
-    }
-
-    return response.json();
-
-})
-
-.then(function(data) {
-
-  var journeys = data.features.length;
-
-  var photos = data.features.reduce(function(total, feature) {
-    return total + (feature.properties.photos || 0);
-  }, 0);
-
-  var stops = data.features.reduce(function(total, feature) {
-    return total +
-      (feature.properties.route
-        ? feature.properties.route.length
-        : 0);
-  }, 0);
-
-  var myths = new Set(
-    data.features.map(function(feature) {
-      return feature.properties.myth;
+    .then(function (response) {
+      if (!response.ok) {
+        throw new Error("Failed to load atlas.geojson: " + response.status);
+      }
+      return response.json();
     })
-  );
+    .then(function (data) {
+      renderLegend(data);
 
-  var statsEl =
-  document.getElementById("atlas-stats");
+      var journeys = data.features.length;
 
-if (statsEl) {
+      var photos = data.features.reduce(function (total, feature) {
+        return total + (feature.properties.photos || 0);
+      }, 0);
 
-  statsEl.innerHTML =
+      var stops = data.features.reduce(function (total, feature) {
+        return total + (feature.properties.route ? feature.properties.route.length : 0);
+      }, 0);
 
-    "<div class='stat-box'>" +
-      "<div class='stat-number'>" + journeys + "</div>" +
-      "<div class='stat-label'>Journeys</div>" +
-    "</div>" +
+      var myths = new Set(data.features.map(function (feature) {
+        return feature.properties.myth;
+      }));
 
-    "<div class='stat-box'>" +
-      "<div class='stat-number'>" + stops + "</div>" +
-      "<div class='stat-label'>Stops</div>" +
-    "</div>" +
+      var statsEl = document.getElementById("atlas-stats");
 
-    "<div class='stat-box'>" +
-      "<div class='stat-number'>" + photos + "</div>" +
-      "<div class='stat-label'>Photos</div>" +
-    "</div>" +
+      if (statsEl) {
+        statsEl.innerHTML =
+          "<div class='stat-box'>" +
+            "<div class='stat-number'>" + journeys + "</div>" +
+            "<div class='stat-label'>Journeys</div>" +
+          "</div>" +
+          "<div class='stat-box'>" +
+            "<div class='stat-number'>" + stops + "</div>" +
+            "<div class='stat-label'>Stops</div>" +
+          "</div>" +
+          "<div class='stat-box'>" +
+            "<div class='stat-number'>" + photos + "</div>" +
+            "<div class='stat-label'>Photos</div>" +
+          "</div>" +
+          "<div class='stat-box'>" +
+            "<div class='stat-number'>" + myths.size + "</div>" +
+            "<div class='stat-label'>Myth Threads</div>" +
+          "</div>";
+      }
 
-    "<div class='stat-box'>" +
-      "<div class='stat-number'>" + myths.size + "</div>" +
-      "<div class='stat-label'>Myth Threads</div>" +
-    "</div>";
-
-}
-
-  var atlasLayer = L.geoJSON(data, {
-
-    pointToLayer: function (feature, latlng) {
-
-      return L.circleMarker(latlng, {
-        radius: 8,
-        fillColor: feature.properties.color || "#3388ff",
-        color: "#ffffff",
-        weight: 2,
-        fillOpacity: 0.9
-      });
-
-    },
+      var atlasLayer = L.geoJSON(data, {
+        pointToLayer: function (feature, latlng) {
+          return L.circleMarker(latlng, {
+            radius: 8,
+            fillColor: feature.properties.color || "#3388ff",
+            color: "#ffffff",
+            weight: 2,
+            fillOpacity: 0.9
+          });
+        },
 
         onEachFeature: function (feature, layer) {
           layer.on("click", function () {
