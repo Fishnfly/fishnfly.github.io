@@ -202,6 +202,9 @@ var map = L.map("map").setView([20, 0], 2);
 
       atlasLayer.addTo(map);
 
+      var worldBounds =
+  atlasLayer.getBounds();
+
       function applyMythFilter(selectedMyth) {
 
   atlasLayer.clearLayers();
@@ -211,11 +214,33 @@ var map = L.map("map").setView([20, 0], 2);
     features: data.features.filter(function(feature) {
 
       return (
-  selectedMyth === "all" ||
-  feature.properties.myth === selectedMyth
-);
+        selectedMyth === "all" ||
+        feature.properties.myth === selectedMyth
+      );
+
     })
   });
+
+  if (selectedMyth === "all") {
+
+    map.fitBounds(
+      worldBounds.pad(0.30)
+    );
+
+  } else {
+
+    var filteredBounds =
+      atlasLayer.getBounds();
+
+    if (filteredBounds.isValid()) {
+
+      map.fitBounds(
+        filteredBounds.pad(1.0)
+      );
+
+    }
+
+  }
 
 }
 
