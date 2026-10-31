@@ -50,7 +50,12 @@ document.addEventListener("DOMContentLoaded", function () {
     })
   );
 
-  document.getElementById("atlas-stats").innerHTML =
+  var statsEl =
+  document.getElementById("atlas-stats");
+
+if (statsEl) {
+
+  statsEl.innerHTML =
 
     "<div class='stat-box'>" +
       "<div class='stat-number'>" + journeys + "</div>" +
