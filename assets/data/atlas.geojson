@@ -11,17 +11,17 @@
         "story": "/travel/2026/08/15/colombia-field-notes.html",
         "color": "#3498db",
         "route": [
-          "Bogotá",
-          "Zipaquirá",
-          "Villa de Leyva",
-          "Barichara",
-          "Guane",
-          "Chicamocha Canyon",
-          "Bucaramanga",
-          "Medellín",
-          "Cartagena",
-          "La Boquilla"
-        ]
+        "Bogotá",
+        "Zipaquirá",
+        "Villa de Leyva",
+        "Barichara",
+        "Guane",
+        "Chicamocha Canyon",
+        "Bucaramanga",
+        "Medellín",
+        "Cartagena",
+        "La Boquilla"
+]
       },
       "geometry": {
         "type": "Point",
@@ -39,18 +39,18 @@
         "story": "/travel/2026/02/22/jordan-egypt-field-notes.html",
         "color": "#f1c40f",
         "route": [
-          "Dead Sea",
-          "Madaba",
-          "Petra",
-          "Kerak",
-          "Amman",
-          "Cairo",
-          "Giza",
-          "Luxor",
-          "Nile Cruise",
-          "Aswan",
-          "Cairo"
-        ]
+        "Dead Sea",
+        "Madaba",
+        "Petra",
+        "Kerak",
+        "Amman",
+        "Cairo",
+        "Giza",
+        "Luxor",
+        "Nile Cruise",
+        "Aswan",
+        "Cairo"
+]
       },
       "geometry": {
         "type": "Point",
@@ -68,14 +68,17 @@
         "story": "/travel/2026/07/03/spain-secondtime-notes.html",
         "color": "#9b59b6",
         "route": [
-          "Madrid",
-          "Segovia",
-          "Toledo",
-          "Seville",
-          "Granada",
-          "Córdoba",
-          "Barcelona"
-        ]
+        "Bogotá",
+        "Zipaquirá",
+        "Villa de Leyva",
+        "Barichara",
+        "Guane",
+        "Chicamocha Canyon",
+        "Bucaramanga",
+        "Medellín",
+        "Cartagena",
+        "La Boquilla"
+]
       },
       "geometry": {
         "type": "Point",
@@ -93,14 +96,17 @@
         "story": "/travel/2026/08/07/galapagos-field-notes.html",
         "color": "#27ae60",
         "route": [
-          "Quito",
-          "Baltra",
-          "Santa Cruz",
-          "Isabela",
-          "Fernandina",
-          "Española",
-          "San Cristóbal"
-        ]
+        "Quito",
+        "Baltra",
+        "Santa Cruz",
+        "North Seymour",
+        "Bartolomé",
+        "Isabela",
+        "Fernandina",
+        "Española",
+        "San Cristóbal",
+        "Quito"
+]
       },
       "geometry": {
         "type": "Point",
@@ -118,14 +124,17 @@
         "story": "/travel/2026/05/11/turkey-field-notes.html",
         "color": "#e74c3c",
         "route": [
-          "Istanbul",
-          "Gallipoli",
-          "Troy",
-          "Pergamon",
-          "Ephesus",
-          "Pamukkale",
-          "Cappadocia"
-        ]
+        "Istanbul",
+        "Gallipoli",
+        "Troy",
+        "Pergamon",
+        "Ephesus",
+        "Pamukkale",
+        "Konya",
+        "Cappadocia",
+        "Ankara",
+        "Istanbul"
+]
       },
       "geometry": {
         "type": "Point",
@@ -143,13 +152,19 @@
         "story": "/travel/2026/04/23/netherlands-belgium-field-notes.html",
         "color": "#16a085",
         "route": [
-          "Amsterdam",
-          "Haarlem",
-          "Rotterdam",
-          "Antwerp",
-          "Bruges",
-          "Brussels"
-        ]
+        "Amsterdam",
+        "Keukenhof",
+        "Rotterdam",
+        "Kinderdijk",
+        "Delft",
+        "The Hague",
+        "Ghent",
+        "Bruges",
+        "Brussels",
+        "Sofia",
+        "Rila Monastery"
+  ]
+
       },
       "geometry": {
         "type": "Point",
