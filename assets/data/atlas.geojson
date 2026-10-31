@@ -62,7 +62,7 @@
         "country": "Spain-Interior",
         "myth": "Edges",
         "year": 2026,
-        "photos": 0,
+        "photos": 45,
         "story": "/travel/2026/03/06/spain-field-notes.html",
         "color": "#9b59b6",
         "route": [
@@ -96,22 +96,39 @@
         "country": "Spain-Northern",
         "myth": "Discovery",
         "year": 2026,
-        "photos": 85,
+        "photos": 170,
         "story": "/travel/2026/07/03/spain-secondtime-notes.html",
         "color": "#8e44ad",
         "route": [
-          "Madrid",
-          "Segovia",
-          "Toledo",
-          "Seville",
-          "Granada",
-          "Córdoba",
-          "Barcelona"
-        ]
+        "Mallorca",
+        "Barcelona",
+        "Figueres",
+        "Girona",
+        "Montserrat",
+        "Poblet",
+        "Zaragoza",
+        "Olite",
+        "Pamplona",
+        "San Sebastián",
+        "Gaztelugatxe",
+        "Bilbao",
+        "Rioja",
+        "Castro Urdiales",
+        "Santillana del Mar",
+        "Comillas",
+        "Picos de Europa",
+        "Santiago de Compostela",
+        "Lugo",
+        "Ponferrada",
+        "León",
+        "Salamanca",
+        "Ávila",
+        "Madrid"
+]
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.7038, 40.4168]
+        "coordinates": [2.1734, 41.3851]
       }
     },
     {
@@ -120,22 +137,25 @@
         "country": "Galápagos",
         "myth": "Fragility",
         "year": 2026,
-        "photos": 143,
+        "photos": 96,
         "story": "/travel/2026/08/07/galapagos-field-notes.html",
         "color": "#27ae60",
         "route": [
-          "Quito",
-          "Baltra",
-          "Santa Cruz",
-          "North Seymour",
-          "Bartolomé",
-          "Isabela",
-          "Fernandina",
-          "Española",
-          "San Cristóbal",
-          "Quito"
-        ]
-      },
+        "Baltra",
+        "Santa Cruz",
+        "Finch Bay",
+        "Charles Darwin Research Center",
+        "Tortuga Bay",
+        "North Seymour",
+        "Las Bachas Beach",
+        "Divine Bay",
+        "Santa Cruz Highlands",
+        "Lava Tunnels",
+        "South Plaza",
+        "Santa Fe",
+        "Santa Cruz"
+]
+},
       "geometry": {
         "type": "Point",
         "coordinates": [-90.9656, -0.9538]
@@ -147,21 +167,21 @@
         "country": "Turkey",
         "myth": "Civilizations",
         "year": 2026,
-        "photos": 118,
+        "photos": 143,
         "story": "/travel/2026/05/11/turkey-field-notes.html",
         "color": "#e74c3c",
         "route": [
-          "Istanbul",
-          "Gallipoli",
-          "Troy",
-          "Pergamon",
-          "Ephesus",
-          "Pamukkale",
-          "Konya",
-          "Cappadocia",
-          "Ankara",
-          "Istanbul"
-        ]
+        "Istanbul",
+        "Çanakkale",
+        "Troy",
+        "Pergamum",
+        "Kusadasi",
+        "Pamukkale",
+        "Konya",
+        "Cappadocia",
+        "Ankara",
+        "Istanbul"
+]
       },
       "geometry": {
         "type": "Point",
@@ -175,7 +195,7 @@
         "country": "Netherlands & Belgium",
         "myth": "Commerce",
         "year": 2026,
-        "photos": 72,
+        "photos": 100,
         "story": "/travel/2026/04/23/netherlands-belgium-bulgaria-field-notes.html",
         "color": "#16a085",
         "route": [
@@ -201,7 +221,7 @@
         "country": "Morocco",
         "myth": "Transition",
         "year": 2025,
-        "photos": 102,
+        "photos": 58,
         "story": "/travel/2025/02/15/morocco-field-notes.html",
         "color": "#d35400",
         "route": [
@@ -232,7 +252,7 @@
         "journey": "Netherlands, Belgium & Bulgaria",
         "myth": "Heritage",
         "year": 2026,
-        "photos": 24,
+        "photos": 50,
         "story": "/travel/2026/04/23/netherlands-belgium-bulgaria-field-notes.html",
         "color": "#8e44ad",
         "route": [

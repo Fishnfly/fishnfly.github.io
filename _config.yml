@@ -7,6 +7,7 @@ image: /assets/images/social/fishnfly-og.jpg
 
 header_pages:
   - about.md
+  - atlas.md
   - travel.md
   - photo-archive.md
   - follow.md
