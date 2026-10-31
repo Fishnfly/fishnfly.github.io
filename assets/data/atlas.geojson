@@ -160,10 +160,8 @@
         "The Hague",
         "Ghent",
         "Bruges",
-        "Brussels",
-        "Sofia",
-        "Rila Monastery"
-  ]
+        "Brussels"
+]
 
       },
       "geometry": {
@@ -204,3 +202,21 @@
     }
   ]
 }
+{
+  "country": "Bulgaria",
+  "myth": "Heritage",
+  "year": 2026,
+  "photos": 24,
+  "story": "/travel/2026/04/23/netherlands-belgium-field-notes.html",
+  "color": "#8e44ad",
+  "route": [
+    "Sofia",
+    "Rila Monastery"
+  ]
+    },
+       "geometry": {
+         "type": "Point",
+         "coordinates": [-23.3219,, 42.6977]
+       }
+     }
+   ]
