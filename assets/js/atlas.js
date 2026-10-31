@@ -17,7 +17,11 @@ document.addEventListener("DOMContentLoaded", function () {
   if (!legendEl) return;
 
   var seen = {};
-  var items = [];
+  var items = [
+  "<div class='legend-item legend-filter active' data-myth='all'>" +
+  "All Threads" +
+  "</div>"
+];
 
   data.features.forEach(function(feature) {
 
@@ -207,14 +211,14 @@ var map = L.map("map").setView([20, 0], 2);
     features: data.features.filter(function(feature) {
 
       return (
-        !selectedMyth ||
-        feature.properties.myth === selectedMyth
-      );
-
+  selectedMyth === "all" ||
+  feature.properties.myth === selectedMyth
+);
     })
   });
 
 }
+
 document
   .querySelectorAll(".legend-filter")
   .forEach(function(item) {
@@ -222,6 +226,14 @@ document
     item.addEventListener(
       "click",
       function() {
+
+        document
+          .querySelectorAll(".legend-filter")
+          .forEach(function(filter) {
+            filter.classList.remove("active");
+          });
+
+        this.classList.add("active");
 
         var myth =
           this.getAttribute("data-myth");

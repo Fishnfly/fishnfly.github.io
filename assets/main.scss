@@ -528,3 +528,19 @@ color: #666;
 #random-journey:hover {
   background: #34495e;
 }
+
+.legend-filter {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.legend-filter:hover {
+  opacity: 0.8;
+}
+
+.legend-filter.active {
+  background: #2c3e50;
+  color: #ffffff;
+  border-radius: 16px;
+  padding: 4px 10px;
+}
