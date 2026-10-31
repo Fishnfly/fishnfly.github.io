@@ -221,26 +221,27 @@ var map = L.map("map").setView([20, 0], 2);
     })
   });
 
-  if (selectedMyth === "all") {
+ if (selectedMyth === "all") {
 
-    map.fitBounds(
-      worldBounds.pad(0.30)
+  map.fitBounds(
+    worldBounds.pad(0.30)
+  );
+
+} else {
+
+  var filteredBounds =
+    atlasLayer.getBounds();
+
+  if (filteredBounds.isValid()) {
+
+    map.setView(
+      filteredBounds.getCenter(),
+      5
     );
 
-  } else {
-
-    var filteredBounds =
-      atlasLayer.getBounds();
-
-    if (filteredBounds.isValid()) {
-
-      map.fitBounds(
-        filteredBounds.pad(1.0)
-      );
-
-    }
-
   }
+
+}
 
 }
 
