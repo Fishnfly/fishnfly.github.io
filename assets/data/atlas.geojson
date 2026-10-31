@@ -59,7 +59,7 @@
     {
       "type": "Feature",
       "properties": {
-        "country": "Spain-Northern",
+        "country": "Spain-Interior",
         "myth": "Edges",
         "year": 2026,
         "photos": 0,
@@ -93,7 +93,7 @@
     {
       "type": "Feature",
       "properties": {
-        "country": "Spain-Interior",
+        "country": "Spain-Northern",
         "myth": "Discovery",
         "year": 2026,
         "photos": 85,
