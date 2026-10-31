@@ -114,13 +114,16 @@ if (statsEl) {
                 }).join("") + "</ul>"
               : "<p>No route details available.</p>";
 
+            var stopCount = routeValues.length;
+
             countryCard.innerHTML =
               "<h2>" + (props.country || "Location") + "</h2>" +
               "<p><strong>Myth Thread:</strong> " + (props.myth || "") + "</p>" +
               "<p><strong>Route:</strong></p>" +
               routeList +
-              "<p><strong>Photos:</strong> " + (props.photos || "") + "</p>" +
               "<p><strong>Year:</strong> " + (props.year || "") + "</p>" +
+              "<p><strong>Stops:</strong> " + stopCount + "</p>" +
+              "<p><strong>Photos:</strong> " + (props.photos || "") + "</p>" +
               "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
           });
         }
