@@ -16,23 +16,62 @@ document.addEventListener("DOMContentLoaded", function () {
   }).addTo(map);
 
   fetch("/assets/data/atlas.geojson")
-    .then(function (response) {
-      if (!response.ok) {
-        throw new Error("Failed to load atlas.geojson: " + response.status);
-      }
-      return response.json();
+   .then(function (data) {
+
+  var journeys = data.features.length;
+
+  var photos = data.features.reduce(function(total, feature) {
+    return total + (feature.properties.photos || 0);
+  }, 0);
+
+  var stops = data.features.reduce(function(total, feature) {
+    return total +
+      (feature.properties.route
+        ? feature.properties.route.length
+        : 0);
+  }, 0);
+
+  var myths = new Set(
+    data.features.map(function(feature) {
+      return feature.properties.myth;
     })
-    .then(function (data) {
-      var atlasLayer = L.geoJSON(data, {
-        pointToLayer: function (feature, latlng) {
-          return L.circleMarker(latlng, {
-            radius: 8,
-            fillColor: feature.properties.color || "#3388ff",
-            color: "#ffffff",
-            weight: 2,
-            fillOpacity: 0.9
-          });
-        },
+  );
+
+  document.getElementById("atlas-stats").innerHTML =
+
+    "<div class='stat-box'>" +
+      "<div class='stat-number'>" + journeys + "</div>" +
+      "<div class='stat-label'>Journeys</div>" +
+    "</div>" +
+
+    "<div class='stat-box'>" +
+      "<div class='stat-number'>" + stops + "</div>" +
+      "<div class='stat-label'>Stops</div>" +
+    "</div>" +
+
+    "<div class='stat-box'>" +
+      "<div class='stat-number'>" + photos + "</div>" +
+      "<div class='stat-label'>Photos</div>" +
+    "</div>" +
+
+    "<div class='stat-box'>" +
+      "<div class='stat-number'>" + myths.size + "</div>" +
+      "<div class='stat-label'>Myth Threads</div>" +
+    "</div>";
+
+  var atlasLayer = L.geoJSON(data, {
+
+    pointToLayer: function (feature, latlng) {
+
+      return L.circleMarker(latlng, {
+        radius: 8,
+        fillColor: feature.properties.color || "#3388ff",
+        color: "#ffffff",
+        weight: 2,
+        fillOpacity: 0.9
+      });
+
+    },
 
         onEachFeature: function (feature, layer) {
           layer.on("click", function () {

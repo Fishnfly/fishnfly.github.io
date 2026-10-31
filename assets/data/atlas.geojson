@@ -59,7 +59,7 @@
     {
       "type": "Feature",
       "properties": {
-        "country": "Spain",
+        "country": "Spain-Northern",
         "myth": "Edges",
         "year": 2026,
         "photos": 0,
@@ -93,7 +93,7 @@
     {
       "type": "Feature",
       "properties": {
-        "country": "Spain",
+        "country": "Spain-Interior",
         "myth": "Discovery",
         "year": 2026,
         "photos": 85,
@@ -198,7 +198,6 @@
     {
       "type": "Feature",
       "properties": {
-        "journey": "Netherlands, Belgium & Bulgaria",
         "country": "Morocco",
         "myth": "Transition",
         "year": 2025,
