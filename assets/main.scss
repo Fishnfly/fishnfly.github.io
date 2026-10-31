@@ -498,3 +498,19 @@ color: #666;
   color: #444;
   margin-bottom: 15px;
 }
+.route-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0 15px 0;
+}
+
+.route-chip {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 20px;
+  background: #f2f4f7;
+  border: 1px solid #d9dde3;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}

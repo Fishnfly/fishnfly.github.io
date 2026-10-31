@@ -126,21 +126,33 @@ document.addEventListener("DOMContentLoaded", function () {
             }
 
             var routeList = routeValues.length
-              ? "<ul>" + routeValues.map(function (stop) {
-                  return "<li>" + stop + "</li>";
-                }).join("") + "</ul>"
+              ? "<div class='route-chips'>" +
+                  routeValues.map(function(stop) {
+                   return "<span class='route-chip'>" +
+                         stop +
+                         "</span>";
+                 }).join("")
+                + "</div>"
               : "<p>No route details available.</p>";
 
             var stopCount = routeValues.length;
 
             countryCard.innerHTML =
-              "<h2>" + (props.country || "Location") + "</h2>" +
-              "<p><strong>Myth Thread:</strong> " + (props.myth || "") + "</p>" +
+              "<h2>" +
+              (props.country || "Location").toUpperCase() +
+             "</h2>" +
+             "<p class='myth-thread'>" +
+              (props.myth || "") +
+              "</p>" +
               "<p><strong>Route:</strong></p>" +
               routeList +
-              "<p><strong>Year:</strong> " + (props.year || "") + "</p>" +
-              "<p><strong>Stops:</strong> " + stopCount + "</p>" +
-              "<p><strong>Photos:</strong> " + (props.photos || "") + "</p>" +
+              "<p class='journey-meta'>" +
+              (props.year || "") +
+              " • " +
+              stopCount +
+             " Stops • " +
+             (props.photos || 0) +
+             " Photos</p>" + "</p>" +
               "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
           });
         }
