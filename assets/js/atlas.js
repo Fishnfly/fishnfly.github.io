@@ -35,7 +35,9 @@ document.addEventListener("DOMContentLoaded", function () {
       seen[myth] = true;
 
       items.push(
-        "<div class='legend-item'>" +
+        "<div class='legend-item legend-filter' data-myth='" +
+        myth +
+        "'>" +
           "<span class='legend-swatch' " +
           "style='background-color:" +
           color +
