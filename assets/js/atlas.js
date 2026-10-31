@@ -77,6 +77,8 @@ if (statsEl) {
       "<div class='stat-label'>Myth Threads</div>" +
     "</div>";
 
+}
+
   var atlasLayer = L.geoJSON(data, {
 
     pointToLayer: function (feature, latlng) {
