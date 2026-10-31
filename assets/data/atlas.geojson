@@ -171,6 +171,7 @@
     {
       "type": "Feature",
       "properties": {
+        "journey": "Netherlands, Belgium & Bulgaria",
         "country": "Netherlands & Belgium",
         "myth": "Commerce",
         "year": 2026,
@@ -197,6 +198,7 @@
     {
       "type": "Feature",
       "properties": {
+        "journey": "Netherlands, Belgium & Bulgaria",
         "country": "Morocco",
         "myth": "Transition",
         "year": 2025,
