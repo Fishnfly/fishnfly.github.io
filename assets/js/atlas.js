@@ -99,6 +99,34 @@ document.addEventListener("DOMContentLoaded", function () {
           "</div>";
       }
 
+      var randomButton =
+        document.getElementById("random-journey");
+
+       if (randomButton) {
+
+       randomButton.addEventListener(
+       "click",
+       function() {
+
+       var journeys =
+        data.features;
+
+       var choice =
+        journeys[
+          Math.floor(
+            Math.random() *
+            journeys.length
+          )
+        ];
+
+      window.location =
+        choice.properties.story;
+
+    }
+  );
+
+}
+
       var atlasLayer = L.geoJSON(data, {
         pointToLayer: function (feature, latlng) {
           return L.circleMarker(latlng, {

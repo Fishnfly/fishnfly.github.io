@@ -514,3 +514,17 @@ color: #666;
   font-size: 0.9rem;
   white-space: nowrap;
 }
+
+#random-journey {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  background: #2c3e50;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+#random-journey:hover {
+  background: #34495e;
+}
