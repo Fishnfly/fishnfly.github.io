@@ -9,59 +9,67 @@ document.addEventListener("DOMContentLoaded", function () {
     return;
   }
 
-  function renderLegend(data) {
-
-  var legendEl =
-    document.getElementById("atlas-legend");
-
-  if (!legendEl) return;
-
-  var seen = {};
-  var items = [
-  "<div class='legend-item legend-filter active' data-myth='all'>" +
-  "All Threads" +
-  "</div>"
-];
-
-  data.features.forEach(function(feature) {
-
-    var props =
-      feature.properties || {};
-
-    var myth =
-      props.myth || "Unknown";
-
-    var color =
-      props.color || "#3388ff";
-
-    if (!seen[myth]) {
-
-      seen[myth] = true;
-
-      items.push(
-        "<div class='legend-item legend-filter' data-myth='" +
-        myth +
-        "'>" +
-          "<span class='legend-swatch' " +
-          "style='background-color:" +
-          color +
-          "'></span>" +
-          "<span>" +
-          myth +
-          "</span>" +
-        "</div>"
-      );
-
+  function normalizeRoute(route) {
+    if (Array.isArray(route)) {
+      return route.filter(Boolean);
     }
 
-  });
+    if (typeof route === "string") {
+      return route.split("→").map(function (stop) {
+        return stop.trim();
+      }).filter(Boolean);
+    }
 
-  legendEl.innerHTML =
-    items.join("");
+    return [];
+  }
 
-}
+  function renderLegend(data) {
+    var legendEl = document.getElementById("atlas-legend");
+    if (!legendEl) return;
 
-var map = L.map("map").setView([20, 0], 2);
+    var seen = {};
+    var items = [
+      "<div class='legend-item legend-filter active' data-myth='all'>All Threads</div>"
+    ];
+
+    data.features.forEach(function (feature) {
+      var props = feature.properties || {};
+      var myth = props.myth || "Unknown";
+      var color = props.color || "#3388ff";
+
+      if (!seen[myth]) {
+        seen[myth] = true;
+        items.push(
+          "<div class='legend-item legend-filter' data-myth='" + myth + "'>" +
+          "<span class='legend-swatch' style='background-color:" + color + "'></span>" +
+          "<span>" + myth + "</span>" +
+          "</div>"
+        );
+      }
+    });
+
+    legendEl.innerHTML = items.join("");
+  }
+
+  function renderJourneyCard(feature) {
+    var props = feature.properties || {};
+    var routeValues = normalizeRoute(props.route);
+    var routeList = routeValues.length
+      ? "<div class='route-chips'>" + routeValues.map(function (stop) {
+          return "<span class='route-chip'>" + stop + "</span>";
+        }).join("") + "</div>"
+      : "<p>No route details available.</p>";
+
+    countryCard.innerHTML =
+      "<h2>" + (props.country || "Location").toUpperCase() + "</h2>" +
+      "<p class='myth-thread'>" + (props.myth || "") + "</p>" +
+      "<p><strong>Route:</strong></p>" +
+      routeList +
+      "<p class='journey-meta'>" + (props.year || "") + " • " + routeValues.length + " Stops • " + (props.photos || 0) + " Photos</p>" +
+      "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
+  }
+
+  var map = L.map("map").setView([20, 0], 2);
 
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap"
@@ -78,21 +86,17 @@ var map = L.map("map").setView([20, 0], 2);
       renderLegend(data);
 
       var journeys = data.features.length;
-
       var photos = data.features.reduce(function (total, feature) {
         return total + (feature.properties.photos || 0);
       }, 0);
-
       var stops = data.features.reduce(function (total, feature) {
-        return total + (feature.properties.route ? feature.properties.route.length : 0);
+        return total + (feature.properties.route ? normalizeRoute(feature.properties.route).length : 0);
       }, 0);
-
       var myths = new Set(data.features.map(function (feature) {
         return feature.properties.myth;
       }));
 
       var statsEl = document.getElementById("atlas-stats");
-
       if (statsEl) {
         statsEl.innerHTML =
           "<div class='stat-box'>" +
@@ -113,33 +117,20 @@ var map = L.map("map").setView([20, 0], 2);
           "</div>";
       }
 
-      var randomButton =
-        document.getElementById("random-journey");
+      var randomButton = document.getElementById("random-journey");
+      if (randomButton) {
+        randomButton.addEventListener("click", function () {
+          var choices = data.features.filter(function (feature) {
+            return feature && feature.properties && feature.properties.story;
+          });
+          if (!choices.length) return;
 
-       if (randomButton) {
-
-       randomButton.addEventListener(
-       "click",
-       function() {
-
-       var journeys =
-        data.features;
-
-       var choice =
-        journeys[
-          Math.floor(
-            Math.random() *
-            journeys.length
-          )
-        ];
-
-      window.location =
-        choice.properties.story;
-
-    }
-  );
-
-}
+          var choice = choices[Math.floor(Math.random() * choices.length)];
+          if (choice.properties.story) {
+            window.location.href = choice.properties.story;
+          }
+        });
+      }
 
       var atlasLayer = L.geoJSON(data, {
         pointToLayer: function (feature, latlng) {
@@ -151,130 +142,69 @@ var map = L.map("map").setView([20, 0], 2);
             fillOpacity: 0.9
           });
         },
-
         onEachFeature: function (feature, layer) {
           layer.on("click", function () {
-            var props = feature.properties || {};
-            var routeValues = [];
-
-            if (Array.isArray(props.route)) {
-              routeValues = props.route;
-            } else if (typeof props.route === "string") {
-              routeValues = props.route.split("→").map(function (stop) {
-                return stop.trim();
-              }).filter(function (stop) {
-                return Boolean(stop);
-              });
-            }
-
-            var routeList = routeValues.length
-              ? "<div class='route-chips'>" +
-                  routeValues.map(function(stop) {
-                   return "<span class='route-chip'>" +
-                         stop +
-                         "</span>";
-                 }).join("")
-                + "</div>"
-              : "<p>No route details available.</p>";
-
-            var stopCount = routeValues.length;
-
-            countryCard.innerHTML =
-              "<h2>" +
-              (props.country || "Location").toUpperCase() +
-             "</h2>" +
-             "<p class='myth-thread'>" +
-              (props.myth || "") +
-              "</p>" +
-              "<p><strong>Route:</strong></p>" +
-              routeList +
-              "<p class='journey-meta'>" +
-              (props.year || "") +
-              " • " +
-              stopCount +
-             " Stops • " +
-             (props.photos || 0) +
-             " Photos</p>" +
-              "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
+            renderJourneyCard(feature);
           });
         }
       });
 
       atlasLayer.addTo(map);
 
-      var worldBounds =
-  atlasLayer.getBounds();
+      var worldBounds = atlasLayer.getBounds();
+      if (worldBounds.isValid()) {
+        map.fitBounds(worldBounds.pad(0.30));
+      }
 
       function applyMythFilter(selectedMyth) {
+        atlasLayer.clearLayers();
 
-  atlasLayer.clearLayers();
+        var filteredFeatures = selectedMyth === "all"
+          ? data.features
+          : data.features.filter(function (feature) {
+              return (feature.properties || {}).myth === selectedMyth;
+            });
 
-  atlasLayer.addData({
-    type: "FeatureCollection",
-    features: data.features.filter(function(feature) {
+        atlasLayer.addData({
+          type: "FeatureCollection",
+          features: filteredFeatures
+        });
 
-      return (
-        selectedMyth === "all" ||
-        feature.properties.myth === selectedMyth
-      );
+        if (selectedMyth === "all") {
 
-    })
-  });
-
- if (selectedMyth === "all") {
-
-  map.fitBounds(
-    worldBounds.pad(0.30)
-  );
-
-} else {
-
-  var filteredBounds =
-    atlasLayer.getBounds();
-
-  if (filteredBounds.isValid()) {
-
-    map.setView(
-      filteredBounds.getCenter(),
-      5
-    );
-
+  if (worldBounds.isValid()) {
+    map.fitBounds(worldBounds.pad(0.30));
   }
 
-}
+  countryCard.innerHTML =
+    "<h2>Select a Destination</h2>" +
+    "<p>Click a marker on the map.</p>";
+
+  return;
 
 }
 
-document
-  .querySelectorAll(".legend-filter")
-  .forEach(function(item) {
+        var firstMatch = filteredFeatures[0];
+        if (firstMatch) {
+          renderJourneyCard(firstMatch);
+        }
 
-    item.addEventListener(
-      "click",
-      function() {
+        var filteredBounds = atlasLayer.getBounds();
+        if (filteredBounds.isValid()) {
+          map.setView(filteredBounds.getCenter(), 5);
+        }
+      }
 
-        document
-          .querySelectorAll(".legend-filter")
-          .forEach(function(filter) {
+      document.querySelectorAll(".legend-filter").forEach(function (item) {
+        item.addEventListener("click", function () {
+          document.querySelectorAll(".legend-filter").forEach(function (filter) {
             filter.classList.remove("active");
           });
 
-        this.classList.add("active");
-
-        var myth =
-          this.getAttribute("data-myth");
-
-        applyMythFilter(myth);
-
-      }
-    );
-
-  });
-
-      var bounds = atlasLayer.getBounds();
-      if (bounds.isValid()) {
-        map.fitBounds(bounds.pad(0.30));
-      }
+          this.classList.add("active");
+          applyMythFilter(this.getAttribute("data-myth"));
+        });
+      });
     })
     .catch(function (error) {
       if (typeof console !== "undefined") {
