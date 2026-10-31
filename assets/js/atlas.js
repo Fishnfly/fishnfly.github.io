@@ -215,6 +215,23 @@ var map = L.map("map").setView([20, 0], 2);
   });
 
 }
+document
+  .querySelectorAll(".legend-filter")
+  .forEach(function(item) {
+
+    item.addEventListener(
+      "click",
+      function() {
+
+        var myth =
+          this.getAttribute("data-myth");
+
+        applyMythFilter(myth);
+
+      }
+    );
+
+  });
 
       var bounds = atlasLayer.getBounds();
       if (bounds.isValid()) {
