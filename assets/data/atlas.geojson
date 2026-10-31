@@ -11,24 +11,23 @@
         "story": "/travel/2026/08/15/colombia-field-notes.html",
         "color": "#3498db",
         "route": [
-        "Bogotá",
-        "Zipaquirá",
-        "Villa de Leyva",
-        "Barichara",
-        "Guane",
-        "Chicamocha Canyon",
-        "Bucaramanga",
-        "Medellín",
-        "Cartagena",
-        "La Boquilla"
-]
+          "Bogotá",
+          "Zipaquirá",
+          "Villa de Leyva",
+          "Barichara",
+          "Guane",
+          "Chicamocha Canyon",
+          "Bucaramanga",
+          "Medellín",
+          "Cartagena",
+          "La Boquilla"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-74.0721, 4.7110]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -39,25 +38,58 @@
         "story": "/travel/2026/02/22/jordan-egypt-field-notes.html",
         "color": "#f1c40f",
         "route": [
-        "Dead Sea",
-        "Madaba",
-        "Petra",
-        "Kerak",
-        "Amman",
-        "Cairo",
-        "Giza",
-        "Luxor",
-        "Nile Cruise",
-        "Aswan",
-        "Cairo"
-]
+          "Dead Sea",
+          "Madaba",
+          "Petra",
+          "Kerak",
+          "Amman",
+          "Cairo",
+          "Giza",
+          "Luxor",
+          "Nile Cruise",
+          "Aswan",
+          "Cairo"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [31.2357, 30.0444]
       }
     },
-
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Spain",
+        "myth": "Edges",
+        "year": 2026,
+        "photos": 0,
+        "story": "/travel/2026/03/06/spain-field-notes.html",
+        "color": "#9b59b6",
+        "route": [
+          "Madrid",
+          "Toledo",
+          "La Mancha",
+          "Cuenca",
+          "Valencia",
+          "Guadalest",
+          "Villajoyosa",
+          "Alicante",
+          "Cartagena",
+          "Granada",
+          "Córdoba",
+          "Aranjuez",
+          "Segovia",
+          "El Escorial",
+          "Ávila",
+          "Alcalá de Henares",
+          "Madrid"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7038, 40.4168]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -66,26 +98,22 @@
         "year": 2026,
         "photos": 85,
         "story": "/travel/2026/07/03/spain-secondtime-notes.html",
-        "color": "#9b59b6",
+        "color": "#8e44ad",
         "route": [
-        "Bogotá",
-        "Zipaquirá",
-        "Villa de Leyva",
-        "Barichara",
-        "Guane",
-        "Chicamocha Canyon",
-        "Bucaramanga",
-        "Medellín",
-        "Cartagena",
-        "La Boquilla"
-]
+          "Madrid",
+          "Segovia",
+          "Toledo",
+          "Seville",
+          "Granada",
+          "Córdoba",
+          "Barcelona"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-3.7038, 40.4168]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -96,24 +124,23 @@
         "story": "/travel/2026/08/07/galapagos-field-notes.html",
         "color": "#27ae60",
         "route": [
-        "Quito",
-        "Baltra",
-        "Santa Cruz",
-        "North Seymour",
-        "Bartolomé",
-        "Isabela",
-        "Fernandina",
-        "Española",
-        "San Cristóbal",
-        "Quito"
-]
+          "Quito",
+          "Baltra",
+          "Santa Cruz",
+          "North Seymour",
+          "Bartolomé",
+          "Isabela",
+          "Fernandina",
+          "Española",
+          "San Cristóbal",
+          "Quito"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-90.9656, -0.9538]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -124,24 +151,23 @@
         "story": "/travel/2026/05/11/turkey-field-notes.html",
         "color": "#e74c3c",
         "route": [
-        "Istanbul",
-        "Gallipoli",
-        "Troy",
-        "Pergamon",
-        "Ephesus",
-        "Pamukkale",
-        "Konya",
-        "Cappadocia",
-        "Ankara",
-        "Istanbul"
-]
+          "Istanbul",
+          "Gallipoli",
+          "Troy",
+          "Pergamon",
+          "Ephesus",
+          "Pamukkale",
+          "Konya",
+          "Cappadocia",
+          "Ankara",
+          "Istanbul"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [28.9784, 41.0082]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -149,27 +175,25 @@
         "myth": "Commerce",
         "year": 2026,
         "photos": 72,
-        "story": "/travel/2026/04/23/netherlands-belgium-field-notes.html",
+        "story": "/travel/2026/04/23/netherlands-belgium-bulgaria-field-notes.html",
         "color": "#16a085",
         "route": [
-        "Amsterdam",
-        "Keukenhof",
-        "Rotterdam",
-        "Kinderdijk",
-        "Delft",
-        "The Hague",
-        "Ghent",
-        "Bruges",
-        "Brussels"
-]
-
+          "Amsterdam",
+          "Keukenhof",
+          "Rotterdam",
+          "Kinderdijk",
+          "Delft",
+          "The Hague",
+          "Ghent",
+          "Bruges",
+          "Brussels"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [4.9041, 52.3676]
       }
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -193,30 +217,32 @@
           "Marrakesh",
           "Essaouira",
           "Casablanca"
-]
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-7.5898, 33.5731]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Bulgaria",
+        "journey": "Netherlands, Belgium & Bulgaria",
+        "myth": "Heritage",
+        "year": 2026,
+        "photos": 24,
+        "story": "/travel/2026/04/23/netherlands-belgium-bulgaria-field-notes.html",
+        "color": "#8e44ad",
+        "route": [
+          "Sofia",
+          "Rila Monastery"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3219, 42.6977]
+      }
     }
   ]
 }
-{
-  "country": "Bulgaria",
-  "myth": "Heritage",
-  "year": 2026,
-  "photos": 24,
-  "story": "/travel/2026/04/23/netherlands-belgium-field-notes.html",
-  "color": "#8e44ad",
-  "route": [
-    "Sofia",
-    "Rila Monastery"
-  ]
-    },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [-23.3219,, 42.6977]
-       }
-     }
-   ]
