@@ -461,6 +461,7 @@
     max-height: 320px;
   }
 }
+
 #atlas-stats {
 display: flex;
 gap: 25px;
@@ -484,26 +485,16 @@ font-weight: 700;
 font-size: 0.9rem;
 color: #666;
 }
-#atlas-stats {
-  display: flex;
-  gap: 25px;
-  flex-wrap: wrap;
-  margin: 15px 0 20px 0;
-  padding: 15px;
-  background: #f5f5f5;
-  border-radius: 10px;
-}
 
-.stat-box {
-  min-width: 120px;
-}
-
-.stat-number {
-  font-size: 1.6rem;
-  font-weight: 700;
-}
-
-.stat-label {
-  font-size: 0.9rem;
+.myth-thread {
+  font-size: 1.1rem;
   color: #666;
+  margin-bottom: 10px;
+}
+
+.journey-meta {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #444;
+  margin-bottom: 15px;
 }
