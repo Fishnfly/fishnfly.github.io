@@ -72,11 +72,6 @@ document.addEventListener("DOMContentLoaded", function () {
       props.routeCoords
     );
 
-  var routeStops =
-    normalizeRoute(
-      props.route
-    );
-
   if (routeCoords.length < 2) {
     return;
   }
@@ -88,27 +83,6 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   currentRouteLine.addTo(map);
-
-  routeCoords.forEach(function(coord, index) {
-
-    var stopMarker = L.circleMarker(coord, {
-      radius: 4,
-      color: "#ffffff",
-      weight: 1.5,
-      fillColor: props.color || "#3388ff",
-      fillOpacity: 0.9
-    });
-
-    stopMarker.bindPopup(
-      routeStops[index] ||
-      ("Stop " + (index + 1))
-    );
-
-    stopMarker.addTo(map);
-
-    currentStopMarkers.push(stopMarker);
-
-  });
 
 }
 
