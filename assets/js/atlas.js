@@ -72,17 +72,44 @@ document.addEventListener("DOMContentLoaded", function () {
       props.routeCoords
     );
 
+  var routeStops =
+    normalizeRoute(
+      props.route
+    );
+
   if (routeCoords.length < 2) {
     return;
   }
 
   currentRouteLine = L.polyline(routeCoords, {
     color: props.color || "#3388ff",
-    weight: 3,
-    opacity: 0.8
+    weight: 2,
+    opacity: 0.45,
+    dashArray: "8 10"
   });
 
   currentRouteLine.addTo(map);
+
+  routeCoords.forEach(function(coord, index) {
+
+    var stopMarker = L.circleMarker(coord, {
+      radius: 4,
+      color: "#ffffff",
+      weight: 1.5,
+      fillColor: props.color || "#3388ff",
+      fillOpacity: 0.9
+    });
+
+    stopMarker.bindPopup(
+      routeStops[index] ||
+      ("Stop " + (index + 1))
+    );
+
+    stopMarker.addTo(map);
+
+    currentStopMarkers.push(stopMarker);
+
+  });
 
 }
 
