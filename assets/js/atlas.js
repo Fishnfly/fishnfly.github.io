@@ -176,15 +176,31 @@ document.addEventListener("DOMContentLoaded", function () {
           });
         },
         onEachFeature: function (feature, layer) {
+          var props = feature.properties || {};
           var routeCoords = feature.properties ? normalizeRouteCoords(feature.properties.routeCoords) : [];
+          var routeStops = normalizeRoute(props.route);
 
           if (routeCoords.length > 1) {
             var routeLine = L.polyline(routeCoords, {
-              color: feature.properties.color || "#3388ff",
+              color: props.color || "#3388ff",
               weight: 3,
               opacity: 0.8
             });
             routeLine.addTo(map);
+
+            routeCoords.forEach(function (coord, index) {
+              var stopName = routeStops[index] || "Stop " + (index + 1);
+              var stopMarker = L.circleMarker(coord, {
+                radius: 4,
+                color: "#ffffff",
+                weight: 1.5,
+                fillColor: props.color || "#3388ff",
+                fillOpacity: 0.9
+              });
+
+              stopMarker.bindPopup(stopName);
+              stopMarker.addTo(map);
+            });
           }
 
           layer.on("click", function () {
