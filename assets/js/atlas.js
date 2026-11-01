@@ -53,6 +53,22 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function renderJourneyCard(feature) {
     var props = feature.properties || {};
+
+if (
+  feature.geometry &&
+  feature.geometry.coordinates
+) {
+
+  map.setView(
+    [
+      feature.geometry.coordinates[1],
+      feature.geometry.coordinates[0]
+    ],
+    5
+  );
+
+}
+
     var routeValues = normalizeRoute(props.route);
     var routeList = routeValues.length
       ? "<div class='route-chips'>" + routeValues.map(function (stop) {
