@@ -9,6 +9,18 @@ document.addEventListener("DOMContentLoaded", function () {
     return;
   }
 
+  function escapeHtml(value) {
+    return String(value).replace(/[&<>"']/g, function (char) {
+      return {
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#39;"
+      }[char];
+    });
+  }
+
   function normalizeRoute(route) {
     if (Array.isArray(route)) {
       return route.filter(Boolean);
@@ -21,6 +33,18 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     return [];
+  }
+
+  function normalizeRouteCoords(routeCoords) {
+    if (!Array.isArray(routeCoords)) {
+      return [];
+    }
+
+    return routeCoords.filter(function (coord) {
+      return Array.isArray(coord) && coord.length >= 2 && !isNaN(coord[0]) && !isNaN(coord[1]);
+    }).map(function (coord) {
+      return [coord[1], coord[0]];
+    });
   }
 
   function renderLegend(data) {
@@ -36,13 +60,14 @@ document.addEventListener("DOMContentLoaded", function () {
       var props = feature.properties || {};
       var myth = props.myth || "Unknown";
       var color = props.color || "#3388ff";
+      var mythValue = escapeHtml(myth);
 
       if (!seen[myth]) {
         seen[myth] = true;
         items.push(
-          "<div class='legend-item legend-filter' data-myth='" + myth + "'>" +
-          "<span class='legend-swatch' style='background-color:" + color + "'></span>" +
-          "<span>" + myth + "</span>" +
+          "<div class='legend-item legend-filter' data-myth='" + mythValue + "'>" +
+          "<span class='legend-swatch' style='background-color:" + escapeHtml(color) + "'></span>" +
+          "<span>" + mythValue + "</span>" +
           "</div>"
         );
       }
@@ -54,20 +79,12 @@ document.addEventListener("DOMContentLoaded", function () {
   function renderJourneyCard(feature) {
     var props = feature.properties || {};
 
-if (
-  feature.geometry &&
-  feature.geometry.coordinates
-) {
-
-  map.setView(
-    [
-      feature.geometry.coordinates[1],
-      feature.geometry.coordinates[0]
-    ],
-    5
-  );
-
-}
+    if (feature.geometry && feature.geometry.coordinates) {
+      map.setView([
+        feature.geometry.coordinates[1],
+        feature.geometry.coordinates[0]
+      ], 5);
+    }
 
     var routeValues = normalizeRoute(props.route);
     var routeList = routeValues.length
@@ -159,6 +176,17 @@ if (
           });
         },
         onEachFeature: function (feature, layer) {
+          var routeCoords = feature.properties ? normalizeRouteCoords(feature.properties.routeCoords) : [];
+
+          if (routeCoords.length > 1) {
+            var routeLine = L.polyline(routeCoords, {
+              color: feature.properties.color || "#3388ff",
+              weight: 3,
+              opacity: 0.8
+            });
+            routeLine.addTo(map);
+          }
+
           layer.on("click", function () {
             renderJourneyCard(feature);
           });

@@ -171,17 +171,29 @@
         "story": "/travel/2026/05/11/turkey-field-notes.html",
         "color": "#e74c3c",
         "route": [
-        "Istanbul",
-        "Çanakkale",
-        "Troy",
-        "Pergamum",
-        "Kusadasi",
-        "Pamukkale",
-        "Konya",
-        "Cappadocia",
-        "Ankara",
-        "Istanbul"
-]
+          "Istanbul",
+          "Çanakkale",
+          "Troy",
+          "Pergamum",
+          "Kusadasi",
+          "Pamukkale",
+          "Konya",
+          "Cappadocia",
+          "Ankara",
+          "Istanbul"
+        ],
+        "routeCoords": [
+          [28.9784, 41.0082],
+          [26.4086, 40.1467],
+          [26.2389, 39.9578],
+          [27.1833, 38.9637],
+          [27.2567, 37.8580],
+          [29.1177, 37.9167],
+          [32.4846, 37.8746],
+          [34.8270, 38.6431],
+          [32.8597, 39.9334],
+          [28.9784, 41.0082]
+        ]
       },
       "geometry": {
         "type": "Point",
