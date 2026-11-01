@@ -43,7 +43,7 @@ permalink: /
 
     </div>
 
-    <a href="/travel/" class="hero-cta">Explore the Stories</a>
+    <a href="/atlas/" class="hero-cta">Explore the Stories</a>
 
   </div>
 </div>
