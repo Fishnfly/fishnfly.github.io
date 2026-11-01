@@ -219,6 +219,13 @@ document.addEventListener("DOMContentLoaded", function () {
       function applyMythFilter(selectedMyth) {
         atlasLayer.clearLayers();
 
+        if (currentRouteLine) {
+
+  map.removeLayer(currentRouteLine);
+  currentRouteLine = null;
+
+}
+
         var filteredFeatures = selectedMyth === "all"
           ? data.features
           : data.features.filter(function (feature) {
