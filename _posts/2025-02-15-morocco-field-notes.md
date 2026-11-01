@@ -282,5 +282,5 @@ It was a trip about learning how differently a place can move — without ever l
 ## More Field Notes
 See other movements across landscapes:
 
-- [Travel Index](/travel/)
+- [Travel Index](/atlas/)
 

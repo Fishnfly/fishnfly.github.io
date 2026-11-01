@@ -324,5 +324,5 @@ This wasn’t a trip about seeing Egypt and Jordan. It was a trip about learning
 
 See other movements across landscapes:
 
-- [Travel Index](/travel/)
+- [Travel Index](/atlas/)
 

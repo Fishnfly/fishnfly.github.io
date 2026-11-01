@@ -1670,4 +1670,4 @@ Nothing fixed. Everything practiced.
 ## Back to Field Notes
 See other movements across landscapes:
 
-[Travel Index](/travel/)
+[Travel Index](/atlas/)

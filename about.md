@@ -86,5 +86,5 @@ and understanding a little more of what lies beneath it.
 ## More Field Notes
 See other movements across landscapes:
 
-- [Travel Index](/travel/)
+- [Travel Index](/atlas/)
   

@@ -545,5 +545,5 @@ It remained—connected across place, scale, and experience.
 ## More Field Notes
 See other movements across landscapes:
 
-- [Travel Index](/travel/)
+- [Travel Index](/atlas/)
 

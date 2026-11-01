@@ -702,4 +702,4 @@ That is what stayed.
 
 ## More Field Notes
 
-- [Travel Index](/travel/)
+- [Travel Index](/atlas/)

@@ -445,5 +445,5 @@ If we returned, we would build the trip around more of them. The destinations in
 ## More Field Notes
 See other movements across landscapes:
 
-- [Travel Index](/travel/)
+- [Travel Index](/atlas/)
 

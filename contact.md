@@ -13,4 +13,4 @@ This site is personal and non‑commercial, but we're open to thoughtful notes, 
 ---
 
 **Related**
-- [Travel Index](/travel/)
+- [Travel Index](/atlas/)
