@@ -2,9 +2,6 @@ document.addEventListener("DOMContentLoaded", function () {
   var mapEl = document.getElementById("map");
   var countryCard = document.getElementById("country-card");
 
-  var currentRouteLine = null;
-  var currentStopMarkers = [];
-
   if (!mapEl || !countryCard || typeof L === "undefined") {
     if (typeof console !== "undefined") {
       console.warn("Atlas map dependencies are missing.");
@@ -49,69 +46,6 @@ document.addEventListener("DOMContentLoaded", function () {
       return [coord[1], coord[0]];
     });
   }
-
-  function drawRoute(feature) {
-
-  if (currentRouteLine) {
-
-  map.removeLayer(currentRouteLine);
-  currentRouteLine = null;
-
-}
-
-  currentStopMarkers.forEach(function(marker) {
-    map.removeLayer(marker);
-  });
-
-  currentStopMarkers = [];
-
-  var props = feature.properties || {};
-
-  var routeCoords =
-    normalizeRouteCoords(
-      props.routeCoords
-    );
-
-  var routeStops =
-    normalizeRoute(
-      props.route
-    );
-
-  if (routeCoords.length < 2) {
-    return;
-  }
-
-  currentRouteLine = L.polyline(routeCoords, {
-    color: props.color || "#3388ff",
-    weight: 2,
-    opacity: 0.45,
-    dashArray: "8 10"
-  });
-
-  currentRouteLine.addTo(map);
-
-  routeCoords.forEach(function(coord, index) {
-
-    var stopMarker = L.circleMarker(coord, {
-      radius: 4,
-      color: "#ffffff",
-      weight: 1.5,
-      fillColor: props.color || "#3388ff",
-      fillOpacity: 0.9
-    });
-
-    stopMarker.bindPopup(
-      routeStops[index] ||
-      ("Stop " + (index + 1))
-    );
-
-    stopMarker.addTo(map);
-
-    currentStopMarkers.push(stopMarker);
-
-  });
-
-}
 
   function renderLegend(data) {
     var legendEl = document.getElementById("atlas-legend");
@@ -242,9 +176,35 @@ document.addEventListener("DOMContentLoaded", function () {
           });
         },
         onEachFeature: function (feature, layer) {
+          var props = feature.properties || {};
+          var routeCoords = feature.properties ? normalizeRouteCoords(feature.properties.routeCoords) : [];
+          var routeStops = normalizeRoute(props.route);
+
+          if (routeCoords.length > 1) {
+            var routeLine = L.polyline(routeCoords, {
+              color: props.color || "#3388ff",
+              weight: 3,
+              opacity: 0.8
+            });
+            routeLine.addTo(map);
+
+            routeCoords.forEach(function (coord, index) {
+              var stopName = routeStops[index] || "Stop " + (index + 1);
+              var stopMarker = L.circleMarker(coord, {
+                radius: 4,
+                color: "#ffffff",
+                weight: 1.5,
+                fillColor: props.color || "#3388ff",
+                fillOpacity: 0.9
+              });
+
+              stopMarker.bindPopup(stopName);
+              stopMarker.addTo(map);
+            });
+          }
+
           layer.on("click", function () {
             renderJourneyCard(feature);
-            drawRoute(feature);
           });
         }
       });
@@ -259,16 +219,6 @@ document.addEventListener("DOMContentLoaded", function () {
       function applyMythFilter(selectedMyth) {
         atlasLayer.clearLayers();
 
-        if (currentRouteLine) {
-          map.removeLayer(currentRouteLine);
-          currentRouteLine = null;
-        }
-
-        currentStopMarkers.forEach(function (marker) {
-          map.removeLayer(marker);
-        });
-        currentStopMarkers = [];
-
         var filteredFeatures = selectedMyth === "all"
           ? data.features
           : data.features.filter(function (feature) {
@@ -281,21 +231,22 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 
         if (selectedMyth === "all") {
-          if (worldBounds.isValid()) {
-            map.fitBounds(worldBounds.pad(0.30));
-          }
 
-          countryCard.innerHTML =
-            "<h2>Select a Destination</h2>" +
-            "<p>Click a marker on the map.</p>";
+  if (worldBounds.isValid()) {
+    map.fitBounds(worldBounds.pad(0.30));
+  }
 
-          return;
-        }
+  countryCard.innerHTML =
+    "<h2>Select a Destination</h2>" +
+    "<p>Click a marker on the map.</p>";
+
+  return;
+
+}
 
         var firstMatch = filteredFeatures[0];
         if (firstMatch) {
           renderJourneyCard(firstMatch);
-          drawRoute(firstMatch);
         }
 
         var filteredBounds = atlasLayer.getBounds();
