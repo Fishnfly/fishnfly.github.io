@@ -596,3 +596,16 @@ color: #666;
         row-gap: 10px;
     }
 }
+@media (min-width: 769px) {
+    .thread-filter-container {
+        min-height: 72px;
+        padding: 16px 20px;
+        row-gap: 12px;
+        column-gap: 14px;
+    }
+}
+@media (min-width: 769px) {
+    .thread-filter-container .thread-filter {
+        margin-right: 6px;
+    }
+}
