@@ -1056,92 +1056,92 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
   <summary>Open field photographs from this journey</summary>
  
   <div class="photo-grid">
-   <a class="glightbox" data-gallery="netherlands" data-title="Damrak Canal"
-   href="{{ '/assets/photos/netherlands/photo-3.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-3.webp' | relative_url }}" loading="lazy" alt="Netherlands 3"><span class="photo-label">Damrak Canal</span></a>
-<a class="glightbox" data-gallery="netherlands" data-title="Side of building with Hoist to load furniture"
-   href="{{ '/assets/photos/netherlands/photo-5.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-5.webp' | relative_url }}" loading="lazy" alt="Netherlands 5"><span class="photo-label">Side of building with Hoist to load furniture</span></a>
-<a class="glightbox" data-gallery="netherlands" data-title="Amesterdam Canal Houses"
-   href="{{ '/assets/photos/netherlands/photo-7.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-7.webp' | relative_url }}" loading="lazy" alt="Netherlands 7"><span class="photo-label">Amesterdam Canal Houses</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Bredero Monument-Nieuwmarkt Square"
-   href="{{ '/assets/photos/netherlands/photo-8.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-8.webp' | relative_url }}" loading="lazy" alt="Netherlands 8"><span class="photo-label">Bredero Monument-Nieuwmarkt Square</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="De Waaqg-near Ann Frank Museum"
-   href="{{ '/assets/photos/netherlands/photo-9.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-9.webp' | relative_url }}" loading="lazy" alt="Netherlands 9"><span class="photo-label">De Waaqg-near Ann Frank Museum</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Street Art-Yellow Clog"
-   href="{{ '/assets/photos/netherlands/photo-10.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-10.webp' | relative_url }}" loading="lazy" alt="Netherlands 10"><span class="photo-label">Street Art-Yellow Clog</span></a>
-      <a class="glightbox" data-gallery="netherlands" data-title="Canal Photo"
-   href="{{ '/assets/photos/netherlands/photo-12.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-12.webp' | relative_url }}" loading="lazy" alt="Netherlands 12"><span class="photo-label">Canal Photo</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Stolpersteine Memorial Placques"
-   href="{{ '/assets/photos/netherlands/photo-13.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-13.webp' | relative_url }}" loading="lazy" alt="Netherlands 13"><span class="photo-label">Stolpersteine Memorial Placques</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="CafÃ© De Sluyswacht "
-   href="{{ '/assets/photos/netherlands/photo-14.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-14.webp' | relative_url }}" loading="lazy" alt="Netherlands 14"><span class="photo-label">CafÃ© De Sluyswacht </span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Dutch architecture e"
-   href="{{ '/assets/photos/netherlands/photo-15.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-15.webp' | relative_url }}" loading="lazy" alt="Netherlands 15"><span class="photo-label">Dutch architecture </span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Tree-lined Canal with Westerkerk Tower"
-   href="{{ '/assets/photos/netherlands/photo-16.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-16.webp' | relative_url }}" loading="lazy" alt="Netherlands 16"><span class="photo-label">Tree-lined Canal with Westerkerk Tower</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Oudemanhuispoort Book Market "
-   href="{{ '/assets/photos/netherlands/photo-17.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-17.webp' | relative_url }}" loading="lazy" alt="Netherlands 17"><span class="photo-label">Oudemanhuispoort Book Market</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Bronze statue of The Little Darling-Het Lieverdje"
-   href="{{ '/assets/photos/netherlands/photo-18.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-18.webp' | relative_url }}" loading="lazy" alt="Netherlands 18"><span class="photo-label">Bronze statue of The Little Darling-Het Lieverdje</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Huis Bartolotti"
-   href="{{ '/assets/photos/netherlands/photo-19.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-19.webp' | relative_url }}" loading="lazy" alt="Netherlands 19"><span class="photo-label">Huis Bartolotti </span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Ronde Lutherse Kerk"
-   href="{{ '/assets/photos/netherlands/photo-20.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-20.webp' | relative_url }}" loading="lazy" alt="Netherlands 20"><span class="photo-label">Ronde Lutherse Kerk</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Eye Film Museum and the Adam Tower"
-   href="{{ '/assets/photos/netherlands/photo-21.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-21.webp' | relative_url }}" loading="lazy" alt="Netherlands 21"><span class="photo-label">Eye Film Museum and the Adam Tower</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Muziekgebouw and Bimhuis concert hall"
-   href="{{ '/assets/photos/netherlands/photo-22.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-22.webp' | relative_url }}" loading="lazy" alt="Netherlands 22"><span class="photo-label">Muziekgebouw and Bimhuis concert hall</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Amsterdam-3 masted replica at Scheepvaartmuseum"
-   href="{{ '/assets/photos/netherlands/photo-23.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-23.webp' | relative_url }}" loading="lazy" alt="Netherlands 23"><span class="photo-label">Amsterdam-3 masted replica at Scheepvaartmuseum</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Magere Brug-drawbridge"
-   href="{{ '/assets/photos/netherlands/photo-24.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-24.webp' | relative_url }}" loading="lazy" alt="Netherlands 24"><span class="photo-label">Magere Brug-drawbridge</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Amstel Hotel"
-   href="{{ '/assets/photos/netherlands/photo-25.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-25.webp' | relative_url }}" loading="lazy" alt="Netherlands 25"><span class="photo-label">Amstel Hotel</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Rotterdam skyline at sunset"
-   href="{{ '/assets/photos/netherlands/photo-26.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-26.webp' | relative_url }}" loading="lazy" alt="Netherlands 26"><span class="photo-label">Rotterdam skyline at sunset</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Bloermenmarkt"
-   href="{{ '/assets/photos/netherlands/photo-70.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-70.webp' | relative_url }}" loading="lazy" alt="Netherlands 70"><span class="photo-label">Bloermenmarkt</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Westerkirk"
-   href="{{ '/assets/photos/netherlands/photo-71.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-71.webp' | relative_url }}" loading="lazy" alt="Netherlands 71"><span class="photo-label">Westerkirk</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Amsterdam Ring Canal"
-   href="{{ '/assets/photos/netherlands/photo-72.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-72.webp' | relative_url }}" loading="lazy" alt="Netherlands 72"><span class="photo-label">Amsterdam Ring Canal</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Zaanse Schans Cheese Farm"
-   href="{{ '/assets/photos/netherlands/photo-73.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-73.webp' | relative_url }}" loading="lazy" alt="Netherlands 73"><span class="photo-label">Zaanse Schans Cheese Farm</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Zaanse Schans Cheese Farm"
-   href="{{ '/assets/photos/netherlands/photo-74.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-74.webp' | relative_url }}" loading="lazy" alt="Netherlands 74"><span class="photo-label">Zaanse Schans Cheese Farm</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Kings Day Celebration"
-   href="{{ '/assets/photos/netherlands/photo-75.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-75.webp' | relative_url }}" loading="lazy" alt="Netherlands 75"><span class="photo-label">Kings Day Celebration</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Kings Day Celebration"
-   href="{{ '/assets/photos/netherlands/photo-76.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-76.webp' | relative_url }}" loading="lazy" alt="Netherlands 76"><span class="photo-label">Kings Day Celebration</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Westerkirk"
-   href="{{ '/assets/photos/netherlands/photo-77.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-77.webp' | relative_url }}" loading="lazy" alt="Netherlands 77"><span class="photo-label">Westerkirk</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Spice Market"
-   href="{{ '/assets/photos/netherlands/photo-78.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-78.webp' | relative_url }}" loading="lazy" alt="Netherlands 78"><span class="photo-label">Spice Market</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Damrak Canal-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-3.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-3.webp' | relative_url }}" loading="lazy" alt="Damrak Canal-Amsterdam"><span class="photo-label">Damrak Canal-Amsterdam</span></a>
+<a class="glightbox" data-gallery="netherlands" data-title="Canal House Hoist-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-5.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-5.webp' | relative_url }}" loading="lazy" alt="Canal House Hoist-Amsterdam"><span class="photo-label">Canal House Hoist-Amsterdam</span></a>
+<a class="glightbox" data-gallery="netherlands" data-title="Canal Houses-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-7.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-7.webp' | relative_url }}" loading="lazy" alt="Canal Houses-Amsterdam"><span class="photo-label">Canal Houses-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Bredero Monument-Nieuwmarkt, Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-8.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-8.webp' | relative_url }}" loading="lazy" alt="Bredero Monument-Nieuwmarkt, Amsterdam"><span class="photo-label">Bredero Monument-Nieuwmarkt, Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="De Waag-Nieuwmarkt, Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-9.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-9.webp' | relative_url }}" loading="lazy" alt="De Waag-Nieuwmarkt, Amsterdam"><span class="photo-label">De Waag-Nieuwmarkt, Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Yellow Clog Street Art-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-10.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-10.webp' | relative_url }}" loading="lazy" alt="Yellow Clog Street Art-Amsterdam"><span class="photo-label">Yellow Clog Street Art-Amsterdam</span></a>
+      <a class="glightbox" data-gallery="netherlands" data-title="Canal-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-12.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-12.webp' | relative_url }}" loading="lazy" alt="Canal-Amsterdam"><span class="photo-label">Canal-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Stolpersteine Memorial Plaques-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-13.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-13.webp' | relative_url }}" loading="lazy" alt="Stolpersteine Memorial Plaques-Amsterdam"><span class="photo-label">Stolpersteine Memorial Plaques-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Café De Sluyswacht-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-14.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-14.webp' | relative_url }}" loading="lazy" alt="Café De Sluyswacht-Amsterdam"><span class="photo-label">Café De Sluyswacht-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Canal Houses-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-15.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-15.webp' | relative_url }}" loading="lazy" alt="Canal Houses-Amsterdam"><span class="photo-label">Canal Houses-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Tree-lined Canal and Westerkerk Tower-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-16.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-16.webp' | relative_url }}" loading="lazy" alt="Tree-lined Canal and Westerkerk Tower-Amsterdam"><span class="photo-label">Tree-lined Canal and Westerkerk Tower-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Oudemanhuispoort Book Market-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-17.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-17.webp' | relative_url }}" loading="lazy" alt="Oudemanhuispoort Book Market-Amsterdam"><span class="photo-label">Oudemanhuispoort Book Market-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Het Lieverdje Statue-Spui, Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-18.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-18.webp' | relative_url }}" loading="lazy" alt="Het Lieverdje Statue-Spui, Amsterdam"><span class="photo-label">Het Lieverdje Statue-Spui, Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Huis Bartolotti-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-19.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-19.webp' | relative_url }}" loading="lazy" alt="Huis Bartolotti-Amsterdam"><span class="photo-label">Huis Bartolotti-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Ronde Lutherse Kerk-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-20.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-20.webp' | relative_url }}" loading="lazy" alt="Ronde Lutherse Kerk-Amsterdam"><span class="photo-label">Ronde Lutherse Kerk-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Eye Film Museum and A'DAM Tower-Amsterdam Noord"
+   href="{{ '/assets/photos/netherlands/photo-21.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-21.webp' | relative_url }}" loading="lazy" alt="Eye Film Museum and A'DAM Tower-Amsterdam Noord"><span class="photo-label">Eye Film Museum and A'DAM Tower-Amsterdam Noord</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Muziekgebouw and Bimhuis-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-22.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-22.webp' | relative_url }}" loading="lazy" alt="Muziekgebouw and Bimhuis-Amsterdam"><span class="photo-label">Muziekgebouw and Bimhuis-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Amsterdam Maritime Museum Replica-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-23.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-23.webp' | relative_url }}" loading="lazy" alt="Amsterdam Maritime Museum Replica-Amsterdam"><span class="photo-label">Amsterdam Maritime Museum Replica-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Magere Brug-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-24.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-24.webp' | relative_url }}" loading="lazy" alt="Magere Brug-Amsterdam"><span class="photo-label">Magere Brug-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Amstel Hotel-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-25.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-25.webp' | relative_url }}" loading="lazy" alt="Amstel Hotel-Amsterdam"><span class="photo-label">Amstel Hotel-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Rotterdam Skyline at Sunset-Rotterdam"
+   href="{{ '/assets/photos/netherlands/photo-26.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-26.webp' | relative_url }}" loading="lazy" alt="Rotterdam Skyline at Sunset-Rotterdam"><span class="photo-label">Rotterdam Skyline at Sunset-Rotterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Bloemenmarkt-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-70.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-70.webp' | relative_url }}" loading="lazy" alt="Bloemenmarkt-Amsterdam"><span class="photo-label">Bloemenmarkt-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Westerkerk-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-71.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-71.webp' | relative_url }}" loading="lazy" alt="Westerkerk-Amsterdam"><span class="photo-label">Westerkerk-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Amsterdam Ring Canal-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-72.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-72.webp' | relative_url }}" loading="lazy" alt="Amsterdam Ring Canal-Amsterdam"><span class="photo-label">Amsterdam Ring Canal-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Cheese Farm-Zaanse Schans"
+   href="{{ '/assets/photos/netherlands/photo-73.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-73.webp' | relative_url }}" loading="lazy" alt="Cheese Farm-Zaanse Schans"><span class="photo-label">Cheese Farm-Zaanse Schans</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Cheese Farm-Zaanse Schans"
+   href="{{ '/assets/photos/netherlands/photo-74.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-74.webp' | relative_url }}" loading="lazy" alt="Cheese Farm-Zaanse Schans"><span class="photo-label">Cheese Farm-Zaanse Schans</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="King's Day Celebration-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-75.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-75.webp' | relative_url }}" loading="lazy" alt="King's Day Celebration-Amsterdam"><span class="photo-label">King's Day Celebration-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="King's Day Celebration-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-76.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-76.webp' | relative_url }}" loading="lazy" alt="King's Day Celebration-Amsterdam"><span class="photo-label">King's Day Celebration-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Westerkerk-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-77.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-77.webp' | relative_url }}" loading="lazy" alt="Westerkerk-Amsterdam"><span class="photo-label">Westerkerk-Amsterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Spice Market-Amsterdam"
+   href="{{ '/assets/photos/netherlands/photo-78.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-78.webp' | relative_url }}" loading="lazy" alt="Spice Market-Amsterdam"><span class="photo-label">Spice Market-Amsterdam</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Cube Houses-Rotterdam"
-   href="{{ '/assets/photos/netherlands/photo-79.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-79.webp' | relative_url }}" loading="lazy" alt="Netherlands 79"><span class="photo-label">Cube Houses-Rotterdam</span></a>
+   href="{{ '/assets/photos/netherlands/photo-79.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-79.webp' | relative_url }}" loading="lazy" alt="Cube Houses-Rotterdam"><span class="photo-label">Cube Houses-Rotterdam</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Cube Houses-Rotterdam"
-   href="{{ '/assets/photos/netherlands/photo-80.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-80.webp' | relative_url }}" loading="lazy" alt="Netherlands 80"><span class="photo-label">Cube Houses-Rotterdam</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Delft Canal"
-   href="{{ '/assets/photos/netherlands/photo-81.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-81.webp' | relative_url }}" loading="lazy" alt="Netherlands 81"><span class="photo-label">Delft Canal</span></a>
+   href="{{ '/assets/photos/netherlands/photo-80.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-80.webp' | relative_url }}" loading="lazy" alt="Cube Houses-Rotterdam"><span class="photo-label">Cube Houses-Rotterdam</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Canal-Delft"
+   href="{{ '/assets/photos/netherlands/photo-81.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-81.webp' | relative_url }}" loading="lazy" alt="Canal-Delft"><span class="photo-label">Canal-Delft</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Traditional Dutch Canal House-Delft"
    href="{{ '/assets/photos/netherlands/photo-82.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-82.webp' | relative_url }}" loading="lazy" alt="Netherlands 82"><span class="photo-label">Traditional Dutch Canal House-Delft</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Leaning Oude Kerk-Delft"
-   href="{{ '/assets/photos/netherlands/photo-83.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-83.webp' | relative_url }}" loading="lazy" alt="Netherlands 83"><span class="photo-label">Leaning Oude Kerk-Delft</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Statue of William I-Hague"
-   href="{{ '/assets/photos/netherlands/photo-84.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-84.webp' | relative_url }}" loading="lazy" alt="Netherlands 84"><span class="photo-label">Statue of William I-Hague</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Mauritshuis - Hague"
-   href="{{ '/assets/photos/netherlands/photo-85.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-85.webp' | relative_url }}" loading="lazy" alt="Netherlands 85"><span class="photo-label">Mauritshuis - Hague</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Peace Palace-Hague"
-   href="{{ '/assets/photos/netherlands/photo-86.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-86.webp' | relative_url }}" loading="lazy" alt="Netherlands 86"><span class="photo-label">Peace Palace-Hague</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Windmills-Zaan River"
-   href="{{ '/assets/photos/netherlands/photo-87.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-87.webp' | relative_url }}" loading="lazy" alt="Netherlands 87"><span class="photo-label">Windmills-Zaan River</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Windmills-Zaan River"
-   href="{{ '/assets/photos/netherlands/photo-88.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-88.webp' | relative_url }}" loading="lazy" alt="Netherlands 88"><span class="photo-label">Windmills-Zaan River</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Maritime Museum Hugo-Rotterdam"
-   href="{{ '/assets/photos/netherlands/photo-89.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-89.webp' | relative_url }}" loading="lazy" alt="Netherlands 89"><span class="photo-label">Maritime Museum Hugo-Rotterdam</span></a>
+   href="{{ '/assets/photos/netherlands/photo-83.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-83.webp' | relative_url }}" loading="lazy" alt="Leaning Oude Kerk-Delft"><span class="photo-label">Leaning Oude Kerk-Delft</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="William I Statue-The Hague"
+   href="{{ '/assets/photos/netherlands/photo-84.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-84.webp' | relative_url }}" loading="lazy" alt="William I Statue-The Hague"><span class="photo-label">William I Statue-The Hague</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Mauritshuis-The Hague"
+   href="{{ '/assets/photos/netherlands/photo-85.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-85.webp' | relative_url }}" loading="lazy" alt="Mauritshuis-The Hague"><span class="photo-label">Mauritshuis-The Hague</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Peace Palace-The Hague"
+   href="{{ '/assets/photos/netherlands/photo-86.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-86.webp' | relative_url }}" loading="lazy" alt="Peace Palace-The Hague"><span class="photo-label">Peace Palace-The Hague</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Windmills-Zaanse Schans"
+   href="{{ '/assets/photos/netherlands/photo-87.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-87.webp' | relative_url }}" loading="lazy" alt="Windmills-Zaanse Schans"><span class="photo-label">Windmills-Zaanse Schans</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Windmills-Zaanse Schans"
+   href="{{ '/assets/photos/netherlands/photo-88.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-88.webp' | relative_url }}" loading="lazy" alt="Windmills-Zaanse Schans"><span class="photo-label">Windmills-Zaanse Schans</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Museum Harbor-Rotterdam"
+   href="{{ '/assets/photos/netherlands/photo-89.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-89.webp' | relative_url }}" loading="lazy" alt="Museum Harbor-Rotterdam"><span class="photo-label">Museum Harbor-Rotterdam</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Maritime Museum-Rotterdam"
-   href="{{ '/assets/photos/netherlands/photo-90.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-90.webp' | relative_url }}" loading="lazy" alt="Netherlands 90"><span class="photo-label">Maritime Museum-Rotterdam</span></a>
+   href="{{ '/assets/photos/netherlands/photo-90.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-90.webp' | relative_url }}" loading="lazy" alt="Maritime Museum-Rotterdam"><span class="photo-label">Maritime Museum-Rotterdam</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Leie River-Ghent"
-   href="{{ '/assets/photos/netherlands/photo-91.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-91.webp' | relative_url }}" loading="lazy" alt="Netherlands 01"><span class="photo-label">Leie River-Ghent</span></a>
+   href="{{ '/assets/photos/netherlands/photo-91.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-91.webp' | relative_url }}" loading="lazy" alt="Leie River-Ghent"><span class="photo-label">Leie River-Ghent</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Gravensteen Castle-Ghent"
    href="{{ '/assets/photos/netherlands/photo-92.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-92.webp' | relative_url }}" loading="lazy" alt="Netherlands 92"><span class="photo-label">Gravensteen Castle-Ghent</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Gravensteen Castle-Ghent"
@@ -1154,12 +1154,12 @@ Water managed, not resisted. Land negotiated into existence. Order shaped by nec
    href="{{ '/assets/photos/netherlands/photo-96.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-96.webp' | relative_url }}" loading="lazy" alt="Netherlands 96"><span class="photo-label">Toreken-Ghent</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Monument Jan Frans Willems-Ghent"
    href="{{ '/assets/photos/netherlands/photo-97.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-97.webp' | relative_url }}" loading="lazy" alt="Netherlands 97"><span class="photo-label">Monument Jan Frans Willems-Ghent</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Canal-Brugge"
-   href="{{ '/assets/photos/netherlands/photo-98.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-98.webp' | relative_url }}" loading="lazy" alt="Netherlands 98"><span class="photo-label">Canal-Brugge</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Canal-Bruges"
+   href="{{ '/assets/photos/netherlands/photo-98.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-98.webp' | relative_url }}" loading="lazy" alt="Canal-Bruges"><span class="photo-label">Canal-Bruges</span></a>
    <a class="glightbox" data-gallery="netherlands" data-title="Saint Nicholas Church-Ghent"
-   href="{{ '/assets/photos/netherlands/photo-99.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-99.webp' | relative_url }}" loading="lazy" alt="Netherlands 99"><span class="photo-label">Saint Nicholas Church-Ghent</span></a>
-   <a class="glightbox" data-gallery="netherlands" data-title="Canal-Brugge"
-   href="{{ '/assets/photos/netherlands/photo-100.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-100.webp' | relative_url }}" loading="lazy" alt="Netherlands 100"><span class="photo-label">Canal-Brugge</span></a>
+   href="{{ '/assets/photos/netherlands/photo-99.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-99.webp' | relative_url }}" loading="lazy" alt="Saint Nicholas Church-Ghent"><span class="photo-label">Saint Nicholas Church-Ghent</span></a>
+   <a class="glightbox" data-gallery="netherlands" data-title="Canal-Bruges"
+   href="{{ '/assets/photos/netherlands/photo-100.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-100.webp' | relative_url }}" loading="lazy" alt="Canal-Bruges"><span class="photo-label">Canal-Bruges</span></a>
    </div>
 </details>
 
@@ -1175,94 +1175,94 @@ Beauty found in restraint.
   <summary>Open field photographs from the Gardens</summary>
  
   <div class="photo-grid">
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-1.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-1.webp' | relative_url }}" loading="lazy" alt="Netherlands 1"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-2.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-2.webp' | relative_url }}" loading="lazy" alt="Netherlands 2"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-27.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-27.webp' | relative_url }}" loading="lazy" alt="Netherlands 27"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-29.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-29.webp' | relative_url }}" loading="lazy" alt="Netherlands 29"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-30.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-30.webp' | relative_url }}" loading="lazy" alt="Netherlands 30"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-31.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-31.webp' | relative_url }}" loading="lazy" alt="Netherlands 31"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-32.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-32.webp' | relative_url }}" loading="lazy" alt="Netherlands 32"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-33.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-33.webp' | relative_url }}" loading="lazy" alt="Netherlands 33"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-34.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-34.webp' | relative_url }}" loading="lazy" alt="Netherlands 34"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-35.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-35.webp' | relative_url }}" loading="lazy" alt="Netherlands 35"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-36.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-36.webp' | relative_url }}" loading="lazy" alt="Netherlands 36"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-37.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-37.webp' | relative_url }}" loading="lazy" alt="Netherlands 37"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-38.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-38.webp' | relative_url }}" loading="lazy" alt="Netherlands 38"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-39.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-39.webp' | relative_url }}" loading="lazy" alt="Netherlands 39"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-40.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-40.webp' | relative_url }}" loading="lazy" alt="Netherlands 40"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-41.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-41.webp' | relative_url }}" loading="lazy" alt="Netherlands 41"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-42.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-42.webp' | relative_url }}" loading="lazy" alt="Netherlands 42"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-43.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-43.webp' | relative_url }}" loading="lazy" alt="Netherlands 43"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-44.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-44.webp' | relative_url }}" loading="lazy" alt="Netherlands 44"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-45.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-45.webp' | relative_url }}" loading="lazy" alt="Netherlands 45"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-46.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-46.webp' | relative_url }}" loading="lazy" alt="Netherlands 46"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-47.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-47.webp' | relative_url }}" loading="lazy" alt="Netherlands 47"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-48.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-48.webp' | relative_url }}" loading="lazy" alt="Netherlands 48"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-49.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-49.webp' | relative_url }}" loading="lazy" alt="Netherlands 49"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-50.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-50.webp' | relative_url }}" loading="lazy" alt="Netherlands 50"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-51.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-51.webp' | relative_url }}" loading="lazy" alt="Netherlands 51"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-52.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-52.webp' | relative_url }}" loading="lazy" alt="Netherlands 52"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-53.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-53.webp' | relative_url }}" loading="lazy" alt="Netherlands 53"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-54.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-54.webp' | relative_url }}" loading="lazy" alt="Netherlands 54"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-55.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-55.webp' | relative_url }}" loading="lazy" alt="Netherlands 55"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-56.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-56.webp' | relative_url }}" loading="lazy" alt="Netherlands 56"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-57.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-57.webp' | relative_url }}" loading="lazy" alt="Netherlands 57"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-58.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-58.webp' | relative_url }}" loading="lazy" alt="Netherlands 58"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-59.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-59.webp' | relative_url }}" loading="lazy" alt="Netherlands 59"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-60.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-60.webp' | relative_url }}" loading="lazy" alt="Netherlands 60"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-61.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-61.webp' | relative_url }}" loading="lazy" alt="Netherlands 61"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-62.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-62.webp' | relative_url }}" loading="lazy" alt="Netherlands 62"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-63.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-63.webp' | relative_url }}" loading="lazy" alt="Netherlands 63"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-64.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-64.webp' | relative_url }}" loading="lazy" alt="Netherlands 64"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-65.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-65.webp' | relative_url }}" loading="lazy" alt="Netherlands 65"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-66.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-66.webp' | relative_url }}" loading="lazy" alt="Netherlands 66"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-67.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-67.webp' | relative_url }}" loading="lazy" alt="Netherlands 67"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-68.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-68.webp' | relative_url }}" loading="lazy" alt="Netherlands 68"></a>
-   <a class="glightbox" data-gallery="keukenhof gardens" data-title="Keukenhof Gardens"
-   href="{{ '/assets/photos/netherlands/photo-69.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-69.webp' | relative_url }}" loading="lazy" alt="Netherlands 69"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-1.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-1.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-2.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-2.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-27.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-27.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-29.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-29.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-30.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-30.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-31.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-31.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-32.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-32.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-33.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-33.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-34.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-34.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-35.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-35.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-36.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-36.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-37.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-37.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-38.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-38.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-39.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-39.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-40.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-40.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-41.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-41.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-42.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-42.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-43.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-43.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-44.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-44.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-45.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-45.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-46.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-46.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-47.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-47.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-48.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-48.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-49.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-49.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-50.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-50.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-51.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-51.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-52.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-52.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-53.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-53.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-54.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-54.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-55.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-55.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-56.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-56.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-57.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-57.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-58.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-58.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-59.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-59.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-60.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-60.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-61.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-61.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-62.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-62.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-63.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-63.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-64.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-64.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-65.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-65.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-66.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-66.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-67.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-67.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-68.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-68.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
+   <a class="glightbox" data-gallery="keukenhof gardens"
+   href="{{ '/assets/photos/netherlands/photo-69.webp' | relative_url }}"><img src="{{ '/assets/photos/netherlands/photo-69.webp' | relative_url }}" loading="lazy" alt="Keukenhof Gardens-Lisse"></a>
    </div>
 </details>
 
