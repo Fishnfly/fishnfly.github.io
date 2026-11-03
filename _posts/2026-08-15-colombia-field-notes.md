@@ -286,7 +286,7 @@ Return home.
 
 ---
 
-![Colombia](/assets/photos/colombia/base.jpg)
+![Colombia](/assets/photos/colombia/base.webp)
 
 ---
 
