@@ -720,106 +720,91 @@ Looking back, the journey became less about monuments and more about the remarka
 ---
 
 **On movement.**  
-Movement wasn’t measured in miles, but in change of pattern.  
-A canal becomes a city, a city becomes a region, a region becomes something less defined.  
-What felt clear in Amsterdam gave way to continuity in Ghent,
-and then to density in Sofia where nothing separated cleanly.  
-The rhythm shifted from precision to persistence.  
-You didn’t just move through place—
-you moved through expectations of how place should work.
+Movement wasn’t measured in miles, but in change of pattern. A canal becomes a city, a city becomes a region, a region becomes something less defined. What felt clear in Amsterdam gave way to continuity in Ghent, and then to density in Sofia where nothing separated cleanly. 
+
+The rhythm shifted from precision to persistence. You didn’t just move through place — you moved through expectations of how place should work.
 
 ---
 
 **On myth.**  
-The thread here isn’t a single narrative, but a progression:  
-a belief that reality can be structured,
-then lived within,
-then carried without resolution.  
-In the Netherlands, systems shaped behavior.  
-In Belgium, behavior continued within structure.  
-In Bulgaria, structure remained, even when behavior and history no longer aligned.  
-Not one myth, but a sequence—  
-each place redefining what the previous one assumed.
+The thread here isn’t a single narrative, but a progression: a belief that reality can be structured, then lived within, then carried without resolution. 
+
+In the Netherlands, systems shaped behavior. In Belgium, behavior continued within structure. In Bulgaria, structure remained, even when behavior and history no longer aligned. Not one myth, but a sequence— each place redefining what the previous one assumed.
 
 ---
 
 **On systems.**  
-Some systems clarify.  
+Some systems clarify. 
 They reduce complexity into something measurable and controlled.  
 
 ---
 
 **Others absorb.**  
-They allow variation, repetition, and continuity to hold things together without forcing alignment.  
+They allow variation, repetition, and continuity to hold things together without forcing alignment. 
 
-And some systems do neither.  
-They persist by carrying what has accumulated—  
-history, belief, influence—without resolving it.  
+And some systems do neither. 
+They persist by carrying what has accumulated— history, belief, influence—without resolving it.
 
-Each approach felt complete within its own context.  
+Each approach felt complete within its own context. 
 Only through movement did their limits become visible.
 
 ---
 
 **On people.**  
-The differences revealed themselves quietly.  
-A shop that required patience rather than instruction.  
-A conversation that corrected not what to do, but how to experience it.  
-Movement through cities where behavior followed design,  
-and others where design followed behavior.  
+The differences revealed themselves quietly.
+A shop that required patience rather than instruction. 
+A conversation that corrected not what to do, but how to experience it.
+Movement through cities where behavior followed design, and others where design followed behavior.  
 
-Nothing was explained directly.  
-It was demonstrated—in pace, in presence, in how people moved through their day.
+Nothing was explained directly. It was demonstrated—in pace, in presence, in how people moved through their day.
 
 ---
 
 **On place (what worked).**  
-Short distances made the transitions sharper.  
-Trains replaced long drives, making movement continuous rather than segmented.  
-Cities were walked, not crossed—  
-allowing structure to be experienced rather than observed from a distance.  
+Short distances made the transitions sharper. 
+Trains replaced long drives, making movement continuous rather than segmented.
+Cities were walked, not crossed— allowing structure to be experienced rather than observed from a distance.
 
-Layering the journey this way made contrast possible.  
+Layering the journey this way made contrast possible.
 Without compression, the differences would have flattened.
 
 ---
 
 **If we did it again.**
-Spend more time between destinations, not just in them.  
-Return to Amsterdam early in the morning, when the system is visible without the crowd.  
-Let Bruges stretch into evening, when continuity becomes quieter.  
-Approach Sofia more slowly, allowing the shift in structure to settle.  
+Spend more time between destinations, not just in them. 
+Return to Amsterdam early in the morning, when the system is visible without the crowd. 
+Let Bruges stretch into evening, when continuity becomes quieter. 
+Approach Sofia more slowly, allowing the shift in structure to settle.
 Give Bulgaria an additional day not to see more, but to adjust.
 
 ---
 
 **Practical notes.**
-Scale matters. Small distances can carry large shifts.  
-Attention matters. Systems are only visible when you engage with them.  
-Time matters. Early mornings and transitions reveal more than full days.  
+Scale matters. Small distances can carry large shifts. 
+Attention matters. Systems are only visible when you engage with them.
+Time matters. Early mornings and transitions reveal more than full days.
 Expectation matters. What works in one place does not translate directly to another.
 
 ---
 
 **Ethics & presence.**
-Move with awareness of the systems you are stepping into.  
-Follow, observe, and adapt before expecting clarity.  
-Support small places where continuity is still practiced.  
-Engage with patience, knowing not everything is designed to be immediate.  
+Move with awareness of the systems you are stepping into.
+Follow, observe, and adapt before expecting clarity. 
+Support small places where continuity is still practiced.
+Engage with patience, knowing not everything is designed to be immediate.
 
 ---
 
 **What stayed.**
-Not a single moment, but a progression—  
-water held in place,  
-streets shaped by repetition,  
-buildings carrying histories that were never fully resolved,  
-and the steady realization that not all structures aim to simplify.  
+Not a single moment, but a progression— water held in place,
+streets shaped by repetition,
+buildings carrying histories that were never fully resolved,
+and the steady realization that not all structures aim to simplify.
 
 Some are built to endure complexity.
 
-This wasn’t a journey about understanding places in isolation.  
-It was about understanding how places hold reality—  
+This wasn’t a journey about understanding places in isolation.
+It was about understanding how places hold reality—
 and how that expectation changes as you move through them.
 
 ---
