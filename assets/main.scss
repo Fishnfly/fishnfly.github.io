@@ -596,6 +596,7 @@ color: #666;
         row-gap: 10px;
     }
 }
+
 @media (min-width: 769px) {
     .thread-filter-container {
         min-height: 72px;
@@ -604,8 +605,30 @@ color: #666;
         column-gap: 14px;
     }
 }
-@media (min-width: 769px) {
-    .thread-filter-container .thread-filter {
-        margin-right: 6px;
+
+@media (min-width: 1024px) {
+
+    .thread-filter-container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+
+        min-height: 90px;
+        padding: 16px 20px;
+
+        gap: 14px 22px;
+    }
+
+    .thread-filter {
+        display: inline-flex;
+        align-items: center;
+        white-space: nowrap;
+    }
+
+    .thread-dot {
+        width: 14px;
+        height: 14px;
+        margin-right: 8px;
+        flex-shrink: 0;
     }
 }
