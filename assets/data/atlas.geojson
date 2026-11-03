@@ -437,6 +437,56 @@
         "type": "Point",
         "coordinates": [23.3219, 42.6977]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Ireland",
+        "journey": "Ireland",
+        "myth": "Legends & Lore",
+        "year": 2022,
+        "photos": 0,
+        "story": "/travel/2022/04/16/ireland-field-notes.html",
+        "color": "#2e8b57",
+        "route": [
+          "Dublin",
+          "Malahide Castle",
+          "Powerscourt Estate",
+          "Kilkenny Castle",
+          "Blarney Castle",
+          "Ladies View",
+          "Gap of Dunloe",
+          "Dingle",
+          "Cliffs of Moher",
+          "Kylemore Abbey",
+          "Slieve League",
+          "Malin Head",
+          "Giant's Causeway",
+          "Titanic Belfast",
+          "Newgrange"
+        ],
+        "routeCoords": [
+          [-6.2603, 53.3498],
+          [-6.1750, 53.4500],
+          [-6.2059, 53.1832],
+          [-7.2494, 52.6503],
+          [-8.5636, 51.9290],
+          [-9.6371, 52.0041],
+          [-9.6584, 52.0408],
+          [-10.2683, 52.1409],
+          [-9.4309, 52.9715],
+          [-9.8903, 53.5618],
+          [-8.6866, 54.6269],
+          [-7.3344, 55.3769],
+          [-6.5116, 55.2408],
+          [-5.9040, 54.6078],
+          [-6.4753, 53.6947]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2603, 53.3498]
+      }
     }
   ]
 }
