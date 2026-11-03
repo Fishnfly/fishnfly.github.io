@@ -9,7 +9,7 @@
         "year": 2026,
         "photos": 127,
         "story": "/travel/2026/08/15/colombia-field-notes.html",
-        "color": "#3498db",
+        "color": "#2E86DE",
         "route": [
           "Bogotá",
           "Zipaquirá",
@@ -48,7 +48,7 @@
         "year": 2026,
         "photos": 95,
         "story": "/travel/2026/02/22/jordan-egypt-field-notes.html",
-        "color": "#f1c40f",
+        "color": "#F4B400",
         "route": [
   "Dead Sea",
   "Bethany Beyond the Jordan",
@@ -111,7 +111,7 @@
         "year": 2026,
         "photos": 45,
         "story": "/travel/2026/03/06/spain-field-notes.html",
-        "color": "#9b59b6",
+        "color": "#A569BD",
         "route": [
           "Madrid",
           "Toledo",
@@ -164,7 +164,7 @@
         "year": 2026,
         "photos": 170,
         "story": "/travel/2026/07/03/spain-secondtime-notes.html",
-        "color": "#8e44ad",
+        "color": "#E67E22",
         "route": [
         "Mallorca",
         "Barcelona",
@@ -231,7 +231,7 @@
         "year": 2026,
         "photos": 96,
         "story": "/travel/2026/08/07/galapagos-field-notes.html",
-        "color": "#27ae60",
+        "color": "#27AE60",
         "route": [
 "Baltra",
 "Santa Cruz",
@@ -278,7 +278,7 @@
         "year": 2026,
         "photos": 143,
         "story": "/travel/2026/05/11/turkey-field-notes.html",
-        "color": "#e74c3c",
+        "color": "#E74C3C",
         "route": [
           "Istanbul",
           "Çanakkale",
@@ -318,7 +318,7 @@
         "year": 2026,
         "photos": 100,
         "story": "/travel/2026/04/23/netherlands-belgium-bulgaria-field-notes.html",
-        "color": "#16a085",
+        "color": "#00A6A6",
         "route": [
           "Amsterdam",
           "Keukenhof",
@@ -355,7 +355,7 @@
         "year": 2025,
         "photos": 58,
         "story": "/travel/2025/02/15/morocco-field-notes.html",
-        "color": "#d35400",
+        "color": "#D35400",
         "route": [
           "Casablanca",
           "Tangier",
@@ -401,7 +401,7 @@
         "year": 2026,
         "photos": 50,
         "story": "/travel/2026/04/23/netherlands-belgium-bulgaria-field-notes.html",
-        "color": "#8e44ad",
+        "color": "#7D3C98",
         "route": [
   "Sofia",
   "Alexander Nevsky Cathedral",
@@ -447,7 +447,7 @@
         "year": 2022,
         "photos": 0,
         "story": "/travel/2022/04/16/ireland-field-notes.html",
-        "color": "#2e8b57",
+        "color": "#6C5CE7",
         "route": [
           "Dublin",
           "Malahide Castle",
