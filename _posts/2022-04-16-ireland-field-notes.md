@@ -178,7 +178,7 @@ Leader of the legendary band known as the Fianna.
 
 Unlike many heroic figures, Fionn's stories are filled with adventure, wisdom, humor, and wonder. His greatest gift came accidentally. While preparing a magical salmon said to contain all the world's knowledge, he burned his thumb and instinctively placed it in his mouth. In that moment he gained extraordinary wisdom. Thereafter, whenever he touched his thumb to his teeth, hidden knowledge became available to him.
 
-Fionn appears throughout Ireland. Mountains, lakes, valleys, and stone formations are attached to his adventures. Most famously, legend says he built the Giant's Causeway as a bridge to Scotland so he could confront the giant Benandonner. When he discovered his rival was far larger than expected, Fionn's wife disguised him as a baby. Seeing the enormous infant, Benandonner imagined how large the father must be and fled in terror, destroying the bridge behind him.
+Fionn appears throughout Ireland. Mountains, lakes, valleys, and stone formations are attached to his adventures. Most famously, legend says he built the Giant's Causeway as a bridge to Scotland so he could confront the giant Benandonner. When he discovered his rival was far larger than expected, Fionn's wife disguised him as a baby. Seeing the enormous infant, Benandonner imagined how large the father must be and fled in terror, destroying the bridge behind him. (more about this below).
 
 The surviving fragments became the Giant's Causeway.
 
@@ -256,7 +256,19 @@ The region preserved a feeling of remoteness that has largely disappeared elsewh
 
 ## Giant's Causeway
 
-Few places illustrate Ireland's blending of myth and reality more effectively.
+The most famous story associated with Fionn mac Cumhaill concerns the dramatic basalt columns along Ireland's northern coast known as the Giant's Causeway.
+
+According to legend, Fionn was challenged by a Scottish giant named Benandonner.
+
+Determined to meet his rival, Fionn built a massive stone bridge across the North Channel connecting Ireland and Scotland. The pathway stretched from coast to coast, allowing the two giants to confront one another.
+
+Before the meeting could take place, Benandonner crossed the bridge and approached Ireland.
+
+Upon seeing him, Fionn realized the Scottish giant was far larger and more powerful than he had imagined. Concerned for her husband's safety, Fionn's wife Oonagh devised a plan. She disguised Fionn as a baby and placed him in a cradle. When Benandonner arrived and saw the enormous infant, he was astonished. If the child was that large, he reasoned, the father must be truly enormous. Fearing what might happen if he remained, the Scottish giant fled back toward Scotland in panic, tearing apart the stone bridge behind him to prevent pursuit. The fragments that remained became the Giant's Causeway.
+
+Today, visitors encounter thousands of interlocking basalt columns created by ancient volcanic activity. Science explains how the stones formed. The legend explains why they became unforgettable.
+
+Like many Irish myths, the story reflects qualities admired in traditional folklore. Strength matters. But wisdom and ingenuity matter more. Few places illustrate Ireland's blending of myth and reality more effectively.
 
 Science explains the basalt columns. Legend explains why people remember them. Neither diminishes the other.
 
