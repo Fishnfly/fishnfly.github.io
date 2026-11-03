@@ -138,7 +138,10 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 
-    legendEl.innerHTML = items.join("");
+    legendEl.innerHTML =
+  "<div class='legend-items'>" +
+  items.join("") +
+  "</div>";
   }
 
   function renderJourneyCard(feature) {
