@@ -352,7 +352,12 @@
   [3.2247, 51.2093],
   [4.3517, 50.8503]
 ]
-      }
+      },
+"geometry": {
+  "type": "Point",
+  "coordinates": 
+  [ 4.9041, 52.3676]
+}
     },
     {
       "type": "Feature",
@@ -393,7 +398,6 @@
   [-9.7708, 31.5085],
   [-7.5898, 33.5731]
 ]
-        ]
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +459,7 @@
         "myth": "Legends & Lore",
         "year": 2022,
         "photos": 102,
-        "story": "/travel/2027/04/30/ireland-field-notes.html",
+        "story": "/travel/2022/04/1630/ireland-field-notes.html",
         "color": "#6C5CE7",
         "route": [
   "Dublin",
@@ -507,3 +511,14 @@
   [-6.4753, 53.6947],
   [-6.2603, 53.3498]
 ]
+},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2603,
+          53.3498
+        ]
+      }
+    }
+  ]
+}
