@@ -489,4 +489,40 @@
       }
     }
   ]
-}
+},
+{
+      "type": "Feature",
+      "properties": {
+        "country": "Ireland",
+        "journey": "Ireland",
+        "myth": "Legends & Lore",
+        "year": 2022,
+        "photos": 0,
+        "story": "/travel/2022/04/16/ireland-field-notes.html",
+        "color": "#6C5CE7",
+        "route": [
+          "Dublin",
+          "St Stephens Green",
+          "St Patrick's Cathedral",
+          "Jameson Distillery",
+          "Grafton Street",
+          "National Gallery of Ireland",
+          "Chester Beatty Library",
+          "Malahide Castle"
+        ],
+        "routeCoords": [
+          [-6.2603, 53.3498],
+          [-6.2602, 53.3381],
+          [-6.2715, 53.3395],
+          [-6.2756, 53.3480],
+          [-6.2591, 53.3419],
+          [-6.2525, 53.3408],
+          [-6.2697, 53.3422],
+          [-6.1750, 53.4500]
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2603, 53.3498]
+      }
+    }
