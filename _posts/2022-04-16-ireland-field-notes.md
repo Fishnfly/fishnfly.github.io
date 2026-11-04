@@ -134,6 +134,8 @@ Generations of poets, storytellers, and monks preserved tales of gods, warriors,
 
 Many of those stories survive today through four great narrative traditions. Together, they form the foundation of Irish mythology.
 
+---
+
 ## The Mythological Cycle
 
 The earliest stories tell of the Tuatha Dé Danann, a mysterious people said to possess supernatural powers, immense knowledge, and mastery of magic.
@@ -153,6 +155,8 @@ When their rule eventually ended, the Tuatha Dé Danann did not disappear. Inste
 
 Suddenly places like Newgrange and the Boyne Valley become more than archaeological sites. They become doorways between worlds.
 
+---
+
 ## The Ulster Cycle
 
 If the Mythological Cycle tells of gods, the Ulster Cycle tells of heroes.
@@ -167,6 +171,8 @@ His body twisted, his eye sank into his head while the other bulged outward, and
 His greatest story comes during the Táin Bó Cúailnge, the Cattle Raid of Cooley. While the warriors of Ulster lay helpless under a magical curse, Cú Chulainn stood alone against an invading army, challenging champions one by one to protect his homeland.
 
 The story transformed him into a symbol of sacrifice, courage, and loyalty far beyond his own lifetime.
+
+---
 
 ## The Fenian Cycle
 
@@ -184,6 +190,8 @@ The surviving fragments became the Giant's Causeway.
 
 Whether believed literally or not, the story gives personality to the landscape. The coastline becomes part of a narrative rather than merely a geological feature.
 
+---
+
 ## The Cycles of the Kings
 
 The final collection of stories occupies a space between mythology and history.
@@ -195,6 +203,8 @@ One of its most famous figures is Cormac mac Airt, remembered as the ideal king.
 Whether true or not, the image reveals what ancient Ireland believed a good ruler should be. The Kings Cycle is less concerned with supernatural battles than with leadership itself. What makes a ruler worthy? What responsibilities accompany power? How should justice be administered?
 
 These questions were as relevant centuries ago as they are today.
+
+---
 
 ## Why These Stories Endure
 
@@ -232,11 +242,15 @@ The continuity surrounding it may be even more remarkable. Long after its builde
 
 The site became part of Ireland's mythology as well as its history.
 
+---
+
 ## Ring of Kerry
 
 The Ring of Kerry revealed another version of Ireland. The roads curved around mountains, bays, stone walls, and isolated villages. Ruins appeared unexpectedly. Ancient forts overlooked modern roads.
 
 Weather moved constantly across the landscape. The scenery felt dramatic, but never theatrical. Life seemed shaped by geography in ways still visible centuries later.
+
+---
 
 ## Dingle and the Atlantic Edge
 
@@ -246,6 +260,8 @@ Beyond the Dingle Peninsula lay open Atlantic Ocean. For thousands of years this
 
 Looking west, it becomes easy to understand why.
 
+---
+
 ## Donegal and the North
 
 Donegal felt older. Not historically older. Spiritually older.
@@ -253,6 +269,8 @@ Donegal felt older. Not historically older. Spiritually older.
 The landscapes became larger. The settlements became smaller. Places like Slieve League and Malin Head created a sense of distance not measured in miles.
 
 The region preserved a feeling of remoteness that has largely disappeared elsewhere. The Atlantic dominates here. Human presence adapts.
+
+---
 
 ## Giant's Causeway
 
