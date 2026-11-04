@@ -88,27 +88,43 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   currentRouteLine.addTo(map);
+  map.fitBounds(
+  currentRouteLine.getBounds().pad(0.20)
+);
 
   routeCoords.forEach(function(coord, index) {
 
-    var stopMarker = L.circleMarker(coord, {
-      radius: 4,
-      color: "#ffffff",
-      weight: 1.5,
-      fillColor: props.color || "#3388ff",
-      fillOpacity: 0.9
-    });
+  var endpoint =
+    index === 0 ||
+    index === routeCoords.length - 1;
 
-    stopMarker.bindPopup(
-      routeStops[index] ||
-      ("Stop " + (index + 1))
-    );
-
-    stopMarker.addTo(map);
-
-    currentStopMarkers.push(stopMarker);
-
+  var stopMarker = L.circleMarker(coord, {
+    radius: endpoint ? 8 : 5,
+    color: "#ffffff",
+    weight: 2,
+    fillColor: props.color || "#3388ff",
+    fillOpacity: 1
   });
+
+  stopMarker.bindTooltip(
+    routeStops[index] ||
+    ("Stop " + (index + 1)),
+    {
+      direction: "top"
+    }
+  );
+  
+  stopMarker.bindPopup(
+  routeStops[index] ||
+  ("Stop " + (index + 1))
+);
+
+
+  stopMarker.addTo(map);
+
+  currentStopMarkers.push(stopMarker);
+
+});
 
 }
 
@@ -148,10 +164,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var props = feature.properties || {};
 
     if (feature.geometry && feature.geometry.coordinates) {
-      map.setView([
-        feature.geometry.coordinates[1],
-        feature.geometry.coordinates[0]
-      ], 5);
+      drawRoute(feature);
+
     }
 
     var routeValues = normalizeRoute(props.route);
@@ -244,10 +258,9 @@ document.addEventListener("DOMContentLoaded", function () {
           });
         },
         onEachFeature: function (feature, layer) {
-          layer.on("click", function () {
-            renderJourneyCard(feature);
-            drawRoute(feature);
-          });
+         layer.on("click", function () {
+  renderJourneyCard(feature);
+});
         }
       });
 
@@ -295,15 +308,15 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         var firstMatch = filteredFeatures[0];
-        if (firstMatch) {
-          renderJourneyCard(firstMatch);
-          drawRoute(firstMatch);
-        }
+if (firstMatch) {
+  renderJourneyCard(firstMatch);
+} else {
+  var filteredBounds = atlasLayer.getBounds();
+  if (filteredBounds.isValid()) {
+    map.fitBounds(filteredBounds.pad(0.20));
+  }
+}
 
-        var filteredBounds = atlasLayer.getBounds();
-        if (filteredBounds.isValid()) {
-          map.setView(filteredBounds.getCenter(), 5);
-        }
       }
 
       document.querySelectorAll(".legend-filter").forEach(function (item) {
