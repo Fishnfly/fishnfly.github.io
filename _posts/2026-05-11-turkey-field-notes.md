@@ -237,15 +237,22 @@ Along the edge of the water, a familiar setting returned.
 
 The structure was smaller, more contained, but unchanged in its presence. What had been experienced before did not require adjustment. It remained consistent, situated within the same rhythm of place.
 
+### The Iliad Lives Here
+
+For centuries people debated whether Homer described real events. Then archaeologists discovered layer upon layer of cities beneath Troy. Whether Achilles and Hector existed exactly as told matters less than the fact that the story became one of humanity's foundational epics.
+
+Visitors stand in a place where history, literature, and legend became impossible to fully separate.
+
 Not everything shifted through movement. Some places remained as they were.
 
 ## Artemis and the Sacred City of Ephesus
 
 Further south, another mythology flourished. 
 
-Ephesus became home to the Temple of Artemis, one of the Seven Wonders of the Ancient World. Artemis was far more than a goddess of the hunt. In Anatolia she became a powerful symbol of protection, fertility, prosperity, and the natural world. Pilgrims traveled from across the Mediterranean seeking her favor.
+Ephesus became home to the Temple of Artemis, one of the Seven Wonders of the Ancient World. Artemis was far more than a goddess of the hunt. In Anatolia she became a powerful symbol of protection, fertility, prosperity, and the natural world. Pilgrims traveled from across the Mediterranean seeking her favor. 
+The city connected mythology, religion, trade, and empire.
 
-The temple itself became one of the most famous religious sites of antiquity. Although little remains today, its influence survives through history, archaeology, and mythology alike. The story reveals a recurring theme in Turkey. New civilizations arrived.
+The temple itself became one of the most famous religious sites of antiquity. Although little remains today, its influence survives through history, archaeology, and mythology alike. The story reveals a recurring theme in Turkey. New civilizations arrived. Even after the temple disappeared, Artemis remained part of the city's identity.
 
 Older stories adapted rather than disappeared.
 
@@ -334,6 +341,10 @@ It held from within.
 Not all legends involve gods or kings. Some emerge from survival.
 
 The landscapes of Cappadocia appear almost otherworldly. Volcanic stone formations rise from the plains in shapes that seem borrowed from folklore. Entire communities carved homes, churches, monasteries, and underground cities into the soft rock. When viewed from a distance, the landscape scarcely appears real. Stories naturally followed.
+
+### Landscapes of Refuge
+
+Early Christians carved homes, monasteries, and entire underground cities from volcanic rock.The result feels almost mythical. People disappeared beneath the earth to preserve beliefs and communities. The fairy chimneys appear less like geology and more like something from folklore.
 
 Travelers described enchanted valleys and strange stone towers. The famous "fairy chimneys" encouraged people to imagine supernatural explanations long before geology supplied its own. Yet the true story may be more remarkable than the legends. These landscapes sheltered generations of people seeking safety, faith, and continuity in uncertain times.
 
