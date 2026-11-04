@@ -198,6 +198,8 @@ Whether true or not, the image reveals what ancient Ireland believed a good rule
 
 These questions were as relevant centuries ago as they are today.
 
+---
+
 ## Why These Stories Endure
 
 Many mythologies survive in books.
