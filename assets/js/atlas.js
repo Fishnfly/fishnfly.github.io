@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", function () {
       direction: "top"
     }
   );
-  
+
   stopMarker.bindPopup(
   routeStops[index] ||
   ("Stop " + (index + 1))
@@ -187,8 +187,8 @@ document.addEventListener("DOMContentLoaded", function () {
   var map = L.map("map").setView([20, 0], 2);
 
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution: "&copy; OpenStreetMap"
-  }).addTo(map);
+  attribution: "&copy; OpenStreetMap"
+}).addTo(map);
 
   fetch("/assets/data/atlas.geojson")
     .then(function (response) {
