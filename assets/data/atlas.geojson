@@ -515,11 +515,96 @@
 },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -6.2603,
-          53.3498
-        ]
+        "coordinates": [23.3219, 42.6977]
       }
-    }
-  ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+    "country": "Croatia & Slovenia",
+    "journey": "Croatia, Bosnia & Herzegovina, and Slovenia",
+    "myth": "Crossroads of Empires",
+    "year": 2024,
+    "photos": 0,
+    "story": "/travel/2024/08/30/croatia-slovenia-field-notes.html",
+    "color": "#3498db",
+    "route": [
+      "Dubrovnik",
+      "Rector's Palace",
+      "Fort Lovrijenac",
+      "Mount Srd",
+      "Mostar",
+      "Kravica Waterfalls",
+      "Makarska",
+      "Split",
+      "Diocletian's Palace",
+      "Marjan Hill",
+      "Hvar",
+      "Krka National Park",
+      "Zadar",
+      "Sea Organ",
+      "Greeting to the Sun",
+      "Plitvice Lakes",
+      "Nehaj Fortress",
+      "Rijeka",
+      "Pula Arena",
+      "Temple of Augustus",
+      "Rovinj",
+      "Porec",
+      "Motovun",
+      "Opatija",
+      "Kumrovec",
+      "Zagreb",
+      "Zagreb Cathedral",
+      "St. Mark's Church",
+      "Ljubljana",
+      "Preseren Square",
+      "Dragon Bridge",
+      "Ljubljana Castle",
+      "Lake Bled",
+      "Postojna Cave",
+      "Predjama Castle"
+    ],
+    "routeCoords": [
+      [18.0944, 42.6507],
+      [18.1106, 42.6412],
+      [18.1023, 42.6401],
+      [18.1085, 42.6620],
+      [17.8139, 43.3438],
+      [17.6078, 43.1577],
+      [17.0215, 43.2969],
+      [16.4402, 43.5081],
+      [16.4407, 43.5088],
+      [16.4215, 43.5146],
+      [16.4424, 43.1729],
+      [15.9722, 43.8047],
+      [15.2314, 44.1194],
+      [15.2232, 44.1155],
+      [15.2238, 44.1158],
+      [15.5820, 44.8806],
+      [14.7747, 45.1614],
+      [14.4410, 45.3271],
+      [13.8506, 44.8739],
+      [13.8496, 44.8729],
+      [13.6387, 45.0812],
+      [13.5947, 45.2271],
+      [13.8286, 45.3368],
+      [14.3052, 45.3376],
+      [15.6753, 45.9767],
+      [15.9819, 45.8150],
+      [15.9792, 45.8144],
+      [15.9730, 45.8167],
+      [14.5058, 46.0569],
+      [14.5062, 46.0511],
+      [14.5106, 46.0514],
+      [14.5066, 46.0499],
+      [14.1146, 46.3639],
+      [14.2036, 45.7830],
+      [14.1279, 45.8150]
+    ]
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [17.8139, 43.3438]
+  }
 }
