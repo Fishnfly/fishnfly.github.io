@@ -334,8 +334,6 @@ It held from within.
 
 ---
 
-## Cappadocia — Landscape as System
-
 ## **Cappadocia and the Hidden World**
 
 Not all legends involve gods or kings. Some emerge from survival.
