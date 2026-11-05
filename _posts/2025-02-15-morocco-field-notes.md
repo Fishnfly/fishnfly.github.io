@@ -31,6 +31,7 @@ Looking back, the trip became less about individual places and more about unders
 
 ---
 
+## The Myth Thread — Stories of the Road
 ## Atlas Mountain Legends
 
 Long before roads crossed the High Atlas, Amazigh communities told stories about mountains that possessed their own character and spirit. Many peaks were viewed as places where the visible and invisible worlds met. Travelers spoke of hidden valleys protected from outsiders, sacred springs whose waters brought healing, and remote mountain passes where mysterious beings appeared to those who traveled alone.
