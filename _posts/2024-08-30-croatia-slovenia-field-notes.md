@@ -439,7 +439,7 @@ Looking back, the journey became less about moving between countries and more ab
 ---
 
 *Field photographs from this journey:*  
-[View the photo archive](/photo-archive/#croatia)
+[View the photo archive](/photo-archive/#croatia-solvenia)
 
 ---
 
