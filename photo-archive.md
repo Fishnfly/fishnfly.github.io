@@ -1667,6 +1667,21 @@ Nothing fixed. Everything practiced.
 
 ---
 
+<a id="croaita-slovenia"></a>
+## Croatia & Slovenia
+
+Between mountains and the sea.
+ A landscape of dragons, empires, rivers, and traditions that continue to shape Croatia and Slovenia today.
+
+<details class="photo-fold">
+  <summary>Open field photographs from this journey</summary>
+
+
+</div>
+</details>
+
+  ---
+
 <a id="ireland"></a>
 ## Ireland
 
@@ -1780,9 +1795,6 @@ Wild Atlantic coasts, ancient stone, and stories still attached to the land.
    <a class="glightbox" data-gallery="ireland" data-title="County Meath-Slane Abbey Ruins" href="{{ '/assets/photos/ireland/photo-102.webp' | relative_url }}"><img src="{{ '/assets/photos/ireland/photo-102.webp' | relative_url }}" loading="lazy" alt="Ireland-102"><span class="photo-label">County Meath-Slane Abbey Ruins</span></a>
   </div>
 </details>
-
----
-
 
 ---
 
