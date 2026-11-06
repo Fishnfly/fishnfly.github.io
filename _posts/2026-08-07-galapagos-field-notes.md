@@ -117,7 +117,7 @@ Santa Cruz → Baltra → Guayaquil
 
 ---
 
-![Galapagos](/assets/images/galapagos/galapagosetc.jpg)
+![Galapagos](/assets/images/galapagos/galapagosetc.webp)
 
 ---
 
@@ -133,7 +133,7 @@ We were the newcomers.
 
 **Arrival / Iguana Pic**
 
-![Iguanas](/assets/images/galapagos/iguanas.jpg)
+![Iguanas](/assets/images/galapagos/iguanas.webp)
 
 ---
 
@@ -147,7 +147,7 @@ The hotel existed beside the system rather than apart from it.
 
 **Finch Bay Pic**
 
-![Finchbay](/assets/images/galapagos/finchbay.jpg)
+![Finchbay](/assets/images/galapagos/finchbay.webp)
 
 ---
 
@@ -161,7 +161,7 @@ Nature becomes most extraordinary when it is allowed to remain itself.
 
 **Sea Lions Pic**
 
-![SeaLions](/assets/images/galapagos/sealions.jpg)
+![SeaLions](/assets/images/galapagos/sealions.webp)
 
 ---
 
@@ -173,7 +173,7 @@ The water carried the system.
 
 **Ocean Pic**
 
-![water](/assets/images/galapagos/water.jpg)
+![water](/assets/images/galapagos/water.webp)
 
 ---
 
@@ -185,7 +185,7 @@ They were the experience.
 
 **Boat Excursion Pic**
 
-![boat](/assets/images/galapagos/boat.jpg)
+![boat](/assets/images/galapagos/boat.webp)
 
 ---
 
@@ -197,7 +197,7 @@ Life continued within the shelter the environment provided.
 
 **Divine Bay Pic**
 
-![boat](/assets/images/galapagos/divinebay.jpg)
+![boat](/assets/images/galapagos/divinebay.webp)
 
 ---
 
@@ -211,7 +211,7 @@ The significance came from witnessing continuity in motion.
 
 **Green Sea Turtle**
 
-![Green Sea Turtle](/assets/images/galapagos/greenturtle.jpg)
+![Green Sea Turtle](/assets/images/galapagos/greenturtle.webp)
 
 The system extended beyond what could be seen from shore.
 
@@ -221,7 +221,7 @@ It merely revealed it.
 
 **Shark Pic**
 
-![Shark](/assets/images/galapagos/shark.jpg)
+![Shark](/assets/images/galapagos/shark.webp)
 
 **Snorkeling video**
 
@@ -239,7 +239,7 @@ The contrast was striking.
 
 **Lava Tunnels Pic**
 
-![Iguana](/assets/images/galapagos/lavatunnels.jpg)
+![Iguana](/assets/images/galapagos/lavatunnels.webp)
 
 Above ground, giant tortoises continued patterns that had persisted for generations. Below ground, the island carried the record of forces that had shaped it long before any wildlife arrived. Both told the same story. Persistence was not a single thing. It existed across different scales of time.
 
@@ -247,7 +247,7 @@ It reshaped the environment around it.
 
 **Tortoise Pic**
 
-![Tortoise](/assets/images/galapagos/tortoises-final.jpg)
+![Tortoise](/assets/images/galapagos/tortoises-final.webp)
 ---
 
 ## Continuity — Not Guaranteed
@@ -274,7 +274,7 @@ The system continued, even when individuals did not.
 
 **Blue-Footed Booby Pic**
 
-![Boobies](/assets/images/galapagos/boobies.jpg)
+![Boobies](/assets/images/galapagos/boobies.webp)
 
 ---
 

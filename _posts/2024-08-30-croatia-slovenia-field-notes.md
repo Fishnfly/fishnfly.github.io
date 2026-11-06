@@ -333,6 +333,10 @@ The most beloved is Veli Jože, a gentle giant who protected ordinary people fro
 
 Among the hilltop towns of Istria, including Motovun, the story continues to symbolize local independence and resilience.
 
+---
+
+### Slovenia
+
 ## Zagreb and the Manduševac Legend
 
 According to one of Zagreb's best-known legends, a thirsty warrior arrived at a spring near the city's center. He called to a young woman named Manda and asked her to draw water from the spring. The location became known as Manduševac.
@@ -429,278 +433,23 @@ Yet the most memorable places were rarely defined by separation. They were defin
 
 Looking back, the journey became less about moving between countries and more about understanding how identities form where different worlds meet. The maps show boundaries. The stories reveal the connections.
 
-
-
----
-
-![Galapagos](/assets/images/galapagos/galapagosetc.jpg)
-
----
-
-## Bogotá — Layers
-
-Bogotá introduced a version of Colombia that resisted simple definition.
-
-The city seemed to exist across multiple periods simultaneously. From Monserrate, the scale became visible. The city stretched outward across the high plateau, framed by mountains that have shaped movement, settlement, and identity for centuries.
-
-The distance between past and present felt remarkably small. That impression deepened in the historic center.
-
-Plaza de Bolívar connected politics, religion, and public life within the same space. The surrounding buildings reflected different eras and priorities, each contributing to a larger story that remained unfinished.
-
-The Gold Museum revealed another layer. The collection offered more than craftsmanship. It provided evidence of societies that existed long before modern Colombia emerged. Objects that once carried symbolic, spiritual, and practical meaning remained connected to lives now separated by centuries.
-
-Nearby, the Botero Museum presented a different perspective. Where the Gold Museum revealed inheritance, Botero demonstrated interpretation.
-
-The country appeared willing to preserve its history while continually reexamining it. 
-
-Bogotá did not present a single Colombia. It introduced many Colombias existing at the same time.
-
----
-
-## Zipaquirá — Transformation of Purpose
-
-The Salt Cathedral felt almost impossible to explain before entering it.
-
-What began as a mine became a place of worship. The transition carried unusual weight. Most transformations replace one purpose with another. The cathedral appeared to build upon what already existed.
-
-The chambers remained underground. The walls remained salt. The environment retained evidence of labor. Yet the meaning changed completely.
-
-Work became reflection. Extraction became devotion. The structure suggested that places do not always need to abandon their past to become something new.
-
-Sometimes transformation occurs through reinterpretation. The result felt uniquely Colombian. The cathedral acknowledged what came before while creating something entirely different from it.
-
-The past remained visible. The purpose evolved.
-
----
-
-## Villa de Leyva — Continuity
-
-Some places survive because they adapt.
-
-Villa de Leyva survived because it never completely abandoned itself. The town felt unusually coherent. Whitewashed buildings lined cobbled streets.
-
-The Plaza Mayor remained the center of public life. Generations had clearly altered the community. The character endured. Walking through the town revealed how continuity differs from preservation.
-
-The buildings remained useful. The streets remained active. The town continued functioning rather than simply remembering.
-
-Villa de Leyva did not feel frozen in time. It felt connected to it.
-
-The experience suggested that continuity may be less about protecting the past and more about allowing it to remain relevant.
-
----
-
-## Barichara — Craft
-
-Barichara revealed another path toward continuity. Craft.
-
-The town's earthen architecture reflected knowledge accumulated over centuries. Techniques were not preserved through books alone. They survived through practice.
-
-The Earth Painting workshop and Tapia Pisada construction methods made that reality visible. The process felt slower than modern alternatives. That was partly the point.
-
-The techniques survived because generation after generation found value in them. The walls represented more than construction. They represented accumulated knowledge.
-
-Each layer carried evidence of previous experience. The town itself seemed built from continuity. Not because it resisted change.
-
-Because it remained connected to the skills that created it.
-
----
-
-## Guane — Ancient Paths
-
-The Camino Real suggested a different kind of inheritance.
-
-The path existed long before modern roads. Long before modern transportation. Long before modern Colombia.
-
-Yet people still moved along it. The route connected past movement with present movement. The landscape changed little. The travelers changed constantly.
-
-Some roads exist because people continue using them.
-
-Others continue influencing movement long after their original creators disappear.
-
-The Camino Real felt like both.
-
----
-
-## Coffee, Cacao, and Chicamocha
-
-The agricultural landscapes of Santander revealed transformation at an entirely different scale.
-
-Coffee and cacao begin as cultivation. The finished products become culture. The process required patience.
-
-Climate. Elevation. Knowledge.
-
-Generations contributed to the same outcome. The farms demonstrated how communities transform geography into identity. 
-
-The Chicamocha Canyon offered a dramatic contrast. Its scale reduced human activity to something much smaller. The farms represented what people build. The canyon represented what they build within.
-
-Both felt equally important to understanding the region.
-
----
-
-## Medellín — Becoming
-
-Few places carried stronger assumptions before arrival than Medellín.
-
-Long before the trip began, the city already existed through stories. News reports. Documentaries. Books. Television series. The result was a strange realization.
-
-Many visitors arrive believing they already know Medellín. The city immediately challenges that assumption.
-
-A visit to the Pablo Escobar Museum revealed how powerfully a single narrative can shape outside perceptions of a place. The history was impossible to ignore. The violence was real. The consequences extended far beyond the individuals associated with it. That reality remained present.
-
-Yet so did another story.
-
-Public transportation connected communities once isolated by geography. The Metrocable transformed access. Neighborhoods previously associated with conflict now displayed public art, local investment, and community pride. The contrast felt impossible to miss. The museum explained one chapter. The city itself revealed another.
-
-Neither erased the other. Both remained part of the same story. That tension became one of the most compelling observations of the journey.
-
-Medellín did not appear interested in denying its history. It seemed more interested in demonstrating that history would not entirely define its future.
-
-The city was not simply recovering. It was becoming.
-
----
-
-## Cartagena — Memory
-
-Cartagena revealed a different relationship with history.
-
-The walled city preserved physical reminders of colonial power, trade, culture, and conflict. The past remained highly visible. The challenge was interpretation. Buildings endured. Meanings shifted.
-
-Walking the streets felt like moving through layers of memory. Some celebrated. Some difficult. Some unresolved.
-
-The city seemed comfortable carrying all of them simultaneously. What remained impressive was not preservation itself.
-
-It was the willingness to continue engaging with what had been preserved.
-
----
-
-## La Boquilla — Community
-
-La Boquilla introduced the most human scale of transformation. The mangroves demonstrated environmental stewardship. The drumming workshop revealed cultural continuity. Nothing felt staged.
-
-The experiences reflected practices that remained relevant to the community itself.
-
-Culture appeared less like performance and more like participation. Visitors were invited into something already ongoing. The strongest lesson came from observing how identity survives through daily repetition.
-
-Not grand events. Small acts. Meals. Music. Skills. Stories.
-
-Communities remain recognizable because people continue practicing who they are. 
-
-The day concluded with a rum and chocolate tasting at El Arsenal, often called the Rum Box. At first, the experience seemed designed simply to introduce visitors to Colombian rum. It became something more interesting. The tasting moved through different regions, production methods, aging techniques, and flavor profiles. Each rum carried characteristics shaped by geography, climate, ingredients, and tradition.
-
-The chocolate provided a similar lesson. Ingredients that appeared familiar became remarkably different depending upon where they were grown, processed, and prepared. The combination highlighted something that had appeared repeatedly throughout the journey. Not only through landscapes or landmarks. Through flavor. Through craft.
-
-Through the accumulation of knowledge passed between generations. The tasting was not really about rum. Nor was it about chocolate. It was about transformation.
-
-Sugar cane becoming rum. Cacao becoming chocolate. Agriculture becoming identity. History becoming culture.
-
-One of the most memorable parts of the evening was how naturally stories accompanied the samples. Every pour seemed connected to a region. Every flavor seemed connected to a community. What began as tasting became understanding. The products themselves were excellent. The larger lesson remained more interesting.
-
-Like much of Colombia, the experience revealed how places continue becoming something new without losing connection to where they began.
-
-**El Arsenal Rum & Chocolate Photos**
-
 ---
 
 ## Afterthoughts
-
-### On transformation.
-
-Many places tell stories about origins. Colombia seemed more interested in what happened afterward.
-
-The journey revealed places that had not remained unchanged. A salt mine became a cathedral. Colonial towns continued evolving without abandoning their identity. Cities challenged assumptions that outsiders carried about them.
-
-Communities adapted traditions rather than preserving them behind glass.
-
-The most memorable examples rarely involved permanence. 
-
----
-
-### On history.
-
-History never felt absent. It remained visible everywhere. In Bogotá's museums. In Cartagena's walls. In Villa de Leyva's plazas. In Medellín's neighborhoods. 
-
-Yet history rarely appeared as the final chapter. Most places presented it as context rather than destiny. The past explained how things arrived here.
-
-It did not entirely explain where they were going.
-
----
-
-### On craft.
-
-The weaving traditions of Villa de Leyva. The earthen construction techniques of Barichara. The cultivation of coffee. The cultivation of cacao. Each demonstrated; Knowledge survives through practice.
-
-Skills endure because people continue using them. Every generation inherits techniques developed by those before them. Every generation leaves something behind for those who follow. The process felt remarkably human.
-
----
-
-### On movement.
-
-The Camino Real near Guane. The roads through Boyacá and Santander. The cable cars above Medellín. The waterways of La Boquilla. Movement appeared repeatedly throughout the journey. Sometimes movement connected communities. Sometimes it connected generations. Often it connected different versions of the same place.
-
-The routes changed. People continued finding ways to move forward without losing connection to where they began.
-
----
-
-### On Medellín.
-
-Medellín remained one of the strongest examples of the myth. The city carried visible reminders of difficult chapters in its history. Yet those reminders rarely felt like the defining story. Public transportation. Community investment. Urban art. Public space.
-
-The city seemed determined to become something larger than the narratives most outsiders already knew. The experience did not erase the past.
-
-It showed what could happen afterward.
-
----
-
-### On community.
-
-The strongest observations often emerged at the smallest scale. Sharing fruit in Bogotá. Learning traditional crafts in Villa de Leyva and Barichara. Visiting farms in Santander. Drumming in La Boquilla. Conversations with guides, artisans, farmers, and residents.
-
-Communities revealed themselves less through monuments than through participation.
-
-The experiences felt less like performances and more like invitations.
-
----
-
-### On Colombia.
-
-Before the trip, Colombia often appeared through headlines, photographs, and simplified narratives. Afterward, the country felt much harder to summarize. The landscapes were diverse. The histories were layered. The identities were evolving. Perhaps that complexity was the point.
-
-Colombia never seemed interested in choosing between past and future. Both remained visible simultaneously.
 
 ---
 
 ### What stayed.
 
-The journey began with places. It ended with transformation. The same pattern appeared. Important things survived. But rarely in their original form. 
 
-A mine became a cathedral. Traditional roads continued guiding modern travelers. Craft remained relevant. Communities adapted while preserving identity. Cities challenged the stories told about them.
-
-The past remained visible. The future remained unfinished. Both existed together.
-
-Colombia rarely asked visitors to choose between what was and what could be. Instead, it demonstrated how both can coexist.
-
-The journey became less about preservation. And more about becoming. That is what stayed.
 
 ---
 
-## If We Did It Again
-
-The itinerary covered an extraordinary amount of Colombia, introducing mountains, colonial towns, artisan communities, coffee farms, growing cities, and Caribbean coastlines. The structure was excellent. The surprises were better. Some of the most memorable moments were not the locations themselves. They were the conversations. The workshops. The stories shared by guides, farmers, artisans, and residents.
-
-The opportunities to understand how people experienced the places in which they lived. Villa de Leyva and Barichara rewarded slowing down. Neither felt designed for rushing from attraction to attraction. The plazas, workshops, streets, and surrounding landscapes revealed themselves gradually. More time there would have been welcome. Cartagena is the place we would most intentionally revisit. An illness late in the trip unexpectedly changed several plans and reduced our opportunity to simply wander. The historic center felt like a city best experienced without an agenda. Its streets, balconies, plazas, cafés, shops, and evening atmosphere invited exploration rather than completion.
-
-There was a sense that Cartagena still had stories left to tell. Medellín offered a different lesson.
-
-Before arriving, it was easy to associate the city with narratives that outsiders already know. After visiting, it became clear that the more interesting story is the one still being written. More time there would not have been spent looking backward. It would have been spent understanding what the city continues to become. The biggest change, however, would not involve adding destinations. It would involve adding time.
-
-Colombia felt less like a country that reveals itself through landmarks and more like one that reveals itself through engagement. The workshops. The agricultural visits. The community projects. The shared meals. The local conversations. Those experiences provided the strongest insights.
-
-If we returned, we would build the trip around more of them. The destinations introduced Colombia.
 
 ---
 
 *Field photographs from this journey:*  
-[View the photo archive](/photo-archive/#galapogos)
+[View the photo archive](/photo-archive/#croatia)
 
 ---
 
