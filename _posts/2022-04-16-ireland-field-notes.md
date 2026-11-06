@@ -126,6 +126,10 @@ Regions: Dublin • Wicklow • Ancient East • Kerry • Dingle Peninsula • 
 
 ---
 
+![Ireland](/assets/images/ireland/base.webp)
+
+---
+
 ## The Myth Thread — Four Stories, One Island
 
 Long before Ireland's history was written, its stories were sung.
