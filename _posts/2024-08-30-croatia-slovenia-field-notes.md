@@ -209,7 +209,6 @@ Overnight: Grand Hotel Union Eurostars
 
 ---
 
-
 ## Dubrovnik — The Republic Between Empires
 
 Most cities owe their survival to geography. Dubrovnik survived because it understood politics.
@@ -228,6 +227,8 @@ Its success became almost legendary. Rather than conquest, the city relied on di
 
 It is the improbable story of a small republic preserving its independence for centuries while surrounded by empires. Walking the city walls today, it becomes easy to understand why that achievement still feels remarkable.
 
+---
+
 ## Mostar and the Bridge Between Worlds
 
 At first glance, Mostar appears to be a story about a bridge.
@@ -241,6 +242,8 @@ Its greatest test came during the Bosnian War in 1993. After standing for more t
 Yet the story did not end there. Using original techniques and recovered stones from the river below, the bridge was rebuilt and reopened in 2004. In that sense, Stari Most came to represent something larger than either the Ottoman Empire or modern Bosnia.
 
 It became a reminder that connections can be damaged. They can even collapse entirely. But they can also be restored. Like the bridge itself, the region's history is less about permanence than resilience.
+
+---
 
 ### Diocletian's Palace
 
@@ -290,6 +293,8 @@ Standing within Split's ancient walls, visitors encounter both Rome and everythi
 
 Most ancient monuments eventually became ruins. This one became a city. Residents built homes, shops, churches, and streets within the former palace walls. History literally became part of everyday life. The city adapted rather than abandoned what came before.
 
+---
+
 ### Plitvice and the Power of Water
 
 Long before national parks existed, people viewed certain landscapes as places where ordinary rules seemed suspended.
@@ -297,6 +302,8 @@ Long before national parks existed, people viewed certain landscapes as places w
 At Plitvice Lakes, waterfalls continuously create and reshape the geological formations around them. The landscape never remains entirely fixed. Water transforms stone. Stone redirects water. The process is ongoing.
 
 Generations have viewed such places with wonder because they appear alive.
+
+---
 
 ### Hvar and the Sea of Stories
 
@@ -306,6 +313,8 @@ Long before modern nations emerged, Greek sailors crossed these waters carrying 
 
 Hvar occupied an important place in this maritime world. The island's harbors connected traders moving between east and west. Every ship brought cargo. Every crew brought stories. As a result, the Adriatic became less a barrier than a highway linking distant cultures.
 
+---
+
 ### Plitvice and Krka: Sacred Waters
 
 Throughout Europe, powerful waterfalls frequently became associated with supernatural forces. People instinctively viewed such places as special.
@@ -313,6 +322,8 @@ Throughout Europe, powerful waterfalls frequently became associated with superna
 At Plitvice and Krka, water continuously creates the landscape itself. Pools become waterfalls. Waterfalls create new barriers. The terrain never completely settles.
 
 Traditional stories often described such locations as places inhabited by spirits, guardians, or forces beyond ordinary human understanding. Even today, visitors instinctively lower their voices. Some landscapes seem to encourage reverence.
+
+---
 
 ### Veli Jože: The Giant of Istria
 
@@ -332,6 +343,8 @@ According to one of Zagreb's best-known legends, a thirsty warrior arrived at a 
 
 Whether historically accurate or not, the story reveals something important. Cities often explain themselves through narrative. Water creates settlement. Settlement becomes community. Community becomes memory. The fountain remains one of Zagreb's symbolic landmarks.
 
+---
+
 ### Ljubljana and the Dragon
 
 Few cities embrace a mythological creature as thoroughly as Ljubljana.
@@ -350,6 +363,8 @@ According to local tradition, after securing the Golden Fleece, Jason and his co
 
 Like many myths, the story offered an explanation. Why a dragon? Why this landscape? Why this city? The legend transformed geography into memory.
 
+---
+
 ### The Marshes Before the City
 
 Long before Ljubljana existed, the surrounding marshlands were considered mysterious places. Fog often drifted across the wetlands. Rivers changed course.
@@ -357,6 +372,8 @@ Long before Ljubljana existed, the surrounding marshlands were considered myster
 Travelers moved through unfamiliar terrain where visibility could vanish within moments. Many cultures associate swamps and wetlands with supernatural creatures. Dragons naturally emerged as symbols of untamed forces that seemed larger than human control. The dragon represented danger. But it also represented power.
 
 To defeat the dragon was to bring order to chaos. To build a city where wilderness once dominated.
+
+---
 
 ### From Emona to Ljubljana
 
@@ -366,11 +383,15 @@ Centuries later, medieval communities expanded upon those foundations. Empires a
 
 Yet the dragon endured. Governments changed. The symbol remained. Each generation adopted it as its own.
 
+---
+
 ### The Dragon Bridge
 
 No structure illustrates this relationship better than the Dragon Bridge. Completed in 1901, the bridge became one of Ljubljana's defining landmarks.
 
 Four imposing dragon statues guard the structure, watching over the city and the river below. Local folklore humorously claims that the dragons wag their tails whenever a virtuous maiden crosses the bridge. Whether anyone has ever witnessed such an event remains a matter of debate. The story survives because it reflects something important. Cities need their myths. Facts explain how a place developed. Stories explain why people care about it.
+
+---
 
 ### Why the Dragon Endures
 
@@ -378,9 +399,13 @@ The dragon is not simply a monster defeated by a hero. It became a symbol of res
 
 Throughout its history, larger powers often shaped the region's political destiny. Yet the city developed a distinct identity all its own. The dragon came to represent that independence. A reminder that a community can preserve its character regardless of who rules it.
 
+---
+
 ### Connection to the Journey
 
 Like Dubrovnik's walls, Mostar's bridge, and Split's Roman palace, the dragon reveals a larger theme running through the journey. The most enduring landmarks are rarely just physical structures. They become repositories for stories. Generations pass. Empires rise and fall. The stories remain. And sometimes a dragon watches over them all.
+
+---
 
 ### Zlatorog and the Treasures of the Alps
 
@@ -389,6 +414,8 @@ High in Slovenia's Julian Alps lives one of the region's most enduring legends.
 Zlatorog, whose name means "Golden Horn," was a magnificent white ibex guarding hidden treasures in the mountains.
 
 According to the story, a hunter pursuing the treasure wounded the animal. Drops of blood fell upon the alpine meadows, giving rise to magical flowers. When Zlatorog ate the blooms, his wounds healed and he escaped forever into the mountains. The treasure remained protected. The story reflects a recurring alpine theme. Nature can be admired. Nature can be respected. But it cannot truly be possessed.
+
+---
 
 ### Predjama and the Knight in the Cliff
 
@@ -400,6 +427,8 @@ According to legend, Erazem used hidden cave passages to evade armies attempting
 
 Whether every detail happened exactly as told matters less than the enduring appeal of the story. People admire cleverness. Especially when it triumphs over superior power.
 
+---
+
 ### The Baby Dragons of Postojna
 
 For centuries, visitors to Postojna Cave encountered strange pale creatures living within the underground waters. Unable to explain them, local people believed they were the offspring of dragons hidden deep within the earth.
@@ -408,11 +437,15 @@ Today we know them as olm salamanders. Yet their appearance remains startling. B
 
 Even now they seem almost mythical. Sometimes science explains a legend. Sometimes it simply makes the legend more interesting.
 
+---
+
 ### Lake Bled and the Island Church
 
 According to local tradition, the island at the center of Lake Bled was once associated with Slavic goddess worship before the arrival of Christianity.
 
 Later a church was built there, creating another example of continuity through transformation. Beliefs changed. The sacred location remained. The story mirrors much of the region itself. New layers appeared. Older foundations endured.
+
+---
 
 ## Afterthoughts
 
@@ -421,10 +454,6 @@ Throughout the journey, borders appeared everywhere. Political borders. Religiou
 Yet the most memorable places were rarely defined by separation. They were defined by interaction. Dubrovnik thrived through trade. Mostar through connection. Split through adaptation. Ljubljana through exchange. Even the Alps and Adriatic served less as barriers than as routes linking distant communities.
 
 Looking back, the journey became less about moving between countries and more about understanding how identities form where different worlds meet. The maps show boundaries. The stories reveal the connections.
-
----
-
-## Afterthoughts
 
 ---
 
