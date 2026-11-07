@@ -1675,11 +1675,204 @@ Where Empires Met the Adriatic.
 
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
+  <div class="photo-grid">
   <a class="glightbox" data-gallery="croatia" data-title="Label"
   href="{{ '/assets/photos/croatia/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-001.webp' | relative_url }}" loading="lazy" alt="Croatia 001"><span class="photo-label">Label</span></a>
   <a class="glightbox" data-gallery="croatia" data-title="Label"
   href="{{ '/assets/photos/croatia/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-002.webp' | relative_url }}" loading="lazy" alt="Croatia 002"><span class="photo-label">Label</span></a>
-</div>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-003.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-003.webp' | relative_url }}" loading="lazy" alt="Croatia 003"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-004.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-004.webp' | relative_url }}" loading="lazy" alt="Croatia 004"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-005.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-005.webp' | relative_url }}" loading="lazy" alt="Croatia 005"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-006.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-006.webp' | relative_url }}" loading="lazy" alt="Croatia 006"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-007.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-007.webp' | relative_url }}" loading="lazy" alt="Croatia 007"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-008.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-008.webp' | relative_url }}" loading="lazy" alt="Croatia 008"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-009.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-009.webp' | relative_url }}" loading="lazy" alt="Croatia 009"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-010.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-010.webp' | relative_url }}" loading="lazy" alt="Croatia 010"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-011.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-011.webp' | relative_url }}" loading="lazy" alt="Croatia 011"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-012.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-012.webp' | relative_url }}" loading="lazy" alt="Croatia 012"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-013.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-013.webp' | relative_url }}" loading="lazy" alt="Croatia 013"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-014.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-014.webp' | relative_url }}" loading="lazy" alt="Croatia 014"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-015.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-015.webp' | relative_url }}" loading="lazy" alt="Croatia 015"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-016.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-016.webp' | relative_url }}" loading="lazy" alt="Croatia 016"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-017.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-017.webp' | relative_url }}" loading="lazy" alt="Croatia 017"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-018.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-018.webp' | relative_url }}" loading="lazy" alt="Croatia 018"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-019.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-019.webp' | relative_url }}" loading="lazy" alt="Croatia 019"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-020.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-020.webp' | relative_url }}" loading="lazy" alt="Croatia 020"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-021.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-021.webp' | relative_url }}" loading="lazy" alt="Croatia 021"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-022.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-022.webp' | relative_url }}" loading="lazy" alt="Croatia 022"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-023.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-023.webp' | relative_url }}" loading="lazy" alt="Croatia 023"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-024.webp' | relative_url }}" loading="lazy" alt="Croatia 024"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-025.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-025.webp' | relative_url }}" loading="lazy" alt="Croatia 025"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-026.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-026.webp' | relative_url }}" loading="lazy" alt="Croatia 026"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-027.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-027.webp' | relative_url }}" loading="lazy" alt="Croatia 027"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-028.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-028.webp' | relative_url }}" loading="lazy" alt="Croatia 028"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-029.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-029.webp' | relative_url }}" loading="lazy" alt="Croatia 029"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-030.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-030.webp' | relative_url }}" loading="lazy" alt="Croatia 030"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-031.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-031.webp' | relative_url }}" loading="lazy" alt="Croatia 031"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-032.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-032.webp' | relative_url }}" loading="lazy" alt="Croatia 032"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-033.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-033.webp' | relative_url }}" loading="lazy" alt="Croatia 033"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-034.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-034.webp' | relative_url }}" loading="lazy" alt="Croatia 034"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-035.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-035.webp' | relative_url }}" loading="lazy" alt="Croatia 035"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-036.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-036.webp' | relative_url }}" loading="lazy" alt="Croatia 036"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-037.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-037.webp' | relative_url }}" loading="lazy" alt="Croatia 037"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-038.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-038.webp' | relative_url }}" loading="lazy" alt="Croatia 038"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-039.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-039.webp' | relative_url }}" loading="lazy" alt="Croatia 039"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-040.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-040.webp' | relative_url }}" loading="lazy" alt="Croatia 040"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-041.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-041.webp' | relative_url }}" loading="lazy" alt="Croatia 041"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-042.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-042.webp' | relative_url }}" loading="lazy" alt="Croatia 042"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-043.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-043.webp' | relative_url }}" loading="lazy" alt="Croatia 043"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-044.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-044.webp' | relative_url }}" loading="lazy" alt="Croatia 044"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-045.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-045.webp' | relative_url }}" loading="lazy" alt="Croatia 045"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-046.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-046.webp' | relative_url }}" loading="lazy" alt="Croatia 046"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-047.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-047.webp' | relative_url }}" loading="lazy" alt="Croatia 047"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-048.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-048.webp' | relative_url }}" loading="lazy" alt="Croatia 048"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-049.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-049.webp' | relative_url }}" loading="lazy" alt="Croatia 049"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-050.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-050.webp' | relative_url }}" loading="lazy" alt="Croatia 050"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-051.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-051.webp' | relative_url }}" loading="lazy" alt="Croatia 051"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-052.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-052.webp' | relative_url }}" loading="lazy" alt="Croatia 052"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-053.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-053.webp' | relative_url }}" loading="lazy" alt="Croatia 053"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-054.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-054.webp' | relative_url }}" loading="lazy" alt="Croatia 054"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-055.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-055.webp' | relative_url }}" loading="lazy" alt="Croatia 055"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-056.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-056.webp' | relative_url }}" loading="lazy" alt="Croatia 056"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-057.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-057.webp' | relative_url }}" loading="lazy" alt="Croatia 057"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-058.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-058.webp' | relative_url }}" loading="lazy" alt="Croatia 058"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-059.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-059.webp' | relative_url }}" loading="lazy" alt="Croatia 059"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-060.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-060.webp' | relative_url }}" loading="lazy" alt="Croatia 060"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-061.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-061.webp' | relative_url }}" loading="lazy" alt="Croatia 061"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-062.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-062.webp' | relative_url }}" loading="lazy" alt="Croatia 062"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-063.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-063.webp' | relative_url }}" loading="lazy" alt="Croatia 063"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-064.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-064.webp' | relative_url }}" loading="lazy" alt="Croatia 064"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-065.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-065.webp' | relative_url }}" loading="lazy" alt="Croatia 065"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-066.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-066.webp' | relative_url }}" loading="lazy" alt="Croatia 066"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-067.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-067.webp' | relative_url }}" loading="lazy" alt="Croatia 067"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-068.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-068.webp' | relative_url }}" loading="lazy" alt="Croatia 068"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-069.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-069.webp' | relative_url }}" loading="lazy" alt="Croatia 069"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-070.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-070.webp' | relative_url }}" loading="lazy" alt="Croatia 070"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-071.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-071.webp' | relative_url }}" loading="lazy" alt="Croatia 071"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-072.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-072.webp' | relative_url }}" loading="lazy" alt="Croatia 072"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-073.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-073.webp' | relative_url }}" loading="lazy" alt="Croatia 073"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-074.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-074.webp' | relative_url }}" loading="lazy" alt="Croatia 074"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-075.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-075.webp' | relative_url }}" loading="lazy" alt="Croatia 075"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-076.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-076.webp' | relative_url }}" loading="lazy" alt="Croatia 076"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-077.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-077.webp' | relative_url }}" loading="lazy" alt="Croatia 077"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-078.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-078.webp' | relative_url }}" loading="lazy" alt="Croatia 078"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-079.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-079.webp' | relative_url }}" loading="lazy" alt="Croatia 079"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-080.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-080.webp' | relative_url }}" loading="lazy" alt="Croatia 080"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-081.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-081.webp' | relative_url }}" loading="lazy" alt="Croatia 081"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-082.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-082.webp' | relative_url }}" loading="lazy" alt="Croatia 082"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-083.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-083.webp' | relative_url }}" loading="lazy" alt="Croatia 083"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-084.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-084.webp' | relative_url }}" loading="lazy" alt="Croatia 084"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-085.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-085.webp' | relative_url }}" loading="lazy" alt="Croatia 085"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-086.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-086.webp' | relative_url }}" loading="lazy" alt="Croatia 086"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-087.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-087.webp' | relative_url }}" loading="lazy" alt="Croatia 087"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-088.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-088.webp' | relative_url }}" loading="lazy" alt="Croatia 088"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-089.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-089.webp' | relative_url }}" loading="lazy" alt="Croatia 089"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-090.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-090.webp' | relative_url }}" loading="lazy" alt="Croatia 090"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-091.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-091.webp' | relative_url }}" loading="lazy" alt="Croatia 091"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-092.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-092.webp' | relative_url }}" loading="lazy" alt="Croatia 092"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-093.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-093.webp' | relative_url }}" loading="lazy" alt="Croatia 093"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-094.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-094.webp' | relative_url }}" loading="lazy" alt="Croatia 094"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-095.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-095.webp' | relative_url }}" loading="lazy" alt="Croatia 095"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-096.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-096.webp' | relative_url }}" loading="lazy" alt="Croatia 096"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-097.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-097.webp' | relative_url }}" loading="lazy" alt="Croatia 097"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-098.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-098.webp' | relative_url }}" loading="lazy" alt="Croatia 098"><span class="photo-label">Label</span></a>
+  </div>
 </details>
 
   ---
@@ -1691,11 +1884,76 @@ The Land of Dragons and Rivers.
 
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
+  <div class="photo-grid">
   <a class="glightbox" data-gallery="slovenia" data-title="Label"
   href="{{ '/assets/photos/slovenia/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-001.webp' | relative_url }}" loading="lazy" alt="Slovenia 001"><span class="photo-label">Label</span></a>
   <a class="glightbox" data-gallery="slovenia" data-title="Label"
   href="{{ '/assets/photos/slovenia/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-002.webp' | relative_url }}" loading="lazy" alt="Slovenia 002"><span class="photo-label">Label</span></a>
-</div>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-003.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-003.webp' | relative_url }}" loading="lazy" alt="Slovenia 003"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-004.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-004.webp' | relative_url }}" loading="lazy" alt="Slovenia 004"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-005.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-005.webp' | relative_url }}" loading="lazy" alt="Slovenia 005"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-006.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-006.webp' | relative_url }}" loading="lazy" alt="Slovenia 006"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-007.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-007.webp' | relative_url }}" loading="lazy" alt="Slovenia 007"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-008.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-008.webp' | relative_url }}" loading="lazy" alt="Slovenia 008"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-009.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-009.webp' | relative_url }}" loading="lazy" alt="Slovenia 009"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-010.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-010.webp' | relative_url }}" loading="lazy" alt="Slovenia 010"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-011.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-011.webp' | relative_url }}" loading="lazy" alt="Slovenia 011"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-012.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-012.webp' | relative_url }}" loading="lazy" alt="Slovenia 012"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-013.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-013.webp' | relative_url }}" loading="lazy" alt="Slovenia 013"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-014.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-014.webp' | relative_url }}" loading="lazy" alt="Slovenia 014"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-015.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-015.webp' | relative_url }}" loading="lazy" alt="Slovenia 015"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-016.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-016.webp' | relative_url }}" loading="lazy" alt="Slovenia 016"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-017.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-017.webp' | relative_url }}" loading="lazy" alt="Slovenia 017"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-018.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-018.webp' | relative_url }}" loading="lazy" alt="Slovenia 018"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-019.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-019.webp' | relative_url }}" loading="lazy" alt="Slovenia 019"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-020.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-020.webp' | relative_url }}" loading="lazy" alt="Slovenia 020"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-021.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-021.webp' | relative_url }}" loading="lazy" alt="Slovenia 021"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-022.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-022.webp' | relative_url }}" loading="lazy" alt="Slovenia 022"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-023.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-023.webp' | relative_url }}" loading="lazy" alt="Slovenia 023"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}" loading="lazy" alt="Slovenia 024"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-025.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-025.webp' | relative_url }}" loading="lazy" alt="Slovenia 025"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-026.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-026.webp' | relative_url }}" loading="lazy" alt="Slovenia 026"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-027.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-027.webp' | relative_url }}" loading="lazy" alt="Slovenia 027"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-028.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-028.webp' | relative_url }}" loading="lazy" alt="Slovenia 028"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-029.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-029.webp' | relative_url }}" loading="lazy" alt="Slovenia 029"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-030.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-030.webp' | relative_url }}" loading="lazy" alt="Slovenia 030"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-031.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-031.webp' | relative_url }}" loading="lazy" alt="Slovenia 031"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-032.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-032.webp' | relative_url }}" loading="lazy" alt="Slovenia 032"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-033.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-033.webp' | relative_url }}" loading="lazy" alt="Slovenia 033"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}" loading="lazy" alt="Slovenia 034"><span class="photo-label">Label</span></a>
+  </div>
 </details>
 
   ---
