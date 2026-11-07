@@ -1667,16 +1667,34 @@ Nothing fixed. Everything practiced.
 
 ---
 
-<a id="croaita-slovenia"></a>
-## Croatia & Slovenia
+<a id="croatia"></a>
+## Croatia
 
-Between mountains and the sea.
- A landscape of dragons, empires, rivers, and traditions that continue to shape Croatia and Slovenia today.
+Where Empires Met the Adriatic.
+ Roman legacies, Venetian influence, and centuries of maritime culture along Europe's most beautiful coastline.
 
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-001.webp' | relative_url }}" loading="lazy" alt="Croatia 001"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Label"
+  href="{{ '/assets/photos/croatia/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-002.webp' | relative_url }}" loading="lazy" alt="Croatia 002"><span class="photo-label">Label</span></a>
+</div>
+</details>
 
+  ---
+<a id="slovenia"></a>
+## Slovenia
 
+The Land of Dragons and Rivers.
+ From Ljubljana's dragon to the emerald Soča Valley, mythology and landscape remain inseparable.
+
+<details class="photo-fold">
+  <summary>Open field photographs from this journey</summary>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-001.webp' | relative_url }}" loading="lazy" alt="Slovenia 001"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Label"
+  href="{{ '/assets/photos/slovenia/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-002.webp' | relative_url }}" loading="lazy" alt="Slovenia 002"><span class="photo-label">Label</span></a>
 </div>
 </details>
 
