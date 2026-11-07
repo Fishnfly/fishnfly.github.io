@@ -1931,8 +1931,8 @@ The Land of Dragons and Rivers.
   href="{{ '/assets/photos/slovenia/photo-022.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-022.webp' | relative_url }}" loading="lazy" alt="Slovenia 022"><span class="photo-label">Ljubljana-Butchers' Bridge Prometheus Statue</span></a>
   <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana Cathedral Exterior Fresco and Statues"
   href="{{ '/assets/photos/slovenia/photo-023.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-023.webp' | relative_url }}" loading="lazy" alt="Slovenia 023"><span class="photo-label">Ljubljana-Ljubljana Cathedral Exterior Fresco and Statues</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana Cathedral Exterior Fresco and Statues"
-  href="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}" loading="lazy" alt="Slovenia 024"><span class="photo-label">Ljubljana-Ljubljana Cathedral Exterior Fresco and Statues</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Seminary Palace Baroque Portal "
+  href="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}" loading="lazy" alt="Slovenia 024"><span class="photo-label">Ljubljana-Seminary Palace Baroque Portal </span></a>
   <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana Cathedral Slovene Main Door"
   href="{{ '/assets/photos/slovenia/photo-025.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-025.webp' | relative_url }}" loading="lazy" alt="Slovenia 025"><span class="photo-label">Ljubljana-Ljubljana Cathedral Slovene Main Door</span></a>
   <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljanica River Café and Flower Heart Decoration"
