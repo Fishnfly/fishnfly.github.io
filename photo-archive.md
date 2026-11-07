@@ -1676,202 +1676,202 @@ Where Empires Met the Adriatic.
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
   <div class="photo-grid">
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-001.webp' | relative_url }}" loading="lazy" alt="Croatia 001"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-002.webp' | relative_url }}" loading="lazy" alt="Croatia 002"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-003.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-003.webp' | relative_url }}" loading="lazy" alt="Croatia 003"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-004.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-004.webp' | relative_url }}" loading="lazy" alt="Croatia 004"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-005.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-005.webp' | relative_url }}" loading="lazy" alt="Croatia 005"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-006.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-006.webp' | relative_url }}" loading="lazy" alt="Croatia 006"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-007.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-007.webp' | relative_url }}" loading="lazy" alt="Croatia 007"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-008.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-008.webp' | relative_url }}" loading="lazy" alt="Croatia 008"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-009.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-009.webp' | relative_url }}" loading="lazy" alt="Croatia 009"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-010.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-010.webp' | relative_url }}" loading="lazy" alt="Croatia 010"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-011.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-011.webp' | relative_url }}" loading="lazy" alt="Croatia 011"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-012.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-012.webp' | relative_url }}" loading="lazy" alt="Croatia 012"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-013.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-013.webp' | relative_url }}" loading="lazy" alt="Croatia 013"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-014.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-014.webp' | relative_url }}" loading="lazy" alt="Croatia 014"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-015.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-015.webp' | relative_url }}" loading="lazy" alt="Croatia 015"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-016.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-016.webp' | relative_url }}" loading="lazy" alt="Croatia 016"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-017.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-017.webp' | relative_url }}" loading="lazy" alt="Croatia 017"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-018.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-018.webp' | relative_url }}" loading="lazy" alt="Croatia 018"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-019.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-019.webp' | relative_url }}" loading="lazy" alt="Croatia 019"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-020.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-020.webp' | relative_url }}" loading="lazy" alt="Croatia 020"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-021.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-021.webp' | relative_url }}" loading="lazy" alt="Croatia 021"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-022.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-022.webp' | relative_url }}" loading="lazy" alt="Croatia 022"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-023.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-023.webp' | relative_url }}" loading="lazy" alt="Croatia 023"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-024.webp' | relative_url }}" loading="lazy" alt="Croatia 024"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-025.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-025.webp' | relative_url }}" loading="lazy" alt="Croatia 025"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-026.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-026.webp' | relative_url }}" loading="lazy" alt="Croatia 026"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-027.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-027.webp' | relative_url }}" loading="lazy" alt="Croatia 027"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-028.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-028.webp' | relative_url }}" loading="lazy" alt="Croatia 028"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-029.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-029.webp' | relative_url }}" loading="lazy" alt="Croatia 029"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-030.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-030.webp' | relative_url }}" loading="lazy" alt="Croatia 030"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-031.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-031.webp' | relative_url }}" loading="lazy" alt="Croatia 031"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-032.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-032.webp' | relative_url }}" loading="lazy" alt="Croatia 032"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-033.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-033.webp' | relative_url }}" loading="lazy" alt="Croatia 033"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-034.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-034.webp' | relative_url }}" loading="lazy" alt="Croatia 034"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-035.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-035.webp' | relative_url }}" loading="lazy" alt="Croatia 035"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-036.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-036.webp' | relative_url }}" loading="lazy" alt="Croatia 036"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-037.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-037.webp' | relative_url }}" loading="lazy" alt="Croatia 037"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-038.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-038.webp' | relative_url }}" loading="lazy" alt="Croatia 038"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-039.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-039.webp' | relative_url }}" loading="lazy" alt="Croatia 039"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-040.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-040.webp' | relative_url }}" loading="lazy" alt="Croatia 040"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-041.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-041.webp' | relative_url }}" loading="lazy" alt="Croatia 041"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-042.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-042.webp' | relative_url }}" loading="lazy" alt="Croatia 042"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-043.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-043.webp' | relative_url }}" loading="lazy" alt="Croatia 043"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-044.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-044.webp' | relative_url }}" loading="lazy" alt="Croatia 044"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-045.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-045.webp' | relative_url }}" loading="lazy" alt="Croatia 045"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-046.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-046.webp' | relative_url }}" loading="lazy" alt="Croatia 046"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-047.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-047.webp' | relative_url }}" loading="lazy" alt="Croatia 047"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-048.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-048.webp' | relative_url }}" loading="lazy" alt="Croatia 048"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-049.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-049.webp' | relative_url }}" loading="lazy" alt="Croatia 049"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-050.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-050.webp' | relative_url }}" loading="lazy" alt="Croatia 050"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-051.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-051.webp' | relative_url }}" loading="lazy" alt="Croatia 051"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-052.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-052.webp' | relative_url }}" loading="lazy" alt="Croatia 052"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-053.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-053.webp' | relative_url }}" loading="lazy" alt="Croatia 053"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-054.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-054.webp' | relative_url }}" loading="lazy" alt="Croatia 054"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-055.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-055.webp' | relative_url }}" loading="lazy" alt="Croatia 055"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-056.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-056.webp' | relative_url }}" loading="lazy" alt="Croatia 056"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-057.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-057.webp' | relative_url }}" loading="lazy" alt="Croatia 057"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-058.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-058.webp' | relative_url }}" loading="lazy" alt="Croatia 058"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-059.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-059.webp' | relative_url }}" loading="lazy" alt="Croatia 059"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-060.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-060.webp' | relative_url }}" loading="lazy" alt="Croatia 060"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-061.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-061.webp' | relative_url }}" loading="lazy" alt="Croatia 061"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-062.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-062.webp' | relative_url }}" loading="lazy" alt="Croatia 062"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-063.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-063.webp' | relative_url }}" loading="lazy" alt="Croatia 063"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-064.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-064.webp' | relative_url }}" loading="lazy" alt="Croatia 064"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-065.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-065.webp' | relative_url }}" loading="lazy" alt="Croatia 065"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-066.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-066.webp' | relative_url }}" loading="lazy" alt="Croatia 066"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-067.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-067.webp' | relative_url }}" loading="lazy" alt="Croatia 067"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-068.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-068.webp' | relative_url }}" loading="lazy" alt="Croatia 068"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-069.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-069.webp' | relative_url }}" loading="lazy" alt="Croatia 069"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-070.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-070.webp' | relative_url }}" loading="lazy" alt="Croatia 070"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-071.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-071.webp' | relative_url }}" loading="lazy" alt="Croatia 071"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-072.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-072.webp' | relative_url }}" loading="lazy" alt="Croatia 072"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-073.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-073.webp' | relative_url }}" loading="lazy" alt="Croatia 073"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-074.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-074.webp' | relative_url }}" loading="lazy" alt="Croatia 074"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-075.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-075.webp' | relative_url }}" loading="lazy" alt="Croatia 075"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-076.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-076.webp' | relative_url }}" loading="lazy" alt="Croatia 076"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-077.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-077.webp' | relative_url }}" loading="lazy" alt="Croatia 077"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-078.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-078.webp' | relative_url }}" loading="lazy" alt="Croatia 078"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-079.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-079.webp' | relative_url }}" loading="lazy" alt="Croatia 079"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-080.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-080.webp' | relative_url }}" loading="lazy" alt="Croatia 080"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-081.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-081.webp' | relative_url }}" loading="lazy" alt="Croatia 081"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-082.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-082.webp' | relative_url }}" loading="lazy" alt="Croatia 082"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-083.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-083.webp' | relative_url }}" loading="lazy" alt="Croatia 083"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-084.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-084.webp' | relative_url }}" loading="lazy" alt="Croatia 084"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-085.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-085.webp' | relative_url }}" loading="lazy" alt="Croatia 085"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-086.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-086.webp' | relative_url }}" loading="lazy" alt="Croatia 086"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-087.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-087.webp' | relative_url }}" loading="lazy" alt="Croatia 087"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-088.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-088.webp' | relative_url }}" loading="lazy" alt="Croatia 088"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-089.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-089.webp' | relative_url }}" loading="lazy" alt="Croatia 089"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-090.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-090.webp' | relative_url }}" loading="lazy" alt="Croatia 090"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-091.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-091.webp' | relative_url }}" loading="lazy" alt="Croatia 091"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-092.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-092.webp' | relative_url }}" loading="lazy" alt="Croatia 092"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-093.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-093.webp' | relative_url }}" loading="lazy" alt="Croatia 093"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-094.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-094.webp' | relative_url }}" loading="lazy" alt="Croatia 094"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-095.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-095.webp' | relative_url }}" loading="lazy" alt="Croatia 095"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-096.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-096.webp' | relative_url }}" loading="lazy" alt="Croatia 096"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-097.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-097.webp' | relative_url }}" loading="lazy" alt="Croatia 097"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="croatia" data-title="Label"
-  href="{{ '/assets/photos/croatia/photo-098.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-098.webp' | relative_url }}" loading="lazy" alt="Croatia 098"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Hotel Dubrovnik Palace Sunset"
+  href="{{ '/assets/photos/croatia/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-001.webp' | relative_url }}" loading="lazy" alt="Croatia 001"><span class="photo-label">Dubrovnik-Hotel Dubrovnik Palace Sunset</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Grebeni Rocks and Lighthouse"
+  href="{{ '/assets/photos/croatia/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-002.webp' | relative_url }}" loading="lazy" alt="Croatia 002"><span class="photo-label">Dubrovnik-Grebeni Rocks and Lighthouse</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Captain Candy Shop"
+  href="{{ '/assets/photos/croatia/photo-003.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-003.webp' | relative_url }}" loading="lazy" alt="Croatia 003"><span class="photo-label">Dubrovnik-Captain Candy Shop</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Old Town Alleywa"
+  href="{{ '/assets/photos/croatia/photo-004.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-004.webp' | relative_url }}" loading="lazy" alt="Croatia 004"><span class="photo-label">Dubrovnik-Old Town Alleywa</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Stradun Main Street"
+  href="{{ '/assets/photos/croatia/photo-005.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-005.webp' | relative_url }}" loading="lazy" alt="Croatia 005"><span class="photo-label">Dubrovnik-Stradun Main Street</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Rector's Palace Facade "
+  href="{{ '/assets/photos/croatia/photo-006.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-006.webp' | relative_url }}" loading="lazy" alt="Croatia 006"><span class="photo-label">Dubrovnik-Rector's Palace Facade </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Old Town Wall Display"
+  href="{{ '/assets/photos/croatia/photo-007.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-007.webp' | relative_url }}" loading="lazy" alt="Croatia 007"><span class="photo-label">Dubrovnik-Old Town Wall Display</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Church of St. Blaise and Luža Square"
+  href="{{ '/assets/photos/croatia/photo-008.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-008.webp' | relative_url }}" loading="lazy" alt="Croatia 008"><span class="photo-label">Dubrovnik-Church of St. Blaise and Luža Square</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Church of St. Blaise and Luža Square"
+  href="{{ '/assets/photos/croatia/photo-009.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-009.webp' | relative_url }}" loading="lazy" alt="Croatia 009"><span class="photo-label">Dubrovnik-Church of St. Blaise and Luža Square</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Old Port and City Walls"
+  href="{{ '/assets/photos/croatia/photo-010.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-010.webp' | relative_url }}" loading="lazy" alt="Croatia 010"><span class="photo-label">Dubrovnik-Old Port and City Walls</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Old Town Panorama from Mount Srđ"
+  href="{{ '/assets/photos/croatia/photo-011.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-011.webp' | relative_url }}" loading="lazy" alt="Croatia 011"><span class="photo-label">Dubrovnik-Old Town Panorama from Mount Srđ</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Lapad and Babin Kuk Peninsula Overlook"
+  href="{{ '/assets/photos/croatia/photo-012.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-012.webp' | relative_url }}" loading="lazy" alt="Croatia 012"><span class="photo-label">Dubrovnik-Lapad and Babin Kuk Peninsula Overlook</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Hillside Terraced Neighborhood Houses"
+  href="{{ '/assets/photos/croatia/photo-013.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-013.webp' | relative_url }}" loading="lazy" alt="Croatia 013"><span class="photo-label">Dubrovnik-Hillside Terraced Neighborhood Houses</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Jesuit Stairs "
+  href="{{ '/assets/photos/croatia/photo-014.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-014.webp' | relative_url }}" loading="lazy" alt="Croatia 014"><span class="photo-label">Dubrovnik-Jesuit Stairs </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Church of St. Ignatius Altar and Dome"
+  href="{{ '/assets/photos/croatia/photo-015.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-015.webp' | relative_url }}" loading="lazy" alt="Croatia 015"><span class="photo-label">Dubrovnik-Church of St. Ignatius Altar and Dome</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Stradun Main Street from City Walls"
+  href="{{ '/assets/photos/croatia/photo-016.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-016.webp' | relative_url }}" loading="lazy" alt="Croatia 016"><span class="photo-label">Dubrovnik-Stradun Main Street from City Walls</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Fort Lovrijenac and West Harbor Cove"
+  href="{{ '/assets/photos/croatia/photo-017.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-017.webp' | relative_url }}" loading="lazy" alt="Croatia 017"><span class="photo-label">Dubrovnik-Fort Lovrijenac and West Harbor Cove</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Fort Lovrijenac from Outer City Walls"
+  href="{{ '/assets/photos/croatia/photo-018.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-018.webp' | relative_url }}" loading="lazy" alt="Croatia 018"><span class="photo-label">Dubrovnik-Fort Lovrijenac from Outer City Walls</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Bell Tower Zelenci Maro and Baro Statues"
+  href="{{ '/assets/photos/croatia/photo-019.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-019.webp' | relative_url }}" loading="lazy" alt="Croatia 019"><span class="photo-label">Dubrovnik-Bell Tower Zelenci Maro and Baro Statues</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Rector's Palace Courtyard and Staircase"
+  href="{{ '/assets/photos/croatia/photo-020.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-020.webp' | relative_url }}" loading="lazy" alt="Croatia 020"><span class="photo-label">Dubrovnik-Rector's Palace Courtyard and Staircase</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-City Walls Stone Handrail Sculpture"
+  href="{{ '/assets/photos/croatia/photo-021.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-021.webp' | relative_url }}" loading="lazy" alt="Croatia 021"><span class="photo-label">Dubrovnik-City Walls Stone Handrail Sculpture</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Dubrovnik Cathedral from Rector's Palace Window"
+  href="{{ '/assets/photos/croatia/photo-022.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-022.webp' | relative_url }}" loading="lazy" alt="Croatia 022"><span class="photo-label">Dubrovnik-Dubrovnik Cathedral from Rector's Palace Window</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Old Town Narrow Residential Alleyway"
+  href="{{ '/assets/photos/croatia/photo-023.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-023.webp' | relative_url }}" loading="lazy" alt="Croatia 023"><span class="photo-label">Dubrovnik-Old Town Narrow Residential Alleyway</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-St. Saviour Church Facade"
+  href="{{ '/assets/photos/croatia/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-024.webp' | relative_url }}" loading="lazy" alt="Croatia 024"><span class="photo-label">Dubrovnik-St. Saviour Church Facade</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-West Harbor Pier Cove"
+  href="{{ '/assets/photos/croatia/photo-025.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-025.webp' | relative_url }}" loading="lazy" alt="Croatia 025"><span class="photo-label">Dubrovnik-West Harbor Pier Cove</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Old Town Walls and West Harbor"
+  href="{{ '/assets/photos/croatia/photo-026.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-026.webp' | relative_url }}" loading="lazy" alt="Croatia 026"><span class="photo-label">Dubrovnik-Old Town Walls and West Harbor</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Fort Lovrijenac Sea Cliff Fortress"
+  href="{{ '/assets/photos/croatia/photo-027.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-027.webp' | relative_url }}" loading="lazy" alt="Croatia 027"><span class="photo-label">Dubrovnik-Fort Lovrijenac Sea Cliff Fortress</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Dubrovnik-Grebeni Rocks Sunset"
+  href="{{ '/assets/photos/croatia/photo-028.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-028.webp' | relative_url }}" loading="lazy" alt="Croatia 028"><span class="photo-label">Dubrovnik-Grebeni Rocks Sunset</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Neum-Pelješac Bridge and Neum Bay"
+  href="{{ '/assets/photos/croatia/photo-029.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-029.webp' | relative_url }}" loading="lazy" alt="Croatia 029"><span class="photo-label">Neum-Pelješac Bridge and Neum Bay</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Mostar-Biscevic House Ottoman Interior"
+  href="{{ '/assets/photos/croatia/photo-030.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-030.webp' | relative_url }}" loading="lazy" alt="Croatia 030"><span class="photo-label">Mostar-Biscevic House Ottoman Interior</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Mostar-Biscevic House Courtyard and Pebble Mosaic"
+  href="{{ '/assets/photos/croatia/photo-031.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-031.webp' | relative_url }}" loading="lazy" alt="Croatia 031"><span class="photo-label">Mostar-Biscevic House Courtyard and Pebble Mosaic</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Mostar-Old Bazaar Turkish Delight Display "
+  href="{{ '/assets/photos/croatia/photo-032.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-032.webp' | relative_url }}" loading="lazy" alt="Croatia 032"><span class="photo-label">Mostar-Old Bazaar Turkish Delight Display </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Mostar-Stari Most and Neretva River"
+  href="{{ '/assets/photos/croatia/photo-033.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-033.webp' | relative_url }}" loading="lazy" alt="Croatia 033"><span class="photo-label">Mostar-Stari Most and Neretva River</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Mostar-Stari Most Cobblestone Street and Copper Souvenirs"
+  href="{{ '/assets/photos/croatia/photo-034.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-034.webp' | relative_url }}" loading="lazy" alt="Croatia 034"><span class="photo-label">Mostar-Stari Most Cobblestone Street and Copper Souvenirs</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Mostar-Neretva River Valley from Stari Most"
+  href="{{ '/assets/photos/croatia/photo-035.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-035.webp' | relative_url }}" loading="lazy" alt="Croatia 035"><span class="photo-label">Mostar-Neretva River Valley from Stari Most</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Mostar-Stari Most and Tara Tower"
+  href="{{ '/assets/photos/croatia/photo-036.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-036.webp' | relative_url }}" loading="lazy" alt="Croatia 036"><span class="photo-label">Mostar-Stari Most and Tara Tower</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Mostar-Stari Most Arch and Bridge Divers"
+  href="{{ '/assets/photos/croatia/photo-037.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-037.webp' | relative_url }}" loading="lazy" alt="Croatia 037"><span class="photo-label">Mostar-Stari Most Arch and Bridge Divers</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Studenci-Kravica Waterfall River Basin"
+  href="{{ '/assets/photos/croatia/photo-038.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-038.webp' | relative_url }}" loading="lazy" alt="Croatia 038"><span class="photo-label">Studenci-Kravica Waterfall River Basin</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Studenci-Kravica Waterfall and Pools"
+  href="{{ '/assets/photos/croatia/photo-039.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-039.webp' | relative_url }}" loading="lazy" alt="Croatia 039"><span class="photo-label">Studenci-Kravica Waterfall and Pools</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Komarna-Pelješac Bridge Across the Adriatic"
+  href="{{ '/assets/photos/croatia/photo-040.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-040.webp' | relative_url }}" loading="lazy" alt="Croatia 040"><span class="photo-label">Komarna-Pelješac Bridge Across the Adriatic</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Gradac-Baćina Lakes Panoramic Overlook"
+  href="{{ '/assets/photos/croatia/photo-041.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-041.webp' | relative_url }}" loading="lazy" alt="Croatia 041"><span class="photo-label">Gradac-Baćina Lakes Panoramic Overlook</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Split-Dubrovnik Rubber Duck Shop"
+  href="{{ '/assets/photos/croatia/photo-042.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-042.webp' | relative_url }}" loading="lazy" alt="Croatia 042"><span class="photo-label">Split-Dubrovnik Rubber Duck Shop</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Split-Radisson Blu Resort Pool and Beach Front"
+  href="{{ '/assets/photos/croatia/photo-043.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-043.webp' | relative_url }}" loading="lazy" alt="Croatia 043"><span class="photo-label">Split-Radisson Blu Resort Pool and Beach Front</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Split-Diocletian's Palace Peristyle Square"
+  href="{{ '/assets/photos/croatia/photo-044.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-044.webp' | relative_url }}" loading="lazy" alt="Croatia 044"><span class="photo-label">Split-Diocletian's Palace Peristyle Square</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Split-Diocletian's Palace Roman Soldier Actors"
+  href="{{ '/assets/photos/croatia/photo-045.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-045.webp' | relative_url }}" loading="lazy" alt="Croatia 045"><span class="photo-label">Split-Diocletian's Palace Roman Soldier Actors</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Split-Diocletian's Palace Vestibule Dome Opening"
+  href="{{ '/assets/photos/croatia/photo-046.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-046.webp' | relative_url }}" loading="lazy" alt="Croatia 046"><span class="photo-label">Split-Diocletian's Palace Vestibule Dome Opening</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Split-Cathedral of Saint Domnius Bell Tower"
+  href="{{ '/assets/photos/croatia/photo-047.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-047.webp' | relative_url }}" loading="lazy" alt="Croatia 047"><span class="photo-label">Split-Cathedral of Saint Domnius Bell Tower</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Split-Iron Gate City Clock Tower "
+  href="{{ '/assets/photos/croatia/photo-048.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-048.webp' | relative_url }}" loading="lazy" alt="Croatia 048"><span class="photo-label">Split-Iron Gate City Clock Tower </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Split-Split Harbor View from Marjan Hill Overlook"
+  href="{{ '/assets/photos/croatia/photo-049.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-049.webp' | relative_url }}" loading="lazy" alt="Croatia 049"><span class="photo-label">Split-Split Harbor View from Marjan Hill Overlook</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Hvar-Hvar Cathedral and St. Stephen's Square"
+  href="{{ '/assets/photos/croatia/photo-050.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-050.webp' | relative_url }}" loading="lazy" alt="Croatia 050"><span class="photo-label">Hvar-Hvar Cathedral and St. Stephen's Square</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Hvar-Hvar Harbor and Town View from Spanjola Fortress "
+  href="{{ '/assets/photos/croatia/photo-051.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-051.webp' | relative_url }}" loading="lazy" alt="Croatia 051"><span class="photo-label">Hvar-Hvar Harbor and Town View from Spanjola Fortress </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Plitvice Lakes-Veliki Slap Waterfall"
+  href="{{ '/assets/photos/croatia/photo-052.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-052.webp' | relative_url }}" loading="lazy" alt="Croatia 052"><span class="photo-label">Plitvice Lakes-Veliki Slap Waterfall</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Plitvice Lakes-Galovački Buk Waterfall"
+  href="{{ '/assets/photos/croatia/photo-053.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-053.webp' | relative_url }}" loading="lazy" alt="Croatia 053"><span class="photo-label">Plitvice Lakes-Galovački Buk Waterfall</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Plitvice Lakes-Mali Prštavac Waterfall"
+  href="{{ '/assets/photos/croatia/photo-054.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-054.webp' | relative_url }}" loading="lazy" alt="Croatia 054"><span class="photo-label">Plitvice Lakes-Mali Prštavac Waterfall</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Plitvice Lakes-Lower Lakes Cascades"
+  href="{{ '/assets/photos/croatia/photo-055.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-055.webp' | relative_url }}" loading="lazy" alt="Croatia 055"><span class="photo-label">Plitvice Lakes-Lower Lakes Cascades</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Plitvice Lakes-Lake Kozjak Woodland Reflection"
+  href="{{ '/assets/photos/croatia/photo-056.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-056.webp' | relative_url }}" loading="lazy" alt="Croatia 056"><span class="photo-label">Plitvice Lakes-Lake Kozjak Woodland Reflection</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Motovun-Andrea Antico Square and St. Stephen Church Bell Tower"
+  href="{{ '/assets/photos/croatia/photo-057.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-057.webp' | relative_url }}" loading="lazy" alt="Croatia 057"><span class="photo-label">Motovun-Andrea Antico Square and St. Stephen Church Bell Tower</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Hum-Aura Distillery Copper Still and Entrance"
+  href="{{ '/assets/photos/croatia/photo-058.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-058.webp' | relative_url }}" loading="lazy" alt="Croatia 058"><span class="photo-label">Hum-Aura Distillery Copper Still and Entrance</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Hum-Aura Distillery Teranino and Biska Souvenir Display"
+  href="{{ '/assets/photos/croatia/photo-059.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-059.webp' | relative_url }}" loading="lazy" alt="Croatia 059"><span class="photo-label">Hum-Aura Distillery Teranino and Biska Souvenir Display</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Hum-Olive Wood Kitchenware and Souvenir Shop"
+  href="{{ '/assets/photos/croatia/photo-060.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-060.webp' | relative_url }}" loading="lazy" alt="Croatia 060"><span class="photo-label">Hum-Olive Wood Kitchenware and Souvenir Shop</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Istria-Grožnjan Art in Situ Gallery"
+  href="{{ '/assets/photos/croatia/photo-061.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-061.webp' | relative_url }}" loading="lazy" alt="Croatia 061"><span class="photo-label">Istria-Grožnjan Art in Situ Gallery</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Istria-Motovun Hilltop Town View "
+  href="{{ '/assets/photos/croatia/photo-062.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-062.webp' | relative_url }}" loading="lazy" alt="Croatia 062"><span class="photo-label">Istria-Motovun Hilltop Town View </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Poreč-Cotton Club Building Facade "
+  href="{{ '/assets/photos/croatia/photo-063.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-063.webp' | relative_url }}" loading="lazy" alt="Croatia 063"><span class="photo-label">Poreč-Cotton Club Building Facade </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Poreč-Captain Candy Shop Shopfront "
+  href="{{ '/assets/photos/croatia/photo-064.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-064.webp' | relative_url }}" loading="lazy" alt="Croatia 064"><span class="photo-label">Poreč-Captain Candy Shop Shopfront </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Poreč-Euphrasian Basilica Atrium"
+  href="{{ '/assets/photos/croatia/photo-065.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-065.webp' | relative_url }}" loading="lazy" alt="Croatia 065"><span class="photo-label">Poreč-Euphrasian Basilica Atrium</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Rovinj-Old Town and Harbor View"
+  href="{{ '/assets/photos/croatia/photo-066.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-066.webp' | relative_url }}" loading="lazy" alt="Croatia 066"><span class="photo-label">Rovinj-Old Town and Harbor View</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Rovinj-Obala Alda Rismonda Streetscape"
+  href="{{ '/assets/photos/croatia/photo-067.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-067.webp' | relative_url }}" loading="lazy" alt="Croatia 067"><span class="photo-label">Rovinj-Obala Alda Rismonda Streetscape</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Rovinj-Old Town Alleyway and Flower Bicycle Decoration"
+  href="{{ '/assets/photos/croatia/photo-068.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-068.webp' | relative_url }}" loading="lazy" alt="Croatia 068"><span class="photo-label">Rovinj-Old Town Alleyway and Flower Bicycle Decoration</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Rovinj-Church of St. Euphemia Facade"
+  href="{{ '/assets/photos/croatia/photo-069.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-069.webp' | relative_url }}" loading="lazy" alt="Croatia 069"><span class="photo-label">Rovinj-Church of St. Euphemia Facade</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Rovinj-Hotel Eden Resort Pool View"
+  href="{{ '/assets/photos/croatia/photo-070.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-070.webp' | relative_url }}" loading="lazy" alt="Croatia 070"><span class="photo-label">Rovinj-Hotel Eden Resort Pool View</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Pula-Arch of the Sergii and Portarata Square"
+  href="{{ '/assets/photos/croatia/photo-071.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-071.webp' | relative_url }}" loading="lazy" alt="Croatia 071"><span class="photo-label">Pula-Arch of the Sergii and Portarata Square</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Pula-Temple of Augustus and Forum Square"
+  href="{{ '/assets/photos/croatia/photo-072.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-072.webp' | relative_url }}" loading="lazy" alt="Croatia 072"><span class="photo-label">Pula-Temple of Augustus and Forum Square</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Pula-Tito's Park Mosaic Monument"
+  href="{{ '/assets/photos/croatia/photo-073.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-073.webp' | relative_url }}" loading="lazy" alt="Croatia 073"><span class="photo-label">Pula-Tito's Park Mosaic Monument</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Pula-Pula Arena Roman Amphitheater"
+  href="{{ '/assets/photos/croatia/photo-074.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-074.webp' | relative_url }}" loading="lazy" alt="Croatia 074"><span class="photo-label">Pula-Pula Arena Roman Amphitheater</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Pula-Pula Arena Underground Amphorae Exhibition Archeology"
+  href="{{ '/assets/photos/croatia/photo-075.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-075.webp' | relative_url }}" loading="lazy" alt="Croatia 075"><span class="photo-label">Pula-Pula Arena Underground Amphorae Exhibition Archeology</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Pula-Pula Arena Subterranean Passageways and Amphorae Pile "
+  href="{{ '/assets/photos/croatia/photo-076.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-076.webp' | relative_url }}" loading="lazy" alt="Croatia 076"><span class="photo-label">Pula-Pula Arena Subterranean Passageways and Amphorae Pile </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Labin-Old Town Hilltop View "
+  href="{{ '/assets/photos/croatia/photo-077.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-077.webp' | relative_url }}" loading="lazy" alt="Croatia 077"><span class="photo-label">Labin-Old Town Hilltop View </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Labin-Battiala-Lazzarini Palace Public Museum"
+  href="{{ '/assets/photos/croatia/photo-078.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-078.webp' | relative_url }}" loading="lazy" alt="Croatia 078"><span class="photo-label">Labin-Battiala-Lazzarini Palace Public Museum</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Labin-Old Town Alleyway Mural"
+  href="{{ '/assets/photos/croatia/photo-079.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-079.webp' | relative_url }}" loading="lazy" alt="Croatia 079"><span class="photo-label">Labin-Old Town Alleyway Mural</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Labin-Kvarner Gulf and Cres Island Overlook"
+  href="{{ '/assets/photos/croatia/photo-080.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-080.webp' | relative_url }}" loading="lazy" alt="Croatia 080"><span class="photo-label">Labin-Kvarner Gulf and Cres Island Overlook</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Opatija-Kvarner Gulf Panorama"
+  href="{{ '/assets/photos/croatia/photo-081.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-081.webp' | relative_url }}" loading="lazy" alt="Croatia 081"><span class="photo-label">Opatija-Kvarner Gulf Panorama</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Opatija-Grand Hotel 4 Opatijska Cvijeta Harbor View"
+  href="{{ '/assets/photos/croatia/photo-082.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-082.webp' | relative_url }}" loading="lazy" alt="Croatia 082"><span class="photo-label">Opatija-Grand Hotel 4 Opatijska Cvijeta Harbor View</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-King Tomislav Statue"
+  href="{{ '/assets/photos/croatia/photo-083.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-083.webp' | relative_url }}" loading="lazy" alt="Croatia 083"><span class="photo-label">Zagreb-King Tomislav Statue</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Dolac Market Lavender and Flower Stalls"
+  href="{{ '/assets/photos/croatia/photo-084.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-084.webp' | relative_url }}" loading="lazy" alt="Croatia 084"><span class="photo-label">Zagreb-Dolac Market Lavender and Flower Stalls</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Monument to Kumica Barica "
+  href="{{ '/assets/photos/croatia/photo-085.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-085.webp' | relative_url }}" loading="lazy" alt="Croatia 085"><span class="photo-label">Zagreb-Monument to Kumica Barica </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Zagreb Cathedral Facade and Scaffolding "
+  href="{{ '/assets/photos/croatia/photo-086.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-086.webp' | relative_url }}" loading="lazy" alt="Croatia 086"><span class="photo-label">Zagreb-Zagreb Cathedral Facade and Scaffolding </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Holy Mary Monument and Fountain"
+  href="{{ '/assets/photos/croatia/photo-087.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-087.webp' | relative_url }}" loading="lazy" alt="Croatia 087"><span class="photo-label">Zagreb-Holy Mary Monument and Fountain</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Oktogon Stained Glass Dome"
+  href="{{ '/assets/photos/croatia/photo-088.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-088.webp' | relative_url }}" loading="lazy" alt="Croatia 088"><span class="photo-label">Zagreb-Oktogon Stained Glass Dome</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Tapas Bar Alleyway Display "
+  href="{{ '/assets/photos/croatia/photo-089.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-089.webp' | relative_url }}" loading="lazy" alt="Croatia 089"><span class="photo-label">Zagreb-Tapas Bar Alleyway Display </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Stone Gate Virgin Mary Shrine"
+  href="{{ '/assets/photos/croatia/photo-090.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-090.webp' | relative_url }}" loading="lazy" alt="Croatia 090"><span class="photo-label">Zagreb-Stone Gate Virgin Mary Shrine</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-St. Mark's Church"
+  href="{{ '/assets/photos/croatia/photo-091.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-091.webp' | relative_url }}" loading="lazy" alt="Croatia 091"><span class="photo-label">Zagreb-St. Mark's Church</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Upper Town View and Lower Town Skyline"
+  href="{{ '/assets/photos/croatia/photo-092.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-092.webp' | relative_url }}" loading="lazy" alt="Croatia 092"><span class="photo-label">Zagreb-Upper Town View and Lower Town Skyline</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-St. Mark's Church Bell Tower and Roof "
+  href="{{ '/assets/photos/croatia/photo-093.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-093.webp' | relative_url }}" loading="lazy" alt="Croatia 093"><span class="photo-label">Zagreb-St. Mark's Church Bell Tower and Roof </span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Statue of Saint George at Stone Gate"
+  href="{{ '/assets/photos/croatia/photo-094.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-094.webp' | relative_url }}" loading="lazy" alt="Croatia 094"><span class="photo-label">Zagreb-Statue of Saint George at Stone Gate</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Croatian National Theatre"
+  href="{{ '/assets/photos/croatia/photo-095.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-095.webp' | relative_url }}" loading="lazy" alt="Croatia 095"><span class="photo-label">Zagreb-Croatian National Theatre</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Meštrović Pavilion"
+  href="{{ '/assets/photos/croatia/photo-096.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-096.webp' | relative_url }}" loading="lazy" alt="Croatia 096"><span class="photo-label">Zagreb-Meštrović Pavilion</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Lotrščak Tower"
+  href="{{ '/assets/photos/croatia/photo-097.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-097.webp' | relative_url }}" loading="lazy" alt="Croatia 097"><span class="photo-label">Zagreb-Lotrščak Tower</span></a>
+  <a class="glightbox" data-gallery="croatia" data-title="Zagreb-Stone Gate Virgin Mary Shrine Gallery"
+  href="{{ '/assets/photos/croatia/photo-098.webp' | relative_url }}"><img src="{{ '/assets/photos/croatia/photo-098.webp' | relative_url }}" loading="lazy" alt="Croatia 098"><span class="photo-label">Zagreb-Stone Gate Virgin Mary Shrine Gallery</span></a>
   </div>
 </details>
 
