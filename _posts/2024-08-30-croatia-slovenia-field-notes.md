@@ -9,11 +9,11 @@ subtitle: "Following coastlines, mountain passes, and crossroads where civilizat
 
 thumbnail:
   layout: duo
-  img1: /assets/images/croatia-slovenia/dubrovnik.jpg
-  img2: /assets/images/croatia-slovenia/bled.jpg
+  img1: /assets/images/croatia-slovenia/dubrovnik.webp
+  img2: /assets/images/croatia-slovenia/bled.webp
   alt: "Croatia and Slovenia"
 
-hero_image: /assets/images/croatia-slovenia/hero.jpg
+hero_image: /assets/images/croatia-slovenia/hero.webp
 hero_alt: "Croatia and Slovenia"
 
 ---
@@ -51,12 +51,6 @@ The older stories rarely recognized them.
 Unlike Ireland, whose mythology centers on heroes and supernatural beings, the stories of Croatia and Slovenia emerge from crossroads. Ports connected distant worlds. Mountain passes linked isolated valleys. Rivers carried traders and armies. Castles overlooked borders that shifted repeatedly throughout history.
 
 The result is a landscape whose myths often reflect movement, encounter, and survival. Many stories begin with travelers. Many end with transformation.
-
-Monserrate overlooking Bogotá
-
-Welcome dinner and introduction to Colombia
-
-Overnight: Sofitel Bogotá
 
 ---
 
@@ -210,6 +204,11 @@ Overnight: Grand Hotel Union Eurostars
 </details>
 
 ---
+
+
+
+---
+
 
 ## Dubrovnik — The Republic Between Empires
 
