@@ -1951,8 +1951,30 @@ The Land of Dragons and Rivers.
   href="{{ '/assets/photos/slovenia/photo-032.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-032.webp' | relative_url }}" loading="lazy" alt="Slovenia 032"><span class="photo-label">Ljubljana-Cvetličarna Emporia Flower Shop Corner </span></a>
   <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana City View from Ljubljana Castle Window"
   href="{{ '/assets/photos/slovenia/photo-033.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-033.webp' | relative_url }}" loading="lazy" alt="Slovenia 033"><span class="photo-label">Ljubljana-Ljubljana City View from Ljubljana Castle Window</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana Town Hall Courtyard and Fountain"
-  href="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}" loading="lazy" alt="Slovenia 034"><span class="photo-label">Ljubljana-Ljubljana Town Hall Courtyard and Fountain</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Renaissance courtyard of the Town Hall"
+  href="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}" loading="lazy" alt="Slovenia 034"><span class="photo-label">Ljubljana - Renaissance courtyard of the Town Hall</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Plečnik's Central Market Building by the river"
+  href="{{ '/assets/photos/slovenia/photo-035.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-035.webp' | relative_url }}" loading="lazy" alt="Slovenia 035"><span class="photo-label">Ljubljana - Plečnik's Central Building Market by the river</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Dried flower bouquets at the market"
+  href="{{ '/assets/photos/slovenia/photo-036.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-036.webp' | relative_url }}" loading="lazy" alt="Slovenia 036"><span class="photo-label">Ljubljana - Dried flower bouquets at the market</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Facade of St. Nicholas's Cathedral"
+  href="{{ '/assets/photos/slovenia/photo-037.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-037.webp' | relative_url }}" loading="lazy" alt="Slovenia 037"><span class="photo-label">Ljubljana - Facade of St. Nicholas's Cathedral</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Front exterior of Špajza Restaurant"
+  href="{{ '/assets/photos/slovenia/photo-038.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-038.webp' | relative_url }}" loading="lazy" alt="Slovenia 038"><span class="photo-label">Ljubljana - Front exterior of Špajza Restaurant</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Pink facade of the Franciscan Church"
+  href="{{ '/assets/photos/slovenia/photo-039.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-039.webp' | relative_url }}" loading="lazy" alt="Slovenia 039"><span class="photo-label">Ljubljana - Pink facade of the Franciscan Church</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Art Nouveau-styled Hauptmann House"
+  href="{{ '/assets/photos/slovenia/photo-040.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-040.webp' | relative_url }}" loading="lazy" alt="Slovenia 040"><span class="photo-label">Ljubljana - Art Nouveau-styled Hauptmann House</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Stone bridge featuring dragon statues"
+  href="{{ '/assets/photos/slovenia/photo-041.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-041.webp' | relative_url }}" loading="lazy" alt="Slovenia 041"><span class="photo-label">Ljubljana - Stone bridge featuring dragon statues</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Robba Fountain in Mestni Trg"
+  href="{{ '/assets/photos/slovenia/photo-042.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-042.webp' | relative_url }}" loading="lazy" alt="Slovenia 042"><span class="photo-label">Ljubljana - Robba Fountain in Mestni Trg</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Ursuline Church at Congress Square"
+  href="{{ '/assets/photos/slovenia/photo-043.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-043.webp' | relative_url }}" loading="lazy" alt="Slovenia 043"><span class="photo-label">Ljubljana - Ursuline Church at Congress Square</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Castle courtyard and clock tower"
+  href="{{ '/assets/photos/slovenia/photo-044.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-044.webp' | relative_url }}" loading="lazy" alt="Slovenia 044"><span class="photo-label">Ljubljana - Castle courtyard and clock tower</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana - Exterior stone walls of Ljubljana Castle"
+  href="{{ '/assets/photos/slovenia/photo-045.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-045.webp' | relative_url }}" loading="lazy" alt="Slovenia 045"><span class="photo-label">Ljubljana - Exterior stone walls of Ljubljana Castle</span></a>
   </div>
 </details>
 
