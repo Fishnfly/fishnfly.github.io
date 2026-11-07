@@ -1885,74 +1885,74 @@ The Land of Dragons and Rivers.
 <details class="photo-fold">
   <summary>Open field photographs from this journey</summary>
   <div class="photo-grid">
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-001.webp' | relative_url }}" loading="lazy" alt="Slovenia 001"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-002.webp' | relative_url }}" loading="lazy" alt="Slovenia 002"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-003.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-003.webp' | relative_url }}" loading="lazy" alt="Slovenia 003"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-004.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-004.webp' | relative_url }}" loading="lazy" alt="Slovenia 004"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-005.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-005.webp' | relative_url }}" loading="lazy" alt="Slovenia 005"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-006.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-006.webp' | relative_url }}" loading="lazy" alt="Slovenia 006"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-007.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-007.webp' | relative_url }}" loading="lazy" alt="Slovenia 007"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-008.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-008.webp' | relative_url }}" loading="lazy" alt="Slovenia 008"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-009.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-009.webp' | relative_url }}" loading="lazy" alt="Slovenia 009"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-010.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-010.webp' | relative_url }}" loading="lazy" alt="Slovenia 010"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-011.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-011.webp' | relative_url }}" loading="lazy" alt="Slovenia 011"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-012.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-012.webp' | relative_url }}" loading="lazy" alt="Slovenia 012"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-013.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-013.webp' | relative_url }}" loading="lazy" alt="Slovenia 013"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-014.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-014.webp' | relative_url }}" loading="lazy" alt="Slovenia 014"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-015.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-015.webp' | relative_url }}" loading="lazy" alt="Slovenia 015"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-016.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-016.webp' | relative_url }}" loading="lazy" alt="Slovenia 016"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-017.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-017.webp' | relative_url }}" loading="lazy" alt="Slovenia 017"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-018.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-018.webp' | relative_url }}" loading="lazy" alt="Slovenia 018"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-019.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-019.webp' | relative_url }}" loading="lazy" alt="Slovenia 019"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-020.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-020.webp' | relative_url }}" loading="lazy" alt="Slovenia 020"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-021.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-021.webp' | relative_url }}" loading="lazy" alt="Slovenia 021"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-022.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-022.webp' | relative_url }}" loading="lazy" alt="Slovenia 022"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-023.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-023.webp' | relative_url }}" loading="lazy" alt="Slovenia 023"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}" loading="lazy" alt="Slovenia 024"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-025.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-025.webp' | relative_url }}" loading="lazy" alt="Slovenia 025"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-026.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-026.webp' | relative_url }}" loading="lazy" alt="Slovenia 026"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-027.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-027.webp' | relative_url }}" loading="lazy" alt="Slovenia 027"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-028.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-028.webp' | relative_url }}" loading="lazy" alt="Slovenia 028"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-029.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-029.webp' | relative_url }}" loading="lazy" alt="Slovenia 029"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-030.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-030.webp' | relative_url }}" loading="lazy" alt="Slovenia 030"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-031.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-031.webp' | relative_url }}" loading="lazy" alt="Slovenia 031"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-032.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-032.webp' | relative_url }}" loading="lazy" alt="Slovenia 032"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-033.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-033.webp' | relative_url }}" loading="lazy" alt="Slovenia 033"><span class="photo-label">Label</span></a>
-  <a class="glightbox" data-gallery="slovenia" data-title="Label"
-  href="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}" loading="lazy" alt="Slovenia 034"><span class="photo-label">Label</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Vurnik House Facade "
+  href="{{ '/assets/photos/slovenia/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-001.webp' | relative_url }}" loading="lazy" alt="Slovenia 001"><span class="photo-label">Ljubljana-Vurnik House Facade </span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Postojna-Postojna Cave Stalactites and Columns"
+  href="{{ '/assets/photos/slovenia/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-002.webp' | relative_url }}" loading="lazy" alt="Slovenia 002"><span class="photo-label">Postojna-Postojna Cave Stalactites and Columns</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Postojna-Postojna Cave Underground Illuminated Pathway "
+  href="{{ '/assets/photos/slovenia/photo-003.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-003.webp' | relative_url }}" loading="lazy" alt="Slovenia 003"><span class="photo-label">Postojna-Postojna Cave Underground Illuminated Pathway </span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Postojna-Postojna Cave Limestone Rock Formations"
+  href="{{ '/assets/photos/slovenia/photo-004.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-004.webp' | relative_url }}" loading="lazy" alt="Slovenia 004"><span class="photo-label">Postojna-Postojna Cave Limestone Rock Formations</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Postojna-Postojna Cave Stalagmite Formations"
+  href="{{ '/assets/photos/slovenia/photo-005.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-005.webp' | relative_url }}" loading="lazy" alt="Slovenia 005"><span class="photo-label">PPostojna-Postojna Cave Stalagmite Formations</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Predjama-Predjama Castle Cave Fortress"
+  href="{{ '/assets/photos/slovenia/photo-006.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-006.webp' | relative_url }}" loading="lazy" alt="Slovenia 006"><span class="photo-label">Predjama-Predjama Castle Cave Fortress</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Predjama-Predjama Castle Medieval Armor and Weapons Exhibition"
+  href="{{ '/assets/photos/slovenia/photo-007.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-007.webp' | relative_url }}" loading="lazy" alt="Slovenia 007"><span class="photo-label">Predjama-Predjama Castle Medieval Armor and Weapons Exhibition</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Villa Adora Waterfront and Alps"
+  href="{{ '/assets/photos/slovenia/photo-008.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-008.webp' | relative_url }}" loading="lazy" alt="Slovenia 008"><span class="photo-label">Lake Bled-Villa Adora Waterfront and Alps</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Pletna Boat and Bled Island Church"
+  href="{{ '/assets/photos/slovenia/photo-009.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-009.webp' | relative_url }}" loading="lazy" alt="Slovenia 009"><span class="photo-label">Lake Bled-Pletna Boat and Bled Island Church</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Bled Castle Clifftop View"
+  href="{{ '/assets/photos/slovenia/photo-010.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-010.webp' | relative_url }}" loading="lazy" alt="Slovenia 010"><span class="photo-label">Lake Bled-Bled Castle Clifftop View</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Waterfront Wooden Walkway and Rowboats"
+  href="{{ '/assets/photos/slovenia/photo-011.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-011.webp' | relative_url }}" loading="lazy" alt="Slovenia 011"><span class="photo-label">Lake Bled-Waterfront Wooden Walkway and Rowboats</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Pletna Boats Pier"
+  href="{{ '/assets/photos/slovenia/photo-012.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-012.webp' | relative_url }}" loading="lazy" alt="Slovenia 012"><span class="photo-label">Lake Bled-Pletna Boats Pier</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Bled Castle Clifftop Citadel"
+  href="{{ '/assets/photos/slovenia/photo-013.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-013.webp' | relative_url }}" loading="lazy" alt="Slovenia 013"><span class="photo-label">Lake Bled-Bled Castle Clifftop Citadel</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Lake View with Bled Castle and Villa Adora"
+  href="{{ '/assets/photos/slovenia/photo-014.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-014.webp' | relative_url }}" loading="lazy" alt="Slovenia 014"><span class="photo-label">Lake Bled-Lake View with Bled Castle and Villa Adora</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Hotel Starkl Facade"
+  href="{{ '/assets/photos/slovenia/photo-015.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-015.webp' | relative_url }}" loading="lazy" alt="Slovenia 015"><span class="photo-label">Lake Bled-Hotel Starkl Facade</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Bled Island and Pilgrimage Church of the Assumption"
+  href="{{ '/assets/photos/slovenia/photo-016.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-016.webp' | relative_url }}" loading="lazy" alt="Slovenia 016"><span class="photo-label">Lake Bled-Bled Island and Pilgrimage Church of the Assumption</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Bled Castle Beehouse Souvenir Shop Honeycomb Shelving "
+  href="{{ '/assets/photos/slovenia/photo-017.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-017.webp' | relative_url }}" loading="lazy" alt="Slovenia 017"><span class="photo-label">Lake Bled-Bled Castle Beehouse Souvenir Shop Honeycomb Shelving </span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Alps and Valley View from Bled Castle Ramparts"
+  href="{{ '/assets/photos/slovenia/photo-018.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-018.webp' | relative_url }}" loading="lazy" alt="Slovenia 018"><span class="photo-label">Lake Bled-Alps and Valley View from Bled Castle Ramparts</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Lake Bled-Bled Castle Upper Courtyard and Tower"
+  href="{{ '/assets/photos/slovenia/photo-019.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-019.webp' | relative_url }}" loading="lazy" alt="Slovenia 019"><span class="photo-label">Lake Bled-Bled Castle Upper Courtyard and Tower</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Prešeren Monument at Prešeren Square"
+  href="{{ '/assets/photos/slovenia/photo-020.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-020.webp' | relative_url }}" loading="lazy" alt="Slovenia 020"><span class="photo-label">Ljubljana-Prešeren Monument at Prešeren Square</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Butchers' Bridge Love Locks"
+  href="{{ '/assets/photos/slovenia/photo-021.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-021.webp' | relative_url }}" loading="lazy" alt="Slovenia 021"><span class="photo-label">Ljubljana-Butchers' Bridge Love Locks</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Butchers' Bridge Prometheus Statue"
+  href="{{ '/assets/photos/slovenia/photo-022.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-022.webp' | relative_url }}" loading="lazy" alt="Slovenia 022"><span class="photo-label">Ljubljana-Butchers' Bridge Prometheus Statue</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana Cathedral Exterior Fresco and Statues"
+  href="{{ '/assets/photos/slovenia/photo-023.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-023.webp' | relative_url }}" loading="lazy" alt="Slovenia 023"><span class="photo-label">Ljubljana-Ljubljana Cathedral Exterior Fresco and Statues</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana Cathedral Exterior Fresco and Statues"
+  href="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-024.webp' | relative_url }}" loading="lazy" alt="Slovenia 024"><span class="photo-label">Ljubljana-Ljubljana Cathedral Exterior Fresco and Statues</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana Cathedral Slovene Main Door"
+  href="{{ '/assets/photos/slovenia/photo-025.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-025.webp' | relative_url }}" loading="lazy" alt="Slovenia 025"><span class="photo-label">Ljubljana-Ljubljana Cathedral Slovene Main Door</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljanica River Café and Flower Heart Decoration"
+  href="{{ '/assets/photos/slovenia/photo-026.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-026.webp' | relative_url }}" loading="lazy" alt="Slovenia 026"><span class="photo-label">Ljubljana-Ljubljanica River Café and Flower Heart Decoration</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljanica River and Embankment Buildings"
+  href="{{ '/assets/photos/slovenia/photo-027.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-027.webp' | relative_url }}" loading="lazy" alt="Slovenia 027"><span class="photo-label">Ljubljana-Ljubljanica River and Embankment Buildings</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Butchers' Bridge Adam and Eve Statue "
+  href="{{ '/assets/photos/slovenia/photo-028.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-028.webp' | relative_url }}" loading="lazy" alt="Slovenia 028"><span class="photo-label">Ljubljana-Butchers' Bridge Adam and Eve Statue </span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Dragon Bridge Statue"
+  href="{{ '/assets/photos/slovenia/photo-029.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-029.webp' | relative_url }}" loading="lazy" alt="Slovenia 029"><span class="photo-label">Ljubljana-Dragon Bridge Statue</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-National and University Library of Slovenia Facade"
+  href="{{ '/assets/photos/slovenia/photo-030.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-030.webp' | relative_url }}" loading="lazy" alt="Slovenia 030"><span class="photo-label">Ljubljana-National and University Library of Slovenia Facade</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Slovenian Philharmonic Building and Congress Square "
+  href="{{ '/assets/photos/slovenia/photo-031.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-031.webp' | relative_url }}" loading="lazy" alt="Slovenia 031"><span class="photo-label">Ljubljana-Slovenian Philharmonic Building and Congress Square </span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Cvetličarna Emporia Flower Shop Corner "
+  href="{{ '/assets/photos/slovenia/photo-032.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-032.webp' | relative_url }}" loading="lazy" alt="Slovenia 032"><span class="photo-label">Ljubljana-Cvetličarna Emporia Flower Shop Corner </span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana City View from Ljubljana Castle Window"
+  href="{{ '/assets/photos/slovenia/photo-033.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-033.webp' | relative_url }}" loading="lazy" alt="Slovenia 033"><span class="photo-label">Ljubljana-Ljubljana City View from Ljubljana Castle Window</span></a>
+  <a class="glightbox" data-gallery="slovenia" data-title="Ljubljana-Ljubljana Town Hall Courtyard and Fountain"
+  href="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}"><img src="{{ '/assets/photos/slovenia/photo-034.webp' | relative_url }}" loading="lazy" alt="Slovenia 034"><span class="photo-label">Ljubljana-Ljubljana Town Hall Courtyard and Fountain</span></a>
   </div>
 </details>
 

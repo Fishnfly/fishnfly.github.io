@@ -335,6 +335,11 @@ Among the hilltop towns of Istria, including Motovun, the story continues to sym
 
 ---
 
+*Field photographs from this journey:*  
+[View the photo archive](/photo-archive/#croatia)
+
+---
+
 # Slovenia
 
 ## Zagreb and the Manduševac Legend
@@ -467,7 +472,7 @@ Looking back, the journey became less about moving between countries and more ab
 ---
 
 *Field photographs from this journey:*  
-[View the photo archive](/photo-archive/#croatia-solvenia)
+[View the photo archive](/photo-archive/#slovenia)
 
 ---
 
