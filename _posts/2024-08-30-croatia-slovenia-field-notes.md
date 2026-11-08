@@ -9,11 +9,11 @@ subtitle: "Following coastlines, mountain passes, and crossroads where civilizat
 
 thumbnail:
   layout: duo
-  img1: /assets/images/croatia-slovenia/dubrovnik.webp
-  img2: /assets/images/croatia-slovenia/bled.webp
+  img1: /assets/images/croatia/croatia.webp
+  img2: /assets/images/slovenia/bled.webp
   alt: "Croatia and Slovenia"
 
-hero_image: /assets/images/croatia-slovenia/hero.webp
+hero_image: /assets/images/croatia/hero.webp
 hero_alt: "Croatia and Slovenia"
 
 ---
