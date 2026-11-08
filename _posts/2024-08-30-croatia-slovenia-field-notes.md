@@ -344,13 +344,33 @@ Among the hilltop towns of Istria, including Motovun, the story continues to sym
 
 ## Zagreb and the Manduševac Legend
 
+![Mandusevac](/assets/images/slovenia/mandusevacfountain.webp)
+
 According to one of Zagreb's best-known legends, a thirsty warrior arrived at a spring near the city's center. He called to a young woman named Manda and asked her to draw water from the spring. The location became known as Manduševac.
 
 Whether historically accurate or not, the story reveals something important. Cities often explain themselves through narrative. Water creates settlement. Settlement becomes community. Community becomes memory. The fountain remains one of Zagreb's symbolic landmarks.
 
 ---
 
+## Ljubljana Cathedral — A Nation Cast in Bronze
+
+![Cathedraldoors](/assets/images/slovenia/cathedraldoor.webp)
+
+Many cathedrals tell stories of saints. The doors of Ljubljana Cathedral tell the story of a nation.
+
+Installed in 1996 to commemorate 1,250 years of Christianity in Slovenian lands, the bronze Slovene Door presents a visual history of the Slovenian people, tracing centuries of faith, culture, and identity through scenes and figures cast directly into the metal.
+
+Visitors often pause before entering, studying the reliefs and searching for recognizable faces and historical moments. Over time, a quieter tradition emerged. Thousands of hands have touched the bronze figures, polishing portions of the door to a brighter sheen. Faces, hands, and raised details appear worn smooth from years of contact. The gesture is simple. Part curiosity. Part respect. Part participation.
+
+Unlike a museum artifact protected behind glass, the door invites interaction. Each touch becomes a small connection between present-day visitors and the stories depicted before them.
+
+That feels particularly appropriate in Ljubljana, a city where myth and history coexist comfortably. Just beyond the cathedral stands the Dragon Bridge, symbol of legends reaching back to Jason and the Argonauts. Here at the cathedral, another story unfolds, not through mythology but through memory. Together they reveal something larger about Slovenia itself. The dragon preserves the city's imagination. The bronze doors preserve its remembrance. And both continue to welcome those who pass through.
+
+---
+
 ### Ljubljana and the Dragon
+
+![Dragons](/assets/images/slovenia/dragons.webp)
 
 Few cities embrace a mythological creature as thoroughly as Ljubljana.
 
