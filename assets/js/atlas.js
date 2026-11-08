@@ -181,7 +181,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "<p><strong>Route:</strong></p>" +
       routeList +
       "<p class='journey-meta'>" + (props.year || "") + " • " + routeValues.length + " Stops • " + (props.photos || 0) + " Photos</p>" +
-      "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
+      "<p><a href='" + (props.story || "#") + "' class='atlas-read-link'><strong>Read Journey</strong></a></p>";
   }
 
   var map = L.map("map").setView([20, 0], 2);
