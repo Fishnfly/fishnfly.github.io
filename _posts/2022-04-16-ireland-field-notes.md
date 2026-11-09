@@ -264,6 +264,8 @@ Weather moved constantly across the landscape. The scenery felt dramatic, but ne
 
 ## Dingle and the Atlantic Edge
 
+![Dingle](/assets/images/ireland/dingle.webp)
+
 The farther west the route traveled, the stronger the sense of living at the edge of something.
 
 Beyond the Dingle Peninsula lay open Atlantic Ocean. For thousands of years this coastline represented both opportunity and uncertainty. Monks departed into unknown waters. Traders arrived from distant lands. Generations built stories explaining the forces they encountered.
@@ -273,6 +275,8 @@ Looking west, it becomes easy to understand why.
 ---
 
 ## Donegal and the North
+
+![Giantscausway](/assets/images/ireland/giantscauseway.webp)
 
 Donegal felt older. Not historically older. Spiritually older.
 
