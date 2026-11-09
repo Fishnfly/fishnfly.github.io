@@ -572,6 +572,6 @@ If we returned, we would build the trip around more of them. The destinations in
 
 See other movements across landscapes:
 
-- [Travel Index](/atlas/)
+- [Travel Index](/travel/)
 
-
+- [Atlas Index](/atlas/)

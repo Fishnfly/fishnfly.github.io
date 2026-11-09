@@ -465,5 +465,7 @@ Looking back, that idea appeared repeatedly throughout the journey. Not in labor
 ## More Field Notes
 See other movements across landscapes:
 
-- [Travel Index](/atlas/)
+- [Travel Index](/travel/)
+
+- [Atlas Index](/atlas/)
 

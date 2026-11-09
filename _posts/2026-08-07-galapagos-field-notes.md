@@ -416,7 +416,10 @@ Fragility is not weakness. It is the price of rarity.
 
 See other movements across landscapes:
 
-- [Travel Index](/atlas/)
+- [Travel Index](/travel/)
+
+- [Atlas Index](/atlas/)
+
 
 Green Sea Turtle, Shark, Yellow-tailed surgeonfish, StingRay
 
