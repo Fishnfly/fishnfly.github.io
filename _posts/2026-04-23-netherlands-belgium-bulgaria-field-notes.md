@@ -813,5 +813,8 @@ and how that expectation changes as you move through them.
 
 See other movements across landscapes:
 
-- [Travel Index](/atlas/)
+- [Travel Index](/travel/)
+
+- [Atlas Index](/atlas/)
+
 

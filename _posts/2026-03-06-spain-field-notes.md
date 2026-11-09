@@ -946,5 +946,8 @@ one threshold at a time.
 ## More Field Notes
 See other movements across landscapes:
 
-- [Travel Index](/atlas/)
+- [Travel Index](/travel/)
+
+- [Atlas Index](/atlas/)
+
 

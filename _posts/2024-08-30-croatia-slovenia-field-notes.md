@@ -506,6 +506,6 @@ Looking back, the journey became less about moving between countries and more ab
 
 See other movements across landscapes:
 
-- [Travel Index](/atlas/)
+- [Travel Index](/travel/)
 
-
+- [Atlas Index](/atlas/)

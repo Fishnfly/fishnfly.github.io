@@ -541,5 +541,8 @@ What appeared complex did not simplify with time or movement. It remained—conn
 ## More Field Notes
 See other movements across landscapes:
 
-- [Travel Index](/atlas/)
+- [Travel Index](/travel/)
+
+- [Atlas Index](/atlas/)
+
 
