@@ -13,7 +13,7 @@ thumbnail:
   img2: /assets/images/slovenia/bled.webp
   alt: "Croatia and Slovenia"
 
-hero_image: /assets/images/croatia/hero.webp
+hero_image: /assets/images/croatia/hero2.webp
 hero_alt: "Croatia and Slovenia"
 
 ---
@@ -205,7 +205,7 @@ Overnight: Grand Hotel Union Eurostars
 
 ---
 
-![Hero](/assets/images/croatia/hero2.webp)
+![Hero](/assets/images/croatia/dubrovnic.webp)
 
 ---
 
@@ -213,7 +213,7 @@ Overnight: Grand Hotel Union Eurostars
 
 ## Dubrovnik — The Republic Between Empires
 
-![Dubrovnic](/assets/images/croatia/dubrovnic.webp)
+![Dubrovnic](/assets/images/croatia/hero.webp)
 
 Most cities owe their survival to geography. Dubrovnik survived because it understood politics.
 
