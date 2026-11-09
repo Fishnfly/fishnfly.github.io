@@ -276,8 +276,6 @@ Looking west, it becomes easy to understand why.
 
 ## Donegal and the North
 
-![Giantscausway](/assets/images/ireland/giantscauseway.webp)
-
 Donegal felt older. Not historically older. Spiritually older.
 
 The landscapes became larger. The settlements became smaller. Places like Slieve League and Malin Head created a sense of distance not measured in miles.
@@ -287,6 +285,8 @@ The region preserved a feeling of remoteness that has largely disappeared elsewh
 ---
 
 ## Giant's Causeway
+
+![Giantscausway](/assets/images/ireland/giantscauseway.webp)
 
 The most famous story associated with Fionn mac Cumhaill concerns the dramatic basalt columns along Ireland's northern coast known as the Giant's Causeway.
 
