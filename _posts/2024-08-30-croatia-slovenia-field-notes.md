@@ -209,6 +209,8 @@ Overnight: Grand Hotel Union Eurostars
 
 ---
 
+# Croatia
+
 ## Dubrovnik — The Republic Between Empires
 
 ![Dubrovnic](/assets/images/croatia/dubrovnic.webp)
