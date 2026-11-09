@@ -205,11 +205,13 @@ Overnight: Grand Hotel Union Eurostars
 
 ---
 
-
+![Hero](/assets/images/croatia/hero2.webp)
 
 ---
 
 ## Dubrovnik — The Republic Between Empires
+
+![Dubrovnic](/assets/images/croatia/dubrovnic.webp)
 
 Most cities owe their survival to geography. Dubrovnik survived because it understood politics.
 
