@@ -235,6 +235,8 @@ It is the improbable story of a small republic preserving its independence for c
 
 ## Mostar and the Bridge Between Worlds
 
+![Mostar](/assets/images/croatia/mostar.webp)
+
 At first glance, Mostar appears to be a story about a bridge.
 
 The famous Stari Most spans the Neretva River, connecting the two sides of the city through an elegant stone arch completed during the sixteenth century under Ottoman rule. Yet the bridge's significance extends far beyond architecture.
