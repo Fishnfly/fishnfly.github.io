@@ -253,6 +253,8 @@ It became a reminder that connections can be damaged. They can even collapse ent
 
 ### Diocletian's Palace
 
+![Mostar](/assets/images/croatia/diocletian.webp)
+
 Split reveals another layer.
 
 Emperor Diocletian built his massive palace as a retirement residence near the end of Roman rule. This brings the narrative to his story..
