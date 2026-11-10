@@ -177,7 +177,7 @@ Isolation shaped evolution. Life adapted to boundaries rather than overcoming th
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos Frontier Dove" 
    href="{{ '/assets/photos/galapagos/photo-030.webp' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-030.webp' | relative_url }}" loading="lazy" alt="Galapagos-030"><span class="photo-label">Galway - Galway Bay</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos Frontier Finch" 
-   href="{{ '/assets/photos/galapagos/photo-031.webp' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-031.webp' | relative_url }}" loading="lazy" alt="Galapagos-031"><span class="photo-label">GGalapagos Frontier Finch</span></a>
+   href="{{ '/assets/photos/galapagos/photo-031.webp' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-031.webp' | relative_url }}" loading="lazy" alt="Galapagos-031"><span class="photo-label">Galapagos Frontier Finch</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Galapagos Frontier Giant Tortoise" 
    href="{{ '/assets/photos/galapagos/photo-032.webp' | relative_url }}"><img src="{{ '/assets/photos/galapagos/photo-032.webp' | relative_url }}" loading="lazy" alt="Galapagos-032"><span class="photo-label">Galapagos Frontier Giant Tortoise</span></a>
    <a class="glightbox" data-gallery="galapagos" data-title="Lava Tunnel Entrance" 
@@ -643,63 +643,63 @@ Crossroads without conclusion. Empires, faiths, and cultures layered across the 
  
   <div class="photo-grid">
    <a class="glightbox" data-gallery="turkey" data-title="Aerial Istanbul Peninsula"
-    href="{{ '/assets/photos/turkey/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-001.webp' | relative_url }}" loading="lazy" alt="photo-001"><span class="photo-label">Dublin - Dublin</span></a>
+    href="{{ '/assets/photos/turkey/photo-001.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-001.webp' | relative_url }}" loading="lazy" alt="photo-001"><span class="photo-label">Aerial Istanbul Peninsula</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Istanbul from the Air"
-    href="{{ '/assets/photos/turkey/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-002.webp' | relative_url }}" loading="lazy" alt="photo-002"><span class="photo-label">Dublin - City Street</span></a>
+    href="{{ '/assets/photos/turkey/photo-002.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-002.webp' | relative_url }}" loading="lazy" alt="photo-002"><span class="photo-label">Istanbul from the Air</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Istanbul Coastline and Wetlands"
-    href="{{ '/assets/photos/turkey/photo-003.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-003.webp' | relative_url }}" loading="lazy" alt="photo-003"><span class="photo-label">Dublin - Temple Bar</span></a>
+    href="{{ '/assets/photos/turkey/photo-003.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-003.webp' | relative_url }}" loading="lazy" alt="photo-003"><span class="photo-label">Istanbul Coastline and Wetlands</span></a>
     <a class="glightbox" data-gallery="turkey" data-title="Istanbul Rooftop View"
-    href="{{ '/assets/photos/turkey/photo-005.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-005.webp' | relative_url }}" loading="lazy" alt="photo-005"><span class="photo-label">Dublin - Malahide Castle</span></a>
+    href="{{ '/assets/photos/turkey/photo-005.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-005.webp' | relative_url }}" loading="lazy" alt="photo-005"><span class="photo-label">Istanbul Rooftop View</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Istanbul Sunset Skyline"
-    href="{{ '/assets/photos/turkey/photo-006.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-006.webp' | relative_url }}" loading="lazy" alt="photo-006"><span class="photo-label">Wicklow - Powerscourt</span></a>
+    href="{{ '/assets/photos/turkey/photo-006.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-006.webp' | relative_url }}" loading="lazy" alt="photo-006"><span class="photo-label">Istanbul Sunset Skyline</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Bosphorus Waterfront View"
-    href="{{ '/assets/photos/turkey/photo-007.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-007.webp' | relative_url }}" loading="lazy" alt="photo-007"><span class="photo-label">Wicklow - Powerscourt Waterfall</span></a>
+    href="{{ '/assets/photos/turkey/photo-007.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-007.webp' | relative_url }}" loading="lazy" alt="photo-007"><span class="photo-label">Bosphorus Waterfront View</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Istanbul Night Skyline"
-    href="{{ '/assets/photos/turkey/photo-008.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-008.webp' | relative_url }}" loading="lazy" alt="photo-008"><span class="photo-label">Wicklow - Wicklow Mountains</span></a>
+    href="{{ '/assets/photos/turkey/photo-008.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-008.webp' | relative_url }}" loading="lazy" alt="photo-008"><span class="photo-label">Istanbul Night Skyline</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Istanbul Night Panorama"
-    href="{{ '/assets/photos/turkey/photo-009.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-009.webp' | relative_url }}" loading="lazy" alt="photo-009"><span class="photo-label">Wicklow - Glendalough</span></a>
+    href="{{ '/assets/photos/turkey/photo-009.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-009.webp' | relative_url }}" loading="lazy" alt="photo-009"><span class="photo-label">Istanbul Night Panorama</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Fountain Show"
-    href="{{ '/assets/photos/turkey/photo-010.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-010.webp' | relative_url }}" loading="lazy" alt="photo-010"><span class="photo-label">Kildare - The K Club</span></a>
+    href="{{ '/assets/photos/turkey/photo-010.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-010.webp' | relative_url }}" loading="lazy" alt="photo-010"><span class="photo-label">Blue Mosque Fountain Show</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque at Night"
-    href="{{ '/assets/photos/turkey/photo-011.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-011.webp' | relative_url }}" loading="lazy" alt="photo-011"><span class="photo-label">Kilkenny - Kilkenny Castle</span></a>
+    href="{{ '/assets/photos/turkey/photo-011.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-011.webp' | relative_url }}" loading="lazy" alt="photo-011"><span class="photo-label">Blue Mosque at Night</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Interior Dome"
-    href="{{ '/assets/photos/turkey/photo-012.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-012.webp' | relative_url }}" loading="lazy" alt="photo-012"><span class="photo-label">Kilkenny - St. Canice's Cathedral</span></a>
+    href="{{ '/assets/photos/turkey/photo-012.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-012.webp' | relative_url }}" loading="lazy" alt="photo-012"><span class="photo-label">Blue Mosque Interior Dome</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Ceiling Detail"
-    href="{{ '/assets/photos/turkey/photo-013.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-013.webp' | relative_url }}" loading="lazy" alt="photo-013"><span class="photo-label">Cork - English Market</span></a>
+    href="{{ '/assets/photos/turkey/photo-013.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-013.webp' | relative_url }}" loading="lazy" alt="photo-013"><span class="photo-label">Blue Mosque Ceiling Detail</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Blue Mosque Courtyard"
-    href="{{ '/assets/photos/turkey/photo-014.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-014.webp' | relative_url }}" loading="lazy" alt="photo-014"><span class="photo-label">Cork - Nano Nagle Place</span></a>
+    href="{{ '/assets/photos/turkey/photo-014.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-014.webp' | relative_url }}" loading="lazy" alt="photo-014"><span class="photo-label">Blue Mosque Courtyard</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern"
-    href="{{ '/assets/photos/turkey/photo-015.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-015.webp' | relative_url }}" loading="lazy" alt="photo-015"><span class="photo-label">Cork - Blarney Castle</span></a>
+    href="{{ '/assets/photos/turkey/photo-015.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-015.webp' | relative_url }}" loading="lazy" alt="photo-015"><span class="photo-label">Basilica Cistern</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Columns"
-    href="{{ '/assets/photos/turkey/photo-016.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-016.webp' | relative_url }}" loading="lazy" alt="photo-016"><span class="photo-label">Cork - Blarney Stone</span></a>
+    href="{{ '/assets/photos/turkey/photo-016.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-016.webp' | relative_url }}" loading="lazy" alt="photo-016"><span class="photo-label">Basilica Cistern Columns</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Reflections"
-    href="{{ '/assets/photos/turkey/photo-017.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-017.webp' | relative_url }}" loading="lazy" alt="photo-017"><span class="photo-label">Killarney - Muckross House</span></a>
+    href="{{ '/assets/photos/turkey/photo-017.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-017.webp' | relative_url }}" loading="lazy" alt="photo-017"><span class="photo-label">Basilica Cistern Reflections</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Pool"
-    href="{{ '/assets/photos/turkey/photo-018.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-018.webp' | relative_url }}" loading="lazy" alt="photo-018"><span class="photo-label">Killarney - Ladies View</span></a>
+    href="{{ '/assets/photos/turkey/photo-018.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-018.webp' | relative_url }}" loading="lazy" alt="photo-018"><span class="photo-label">Basilica Cistern Pool</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Walkway"
-    href="{{ '/assets/photos/turkey/photo-019.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-019.webp' | relative_url }}" loading="lazy" alt="photo-019"><span class="photo-label">Killarney - Torc Waterfall</span></a>
+    href="{{ '/assets/photos/turkey/photo-019.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-019.webp' | relative_url }}" loading="lazy" alt="photo-019"><span class="photo-label">Basilica Cistern Walkway</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Medusa Area"
-    href="{{ '/assets/photos/turkey/photo-020.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-020.webp' | relative_url }}" loading="lazy" alt="photo-020"><span class="photo-label">Kerry - Gap of Dunloe</span></a>
+    href="{{ '/assets/photos/turkey/photo-020.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-020.webp' | relative_url }}" loading="lazy" alt="photo-020"><span class="photo-label">Basilica Cistern Medusa Area</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Gallery"
-    href="{{ '/assets/photos/turkey/photo-021.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-021.webp' | relative_url }}" loading="lazy" alt="photo-021"><span class="photo-label">Kerry - Ross Castle</span></a>
+    href="{{ '/assets/photos/turkey/photo-021.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-021.webp' | relative_url }}" loading="lazy" alt="photo-021"><span class="photo-label">Basilica Cistern Gallery</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Interior"
-    href="{{ '/assets/photos/turkey/photo-022.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-022.webp' | relative_url }}" loading="lazy" alt="photo-022"><span class="photo-label">Kerry - Derrynane Abbey</span></a>
+    href="{{ '/assets/photos/turkey/photo-022.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-022.webp' | relative_url }}" loading="lazy" alt="photo-022"><span class="photo-label">Basilica Cistern Interior</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Basilica Cistern Columns"
-    href="{{ '/assets/photos/turkey/photo-023.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-023.webp' | relative_url }}" loading="lazy" alt="photo-023"><span class="photo-label">Kerry - Cahergall Stone Fort</span></a>
+    href="{{ '/assets/photos/turkey/photo-023.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-023.webp' | relative_url }}" loading="lazy" alt="photo-023"><span class="photo-label">Basilica Cistern Columns</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque"
-    href="{{ '/assets/photos/turkey/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-024.webp' | relative_url }}" loading="lazy" alt="photo-024"><span class="photo-label">Kerry - Rossbeigh Strand</span></a>
+    href="{{ '/assets/photos/turkey/photo-024.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-024.webp' | relative_url }}" loading="lazy" alt="photo-024"><span class="photo-label">Suleymaniye Mosque</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque Courtyard"
-    href="{{ '/assets/photos/turkey/photo-025.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-025.webp' | relative_url }}" loading="lazy" alt="photo-025"><span class="photo-label">Dingle - Dingle Harbour</span></a>
+    href="{{ '/assets/photos/turkey/photo-025.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-025.webp' | relative_url }}" loading="lazy" alt="photo-025"><span class="photo-label">Suleymaniye Mosque Courtyard</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque Courtyard"
-    href="{{ '/assets/photos/turkey/photo-026.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-026.webp' | relative_url }}" loading="lazy" alt="photo-026"><span class="photo-label">Dingle - County Kerry Coast</span></a>
+    href="{{ '/assets/photos/turkey/photo-026.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-026.webp' | relative_url }}" loading="lazy" alt="photo-026"><span class="photo-label">Suleymaniye Mosque Courtyard</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Golden Horn View"
-    href="{{ '/assets/photos/turkey/photo-027.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-027.webp' | relative_url }}" loading="lazy" alt="photo-027"><span class="photo-label">Cong - The Quiet Man Bridge</span></a>
+    href="{{ '/assets/photos/turkey/photo-027.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-027.webp' | relative_url }}" loading="lazy" alt="photo-027"><span class="photo-label">Golden Horn View</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Golden Horn Panorama"
-    href="{{ '/assets/photos/turkey/photo-028.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-028.webp' | relative_url }}" loading="lazy" alt="photo-028"><span class="photo-label">Clare - Cliffs of Moher</span></a>
+    href="{{ '/assets/photos/turkey/photo-028.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-028.webp' | relative_url }}" loading="lazy" alt="photo-028"><span class="photo-label">Golden Horn Panorama</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Suleymaniye Mosque View"
-    href="{{ '/assets/photos/turkey/photo-029.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-029.webp' | relative_url }}" loading="lazy" alt="photo-029"><span class="photo-label">Clare - Doolin</span></a>
+    href="{{ '/assets/photos/turkey/photo-029.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-029.webp' | relative_url }}" loading="lazy" alt="photo-029"><span class="photo-label">Suleymaniye Mosque View</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Galata Waterfront"
-    href="{{ '/assets/photos/turkey/photo-030.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-030.webp' | relative_url }}" loading="lazy" alt="photo-030"><span class="photo-label">Galway - Galway Bay</span></a>
+    href="{{ '/assets/photos/turkey/photo-030.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-030.webp' | relative_url }}" loading="lazy" alt="photo-030"><span class="photo-label">Galata Waterfront</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Golden Horn Rooftops"
     href="{{ '/assets/photos/turkey/photo-031.webp' | relative_url }}"><img src="{{ '/assets/photos/turkey/photo-031.webp' | relative_url }}" loading="lazy" alt="photo-031"><span class="photo-label">Golden Horn Rooftops</span></a>
    <a class="glightbox" data-gallery="turkey" data-title="Golden Horn Harbor"
