@@ -560,3 +560,39 @@ color: #666;
   max-width: 750px;
   margin: 2rem auto;
 }
+
+@media (min-width: 900px) {
+
+  .story-photo {
+    float: right;
+    width: 42%;
+    margin: 0 0 1.5rem 2rem;
+  }
+
+  .story-photo img {
+    width: 100%;
+    display: block;
+    border-radius: 4px;
+  }
+
+  .story-photo figcaption {
+    font-size: .85rem;
+    color: #666;
+    margin-top: .35rem;
+  }
+}
+
+@media (max-width: 899px) {
+
+  .story-photo {
+    float: none;
+    width: 100%;
+    margin: 2rem 0;
+  }
+}
+
+.story-section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
