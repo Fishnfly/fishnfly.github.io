@@ -123,6 +123,7 @@ Santa Cruz → Baltra → Guayaquil
 
 ## Arrival — Entry by Permission
 
+![Iguanas](/assets/images/galapagos/iguanas.webp)
 Reaching the hotel required a sequence of transitions—bus, ferry, taxi, another ferry, and finally a walk along the waterfront. Each step reduced the distance, but it also reinforced a different idea. The islands did not feel designed for direct access. Movement required adjustment.
 
 That distance mattered.
@@ -130,10 +131,6 @@ That distance mattered.
 Much of what survives in the Galápagos survives because access remains limited, movement remains controlled, and human convenience is not the organizing principle. Even before reaching the hotel, the pattern was visible.Land iguanas occupied the path ahead, unconcerned by those moving around them. Their slow, deliberate movements occasionally created the impression of acknowledgment, but only because we were inclined to interpret them that way. The distinction became clear quickly. The wildlife was present everywhere, but it was not reacting to us.
 
 We were the newcomers.
-
-**Arrival / Iguana Pic**
-
-![Iguanas](/assets/images/galapagos/iguanas.webp)
 
 ---
 
