@@ -5,15 +5,15 @@ categories: ["travel"]
 dek: "Drifting between mountains, cities, and desert at an unhurried pace."
 
 # Hero image (mockup)
-hero_image: /assets/img/mockups/single-balloon-40.jpg
+hero_image: /assets/img/mockups/single-balloon-40.webp
 hero_alt: "Hot‑air balloon rising before sunrise in Morocco"
 
 # Thumbnail images (real Morocco photos)
 thumbnail:
-  base: /assets/images/morocco/anchor.jpg
-  w640: /assets/images/morocco/anchor.jpg
-  w960: /assets/images/morocco/anchor.jpg
-  w1280: /assets/images/morocco/anchor.jpg
+  base: /assets/images/morocco/anchor.webp
+  w640: /assets/images/morocco/anchor.webp
+  w960: /assets/images/morocco/anchor.webp
+  w1280: /assets/images/morocco/anchor.webp
   alt: "Hot‑air balloon at dawn over Morocco’s desert"
 ---
 
@@ -205,7 +205,7 @@ Continue inland to **Chefchaouen**, the Blue City, where everything slows: indig
 
 **Blue City Pic**
 
-![Blue City](/assets/images/morocco/blue-city-50.jpg)
+![Blue City](/assets/images/morocco/blue-city-50.webp)
 
 **Overnight:** back in Casablanca
 
@@ -227,7 +227,7 @@ Travel inland to the Roman ruins of Volubilis, continue to Meknes to see Bab Man
 A full day in Fez’s medina — Bab Boujloud, workshops, madrassas, tanneries, and the mellah.  
   
 **Tannery Pic**  
-![Fez](/assets/images/morocco/tannery-20.jpg)
+![Fez](/assets/images/morocco/tannery-20.webp)
 
 **Overnight:** Fez
 
@@ -241,7 +241,7 @@ Cross Ifrane and Midelt before descending into the desert landscape surrounding 
 
 **Day 8 · Rissani → Sahara Camp**  
 Visit Rissani, meet locals in a Berber tent, and ride into the Sahara dunes.  
-![Camp](/assets/images/morocco/berber-tent-30.jpg)  
+![Camp](/assets/images/morocco/berber-tent-30.webp)  
 
 **Overnight:** Sahara camp (Merzouga)
 
@@ -280,7 +280,7 @@ Cooking class in a riad, then west to young coastal winds and open space.
 
 **Day 14 · Essaouira**  
 Medina, port, fish market, and Gnawa music in the evening.  
-![Port City](/assets/images/morocco/beach-sunset-25.jpg)  
+![Port City](/assets/images/morocco/beach-sunset-25.webp)  
 **Overnight:** Essaouira
 
 ---
@@ -298,7 +298,7 @@ Transfer to the airport and depart Morocco.
 
 **Sunrise at the Camp Pic**
 
-![Sunrise-Camp](/assets/img/mockups/anchor-morocco1.jpg)
+![Sunrise-Camp](/assets/img/mockups/anchor-morocco1.webp)
 
 ---
 

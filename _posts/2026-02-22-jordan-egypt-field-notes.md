@@ -9,18 +9,18 @@ subtitle: "Dead Sea to the Nile — myth, memory, and long distances."
 
 thumbnail:
   layout: duo
-  img1: /assets/images/jordan-egypt/petra-20.jpg
-  img2: /assets/images/jordan-egypt/anchor-egypt.jpg
+  img1: /assets/images/jordan-egypt/petra-20.webp
+  img2: /assets/images/jordan-egypt/anchor-egypt.webp
   alt: "Jordan & Egypt — anchors"
 
   # Optional fallbacks used by existing single-image paths (keeps social/meta happy)
-  base: /assets/images/jordan-egypt/anchor-egypt.jpg
-  w640: /assets/images/jordan-egypt/anchor-egypt.jpg
-  w960: /assets/images/jordan-egypt/anchor-egypt.jpg
-  w1280: /assets/images/jordan-egypt/anchor-egypt.jpg
+  base: /assets/images/jordan-egypt/anchor-egypt.webp
+  w640: /assets/images/jordan-egypt/anchor-egypt.webp
+  w960: /assets/images/jordan-egypt/anchor-egypt.webp
+  w1280: /assets/images/jordan-egypt/anchor-egypt.webp
   
   # Hero image (mockup)
-hero_image: /assets/img/mockups/anchor-egypt.jpg
+hero_image: /assets/img/mockups/anchor-egypt.webp
 hero_alt: "eyes"
 
 ---
@@ -112,7 +112,7 @@ Settle into Jordan by water.
 
 **DeadSea Pic**
 
-![DeadSea](/assets/images/jordan-egypt/deadsea.jpg)
+![DeadSea](/assets/images/jordan-egypt/deadsea.webp)
 
 ---
 
@@ -136,7 +136,7 @@ Mount Nebo, the reputed burial site of Moses, overlooking the Jordan Valley and 
 
 **Petra Pic**
 
-![Petra](/assets/images/jordan-egypt/anchor-jordan.jpg)
+![Petra](/assets/images/jordan-egypt/anchor-jordan.webp)
 
 **Day 5 · Petra**  
 Exploring Petra, a UNESCO World Heritage Site. The "rose red" city hand-sculpted from a mountain range by the Nabateans in the 3rd century BC. Walk through the "Siq," a winding canyon road leading you to, the towering Treasury building rising over 140 feet. Beyond, discover soaring temples, elaborate royal tombs, a theater, burial chambers and water channels, all remnants of a once great Nabatean culture.A full day among canyons and carved stone.  
@@ -156,7 +156,7 @@ Arrive, settle, evening orientation.
 
 **Sphinx Pic**
 
-![Pyramids](/assets/images/jordan-egypt/sphinx.jpg)
+![Pyramids](/assets/images/jordan-egypt/sphinx.webp)
 
 ---
 
@@ -166,7 +166,7 @@ Iconic monuments and early dynastic sites.
 
 **Pyramids Iconic Pic**
 
-![Camel Icon](/assets/images/jordan-egypt/pyramid-camel-40.jpg)
+![Camel Icon](/assets/images/jordan-egypt/pyramid-camel-40.webp)
 
 ---
 
@@ -246,7 +246,7 @@ A place where scale becomes myth, and myth becomes memory.
 
 **Abu Simbel Pic**
 
-![Abu Simbel](/assets/images/jordan-egypt/abu-simbel.jpg)
+![Abu Simbel](/assets/images/jordan-egypt/abu-simbel.webp)
 
 ---
 
@@ -270,7 +270,7 @@ Optional museum and market visits.
 
 **Sunset on the Nile Pic**
 
-![Nile Sunset](/assets/images/jordan-egypt/nile-sundown.jpg)
+![Nile Sunset](/assets/images/jordan-egypt/nile-sundown.webp)
 
 ---
 

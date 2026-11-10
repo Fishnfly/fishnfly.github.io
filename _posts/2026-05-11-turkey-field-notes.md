@@ -9,12 +9,12 @@ subtitle: "Convergence, expansion, and the systems that refuse separation."
 
 thumbnail:
   layout: duo
-  img1: /assets/images/turkey/istanbul.jpg
-  img2: /assets/images/turkey/balloonpic.jpg
+  img1: /assets/images/turkey/istanbul.webp
+  img2: /assets/images/turkey/balloonpic.webp
   alt: "Istanbul density and Cappadocia landscape contrast"
 
 # Hero image (mockup)
-hero_image: /assets/img/mockups/istanbulcity.jpg
+hero_image: /assets/img/mockups/istanbulcity.webp
 hero_alt: "Istanbul skyline showing convergence across water and continents"
 
 ---
@@ -121,7 +121,7 @@ Departure
 
 **Istanbul Bosphorus Pic**
 
-![Balloonlandscape](/assets/images/turkey/istanbul_bosphorus.jpg)
+![Balloonlandscape](/assets/images/turkey/istanbul_bosphorus.webp)
 
 ## Istanbul — Where Systems Converge
 
@@ -137,7 +137,7 @@ Below ground, water was contained within structures built centuries earlier, sti
 
 **Basilica Cistern Pic**
 
-![Basilica](/assets/images/turkey/basilica.jpg)
+![Basilica](/assets/images/turkey/basilica.webp)
 
 Above, structures carried multiple identities at once. Spaces that had shifted purpose over time continued to operate without resolving what they had been. Form persisted even as function changed.
 
@@ -149,7 +149,7 @@ The structure remained in transition—its layered identities ongoing rather tha
 
 **Hague Sophia Pic**
 
-![Hague](/assets/images/turkey/haguesophia.jpg)
+![Hague](/assets/images/turkey/haguesophia.webp)
 
 Movement between them required constant recalibration.
 
@@ -163,13 +163,13 @@ It was designed to organize authority within it.
 
 **Topkapi Palace Pic**
 
-![Topkapi](/assets/images/turkey/topkapi.jpg)
+![Topkapi](/assets/images/turkey/topkapi.webp)
 
 In the mosques, the scale expanded, but the rhythm remained deliberate—daily use continuing within structures shaped by earlier systems. Outside, movement condensed again. Markets narrowed space, drawing activity inward, concentrating interaction.
 
 **Blue Mosque Pic**
 
-![BlueMosque](/assets/images/turkey/bluemosque.jpg)
+![BlueMosque](/assets/images/turkey/bluemosque.webp)
 
 Geography reinforced the pattern. The city extended across water, connecting continents without dividing them. Movement remained continuous.
 
@@ -183,7 +183,7 @@ In a historic setting, past and present existed without separation. The space ca
 
 **Pera Palace Pic**
 
-![PeraPalace](/assets/images/turkey/perapalace.jpg)
+![PeraPalace](/assets/images/turkey/perapalace.webp)
 
 It did not present itself as something preserved.
 
@@ -199,7 +199,7 @@ They aligned.
 
 **Galata Tower Pic**
 
-![Galata](/assets/images/turkey/galata.jpg)
+![Galata](/assets/images/turkey/galata.webp)
 
 ---
 
@@ -217,7 +217,7 @@ The ground held multiple versions at once.
 
 **Troy Pic**
 
-![Troy](/assets/images/turkey/troy.jpg)
+![Troy](/assets/images/turkey/troy.webp)
 
 Elsewhere, the pattern continued. Systems of healing, governance, and daily life had been built, reused, and layered over earlier foundations. Each addition remained visible, none fully replacing what came before.
 
@@ -258,7 +258,7 @@ Older stories adapted rather than disappeared.
 
 **Kusadasi Pic**
 
-![Kusadasi](/assets/images/turkey/kusadasi.jpg)
+![Kusadasi](/assets/images/turkey/kusadasi.webp)
 
 ---
 
@@ -270,7 +270,7 @@ At Pamukkale, natural formation had been shaped into sustained use over time. Th
 
 **Pamukkale Pic**
 
-![Pamukkale](/assets/images/turkey/pamukkale.jpg)
+![Pamukkale](/assets/images/turkey/pamukkale.webp)
 
 The significance extended beyond the site itself.
 
@@ -282,7 +282,7 @@ Adjacent to it, the remains of Hierapolis extended the pattern. Structures align
 
 **Hierapolis Pic**
 
-![Hierapolis](/assets/images/turkey/hierapolis.jpg)
+![Hierapolis](/assets/images/turkey/hierapolis.webp)
 
 Nothing stood apart.
 
@@ -312,7 +312,7 @@ What remained was the system that made that movement possible.
 
 **Sultanhani Caravanserai Pic**
 
-![Caravanserai](/assets/images/turkey/caravanserai.jpg)
+![Caravanserai](/assets/images/turkey/caravanserai.webp)
 
 In Konya, continuity was expressed through practice.
 
@@ -320,7 +320,7 @@ At the mausoleum of Mevlana, the rhythm changed—quieter, deliberate, sustained
 
 **Whirling Dervish Pic**
 
-![Whirling Dervishy](/assets/images/turkey/dervish.jpg)
+![Whirling Dervishy](/assets/images/turkey/dervish.webp)
 
 The structure remained, but it was not the focus.
 
@@ -348,7 +348,7 @@ Travelers described enchanted valleys and strange stone towers. The famous "fair
 
 **Cappadocia Pic**
 
-![Balooncombo](/assets/images/turkey/ballooncombo.jpg)
+![Balooncombo](/assets/images/turkey/ballooncombo.webp)
 
 The landscape itself had been shaped into something functional over time. What appeared natural carried evidence of continuous use. The system was not built onto the landscape. It was formed from it. Movement revealed that distinction.
 
@@ -358,7 +358,7 @@ In some places, that integration was more deliberate. Structures were not added 
 
 **Goreme Oren Yeri Pic**
 
-![Goreme](/assets/images/turkey/goreme.jpg)
+![Goreme](/assets/images/turkey/goreme.webp)
 
 The system did not separate human activity from the landscape. It worked within it.
 
@@ -368,13 +368,13 @@ They were not separate features within the landscape. They were the landscape, s
 
 **Fairy Chimneys of Cappadocia Pic**
 
-![Chimneys](/assets/images/turkey/chimneys.jpg)
+![Chimneys](/assets/images/turkey/chimneys.webp)
 
 Below the surface, the system extended further. Underground spaces revealed another layer—carved into the landscape rather than built upon it. What existed above ground did not define the system entirely. It continued beneath it, structured but not immediately visible.
 
 **Mazı Underground City Pic**
 
-![Mazi](/assets/images/turkey/mazi.jpg)
+![Mazi](/assets/images/turkey/mazi.webp)
 
 The spaces were not separate from the environment. They were formed from it, used as part of an ongoing system rather than preserved as something distinct.
 
@@ -394,7 +394,7 @@ At the mausoleum of Atatürk, the system made itself explicit. Scale, alignment,
 
 **Ataturk Mausoleum Pic**
 
-![Mausoleum](/assets/images/turkey/mausoleum.jpg)
+![Mausoleum](/assets/images/turkey/mausoleum.webp)
 
 What had been established was not distant.
 

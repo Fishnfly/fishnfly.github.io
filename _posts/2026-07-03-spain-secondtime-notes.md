@@ -9,12 +9,12 @@ subtitle: "Mentorship, imagination, pilgrimage, ritual, and the things that surv
 
 thumbnail:
   layout: duo
-  img1: /assets/images/spain2/anchor1.jpg
-  img2: /assets/images/spain2/anchor2.jpg
+  img1: /assets/images/spain2/anchor1.webp
+  img2: /assets/images/spain2/anchor2.webp
   alt: "Spain2 — anchors"
 
  # Hero image (mockup)
-hero_image: /assets/img/mockups/spain2hero.jpg
+hero_image: /assets/img/mockups/spain2hero.webp
 hero_alt: ""
 ---
 
@@ -125,7 +125,7 @@ Return Home
 
 ---
 
-![NorthernSpain](/assets/images/spain2/spain2.jpg)
+![NorthernSpain](/assets/images/spain2/spain2.webp)
 
 ---
 
@@ -149,19 +149,19 @@ Again and again, the journey revealed the same truth. What survives rarely survi
 
 ## Mallorca — What Gets Passed Forward
 
-![Mallorca](/assets/images/spain2/mallorca.jpg)
+![Mallorca](/assets/images/spain2/mallorca.webp)
 
 The journey began before mainland Spain.
 
 The Cathedral of Mallorca introduced an idea that would appear repeatedly throughout the journey. No single person created it. Generations contributed to it. Architects. Builders. Craftsmen. Patrons. Restorers.
 
-![Cathedral](/assets/images/spain2/cathedral.jpg)
+![Cathedral](/assets/images/spain2/cathedral.webp)
 
 Each inherited something unfinished and passed it forward in a different form. The result felt larger than any individual contribution. The structure belonged to centuries of accumulated effort. Its permanence depended upon continuity. The same pattern appeared elsewhere on the island. 
 
 A visit to the Rafa Nadal Academy revealed a modern version of the same idea. Achievement is easy to see. The process behind it is not. More than a training facility, the academy functions as a living archive. Career milestones, championship trophies, hundreds of worn shoes, and the campus itself illustrate how accomplishments become institutions and how legacy is passed forward.
 
-![Nadal](/assets/images/spain2/rafa.jpg)
+![Nadal](/assets/images/spain2/rafa.webp)
 
 Unexpectedly seeing Uncle Toni reinforced that distinction. Success rarely exists in isolation. Behind visible accomplishment sits a longer story. Discipline. Repetition. Expectation. Guidance. Mentorship.
 
@@ -173,7 +173,7 @@ The settings differed. The pattern remained. What survives rarely survives on it
 
 ## Girona — What Endures
 
-![Girona](/assets/images/spain2/girona.jpg)
+![Girona](/assets/images/spain2/girona.webp)
 
 The ancient walls of Girona offered a different perspective on continuity. Unlike a cathedral, they were not built to inspire. Unlike a museum, they were not built to preserve. They were built to defend.
 
@@ -191,7 +191,7 @@ The walls were no longer protecting Girona. They were preserving its story.
 
 ## Montserrat — What People Continue Believing
 
-![Abbey](/assets/images/spain2/abbey.jpg)
+![Abbey](/assets/images/spain2/abbey.webp)
 
 Some inheritances are physical. Walls. Buildings. Roads. Others are carried differently.
 
@@ -225,7 +225,7 @@ Montserrat remains because people continue making that choice.
 
 ## Poblet — Stewardship
 
-![Poblet](/assets/images/spain2/poblet.jpg)
+![Poblet](/assets/images/spain2/poblet.webp)
 
 The monastery at Poblet introduced a different form of continuity. Unlike Montserrat, where movement and pilgrimage felt central to the experience, Poblet felt rooted in preservation. The grounds carried a sense of permanence. Stone walls enclosed courtyards, cloisters, churches, and living spaces that have continued serving their purpose across centuries. 
 
@@ -245,7 +245,7 @@ Many inheritances survive through transmission. Others survive through stewardsh
 
 ## Zaragoza — Faith Across Generations
 
-![Basilica](/assets/images/spain2/basilica.jpg)
+![Basilica](/assets/images/spain2/basilica.webp)
 
 The Basilica del Pilar revealed a different form of continuity.
 
@@ -265,7 +265,7 @@ The basilica reminded me that certain beliefs outlive the generations that carry
 
 ## Montjuïc — What Remains
 
-![Monjuic](/assets/images/spain2/montjuic.jpg)
+![Monjuic](/assets/images/spain2/montjuic.webp)
 
 The fortress overlooking Barcelona carries a different kind of inheritance. Unlike the cathedrals, museums, and artistic landmarks encountered elsewhere on the journey, Castell de Montjuïc was built around power.
 
@@ -285,7 +285,7 @@ Montjuïc felt like one of those places. The walls preserved more than stone. Th
 
 ## Picasso — Reinvention
 
-![Picasso](/assets/images/spain2/picasso.jpg)
+![Picasso](/assets/images/spain2/picasso.webp)
 
 The Picasso Museum revealed a side of the artist often overshadowed by his most famous work. Rather than presenting a single style, the collection showed constant evolution. The rooms traced a progression through different periods, techniques, and ways of seeing. The effect was striking.
 
@@ -301,7 +301,7 @@ The willingness to evolve became part of the inheritance itself. The artwork rem
 
 ## León — Continuity and Reinvention
 
-![Leon](/assets/images/spain2/leon.jpg)
+![Leon](/assets/images/spain2/leon.webp)
 
 León felt like a meeting point between inheritance and adaptation. The city carried visible reminders of Spain's medieval past through its cathedral, plazas, and historic center.Yet it also became a place where familiar themes from earlier in the journey reappeared in new forms.
 
@@ -323,7 +323,7 @@ León seemed to sit comfortably within that balance. Respecting inheritance whil
 
 ## Gaudí — The Legacy of Imagination
 
-![Gaudi](/assets/images/spain2/gaudi.jpg)
+![Gaudi](/assets/images/spain2/gaudi.webp)
 
 Gaudí appeared repeatedly throughout the journey. Barcelona provided the expected encounters. Sagrada Família. Casa Batlló. Casa Milà. Casa Vicens. El Capricho appeared unexpectedly on the northern coast. Casa Botines appeared again in León. Hundreds of miles separated them.
 
@@ -339,7 +339,7 @@ Permission to think differently.
 
 ### Palau de la Música — Beauty as Public Space
 
-![Palau](/assets/images/spain2/palau.jpg)
+![Palau](/assets/images/spain2/palau.webp)
 
 The Palau de la Música offered a different expression of the same idea. Where Gaudí transformed architecture into imagination, the Palau transformed a performance hall into art itself.
 
@@ -357,7 +357,7 @@ It is the belief that public places can inspire as well as serve.
 
 ## Dalí — The Legacy of Perspective
 
-![Dali](/assets/images/spain2/dali.jpg)
+![Dali](/assets/images/spain2/dali.webp)
 
 If Gaudí challenged architecture, Dalí challenged certainty. The Dalí Theatre-Museum felt less like entering a museum and more like entering another person's imagination.
 
@@ -373,7 +373,7 @@ His legacy was not a collection. It was a way of looking.
 
 ## Bilbao — Reinvention
 
-![Bilbao](/assets/images/spain2/bilbao.jpg)
+![Bilbao](/assets/images/spain2/bilbao.webp)
 
 Not everything that survives remains unchanged. Bilbao demonstrated that.
 
@@ -387,7 +387,7 @@ The lesson felt surprisingly optimistic. Change is not always the opposite of pr
 
 ## Rioja — Patience Made Visible
 
-![Rioja](/assets/images/spain2/rioja.jpg)
+![Rioja](/assets/images/spain2/rioja.webp)
 
 The vineyards represented patience extended across decades. Sometimes centuries. The bottle may belong to a single year. The craft belongs to many.
 
@@ -403,7 +403,7 @@ The region reminded me that mastery is rarely invented. More often, it is accumu
 
 ## Pamplona — Ritual and Risk
 
-![Pamplona](/assets/images/spain2/pamplona.jpg)
+![Pamplona](/assets/images/spain2/pamplona.webp)
 
 The running of the bulls is frequently described as a confrontation between people and animals. From the balcony, the event appeared different. The crowd became the story.
 
@@ -421,7 +421,7 @@ Because they are practiced.
 
 ## The Green North — Landscapes That Still Matter
 
-![Atlantic](/assets/images/spain2/atlantic.jpg)
+![Atlantic](/assets/images/spain2/atlantic.webp)
 
 
 The northern coast revealed a different Spain. Greener. Steeper. More Atlantic than Mediterranean.
@@ -438,7 +438,7 @@ The northern regions did not feel isolated.
 
 ### Gaztelugatxe — The Long Way There
 
-![Gaztelugatxe](/assets/images/spain2/gaztelugatxe.jpg)
+![Gaztelugatxe](/assets/images/spain2/gaztelugatxe.webp)
 
 Some destinations remain memorable because of what they are. Others because of what it takes to reach them.
 
@@ -454,7 +454,7 @@ The ocean remained present from every direction.
 
 ### Castro Urdiales — Where Histories Meet the Sea
 
-![Urdiales](/assets/images/spain2/urdiales.jpg)
+![Urdiales](/assets/images/spain2/urdiales.webp)
 
 Castro Urdiales felt defined by its relationship with water.
 
@@ -468,7 +468,7 @@ The Atlantic remained visible not only in the landscape but in the way communiti
 
 ### Picos de Europa — Scale
 
-![Picos](/assets/images/spain2/picos.jpg)
+![Picos](/assets/images/spain2/picos.webp)
 
 Many parts of the journey focused on human inheritance. The mountains provided a different perspective.
 
@@ -484,7 +484,7 @@ The experience felt refreshing rather than restrictive.
 
 ### Bulnes — Persistence
 
-![Bulnes](/assets/images/spain2/bulnes.jpg)
+![Bulnes](/assets/images/spain2/bulnes.webp)
 
 The trail descending from Bulnes revealed another side of the mountains. The route required attention. The path followed terrain rather than convenience.
 
@@ -498,7 +498,7 @@ Some places survive because they remain difficult to reach. The tradeoff appeare
 
 ### Covadonga — Memory in the Landscape
 
-![Covadonga](/assets/images/spain2/covadonga.jpg)
+![Covadonga](/assets/images/spain2/covadonga.webp)
 
 The Basilica of Santa María la Real de Covadonga appeared inseparable from its surroundings. Faith, history, and geography occupied the same space.
 
@@ -512,7 +512,7 @@ Covadonga felt like one of those rare places where history still appears anchore
 
 ## The Camino — Movement Preserved
 
-![Camino](/assets/images/spain2/camino.jpg)
+![Camino](/assets/images/spain2/camino.webp)
 
 The Camino appeared long before Santiago itself. Road markers surfaced unexpectedly. Shell symbols repeated. Hostels welcomed travelers.
 
@@ -526,7 +526,7 @@ That continuity felt remarkably alive.
 
 ## Spain and Argentina — Ninety Minutes Together
 
-![World Cup](/assets/images/spain2/worldcup.jpg)
+![World Cup](/assets/images/spain2/worldcup.webp)
 
 The World Cup match lasted ninety minutes. The gathering felt much older.
 
@@ -542,7 +542,7 @@ People continue seeking connection. That desire may be one of the oldest inherit
 
 ## Salamanca & La Alberca — Identity Preserved
 
-![Salamanca](/assets/images/spain2/salamanca.jpg)
+![Salamanca](/assets/images/spain2/salamanca.webp)
 
 Many places preserve history. Fewer preserve identity.
 
@@ -568,7 +568,7 @@ The generations differ. The aspiration persists.
 
 Salamanca felt less like a preserved city and more like a continuing conversation.
 
-![La Alberca](/assets/images/spain2/alberca.jpg)
+![La Alberca](/assets/images/spain2/alberca.webp)
 
 La Alberca revealed a quieter version of the same idea.
 

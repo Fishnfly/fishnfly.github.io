@@ -9,12 +9,12 @@ subtitle: "Wind, stone, quiet roads, and the spaces between."
 
 thumbnail:
   layout: duo
-  img1: /assets/images/spain/toledo.jpg
-  img2: /assets/images/spain/toledo-1.jpg
+  img1: /assets/images/spain/toledo.webp
+  img2: /assets/images/spain/toledo-1.webp
   alt: "Spain — anchors"
 
  # Hero image (mockup)
-hero_image: /assets/img/mockups/anchor3.jpg
+hero_image: /assets/img/mockups/anchor3.webp
 hero_alt: "acquaduct"
 ---
 
@@ -111,7 +111,7 @@ and your route as a passage across them.
 
 **Toledo Pic**
 
-![Toledo](/assets/images/spain/spain-comingsoon.jpg)
+![Toledo](/assets/images/spain/spain-comingsoon.webp)
 
 # **Day 1 · Arrival → Toledo**  
 
@@ -145,7 +145,7 @@ Notice the river as it cuts thru the rock face around the city. The bridge allow
 
 **Bridge Pic**
 
-![Bridge](/assets/images/spain/toledo-bridge.jpg)
+![Bridge](/assets/images/spain/toledo-bridge.webp)
 
 From **Mirador del Valle**, Toledo dissolves into a watercolor — outlines softened, history rendered in cool tonal hush.
 
@@ -171,7 +171,7 @@ Then the **windmills** appear.
 
 **Windmills Pic**
 
-![Windmills](/assets/images/spain/windmills.jpg)
+![Windmills](/assets/images/spain/windmills.webp)
 
 White towers rising from the ridge, their great wooden arms held still —  
 sails furled, machinery resting, the giants asleep.  
@@ -183,7 +183,7 @@ The road curves into the mountains, and Cuenca emerges — not built, but **clin
 
 **Hanging Houses Pic**
 
-![Hanging Houses](/assets/images/spain/hanging-houses.jpg)
+![Hanging Houses](/assets/images/spain/hanging-houses.webp)
 
 The **hanging houses** grip the cliffs like stubborn memories refusing to fall.  
 Below, the gorge exhales a cool breath that carries the dampness of the day.  
@@ -240,7 +240,7 @@ even the future feels subdued beneath the storm‑colored vault.
 
 **City of Arts & Science Pic**
 
-![City os Arts](/assets/images/spain/city-of-arts.jpg)
+![City os Arts](/assets/images/spain/city-of-arts.webp)
 
 Evening gathers at the **Torres de Serranos**,  
 stones darkening as clouds thicken.
@@ -275,7 +275,7 @@ a village suspended between altitude and light.
 
 **Guadalest Pic**
 
-![Guadalest](/assets/images/spain/guadalest-1.jpg)
+![Guadalest](/assets/images/spain/guadalest-1.webp)
 
 Descending toward the coast, the day widens further.  
 In **Villajoyosa**, the sea glitters in restless blue,  
@@ -304,7 +304,7 @@ A quiet, otherworldly pause.
 
 **Barrancos Pic**
 
-![Landscape](/assets/images/spain/mirador-barrancos-de-gebas.jpg)
+![Landscape](/assets/images/spain/mirador-barrancos-de-gebas.webp)
 
 Further on, **Guadix** rises where earth becomes architecture —  
 a town of cave dwellings dug into soft hillsides,  
@@ -314,7 +314,7 @@ a settlement shaped not by walls but by the land itself.
 
 **Guadix Pic**
 
-![Chimneys](/assets/images/spain/guadix.jpg)
+![Chimneys](/assets/images/spain/guadix.webp)
 
 After Guadix, the altitude begins to climb.  
 The warmth drains from the air.  
@@ -353,7 +353,7 @@ letting the day gather you into its narrow streets and bright white facades.
 
 **Hotel Pic**
 
-![Hospes](/assets/images/spain/hospes-palacio.jpg)
+![Hospes](/assets/images/spain/hospes-palacio.webp)
 
 Your first stop is the **Real Monasterio de San Jerónimo**,  
 a place where stone seems to inhale the morning.  
@@ -379,7 +379,7 @@ Every detail is testimony.
 
 **Basilica Pic**
 
-![Basilica](/assets/images/spain/basílica-de-san-juan.jpg)
+![Basilica](/assets/images/spain/basílica-de-san-juan.webp)
 
 Afternoon softens the city.  
 You wander through alleys that tangle and lift,  
@@ -397,7 +397,7 @@ the view.
 
 **Alhambra Pic**
 
-![Alhambra](/assets/images/spain/anchor-alhambra.jpg)
+![Alhambra](/assets/images/spain/anchor-alhambra.webp)
 
 The **Alhambra** stands across the valley,  
 burnt orange in the sinking sun,  
@@ -463,7 +463,7 @@ you break out onto **Vista Panorámica Silla del Moro**.
 
 **Vista Pic**
 
-![del Morro](/assets/images/spain/vista-del-morro.jpg)
+![del Morro](/assets/images/spain/vista-del-morro.webp)
 
 An accidental summit.  
 A vantage you couldn’t have planned.  
@@ -490,7 +490,7 @@ carrying centuries of intention.
 
 **Nasrid Palaces Pic**
 
-![Nasrid Palaces](/assets/images/spain/alhambra-nasrid-palaces.jpg)
+![Nasrid Palaces](/assets/images/spain/alhambra-nasrid-palaces.webp)
 
 In the **Patio de los Arrayanes**,  
 the long pool holds the palace upside down,  
@@ -505,7 +505,7 @@ bearing the quiet dignity of things carved to outlast history.
 
 **Patio De Los Leones Pic**
 
-![de Los Leones](/assets/images/spain/alhambra-patio-de-los-leones.jpg)
+![de Los Leones](/assets/images/spain/alhambra-patio-de-los-leones.webp)
 
 The **Generalife** gardens unfold in terraces of green and water.  
 Cypress shadows, narrow steps, the sound of fountains tucked into corners.  
@@ -539,7 +539,7 @@ that even the roadside can feel like a scene.
 
 **Del Paseo Pic**
 
-![Del Paseo](/assets/images/spain/mirador-del-paseo.jpg)
+![Del Paseo](/assets/images/spain/mirador-del-paseo.webp)
 
 Córdoba arrives in sunlight, its streets warming quickly.
 
@@ -566,7 +566,7 @@ as if offering its beauty one room at a time.
 
 **Patios Pic**
 
-![Patios](/assets/images/spain/patios.jpg)
+![Patios](/assets/images/spain/patios.webp)
 
 By noon, the crowds gather.  
 Streets that were soft and quiet in the morning  
@@ -580,7 +580,7 @@ a place where geometry became devotion.
 
 **Mezquita Pic**
 
-![Mezquita](/assets/images/spain/mezquita.jpg)
+![Mezquita](/assets/images/spain/mezquita.webp)
 
 That same year we also traveled to **Ronda**, 
 a city split by a gorge so deep it feels like the earth remembering its own fracture.  
@@ -590,7 +590,7 @@ of building cities not just on land but on thresholds.
 
 **Ronda Pic**
 
-![Ronda](/assets/images/spain/ronda.jpg)
+![Ronda](/assets/images/spain/ronda.webp)
 
 Those places still echo through this trip — 
 memory shaping the way we walk the present.
@@ -651,7 +651,7 @@ the river moves in choppy, hurried ripples.
 
 **Jardin Pic**
 
-![Jardin](/assets/images/spain/jardín-del-príncipe.jpg)
+![Jardin](/assets/images/spain/jardín-del-príncipe.webp)
 
 The **Garden of the Island** is quieter,  
 but even here the cold persists,  
@@ -714,7 +714,7 @@ and sharpening the moments when sunlight breaks through.
 
 **Roman Aquaduct Pic**
 
-![Windmills](/assets/images/spain/aquaduct-2.jpg)
+![Windmills](/assets/images/spain/aquaduct-2.webp)
 
 Segovia curls upward toward the **cathedral**,  
 its Gothic spires reaching into a sky that cannot decide  
@@ -810,7 +810,7 @@ a place where the edges of the trip begin to loosen.
 
 **Parque Centro Pic**
 
-![Parque Centro](/assets/images/spain/parque-el-retirro.jpg)
+![Parque Centro](/assets/images/spain/parque-el-retirro.webp)
 
 From there, the streets guide you toward **Plaza Mayor**,  
 its arcades glowing in the midday sun.  
@@ -824,7 +824,7 @@ a final reminder of Spain’s ability to gather you into a moment just by being 
 
 **Arch-Centro Pic**
 
-![Arch-Centro](/assets/images/spain/arch-madrid.jpg)
+![Arch-Centro](/assets/images/spain/arch-madrid.webp)
 
 In the morning now, you return toward the airport perimeter,  
 the light slanting long across the highway.  
@@ -838,7 +838,7 @@ the journey gathering itself into memory.
 
 **Spain Landscape Pic**
 
-![Spain Landscape](/assets/images/spain/spain-landscape-4.jpg)
+![Spain Landscape](/assets/images/spain/spain-landscape-4.webp)
 
 ---
 

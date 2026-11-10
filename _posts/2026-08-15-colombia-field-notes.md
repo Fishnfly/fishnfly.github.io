@@ -9,11 +9,11 @@ subtitle: "Following how places, identities, and traditions evolve without losin
 
 thumbnail:
   layout: duo
-  img1: /assets/images/colombia/arch.jpg
-  img2: /assets/images/colombia/cannon.jpg
+  img1: /assets/images/colombia/arch.webp
+  img2: /assets/images/colombia/cannon.webp
   alt: "Colombia"
 
-hero_image: /assets/images/colombia/hero.jpg
+hero_image: /assets/images/colombia/hero.webp
 hero_alt: "Colombia"
 
 ---

@@ -492,8 +492,6 @@ Looking back, the journey became less about moving between countries and more ab
 
 ### What stayed.
 
-
-
 ---
 
 

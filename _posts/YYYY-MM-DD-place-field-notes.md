@@ -9,11 +9,11 @@ subtitle: "Following how places, people, and traditions transform without disapp
 
 thumbnail:
   layout: duo
-  img1: /assets/images/galapagos/iguana.jpg
-  img2: /assets/images/galapagos/tortoise3.jpg
+  img1: /assets/images/galapagos/iguana.webp
+  img2: /assets/images/galapagos/tortoise3.webp
   alt: "Galápagos wildlife"
 
-hero_image: /assets/images/galapagos/hero1.jpg
+hero_image: /assets/images/galapagos/hero1.webp
 hero_alt: "Galápagos"
 
 ---
@@ -297,7 +297,7 @@ Return home.
 
 ---
 
-![Galapagos](/assets/images/galapagos/galapagosetc.jpg)
+![Galapagos](/assets/images/galapagos/galapagosetc.webp)
 
 ---
 

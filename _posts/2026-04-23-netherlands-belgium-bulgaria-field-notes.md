@@ -9,12 +9,12 @@ subtitle: "Water, structure, continuity, and what remains when systems are teste
 
 thumbnail:
   layout: duo
-  img1: /assets/images/netherlands/amsterdam.jpg
-  img2: /assets/images/netherlands/amsterdam2.jpg
+  img1: /assets/images/netherlands/amsterdam.webp
+  img2: /assets/images/netherlands/amsterdam2.webp
   alt: "Netherlands — systems"
 
 # Hero image (mockup)
-hero_image: /assets/img/mockups/anchor2.jpg
+hero_image: /assets/img/mockups/anchor2.webp
 hero_alt: "canals and structure"
 ---
 
@@ -102,7 +102,7 @@ Departure from Belgium toward Bulgaria, where the character of the journey begin
 
 **Keukenhof Pic**
 
-![Flower Garden](/assets/images/netherlands/keukenhof.jpg)
+![Flower Garden](/assets/images/netherlands/keukenhof.webp)
 
 ## Keukenhof — Temporary Order
 
@@ -124,7 +124,7 @@ The effect is abundance without permanence — a system designed to peak, dissol
 
 **Zaanse Schans Pic**
 
-![Schans](/assets/images/netherlands/schans.jpg)
+![Schans](/assets/images/netherlands/schans.webp)
 
 ## Zaanse Schans — Continuity
 
@@ -150,7 +150,7 @@ The structure itself carried its own fragility.
 
 **Leaning Buildings Pic**
 
-![Buildings](/assets/images/netherlands/buildings.jpg)
+![Buildings](/assets/images/netherlands/buildings.webp)
 
 Buildings leaned subtly, some more visibly than others—a result of shifting ground beneath foundations never meant to remain entirely stable. What appeared ordered was, in part, held in place through ongoing intervention.
 
@@ -162,7 +162,7 @@ The system did not eliminate the underlying condition. It managed it.
 
 **Canals Pic**
 
-![canals](/assets/images/netherlands/canals.jpg)
+![canals](/assets/images/netherlands/canals.webp)
 
 Movement through the city operated on multiple levels at once.
 
@@ -174,7 +174,7 @@ It had to be learned, quickly. The system assumed participation, not observation
 
 **Bicyles-street Pic**
 
-![Bicyclestreet](/assets/images/netherlands/bicyclesstreet.jpg)
+![Bicyclestreet](/assets/images/netherlands/bicyclesstreet.webp)
 
 Daily use revealed itself in smaller ways.
 
@@ -192,7 +192,7 @@ Tradition appeared in quieter forms as well.
 
 **Wynand Focking Pic**
 
-![Gins](/assets/images/netherlands/wynand.jpg)
+![Gins](/assets/images/netherlands/wynand.webp
 
 At Wynand Fockink, the space felt unchanged in its intention. The setting was compact, informal, but precise in its rhythm—drinks served in a way that required a certain posture, a small adjustment to participate correctly.
 
@@ -206,7 +206,7 @@ Commerce mediated what belief could not resolve.
 
 **Red Light District Pic**
 
-![Red Light](/assets/images/netherlands/red-light.jpg)
+![Red Light](/assets/images/netherlands/red-light.webp)
 
 The Red Light District did not exist outside the system, but within it — regulated, contained, visible. Behavior wasn’t denied. It was structured into something manageable.
 
@@ -224,7 +224,7 @@ Bicycles with flower baskets appeared throughout the city—bright arrangements 
 
 **Bicycle Pic**
 
-![Bicycle Bridge](/assets/images/netherlands/bicycles.jpg)
+![Bicycle Bridge](/assets/images/netherlands/bicycles.webp)
 
 The origin was simple. A man had begun placing flowers on bicycles for his wife. What started as a personal gesture became visible, then shared, and eventually part of the city’s texture.
 
@@ -240,7 +240,7 @@ King’s Day removed any remaining abstraction.
 
 **Kings Day Pic**
 
-![Kings Day](/assets/images/netherlands/kingsday.jpg)
+![Kings Day](/assets/images/netherlands/kingsday.webp)
 
 The city turned orange. Streets filled. Movement compressed into collective scale. But what stood out was not intensity — it was control. The same systems that governed daily life expanded to hold excess rather than fracture.
 
@@ -258,7 +258,7 @@ The church itself reinforced the pattern.
 
 **Oude Kerk Church Pic**
 
-![Oude Kerk](/assets/images/netherlands/oudekerk.jpg)
+![Oude Kerk](/assets/images/netherlands/oudekerk.webp)
 
 Jesse Darling’s installation, *Godsworth*, occupied the space openly. Contemporary work layered inside the city’s oldest structure. The building absorbed the present without abandoning the past.
 
@@ -328,7 +328,7 @@ At the Markthal, familiar patterns appeared again—herring served differently t
 
 **Markthal Rotterdam Pic**
 
-![Markthal](/assets/images/netherlands/markthal.jpg)
+![Markthal](/assets/images/netherlands/markthal.webp)
 
 A different approach to preservation appeared nearby.
 
@@ -338,7 +338,7 @@ The building itself reflected its surroundings, distorting them slightly, turnin
 
 **Depot Boijmans Pic**
 
-![depotmuseum](/assets/images/netherlands/depotm.jpg)
+![depotmuseum](/assets/images/netherlands/depotm.webp)
 
 Preservation was not presented as static. It was part of the system itself.
 
@@ -346,7 +346,7 @@ Nearby, the cube houses shifted the experience further.
 
 **Cube Houses Pic**
 
-![Cube Houses](/assets/images/netherlands/cubehouses.jpg)
+![Cube Houses](/assets/images/netherlands/cubehouses.webp)
 
 Structure no longer followed expectation. Angles displaced horizontals, orientation required adjustment, and movement through the space reflected a different kind of design logic—one that prioritized experimentation over continuity.
 
@@ -364,7 +364,7 @@ The Hague shifted without announcing it. Authority lived here, but quietly. Gove
 
 **Binnenhof Hague Pic**
 
-![Binnenhof](/assets/images/netherlands/binnenhof.jpg)
+![Binnenhof](/assets/images/netherlands/binnenhof.webp)
 
 The connection between Delft and The Hague extended beyond proximity.
 
@@ -374,7 +374,7 @@ At the Royal Delft Workshop, the process remained visible. Production was not se
 
 **Royal Delft Pic**
 
-![Royal Delft](/assets/images/netherlands/royaldelft.jpg)
+![Royal Delft](/assets/images/netherlands/royaldelft.webp)
 
 Familiar imagery appeared again, integrated into objects still in use. What might otherwise be confined to a single form existed here as part of an ongoing system of making.
 
@@ -386,7 +386,7 @@ At the Mauritshuis, the original held its position. *Girl with a Pearl Earring* 
 
 **Girl-Pearl Earring Pic**
 
-![Pearl Earning](/assets/images/netherlands/girlwpearl.jpg)
+![Pearl Earning](/assets/images/netherlands/girlwpearl.webp)
 
 The image moved between contexts.
 
@@ -412,7 +412,7 @@ At a local brewery, production carried forward through established methods, not 
 
 **Straffe Brugge Pic**
 
-![Straffebeer](/assets/images/netherlands/straffebeer.jpg)
+![Straffebeer](/assets/images/netherlands/straffebeer.webp)
 
 Like much of the city, it wasn’t separated from its origins. It operated within them.
 
@@ -420,7 +420,7 @@ During Floralien, a curated exhibition held only every few years, installations 
 
 **Floralien Gent Pic**
 
-![Floralien](/assets/images/netherlands/floralien.jpg)
+![Floralien](/assets/images/netherlands/floralien.webp)
 
 The additions were clearly intentional—designed, placed, and temporary—yet they existed within the same framework as everything else. The change was visible, but never disruptive.
 
@@ -444,7 +444,7 @@ At Gravensteen Castle, the audio guide approached its subject with an unexpected
 
 **Gravensteen Castle Pic**
 
-![Gravensteen](/assets/images/netherlands/gravensteen.jpg)
+![Gravensteen](/assets/images/netherlands/gravensteen.webp)
 
 The effect wasn’t to diminish the past, but to engage with it differently. It wasn’t presented as something to observe from a distance, but something to move through and understand.
 
@@ -454,7 +454,7 @@ Even symbols had shifted quietly. Swans positioned outward along the water sugge
 
 **Swans Pic**
 
-![hotel](/assets/images/netherlands/hotel.jpg)
+![hotel](/assets/images/netherlands/hotel.webp)
 
 Nothing needed to be preserved as it was. It was simply continued.
 
@@ -476,7 +476,7 @@ At a small restaurant, a dish rarely encountered elsewhere—frog legs—was pre
 
 **Froglegs Pic**
 
-![Froglegs](/assets/images/netherlands/froglegs.jpg)
+![Froglegs](/assets/images/netherlands/froglegs.webp)
 
 It wasn’t novelty that defined the experience, but execution.
 
@@ -502,7 +502,7 @@ Brussels felt different. Many of the most important systems operated less visibl
 
 The tension between those roles felt less like a contradiction and more like a condition of daily life. At the European Parliament, the scale of coordination became easier to appreciate.
 
-![European Parliament](/assets/images/belgium/parliament.jpg)
+![European Parliament](/assets/images/belgium/parliament.webp)
 
 The institution exists not because differences disappear. It exists because differences remain.
 
@@ -514,11 +514,11 @@ Many of the most durable systems encountered throughout the journey did not remo
 
 At the Grand Place, centuries of wealth, commerce, and civic ambition remained visible in stone and decoration. The buildings appeared unified at first glance. Closer inspection revealed a collection of individual guild houses, each carrying its own history while contributing to a shared identity. The square felt less like a monument and more like a lesson. Distinct parts creating a larger whole.
 
-![Grand Place](/assets/images/belgium/grandplace.jpg)
+![Grand Place](/assets/images/belgium/grandplace.webp)
 
 The Royal Palace and Mont des Arts revealed another layer. Power, culture, governance, and public space intersected repeatedly throughout the city. Different institutions occupied different roles, yet each contributed to a broader system extending far beyond any single building.
 
-![Royal Palace](/assets/images/belgium/palace.jpg)
+![Royal Palace](/assets/images/belgium/palace.webp)
 
 The House of European History added perspective. The museum rarely presented history as a straight line. Instead, it demonstrated how different societies experienced the same events in different ways.
 
@@ -530,7 +530,7 @@ The distinction mattered. One organized water. The other organized difference. B
 
 **Mont des Art Pic**
 
-![Mont des Art](/assets/images/belgium/montdesart.jpg)
+![Mont des Art](/assets/images/belgium/montdesart.webp)
 
 ---
 
@@ -560,7 +560,7 @@ Inside the Alexander Nevsky Cathedral, movement followed a different rhythm. A m
 
 **Nevsky Catherdral Pic**
 
-![NevskyChurch](/assets/images/bulgaria/nevsky.jpg)
+![NevskyChurch](/assets/images/bulgaria/nevsky.webp)
 
 It was not presented. It continued.
 
@@ -572,7 +572,7 @@ At St. Sofia, the presence of earlier layers became more apparent—not through 
 
 **St. Sofia Basilica Pic**
 
-![BasilicaSofia](/assets/images/bulgaria/sofiabasilica.jpg)
+![BasilicaSofia](/assets/images/bulgaria/sofiabasilica.webp)
 
 The layering extended beyond religion. Civic space carried the imprint of more recent history — a period where power was centralized, imposed, and organized differently than what we had just left behind. The scale changed. Buildings widened and flattened. Public space felt designed to control movement rather than encourage it.
 
@@ -582,7 +582,7 @@ Statues and monuments appeared throughout the city, fixed in place, marking diff
 
 **Multiple Statues Pic**
 
-![Statues](/assets/images/bulgaria/statues.jpg)
+![Statues](/assets/images/bulgaria/statues.webp)
 
 Below, earlier layers surfaced as well. Archaeological remains were not removed or isolated—they were integrated into the city’s present, visible alongside daily movement.
 
@@ -661,7 +661,7 @@ At the Bell Monument, unity was expressed through design—bells representing na
 
 **The Bell Monument Pic**
 
-![BellMonumnet](/assets/images/bulgaria/bells.jpg)
+![BellMonumnet](/assets/images/bulgaria/bells.wdbp)
 
 It was a system built to represent alignment.
 
@@ -677,7 +677,7 @@ The structure did not feel adapted or overlaid. It felt sustained. Painted surfa
 
 **Rila Monastery Pic**
 
-![RilaMonastery](/assets/images/bulgaria/monastery.jpg)
+![RilaMonastery](/assets/images/bulgaria/monastery.webp)
 
 Time was not stacked. It was carried.
 

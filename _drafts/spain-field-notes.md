@@ -131,7 +131,7 @@ The road curves into the mountains, and Cuenca emerges — not built, but **clin
 
 **Hanging Houses Pic**
 
-![Hanging Houses](/assets/images/spain/hanging-houses.jpg)
+![Hanging Houses](/assets/images/spain/hanging-houses.webp)
 
 The **hanging houses** grip the cliffs like stubborn memories refusing to fall.  
 Below, the gorge exhales a cool breath that carries the dampness of the day.  
@@ -339,7 +339,7 @@ preparing you for the palace it guards.
 
 **Alhambra Pic**
 
-![Alhambra](/assets/images/spain/anchor-alhambra.jpg)
+![Alhambra](/assets/images/spain/anchor-alhambra.webp)
 
 **Overnight:** **Granada**
 
