@@ -265,7 +265,9 @@ The basilica reminded me that certain beliefs outlive the generations that carry
 
 ## Montjuïc — What Remains
 
-![Monjuic](/assets/images/spain2/montjuic.webp)
+<img class="story-photo"
+src="/assets/images/spain2/montjuic.webp"
+alt="Monjuic">
 
 The fortress overlooking Barcelona carries a different kind of inheritance. Unlike the cathedrals, museums, and artistic landmarks encountered elsewhere on the journey, Castell de Montjuïc was built around power.
 
@@ -421,8 +423,9 @@ Because they are practiced.
 
 ## The Green North — Landscapes That Still Matter
 
-![Atlantic](/assets/images/spain2/atlantic.webp)
-
+<img class="story-photo"
+src="/assets/images/spain2/atlantic.webp"
+alt="Atlantic">
 
 The northern coast revealed a different Spain. Greener. Steeper. More Atlantic than Mediterranean.
 
@@ -438,7 +441,9 @@ The northern regions did not feel isolated.
 
 ### Gaztelugatxe — The Long Way There
 
-![Gaztelugatxe](/assets/images/spain2/gaztelugatxe.webp)
+<img class="story-photo"
+src="/assets/images/spain2/Gaztelugatxe.webp"
+alt="Gaztelugatxe">
 
 Some destinations remain memorable because of what they are. Others because of what it takes to reach them.
 
