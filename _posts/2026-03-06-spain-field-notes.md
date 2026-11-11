@@ -215,12 +215,12 @@ alt="Landscape">
 
 Further on, **Guadix** rises where earth becomes architecture — a town of cave dwellings dug into soft hillsides, white chimneys poking from mounds of earth like markers of hidden homes. It feels half ancient, half unreal, a settlement shaped not by walls but by the land itself.
 
+After Guadix, the altitude begins to climb. The warmth drains from the air. Clouds gather over the Sierra Nevada in slow, heavy strokes. The sky darkens at the edges, and then — without force, without urgency —  
+**snow**.
+
 <img class="story-photo"
 src="/assets/images/spain/guadix.webp"
 alt="Chimneys">
-
-After Guadix, the altitude begins to climb. The warmth drains from the air. Clouds gather over the Sierra Nevada in slow, heavy strokes. The sky darkens at the edges, and then — without force, without urgency —  
-**snow**.
 
 Light flakes drift across the windshield, melting on contact, a soft reminder that winter still lingers in the mountains even when the coast pretends otherwise. The road becomes a long, quiet passage through weather in transition.
 
@@ -355,11 +355,11 @@ There is an intimacy here — a softened geography of thresholds and shadows.
 As the day brightens, the city becomes a map of crossings. Stone, water, culture, centuries —  
 everything converges at the **Roman Bridge**, its arches stretching across the Guadalquivir with the quiet confidence of something that has endured every kingdom that passed through. You walk its length slowly, feeling the edge of the city shift beneath your feet: ancient here, present there, future in the middle distance.
 
-Patios open like small secrets — cool mosaic floors, shaded plants, glimpses of water or tile that feel like the city exhaling between walls. Córdoba reveals itself in fragments, as if offering its beauty one room at a time.
-
 <img class="story-photo"
 src="/assets/images/spain/patios.webp"
 alt="Patios">
+
+Patios open like small secrets — cool mosaic floors, shaded plants, glimpses of water or tile that feel like the city exhaling between walls. Córdoba reveals itself in fragments, as if offering its beauty one room at a time.
 
 By noon, the crowds gather. Streets that were soft and quiet in the morning grow thick with sound and movement. It is the hour when Córdoba leans fully into the day, sunlight pooling in the squares, voices rising against the stone.
 
@@ -372,11 +372,11 @@ alt="Mezquita">
 That same year we also traveled to **Ronda**, a city split by a gorge so deep it feels like the earth remembering its own fracture. Standing on the Puente Nuevo, with wind threading through the canyon below, 
 you learn something about Spain’s love of edges, of building cities not just on land but on thresholds.
 
+Those places still echo through this trip — memory shaping the way we walk the present.
+
 <img class="story-photo"
 src="/assets/images/spain/ronda.webp"
 alt="Ronda">
-
-Those places still echo through this trip — memory shaping the way we walk the present.
 
 Evening brings something entirely different — a turning of the city toward rhythm and ritual. 
 
