@@ -122,11 +122,11 @@ The effect is abundance without permanence — a system designed to peak, dissol
 
 ---
 
-**Zaanse Schans Pic**
-
-![Schans](/assets/images/netherlands/schans.webp)
-
 ## Zaanse Schans — Continuity
+
+<img class="story-photo"
+src="/assets/images/ireland/netherlands/schan.webp"
+alt="Schans">
 
 At Zaanse Schans, the structure was more explicit. Windmills, workshops, and demonstrations operated together within a defined setting. The system was clear, organized, and intended to represent continuity rather than carry it forward organically.
 
@@ -160,9 +160,9 @@ Stability wasn’t inherent. It was sustained.
 
 The system did not eliminate the underlying condition. It managed it.
 
-**Canals Pic**
-
-![canals](/assets/images/netherlands/canals.webp)
+<img class="story-photo"
+src="/assets/images/ireland/netherlands/canals.webp"
+alt="canals">
 
 Movement through the city operated on multiple levels at once.
 
@@ -172,9 +172,9 @@ The rhythm was not instinctive at first.
 
 It had to be learned, quickly. The system assumed participation, not observation. You adapted to it, or you interrupted it.
 
-**Bicyles-street Pic**
-
-![Bicyclestreet](/assets/images/netherlands/bicyclesstreet.webp)
+<img class="story-photo"
+src="/assets/images/ireland/netherlands/bicyclesstreet.webp"
+alt="Bicyclestreet">
 
 Daily use revealed itself in smaller ways.
 
@@ -190,9 +190,9 @@ Like other elements, it wasn’t separate from the city’s design. It was embed
 
 Tradition appeared in quieter forms as well.
 
-**Wynand Focking Pic**
-
-![Gins](/assets/images/netherlands/wynand.webp
+<img class="story-photo"
+src="/assets/images/netherlands/wynand.webp"
+alt="Wynand">
 
 At Wynand Fockink, the space felt unchanged in its intention. The setting was compact, informal, but precise in its rhythm—drinks served in a way that required a certain posture, a small adjustment to participate correctly.
 
@@ -204,9 +204,9 @@ A constant presence of younger residents—students moving between neighborhoods
 
 Commerce mediated what belief could not resolve.
 
-**Red Light District Pic**
-
-![Red Light](/assets/images/netherlands/red-light.webp)
+<img class="story-photo"
+src="/assets/images/netherlands/red-light.webp"
+alt="Red Light">
 
 The Red Light District did not exist outside the system, but within it — regulated, contained, visible. Behavior wasn’t denied. It was structured into something manageable.
 
@@ -336,9 +336,9 @@ At the Depot Boijmans Van Beuningen, what is typically hidden was made visible. 
 
 The building itself reflected its surroundings, distorting them slightly, turning the exterior into something less fixed. The boundary between inside and outside, between what is held and what is shown, was less defined.
 
-**Depot Boijmans Pic**
-
-![depotmuseum](/assets/images/netherlands/depotm.webp)
+<img class="story-photo"
+src="/assets/images/netherlands/depotm.webp"
+alt="depotmuseum">
 
 Preservation was not presented as static. It was part of the system itself.
 
@@ -384,9 +384,9 @@ That continuity shifted in The Hague.
 
 At the Mauritshuis, the original held its position. *Girl with a Pearl Earring* remained contained, observed rather than used. What had been distributed and adapted in Delft returned here to a single point of focus.
 
-**Girl-Pearl Earring Pic**
-
-![Pearl Earning](/assets/images/netherlands/girlwpearl.webp)
+<img class="story-photo"
+src="/assets/images/netherlands/girlwpearl.webp"
+alt="Pearl Earning">
 
 The image moved between contexts.
 
@@ -452,9 +452,9 @@ Elsewhere, buildings held their previous identities without emphasis. A hotel on
 
 Even symbols had shifted quietly. Swans positioned outward along the water suggested small adjustments over time, changes made without announcement.
 
-**Swans Pic**
-
-![hotel](/assets/images/netherlands/hotel.webp)
+<img class="story-photo"
+src="/assets/images/netherlands/hotel.webp"
+alt="hotel">
 
 Nothing needed to be preserved as it was. It was simply continued.
 
@@ -474,9 +474,9 @@ Another moment of refinement came unexpectedly.
 
 At a small restaurant, a dish rarely encountered elsewhere—frog legs—was prepared with precision. The approach was simple: no excess, no distraction. Texture and flavor were allowed to stand on their own, the result unfolding gradually rather than immediately.
 
-**Froglegs Pic**
-
-![Froglegs](/assets/images/netherlands/froglegs.webp)
+<img class="story-photo"
+src="/assets/images/netherlands/froglegs.webp"
+alt="Froglegs">
 
 It wasn’t novelty that defined the experience, but execution.
 
@@ -518,7 +518,9 @@ At the Grand Place, centuries of wealth, commerce, and civic ambition remained v
 
 The Royal Palace and Mont des Arts revealed another layer. Power, culture, governance, and public space intersected repeatedly throughout the city. Different institutions occupied different roles, yet each contributed to a broader system extending far beyond any single building.
 
-![Royal Palace](/assets/images/belgium/palace.webp)
+<img class="story-photo"
+src="/assets/images/belgium/palace.webp"
+alt="Royal Palace">
 
 The House of European History added perspective. The museum rarely presented history as a straight line. Instead, it demonstrated how different societies experienced the same events in different ways.
 
