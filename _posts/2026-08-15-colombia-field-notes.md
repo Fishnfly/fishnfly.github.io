@@ -292,6 +292,11 @@ Return home.
 
 ## Bogotá — Layers
 
+<img class="story-photo"
+src="/assets/images/colombia/bogota.webp"
+alt="Bogota">
+
+
 From Monserrate, the city seemed to extend to the horizon in every direction, disappearing into a haze where mountains and buildings became difficult to separate. Traffic moved far below while clouds drifted across the ridgeline behind us.
 
 The historic center revealed one layer. Plaza de Bolívar revealed another.
