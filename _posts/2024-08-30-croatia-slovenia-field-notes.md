@@ -213,7 +213,9 @@ Overnight: Grand Hotel Union Eurostars
 
 ## Dubrovnik — The Republic Between Empires
 
-![Dubrovnic](/assets/images/croatia/hero.webp)
+<img class="story-photo"
+src="/assets/images/croatia/hero.webp"
+alt="Dubrovnic">
 
 Most cities owe their survival to geography. Dubrovnik survived because it understood politics.
 
@@ -235,7 +237,9 @@ It is the improbable story of a small republic preserving its independence for c
 
 ## Mostar and the Bridge Between Worlds
 
-![Mostar](/assets/images/croatia/mostar.webp)
+<img class="story-photo"
+src="/assets/images/galapagos/mostar.webp"
+alt="Mostar">
 
 At first glance, Mostar appears to be a story about a bridge.
 
