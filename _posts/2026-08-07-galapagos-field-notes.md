@@ -141,13 +141,13 @@ We were the newcomers.
 
 Most accommodations create separation. The relationship here felt different.
 
+<img class="story-photo"
+src="/assets/images/galapagos/finchbay.webp"
+alt="Finchbay">
+
 The boundary between visitor and environment remained visible, but lightly enforced. Wildlife moved through the property as naturally as guests moved through the grounds. Excursions departed according to conditions rather than convenience. Access to surrounding islands depended upon permission rather than proximity. The experience was not one of escape from the environment. It was participation within it.
 
 The hotel existed beside the system rather than apart from it.
-
-**Finch Bay Pic**
-
-![Finchbay](/assets/images/galapagos/finchbay.webp)
 
 ---
 
@@ -191,13 +191,13 @@ They were the experience.
 
 ## Divine Bay — Quiet Systems
 
+<img class="story-photo"
+src="/assets/images/galapagos/divinebay.webp"
+alt="Divinebay">
+
 Not every part of the Galápagos announced itself. Moving slowly through the protected waters of Divine Bay revealed a different rhythm. The mangroves formed boundaries that felt natural rather than imposed, creating sheltered spaces where marine and bird life overlapped. Movement slowed. Observation became easier. Nothing appeared arranged for visitors.
 
 Life continued within the shelter the environment provided.
-
-**Divine Bay Pic**
-
-![boat](/assets/images/galapagos/divinebay.webp)
 
 ---
 
@@ -205,13 +205,13 @@ Life continued within the shelter the environment provided.
 
 Along the shoreline, another layer of the system became visible.
 
+<img class="story-photo"
+src="/assets/images/galapagos/greenturtle.webp"
+alt="Greenturtle">
+
 A green sea turtle moved steadily through the shallows, unaffected by the presence of observers above. Its movement felt effortless, following a course that appeared established long before our arrival. The encounter invited attention rather than excitement. Nothing dramatic occurred.
 
 The significance came from witnessing continuity in motion.
-
-**Green Sea Turtle**
-
-![Green Sea Turtle](/assets/images/galapagos/greenturtle.webp)
 
 The system extended beyond what could be seen from shore.
 
@@ -239,7 +239,9 @@ The contrast was striking.
 
 **Lava Tunnels Pic**
 
-![Iguana](/assets/images/galapagos/lavatunnels.webp)
+<img class="story-photo"
+src="/assets/images/galapagos/lavatunnels.webp"
+alt="Tunnels">
 
 Above ground, giant tortoises continued patterns that had persisted for generations. Below ground, the island carried the record of forces that had shaped it long before any wildlife arrived. Both told the same story. Persistence was not a single thing. It existed across different scales of time.
 
