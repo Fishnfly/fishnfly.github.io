@@ -238,7 +238,7 @@ It is the improbable story of a small republic preserving its independence for c
 ## Mostar and the Bridge Between Worlds
 
 <img class="story-photo"
-src="/assets/images/galapagos/mostar.webp"
+src="/assets/images/croatia/mostar.webp"
 alt="Mostar">
 
 At first glance, Mostar appears to be a story about a bridge.
