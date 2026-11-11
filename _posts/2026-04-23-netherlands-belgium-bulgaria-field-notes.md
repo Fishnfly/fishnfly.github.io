@@ -664,7 +664,7 @@ At the Bell Monument, unity was expressed through design—bells representing na
 
 **The Bell Monument Pic**
 
-![BellMonumnet](/assets/images/bulgaria/bells.wdbp)
+![BellMonumnet](/assets/images/bulgaria/bells.webp)
 
 It was a system built to represent alignment.
 
