@@ -123,9 +123,9 @@ Santa Cruz → Baltra → Guayaquil
 
 ## Arrival — Entry by Permission
 
-<figure class="story-photo">
-img src="/assets/images/galapagos/iguanas.webp" alt="Iguanas">
-</figure>
+<img class="story-photo"
+src="/assets/images/galapagos/iguanas.webp"
+alt="Iguanas">
 
 Reaching the hotel required a sequence of transitions—bus, ferry, taxi, another ferry, and finally a walk along the waterfront. Each step reduced the distance, but it also reinforced a different idea. The islands did not feel designed for direct access. Movement required adjustment.
 
