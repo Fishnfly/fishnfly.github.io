@@ -334,11 +334,12 @@ A different approach to preservation appeared nearby.
 
 At the Depot Boijmans Van Beuningen, what is typically hidden was made visible. Storage became part of the experience—collections organized, accessible, exposed rather than separated from view.
 
-The building itself reflected its surroundings, distorting them slightly, turning the exterior into something less fixed. The boundary between inside and outside, between what is held and what is shown, was less defined.
-
 <img class="story-photo"
 src="/assets/images/netherlands/depotm.webp"
 alt="depotmuseum">
+
+The building itself reflected its surroundings, distorting them slightly, turning the exterior into something less fixed. The boundary between inside and outside, between what is held and what is shown, was less defined.
+
 
 Preservation was not presented as static. It was part of the system itself.
 
