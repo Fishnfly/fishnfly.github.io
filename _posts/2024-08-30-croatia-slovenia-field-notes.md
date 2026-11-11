@@ -257,13 +257,15 @@ It became a reminder that connections can be damaged. They can even collapse ent
 
 ### Diocletian's Palace
 
-![Mostar](/assets/images/croatia/diocletian.webp)
-
 Split reveals another layer.
 
 Emperor Diocletian built his massive palace as a retirement residence near the end of Roman rule. This brings the narrative to his story..
 
 ### Diocletian — The Emperor Who Tried to Stop Time
+
+<img class="story-photo"
+src="/assets/images/croatia/diocletian.webp"
+alt="Diocletian">
 
 Few rulers shaped the Roman Empire as dramatically as Diocletian. When he became emperor in 284 AD, Rome was in crisis.
 
@@ -356,7 +358,9 @@ Among the hilltop towns of Istria, including Motovun, the story continues to sym
 
 ## Zagreb and the Manduševac Legend
 
-![Mandusevac](/assets/images/slovenia/mandusevacfountain.webp)
+<img class="story-photo"
+src="/assets/images/slovenia/mandusevacfountain.webp"
+alt="Mandusevac">
 
 According to one of Zagreb's best-known legends, a thirsty warrior arrived at a spring near the city's center. He called to a young woman named Manda and asked her to draw water from the spring. The location became known as Manduševac.
 
@@ -366,7 +370,9 @@ Whether historically accurate or not, the story reveals something important. Cit
 
 ## Ljubljana Cathedral — A Nation Cast in Bronze
 
-![Cathedraldoors](/assets/images/slovenia/cathedraldoor.webp)
+<img class="story-photo"
+src="/assets/images/slovenia/cathedraldoor.webp"
+alt="Cathedraldoors">
 
 Many cathedrals tell stories of saints. The doors of Ljubljana Cathedral tell the story of a nation.
 
@@ -382,7 +388,9 @@ That feels particularly appropriate in Ljubljana, a city where myth and history 
 
 ### Ljubljana and the Dragon
 
-![Dragons](/assets/images/slovenia/dragons.webp)
+<img class="story-photo"
+src="/assets/images/slovenia/dragons.webp"
+alt="Dragons>
 
 Few cities embrace a mythological creature as thoroughly as Ljubljana.
 
