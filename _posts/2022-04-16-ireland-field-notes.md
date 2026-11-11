@@ -236,8 +236,9 @@ Perhaps that is why Irish mythology feels uniquely attached to place. The storie
 
 ## Newgrange
 
-![Newgrange](/assets/images/ireland/newgrange.webp)
-
+<img class="story-photo"
+src="/assets/images/ireland/newgrange.webp"
+alt="Newgrange">
 
 Newgrange is often introduced through statistics.
 
@@ -253,8 +254,9 @@ The site became part of Ireland's mythology as well as its history.
 
 ## Ring of Kerry
 
-![RingofKerry](/assets/images/ireland/ringofkerry.webp)
-
+<img class="story-photo"
+src="/assets/images/ireland/newgrange.webp"
+alt="RingofKerry">
 
 The Ring of Kerry revealed another version of Ireland. The roads curved around mountains, bays, stone walls, and isolated villages. Ruins appeared unexpectedly. Ancient forts overlooked modern roads.
 
@@ -264,7 +266,9 @@ Weather moved constantly across the landscape. The scenery felt dramatic, but ne
 
 ## Dingle and the Atlantic Edge
 
-![Dingle](/assets/images/ireland/dingle.webp)
+<img class="story-photo"
+src="/assets/images/ireland/dingle.webp"
+alt="Dingle">
 
 The farther west the route traveled, the stronger the sense of living at the edge of something.
 
@@ -286,7 +290,9 @@ The region preserved a feeling of remoteness that has largely disappeared elsewh
 
 ## Giant's Causeway
 
-![Giantscausway](/assets/images/ireland/giantscauseway.webp)
+<img class="story-photo"
+src="/assets/images/ireland/giantscauseway.webp"
+alt="Giantscaauseway">
 
 The most famous story associated with Fionn mac Cumhaill concerns the dramatic basalt columns along Ireland's northern coast known as the Giant's Causeway.
 
