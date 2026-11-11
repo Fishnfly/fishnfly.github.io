@@ -18,9 +18,7 @@ hero_alt: "Galápagos"
 
 ---
 
-Some places leave an impression of power. The Galápagos left an impression of fragility. Not fragility as weakness.
-
-Fragility as balance.
+Some places leave an impression of power. The Galápagos left an impression of fragility. Not fragility as weakness. Fragility as balance.
 
 The islands are famous for what they contain: giant tortoises, marine iguanas, blue-footed boobies, sharks, sea lions, and species found nowhere else on Earth. What becomes harder to see at first is how much of that uniqueness depends upon conditions remaining exactly what they are.
 
@@ -127,11 +125,17 @@ Santa Cruz → Baltra → Guayaquil
 src="/assets/images/galapagos/iguanas.webp"
 alt="Iguanas">
 
-Reaching the hotel required a sequence of transitions—bus, ferry, taxi, another ferry, and finally a walk along the waterfront. Each step reduced the distance, but it also reinforced a different idea. The islands did not feel designed for direct access. Movement required adjustment.
+Reaching the hotel required a sequence of transitions: bus, ferry, taxi, another ferry, and finally a walk along the waterfront. Each transfer seemed to move us farther from the mainland and deeper into a place that operated on its own rhythm. By the time we reached Puerto Ayora, sea lions occupied benches as casually as locals might in any coastal town, and the sounds of engines had given way to surf, seabirds, and conversation from the harbor.
 
-That distance mattered.
+The water taxi crossed a harbor crowded with fishing boats, tour vessels, pelicans, and the occasional sea lion stretched comfortably across a dock. Looking back toward town, Puerto Ayora felt part working harbor and part wildlife refuge, with neither side appearing entirely in charge.
 
-Much of what survives in the Galápagos survives because access remains limited, movement remains controlled, and human convenience is not the organizing principle. Even before reaching the hotel, the pattern was visible.Land iguanas occupied the path ahead, unconcerned by those moving around them. Their slow, deliberate movements occasionally created the impression of acknowledgment, but only because we were inclined to interpret them that way. The distinction became clear quickly. The wildlife was present everywhere, but it was not reacting to us.
+The final walk to Finch Bay traced the shoreline beneath the fading afternoon light. After a day spent in motion, the quiet arrival felt less like checking into a hotel and more like crossing an invisible threshold into the islands.
+
+Each step reduced the distance, but it also reinforced a different idea. The islands did not feel designed for direct access. Movement required adjustment. That distance mattered.
+
+Much of what survives in the Galápagos survives because access remains limited, movement remains controlled, and human convenience is not the organizing principle. Even before reaching the hotel, the pattern was visible. The first marine iguanas appeared almost by accident. Dark against the volcanic rock, they were easy to overlook until one lifted its head and revealed itself. Their indifference to our presence was striking. Elsewhere, wildlife flees at the sound of approaching footsteps. Here, the iguanas seemed perfectly content to continue sunning themselves while visitors quietly adjusted course around them.
+
+That moment set the tone for much of the Galápagos. Humans were present, but we rarely felt like the center of the story. Their slow, deliberate movements occasionally created the impression of acknowledgment, but only because we were inclined to interpret them that way. The distinction became clear quickly. The wildlife was present everywhere, but it was not reacting to us.
 
 We were the newcomers.
 
@@ -145,15 +149,21 @@ Most accommodations create separation. The relationship here felt different.
 src="/assets/images/galapagos/finchbay.webp"
 alt="Finchbay">
 
-The boundary between visitor and environment remained visible, but lightly enforced. Wildlife moved through the property as naturally as guests moved through the grounds. Excursions departed according to conditions rather than convenience. Access to surrounding islands depended upon permission rather than proximity. The experience was not one of escape from the environment. It was participation within it.
+The boundary between visitor and environment remained visible, but lightly enforced. Wildlife moved through the property as naturally as guests moved through the grounds. Excursions departed according to conditions rather than convenience. Access to surrounding islands depended upon permission rather than proximity. The experience was not one of escape from the environment. It was participation within it. The hotel existed beside the system rather than apart from it.
 
-The hotel existed beside the system rather than apart from it.
+Evenings at Finch Bay arrived gradually. The heat softened, and the light turned gold across the bay as guests who had spent the day chasing wildlife settled into a slower rhythm. Pelicans skimmed the water while the shoreline slipped into shadow. Ducks drifted quietly through the pool as if they belonged there as much as the guests, a small reminder that throughout the islands the boundary between wildlife and human spaces often felt surprisingly thin.
+
+After days spent moving between islands and excursions, these quieter hours became some of the most memorable.
 
 ---
 
 ## Wildlife — Indifference
 
-Perhaps the most striking observation was the absence of response. Sea lions rested where they wished. Birds continued their routines uninterrupted. Iguanas occupied paths, rocks, and shorelines with no apparent concern for those passing through. It did not acknowledge observation as something important. The wildlife did not perform for visitors. That indifference felt important.
+Perhaps the most striking observation was the absence of response. Sea lions rested where they wished. Birds continued their routines uninterrupted. Iguanas occupied paths, rocks, and shorelines with no apparent concern for those passing through.
+
+At one point, a decaying sea lion carcass lay along the shoreline. Nearby birds moved about their routines, and other animals showed no sign that anything unusual had occurred. What initially drew attention because of its starkness was quickly absorbed into the larger rhythm of the islands. Life continued. Nothing paused for observation.
+
+The wildlife did not acknowledge observation as something important. It did not perform for visitors or alter its behavior to accommodate human presence. That indifference felt significant.
 
 The animals were not remarkable because they were tame. They were remarkable because they behaved as though people were incidental. The experience carried an implicit lesson:
 
@@ -209,11 +219,9 @@ Along the shoreline, another layer of the system became visible.
 src="/assets/images/galapagos/greenturtle.webp"
 alt="Greenturtle">
 
-A green sea turtle moved steadily through the shallows, unaffected by the presence of observers above. Its movement felt effortless, following a course that appeared established long before our arrival. The encounter invited attention rather than excitement. Nothing dramatic occurred.
+The water erased distance and sound almost instantly. One moment we were adjusting masks on the surface, and the next we were suspended in a world defined by movement and light. A sea turtle drifted below with such effortless motion that it seemed to ignore the existence of gravity altogether. For several seconds nobody pointed, spoke, or surfaced. We simply followed.
 
-The significance came from witnessing continuity in motion.
-
-The system extended beyond what could be seen from shore.
+The significance came from witnessing continuity in motion. The system extended beyond what could be seen from shore.
 
 During a snorkeling excursion, visibility opened into another layer of the islands. Fish, currents, and movement existed within a structure operating largely out of sight. At one point, a large shark moved through that space without hesitation or acknowledgment. The encounter felt significant to us. For the system itself, it appeared routine. Observation did not alter what was occurring.
 
@@ -243,7 +251,9 @@ The contrast was striking.
 src="/assets/images/galapagos/lavatunnels.webp"
 alt="Tunnels">
 
-Above ground, giant tortoises continued patterns that had persisted for generations. Below ground, the island carried the record of forces that had shaped it long before any wildlife arrived. Both told the same story. Persistence was not a single thing. It existed across different scales of time.
+The giant tortoises moved with a pace that seemed entirely disconnected from schedules, itineraries, or expectations. Some stood motionless in muddy pools while others crossed open ground with deliberate determination. Watching them, it became easy to understand why the islands inspired generations of naturalists. The animals did not perform for visitors. They simply continued with lives that had unfolded here long before tourism arrived. 
+
+Below ground, the island carried the record of forces that had shaped it long before any wildlife arrived. Both told the same story. Persistence was not a single thing. It existed across different scales of time.
 
 It reshaped the environment around it.
 
