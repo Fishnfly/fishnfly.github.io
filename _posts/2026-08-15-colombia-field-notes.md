@@ -324,6 +324,10 @@ The cathedral acknowledged its origins without being constrained by them. The mi
 
 ## Villa de Leyva — Continuity
 
+<img class="story-photo"
+src="/assets/images/colombia/villadeleyva.webp"
+alt="VilladeLeyva">
+
 As dusk settled over Villa de Leyva, the mood of the plaza shifted without ever becoming quiet. 
 
 A cool breeze swept across the square beneath a cloudy sky while children continued playing during National Kite Day celebrations. Vendors lingered around the edges of the plaza selling food, drinks, and local artwork, their stands illuminated by the last light of the evening. 
@@ -333,6 +337,10 @@ Nothing felt staged for visitors. The scene felt like a community gathering in a
 ---
 
 ## Barichara — Craft
+
+<img class="story-photo"
+src="/assets/images/colombia/barichara.webp"
+alt="Barichara">
 
 Barichara expanded on that idea through craft.
 
