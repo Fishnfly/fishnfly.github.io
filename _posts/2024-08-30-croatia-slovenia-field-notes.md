@@ -390,7 +390,7 @@ That feels particularly appropriate in Ljubljana, a city where myth and history 
 
 <img class="story-photo"
 src="/assets/images/slovenia/dragons.webp"
-alt="Dragons>
+alt="Dragons">
 
 Few cities embrace a mythological creature as thoroughly as Ljubljana.
 
