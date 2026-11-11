@@ -125,7 +125,7 @@ The effect is abundance without permanence — a system designed to peak, dissol
 ## Zaanse Schans — Continuity
 
 <img class="story-photo"
-src="/assets/images/ireland/netherlands/schan.webp"
+src="/assets/images/netherlands/schans.webp"
 alt="Schans">
 
 At Zaanse Schans, the structure was more explicit. Windmills, workshops, and demonstrations operated together within a defined setting. The system was clear, organized, and intended to represent continuity rather than carry it forward organically.
@@ -161,7 +161,7 @@ Stability wasn’t inherent. It was sustained.
 The system did not eliminate the underlying condition. It managed it.
 
 <img class="story-photo"
-src="/assets/images/ireland/netherlands/canals.webp"
+src="/assets/images/netherlands/canals.webp"
 alt="canals">
 
 Movement through the city operated on multiple levels at once.
@@ -173,7 +173,7 @@ The rhythm was not instinctive at first.
 It had to be learned, quickly. The system assumed participation, not observation. You adapted to it, or you interrupted it.
 
 <img class="story-photo"
-src="/assets/images/ireland/netherlands/bicyclesstreet.webp"
+src="/assets/images//netherlands/bicyclesstreet.webp"
 alt="Bicyclestreet">
 
 Daily use revealed itself in smaller ways.
