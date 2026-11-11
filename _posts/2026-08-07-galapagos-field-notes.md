@@ -278,7 +278,7 @@ The rarest things often appear durable precisely because we encounter them at th
 
 <img class="story-photo"
 src="/assets/images/galapagos/boobies.webp"
-alt="Boobies>
+alt="Boobies">
 
 The islands repeatedly raised the same question. Why this form here, but not elsewhere? Why this variation on one island and another variation on the next? 
 
