@@ -296,7 +296,6 @@ Return home.
 src="/assets/images/colombia/bogota.webp"
 alt="Bogota">
 
-
 From Monserrate, the city seemed to extend to the horizon in every direction, disappearing into a haze where mountains and buildings became difficult to separate. Traffic moved far below while clouds drifted across the ridgeline behind us.
 
 The historic center revealed one layer. Plaza de Bolívar revealed another.
@@ -308,6 +307,10 @@ Bogotá provided the first clue. Bogotá resisted simplification. It introduced 
 ---
 
 ## Zipaquirá — Transformation of Purpose
+
+<img class="story-photo"
+src="/assets/images/colombia/zipaquira.webp"
+alt="Zipaquira">
 
 Before arriving, it was difficult to understand how a mine could become one of Colombia's most compelling spaces.
 
