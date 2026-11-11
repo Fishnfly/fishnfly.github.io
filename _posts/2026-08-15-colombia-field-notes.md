@@ -358,6 +358,10 @@ The town itself seemed built from continuity.
 
 ## Guane — Ancient Paths
 
+<img class="story-photo"
+src="/assets/images/colombia/guane.webp"
+alt="Guane">
+
 The journey to Guane began in a tuk-tuk departing Barichara beneath clear skies and bright sunshine. The road wound through gentle hills and open countryside as a cool breeze moved through the vehicle's open sides. The pace felt appropriate for the landscape, allowing the details of farms, stone walls, and rolling terrain to unfold gradually rather than rush past.
 
 Arriving in Guane felt like stepping into a quieter rhythm. The small plaza and historic church remained the center of village life, surrounded by a landscape that seemed little changed by time.
