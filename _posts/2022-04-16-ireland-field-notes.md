@@ -255,7 +255,7 @@ The site became part of Ireland's mythology as well as its history.
 ## Ring of Kerry
 
 <img class="story-photo"
-src="/assets/images/ireland/newgrange.webp"
+src="/assets/images/ireland/ringofkerry.webp"
 alt="RingofKerry">
 
 The Ring of Kerry revealed another version of Ireland. The roads curved around mountains, bays, stone walls, and isolated villages. Ruins appeared unexpectedly. Ancient forts overlooked modern roads.
