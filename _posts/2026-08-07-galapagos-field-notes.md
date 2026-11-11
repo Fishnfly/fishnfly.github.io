@@ -179,13 +179,13 @@ The water carried the system.
 
 ## Excursions — Access by Permission
 
+<img class="story-photo"
+src="/assets/images/galapagos/boat.webp"
+alt="Boat">
+
 Access rarely occurred directly. Landing sites were controlled. Movement followed marked routes. Wildlife was approached through distance rather than proximity. The restrictions did not feel burdensome. They explained the condition of what remained. The system was not organized for convenience. It was organized for continuity.Observation required participation within those limits. The rules were not separate from the experience.
 
 They were the experience.
-
-**Boat Excursion Pic**
-
-![boat](/assets/images/galapagos/boat.webp)
 
 ---
 
@@ -266,6 +266,10 @@ The rarest things often appear durable precisely because we encounter them at th
 
 ## Adaptation — The Darwin Question
 
+<img class="story-photo"
+src="/assets/images/galapagos/boobies.webp"
+alt="Boobies>
+
 The islands repeatedly raised the same question. Why this form here, but not elsewhere? Why this variation on one island and another variation on the next? 
 
 Adaptation became visible. Not as theory. Not as explanation. As accumulation. The environment established limits. Life responded to them. Difference emerged not through invention, but through adjustment. The principle became visible in small, unremarkable moments.
@@ -273,10 +277,6 @@ Adaptation became visible. Not as theory. Not as explanation. As accumulation. T
 A blue-footed booby covered two eggs beneath her body. The guide explained that not every chick would necessarily survive. Life continued through selection rather than certainty. Nothing about the scene appeared dramatic. That was what made it memorable. The process was ordinary. Adaptation did not occur through exception. It occurred through repetition, generation after generation.
 
 The system continued, even when individuals did not.
-
-**Blue-Footed Booby Pic**
-
-![Boobies](/assets/images/galapagos/boobies.webp)
 
 ---
 
