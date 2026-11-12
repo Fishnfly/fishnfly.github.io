@@ -277,6 +277,8 @@ For a time, the strategy worked. Order returned. Frontiers stabilized. The econo
 
 Yet Diocletian understood something many rulers struggle to accept. No empire lasts forever. No ruler controls history indefinitely.
 
+Diocletian’s “stop time” metaphor captures his attempt to freeze the chaos of the 3rd‑century Crisis by imposing a stable, four‑emperor system that governed the empire more efficiently for decades
+
 ### The Palace at the Edge of the Empire
 
 After decades of governing the largest empire in the known world, Diocletian made an astonishing decision. He retired. Voluntarily. Almost unheard of among Roman emperors.
