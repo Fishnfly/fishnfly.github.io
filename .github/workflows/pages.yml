@@ -39,3 +39,17 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+      - name: Notify IndexNow
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: |
+          curl -X POST https://api.indexnow.org/indexnow \
+          -H "Content-Type: application/json; charset=utf-8" \
+          -d "{
+            \"host\":\"fishnfly.net\",
+            \"key\":\"$INDEXNOW_KEY\",
+            \"urlList\":[
+              \"https://fishnfly.net/\"
+            ]
+          }"
