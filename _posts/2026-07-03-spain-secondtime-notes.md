@@ -147,7 +147,7 @@ Again and again, the journey revealed the same truth. What survives rarely survi
 
 ---
 
-## Mallorca — What Gets Passed Forward
+### Mallorca — What Gets Passed Forward
 
 ![Mallorca](/assets/images/spain2/mallorca.webp)
 
@@ -171,7 +171,7 @@ The settings differed. The pattern remained. What survives rarely survives on it
 
 ---
 
-## Girona — What Endures
+### Girona — What Endures
 
 ![Girona](/assets/images/spain2/girona.webp)
 
@@ -189,7 +189,7 @@ The walls were no longer protecting Girona. They were preserving its story.
 
 ---
 
-## Montserrat — What People Continue Believing
+### Montserrat — What People Continue Believing
 
 ![Abbey](/assets/images/spain2/abbey.webp)
 
@@ -223,7 +223,7 @@ Montserrat remains because people continue making that choice.
 
 ---
 
-## Poblet — Stewardship
+### Poblet — Stewardship
 
 ![Poblet](/assets/images/spain2/poblet.webp)
 
@@ -243,7 +243,7 @@ Many inheritances survive through transmission. Others survive through stewardsh
 
 ---
 
-## Zaragoza — Faith Across Generations
+### Zaragoza — Faith Across Generations
 
 ![Basilica](/assets/images/spain2/basilica.webp)
 
@@ -263,7 +263,7 @@ The basilica reminded me that certain beliefs outlive the generations that carry
 
 ---
 
-## Montjuïc — What Remains
+### Montjuïc — What Remains
 
 <img class="story-photo"
 src="/assets/images/spain2/montjuic.webp"
@@ -285,7 +285,7 @@ Montjuïc felt like one of those places. The walls preserved more than stone. Th
 
 ---
 
-## Picasso — Reinvention
+### Picasso — Reinvention
 
 ![Picasso](/assets/images/spain2/picasso.webp)
 
@@ -301,7 +301,7 @@ The willingness to evolve became part of the inheritance itself. The artwork rem
 
 ---
 
-## León — Continuity and Reinvention
+### León — Continuity and Reinvention
 
 ![Leon](/assets/images/spain2/leon.webp)
 
@@ -323,7 +323,7 @@ Yet very little remained frozen in time. The strongest examples of continuity of
 
 León seemed to sit comfortably within that balance. Respecting inheritance while remaining open to reinvention.
 
-## Gaudí — The Legacy of Imagination
+### Gaudí — The Legacy of Imagination
 
 ![Gaudi](/assets/images/spain2/gaudi.webp)
 
@@ -357,7 +357,7 @@ It is the belief that public places can inspire as well as serve.
 
 ---
 
-## Dalí — The Legacy of Perspective
+### Dalí — The Legacy of Perspective
 
 ![Dali](/assets/images/spain2/dali.webp)
 
@@ -373,7 +373,7 @@ His legacy was not a collection. It was a way of looking.
 
 ---
 
-## Bilbao — Reinvention
+### Bilbao — Reinvention
 
 ![Bilbao](/assets/images/spain2/bilbao.webp)
 
@@ -387,7 +387,7 @@ The lesson felt surprisingly optimistic. Change is not always the opposite of pr
 
 ---
 
-## Rioja — Patience Made Visible
+### Rioja — Patience Made Visible
 
 ![Rioja](/assets/images/spain2/rioja.webp)
 
@@ -403,7 +403,7 @@ The region reminded me that mastery is rarely invented. More often, it is accumu
 
 ---
 
-## Pamplona — Ritual and Risk
+### Pamplona — Ritual and Risk
 
 ![Pamplona](/assets/images/spain2/pamplona.webp)
 
@@ -421,7 +421,7 @@ Because they are practiced.
 
 ---
 
-## The Green North — Landscapes That Still Matter
+### The Green North — Landscapes That Still Matter
 
 <img class="story-photo"
 src="/assets/images/spain2/atlantic.webp"
