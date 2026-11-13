@@ -51,82 +51,68 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function drawRoute(feature) {
-
-  if (currentRouteLine) {
-
-  map.removeLayer(currentRouteLine);
-  currentRouteLine = null;
-
-}
-
-  currentStopMarkers.forEach(function(marker) {
-    map.removeLayer(marker);
-  });
-
-  currentStopMarkers = [];
-
-  var props = feature.properties || {};
-
-  var routeCoords =
-    normalizeRouteCoords(
-      props.routeCoords
-    );
-
-  var routeStops =
-    normalizeRoute(
-      props.route
-    );
-
-  if (routeCoords.length < 2) {
-    return;
-  }
-
-  currentRouteLine = L.polyline(routeCoords, {
-    color: props.color || "#3388ff",
-    weight: 3,
-    opacity: 0.8
-  });
-
-  currentRouteLine.addTo(map);
-  map.fitBounds(
-  currentRouteLine.getBounds().pad(0.20)
-);
-
-  routeCoords.forEach(function(coord, index) {
-
-  var endpoint =
-    index === 0 ||
-    index === routeCoords.length - 1;
-
-  var stopMarker = L.circleMarker(coord, {
-    radius: endpoint ? 8 : 5,
-    color: "#ffffff",
-    weight: 2,
-    fillColor: props.color || "#3388ff",
-    fillOpacity: 1
-  });
-
-  stopMarker.bindTooltip(
-    routeStops[index] ||
-    ("Stop " + (index + 1)),
-    {
-      direction: "top"
+    if (currentRouteLine) {
+      map.removeLayer(currentRouteLine);
+      currentRouteLine = null;
     }
-  );
 
-  stopMarker.bindPopup(
-  routeStops[index] ||
-  ("Stop " + (index + 1))
-);
+    currentStopMarkers.forEach(function(marker) {
+      map.removeLayer(marker);
+    });
 
+    currentStopMarkers = [];
 
-  stopMarker.addTo(map);
+    var props = feature.properties || {};
 
-  currentStopMarkers.push(stopMarker);
+    var routeCoords = normalizeRouteCoords(props.routeCoords);
+    var routeStops = normalizeRoute(props.route);
+    var routeImages = props.images || []; // Grabs your images array from JSON properties
 
-});
+    if (routeCoords.length < 2) {
+      return;
+    }
 
-}
+    currentRouteLine = L.polyline(routeCoords, {
+      color: props.color || "#3388ff",
+      weight: 3,
+      opacity: 0.8
+    });
+
+    currentRouteLine.addTo(map);
+    map.fitBounds(currentRouteLine.getBounds().pad(0.20));
+
+    routeCoords.forEach(function(coord, index) {
+      var endpoint = index === 0 || index === routeCoords.length - 1;
+      var stopName = routeStops[index] || ("Stop " + (index + 1));
+      var stopImage = routeImages[index]; // Gets the corresponding image for this stop index
+
+      var stopMarker = L.circleMarker(coord, {
+        radius: endpoint ? 8 : 5,
+        color: "#ffffff",
+        weight: 2,
+        fillColor: props.color || "#3388ff",
+        fillOpacity: 1
+      });
+
+      stopMarker.bindTooltip(stopName, {
+        direction: "top"
+      });
+
+      // Build popup content conditionally based on whether an image exists
+      var popupContent = "<div style='text-align: center;'>";
+      if (stopImage) {
+        popupContent += "<img src='" + stopImage + "' alt='" + stopName + "' style='width: 160px; height: 100px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;' />";
+      }
+      popupContent += "<h4 style='margin: 0 0 4px 0; font-size: 14px;'>" + stopName + "</h4>";
+      popupContent += "<a href='" + (props.story || "#") + "' style='font-size: 12px; color: " + (props.color || "#3388ff") + "; text-decoration: none;'>Read Field Notes →</a>";
+      popupContent += "</div>";
+
+      stopMarker.bindPopup(popupContent);
+      stopMarker.addTo(map);
+
+      currentStopMarkers.push(stopMarker);
+    });
+  }
 
   function renderLegend(data) {
     var legendEl = document.getElementById("atlas-legend");
@@ -155,9 +141,9 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     legendEl.innerHTML =
-  "<div class='legend-items'>" +
-  items.join("") +
-  "</div>";
+      "<div class='legend-items'>" +
+      items.join("") +
+      "</div>";
   }
 
   function renderJourneyCard(feature) {
@@ -165,7 +151,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (feature.geometry && feature.geometry.coordinates) {
       drawRoute(feature);
-
     }
 
     var routeValues = normalizeRoute(props.route);
@@ -187,8 +172,8 @@ document.addEventListener("DOMContentLoaded", function () {
   var map = L.map("map").setView([20, 0], 2);
 
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  attribution: "&copy; OpenStreetMap"
-}).addTo(map);
+    attribution: "&copy; OpenStreetMap"
+  }).addTo(map);
 
   fetch("/assets/data/atlas.geojson")
     .then(function (response) {
@@ -258,9 +243,9 @@ document.addEventListener("DOMContentLoaded", function () {
           });
         },
         onEachFeature: function (feature, layer) {
-         layer.on("click", function () {
-  renderJourneyCard(feature);
-});
+          layer.on("click", function () {
+            renderJourneyCard(feature);
+          });
         }
       });
 
@@ -308,15 +293,14 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         var firstMatch = filteredFeatures[0];
-if (firstMatch) {
-  renderJourneyCard(firstMatch);
-} else {
-  var filteredBounds = atlasLayer.getBounds();
-  if (filteredBounds.isValid()) {
-    map.fitBounds(filteredBounds.pad(0.20));
-  }
-}
-
+        if (firstMatch) {
+          renderJourneyCard(firstMatch);
+        } else {
+          var filteredBounds = atlasLayer.getBounds();
+          if (filteredBounds.isValid()) {
+            map.fitBounds(filteredBounds.pad(0.20));
+          }
+        }
       }
 
       document.querySelectorAll(".legend-filter").forEach(function (item) {

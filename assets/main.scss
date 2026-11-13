@@ -596,3 +596,13 @@ color: #666;
   display: table;
   clear: both;
 }
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+  padding: 6px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.leaflet-popup-content {
+  margin: 8px !important;
+}
