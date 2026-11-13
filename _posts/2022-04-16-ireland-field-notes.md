@@ -148,10 +148,10 @@ According to legend, they arrived in Ireland beneath dark clouds that covered th
 
 The Tuatha Dé Danann carried four sacred treasures:
 
-The Stone of Destiny, which cried out when touched by the rightful king.
-The Spear of Lugh, impossible to defeat in battle.
-The Sword of Nuada, from which no enemy could escape.
-The Cauldron of the Dagda, a vessel that never ran empty.
+- The Stone of Destiny, which cried out when touched by the rightful king.
+- The Spear of Lugh, impossible to defeat in battle.
+- The Sword of Nuada, from which no enemy could escape.
+ -The Cauldron of the Dagda, a vessel that never ran empty. 
 
 Among their greatest heroes was Lugh, a warrior, craftsman, poet, and king whose talents seemed limitless. He led the Tuatha Dé Danann in battle against the Fomorians, a race of destructive supernatural beings associated with chaos, darkness, and the sea.
 
