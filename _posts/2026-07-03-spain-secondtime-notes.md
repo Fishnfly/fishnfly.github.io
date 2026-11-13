@@ -515,7 +515,7 @@ Covadonga felt like one of those rare places where history still appears anchore
 
 ---
 
-## Cangas de Onís — Crossing and Ritual
+### Cangas de Onís — Crossing and Ritual
 
 <img class="story-photo"
 src="/assets/images/spain2/bridge.webp"
@@ -538,7 +538,9 @@ Most travel remembers the grand monuments. Sometimes it is the quieter crossings
 
 Between the mountain sanctuary and the long road toward the Camino, Cangas de Onís felt like the natural pause of the journey.
 
-## The Camino — Movement Preserved
+---
+
+### The Camino — Movement Preserved
 
 ![Camino](/assets/images/spain2/camino.webp)
 
@@ -552,7 +554,7 @@ That continuity felt remarkably alive.
 
 ---
 
-## Spain and Argentina — Ninety Minutes Together
+### Spain and Argentina — Ninety Minutes Together
 
 ![World Cup](/assets/images/spain2/worldcup.webp)
 
@@ -568,7 +570,7 @@ People continue seeking connection. That desire may be one of the oldest inherit
 
 ---
 
-## Salamanca & La Alberca — Identity Preserved
+### Salamanca & La Alberca — Identity Preserved
 
 ![Salamanca](/assets/images/spain2/salamanca.webp)
 
