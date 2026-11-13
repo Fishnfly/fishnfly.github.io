@@ -51,58 +51,82 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function drawRoute(feature) {
-    if (currentRouteLine) {
-      map.removeLayer(currentRouteLine);
-      currentRouteLine = null;
-    }
 
-    currentStopMarkers.forEach(function(marker) {
-      map.removeLayer(marker);
-    });
-    currentStopMarkers = [];
+  if (currentRouteLine) {
 
-    var props = feature.properties || {};
+  map.removeLayer(currentRouteLine);
+  currentRouteLine = null;
 
-    var routeCoords = normalizeRouteCoords(props.routeCoords);
-    var routeStops = normalizeRoute(props.route);
+}
 
-    if (routeCoords.length < 2) {
-      return;
-    }
+  currentStopMarkers.forEach(function(marker) {
+    map.removeLayer(marker);
+  });
 
-    currentRouteLine = L.polyline(routeCoords, {
-      color: props.color || "#3388ff",
-      weight: 3,
-      opacity: 0.8
-    });
+  currentStopMarkers = [];
 
-    currentRouteLine.addTo(map);
-    map.fitBounds(currentRouteLine.getBounds().pad(0.20));
+  var props = feature.properties || {};
 
-    routeCoords.forEach(function(coord, index) {
-      var endpoint = index === 0 || index === routeCoords.length - 1;
+  var routeCoords =
+    normalizeRouteCoords(
+      props.routeCoords
+    );
 
-      var stopMarker = L.circleMarker(coord, {
-        radius: endpoint ? 8 : 5,
-        color: "#ffffff",
-        weight: 2,
-        fillColor: props.color || "#3388ff",
-        fillOpacity: 1
-      });
+  var routeStops =
+    normalizeRoute(
+      props.route
+    );
 
-      stopMarker.bindTooltip(
-        routeStops[index] || ("Stop " + (index + 1)),
-        { direction: "top" }
-      );
-
-      stopMarker.bindPopup(
-        routeStops[index] || ("Stop " + (index + 1))
-      );
-
-      stopMarker.addTo(map);
-      currentStopMarkers.push(stopMarker);
-    });
+  if (routeCoords.length < 2) {
+    return;
   }
+
+  currentRouteLine = L.polyline(routeCoords, {
+    color: props.color || "#3388ff",
+    weight: 3,
+    opacity: 0.8
+  });
+
+  currentRouteLine.addTo(map);
+  map.fitBounds(
+  currentRouteLine.getBounds().pad(0.20)
+);
+
+  routeCoords.forEach(function(coord, index) {
+
+  var endpoint =
+    index === 0 ||
+    index === routeCoords.length - 1;
+
+  var stopMarker = L.circleMarker(coord, {
+    radius: endpoint ? 8 : 5,
+    color: "#ffffff",
+    weight: 2,
+    fillColor: props.color || "#3388ff",
+    fillOpacity: 1
+  });
+
+  stopMarker.bindTooltip(
+    routeStops[index] ||
+    ("Stop " + (index + 1)),
+    {
+      direction: "top"
+    }
+  );
+  
+  stopMarker.bindPopup(
+  routeStops[index] ||
+  ("Stop " + (index + 1))
+);
+
+
+  stopMarker.addTo(map);
+
+  currentStopMarkers.push(stopMarker);
+
+});
+
+}
 
   function renderLegend(data) {
     var legendEl = document.getElementById("atlas-legend");
@@ -130,7 +154,10 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
 
-    legendEl.innerHTML = "<div class='legend-items'>" + items.join("") + "</div>";
+    legendEl.innerHTML =
+  "<div class='legend-items'>" +
+  items.join("") +
+  "</div>";
   }
 
   function renderJourneyCard(feature) {
@@ -138,6 +165,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (feature.geometry && feature.geometry.coordinates) {
       drawRoute(feature);
+
     }
 
     var routeValues = normalizeRoute(props.route);
@@ -153,7 +181,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "<p><strong>Route:</strong></p>" +
       routeList +
       "<p class='journey-meta'>" + (props.year || "") + " • " + routeValues.length + " Stops • " + (props.photos || 0) + " Photos</p>" +
-      "<p><a href='" + (props.story || "#") + "' class='atlas-read-link'><strong>Read Journey</strong></a></p>";
+      "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
   }
 
   var map = L.map("map").setView([20, 0], 2);
@@ -230,9 +258,9 @@ document.addEventListener("DOMContentLoaded", function () {
           });
         },
         onEachFeature: function (feature, layer) {
-          layer.on("click", function () {
-            renderJourneyCard(feature);
-          });
+         layer.on("click", function () {
+  renderJourneyCard(feature);
+});
         }
       });
 
@@ -267,20 +295,28 @@ document.addEventListener("DOMContentLoaded", function () {
           features: filteredFeatures
         });
 
-        var filteredBounds = atlasLayer.getBounds();
-        if (filteredBounds.isValid()) {
-          map.fitBounds(filteredBounds.pad(0.30));
-        }
-
         if (selectedMyth === "all") {
+          if (worldBounds.isValid()) {
+            map.fitBounds(worldBounds.pad(0.30));
+          }
+
           countryCard.innerHTML =
             "<h2>Select a Destination</h2>" +
-            "<p>Click a marker on the map to explore the route.</p>";
-        } else {
-          countryCard.innerHTML =
-            "<h2>" + escapeHtml(selectedMyth) + " Thread</h2>" +
-            "<p>Showing " + filteredFeatures.length + " journey(s) in this myth category. Click any marker to view its route.</p>";
+            "<p>Click a marker on the map.</p>";
+
+          return;
         }
+
+        var firstMatch = filteredFeatures[0];
+if (firstMatch) {
+  renderJourneyCard(firstMatch);
+} else {
+  var filteredBounds = atlasLayer.getBounds();
+  if (filteredBounds.isValid()) {
+    map.fitBounds(filteredBounds.pad(0.20));
+  }
+}
+
       }
 
       document.querySelectorAll(".legend-filter").forEach(function (item) {
