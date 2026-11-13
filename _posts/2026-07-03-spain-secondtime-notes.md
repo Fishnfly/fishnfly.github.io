@@ -515,6 +515,29 @@ Covadonga felt like one of those rare places where history still appears anchore
 
 ---
 
+## Cangas de Onís — Crossing and Ritual
+
+<img class="story-photo"
+src="/assets/images/spain2/bridge.webp"
+alt="Bridge">
+
+Just down the valley from Covadonga, the old stone bridge of Cangas de Onís rose steeply above the Río Sella, draped in ivy and centuries. Despite its Roman name, the pointed central arch belonged to the Middle Ages—one of three surviving spans from a seven-arch crossing reshaped by centuries of mountain floods.
+
+Beneath the camelback crest, a replica of the Victory Cross hung suspended over a deep emerald pool long known for Atlantic salmon. One bank belonged to Cangas de Onís. The other belonged to Parres. Travelers paused at the apex to look down at the current while swimmers drifted along the rocky ledges below.
+The river kept moving. The stone held still.
+
+A few streets away at Restaurante La Pinza on Calle San Pelayo, the afternoon slowed around a tall green catch basin and a bottle of natural sidra. A server raised the green glass high overhead, sending a thin stream nearly six feet into a tilted glass below.
+
+<img class="story-photo"
+src="/assets/images/spain2/cider.webp"
+alt="Cider">
+
+In Asturias, cider is not simply poured. It is woken up. The height brings air to the liquid, meant to be finished in a single brisk swallow while the fizz still lingers.
+
+Most travel remembers the grand monuments. Sometimes it is the quieter crossings and practiced gestures that hold a valley together. The bridge invited stillness above the water. The table invited presence in town.
+
+Between the mountain sanctuary and the long road toward the Camino, Cangas de Onís felt like the natural pause of the journey.
+
 ## The Camino — Movement Preserved
 
 ![Camino](/assets/images/spain2/camino.webp)
@@ -701,7 +724,7 @@ That is what stayed.
 
 ### Field photographs from this journey
   
-[View the photo archive](/photo-archive/#spain)
+[View the photo archive](/photo-archive/#spain-northern)
 
 ---
 
