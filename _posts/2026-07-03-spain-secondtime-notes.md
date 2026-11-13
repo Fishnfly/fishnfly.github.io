@@ -442,7 +442,7 @@ The northern regions did not feel isolated.
 ### Gaztelugatxe — The Long Way There
 
 <img class="story-photo"
-src="/assets/images/spain2/Gaztelugatxe.webp"
+src="/assets/images/spain2/gaztelugatxe.webp"
 alt="Gaztelugatxe">
 
 Some destinations remain memorable because of what they are. Others because of what it takes to reach them.
