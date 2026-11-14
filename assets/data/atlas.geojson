@@ -161,7 +161,9 @@
 "images": [
     "/assets/images/atlas/madrid.webp",
     "/assets/images/atlas/toledo-bridge.webp",
-    "/assets/images/atlas/lamancha.webp"
+    "/assets/images/atlas/lamancha.webp",
+    "/assets/images/atlas/cuenca.webp",
+    "/assets/images/atlas/valencia.webp"
 ]
       },
       "geometry": {
