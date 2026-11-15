@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     return;
   }
 
-  var map = L.map("map").setView(Array.of(20, 0), 2);
+  var map = L.map("map").setView([20, 0], 2);
 
   L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap"
@@ -52,10 +52,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     return routeCoords
       .filter(function (coord) {
-        return Array.isArray(coord) && coord.length >= 2 && !isNaN(coord.at(0)) && !isNaN(coord.at(1));
+        return Array.isArray(coord) && coord.length >= 2 && !isNaN(coord[0]) && !isNaN(coord[1]);
       })
       .map(function (coord) {
-        return Array.of(coord.at(1), coord.at(0));
+        return [coord[1], coord[0]];
       });
   }
 
@@ -154,6 +154,7 @@ document.addEventListener("DOMContentLoaded", function () {
       duration: 0.75
     });
   }
+
   function renderJourneyCard(feature) {
     var props = feature.properties || {};
 
@@ -228,8 +229,24 @@ document.addEventListener("DOMContentLoaded", function () {
         this.classList.add("active");
 
         clearActiveRoute();
-        var selectedMyth = this.getAttribute("data-myth");
-        renderGeoJsonLayer(data, selectedMyth);
+
+        var matches = data.features.filter(function (feature) {
+  return selectedMyth === "all" ||
+         (feature.properties && feature.properties.myth === selectedMyth);
+});
+
+if (selectedMyth === "all") {
+
+  countryCard.innerHTML =
+    "<h2>Select a Destination</h2>" +
+    "<p>Choose a marker or myth thread.</p>";
+
+  return;
+}
+
+if (matches.length) {
+  renderJourneyCard(matches[0]);
+}
       });
     });
   }
@@ -268,9 +285,10 @@ document.addEventListener("DOMContentLoaded", function () {
     }).addTo(map);
 
     var bounds = atlasLayer.getBounds();
-    if (bounds.isValid()) {
-      map.fitBounds(bounds.pad(0.30));
-    }
+
+if (bounds.isValid() && filterMyth === "all") {
+  map.fitBounds(bounds.pad(0.30));
+}
   }
 
   fetch("/assets/data/atlas.geojson")
