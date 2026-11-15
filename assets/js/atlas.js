@@ -74,6 +74,8 @@ document.addEventListener("DOMContentLoaded", function () {
   function drawRoute(feature) {
     clearActiveRoute();
 
+    map.closePopup();
+
     var props = feature.properties || {};
     var routeCoords = normalizeRouteCoords(props.routeCoords);
     var routeStops = normalizeRoute(props.route);
@@ -230,9 +232,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
         clearActiveRoute();
 
-        var matches = data.features.filter(function (feature) {
+        var selectedMyth = this.getAttribute("data-myth");
+
+renderGeoJsonLayer(data, selectedMyth);
+
+var matches = data.features.filter(function (feature) {
   return selectedMyth === "all" ||
-         (feature.properties && feature.properties.myth === selectedMyth);
+         (feature.properties &&
+          feature.properties.myth === selectedMyth);
 });
 
 if (selectedMyth === "all") {
@@ -286,8 +293,24 @@ if (matches.length) {
 
     var bounds = atlasLayer.getBounds();
 
-if (bounds.isValid() && filterMyth === "all") {
-  map.fitBounds(bounds.pad(0.30));
+if (bounds.isValid()) {
+
+  if (filterMyth === "all") {
+
+    map.fitBounds(bounds.pad(0.30));
+
+  } else {
+
+    if (atlasLayer.getLayers().length === 1) {
+
+      map.setView(
+        atlasLayer.getLayers()[0].getLatLng(),
+        5
+      );
+
+    } else {
+
+      map.fitBounds(bounds.pad(0.30));
 }
   }
 
