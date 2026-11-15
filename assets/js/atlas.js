@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   var map = L.map("map").setView(Array.of(20, 0), 2);
 
-  L.tileLayer("https://openstreetmap.org{z}/{x}/{y}.png", {
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "&copy; OpenStreetMap"
   }).addTo(map);
 
@@ -266,6 +266,11 @@ document.addEventListener("DOMContentLoaded", function () {
         });
       }
     }).addTo(map);
+
+    var bounds = atlasLayer.getBounds();
+    if (bounds.isValid()) {
+      map.fitBounds(bounds.pad(0.30));
+    }
   }
 
   fetch("/assets/data/atlas.geojson")
