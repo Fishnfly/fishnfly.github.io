@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     var routeCoords = normalizeRouteCoords(props.routeCoords);
     var routeStops = normalizeRoute(props.route);
-    var routeImages = props.images || []; // Grabs your images array from JSON properties
+    var routeImages = props.images || [];
 
     if (routeCoords.length < 2) {
       return;
@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function () {
     routeCoords.forEach(function(coord, index) {
       var endpoint = index === 0 || index === routeCoords.length - 1;
       var stopName = routeStops[index] || ("Stop " + (index + 1));
-      var stopImage = routeImages[index]; // Gets the corresponding image for this stop index
+      var stopImage = routeImages[index];
 
       var stopMarker = L.circleMarker(coord, {
         radius: endpoint ? 8 : 5,
@@ -98,7 +98,6 @@ document.addEventListener("DOMContentLoaded", function () {
         direction: "top"
       });
 
-      // Build popup content conditionally based on whether an image exists
       var popupContent = "<div style='text-align: center;'>";
       if (stopImage) {
         popupContent += "<img src='" + stopImage + "' alt='" + stopName + "' style='width: 160px; height: 100px; object-fit: cover; border-radius: 4px; margin-bottom: 6px;' />";
@@ -155,9 +154,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     var routeValues = normalizeRoute(props.route);
     var routeList = routeValues.length
-      ? "<div class='route-chips'>" + routeValues.map(function (stop) {
-          return "<span class='route-chip'>" + stop + "</span>";
-        }).join("") + "</div>"
+      ? "<div class='route-chips'>" + routeValues.map(function (stop, index) {
+          return "<span class='route-chip' data-stop-index='" + index + "' style='cursor: pointer;'>[" + stop + "]</span>";
+        }).join(" ") + "</div>"
       : "<p>No route details available.</p>";
 
     countryCard.innerHTML =
@@ -167,6 +166,18 @@ document.addEventListener("DOMContentLoaded", function () {
       routeList +
       "<p class='journey-meta'>" + (props.year || "") + " • " + routeValues.length + " Stops • " + (props.photos || 0) + " Photos</p>" +
       "<p><a href='" + (props.story || "#") + "'>Read Journey</a></p>";
+
+    // Attach click events to route chips so they control the map markers
+    countryCard.querySelectorAll(".route-chip").forEach(function (chip) {
+      chip.addEventListener("click", function () {
+        var index = parseInt(this.getAttribute("data-stop-index"), 10);
+        var marker = currentStopMarkers[index];
+        if (marker) {
+          map.setView(marker.getLatLng(), Math.max(map.getZoom(), 11));
+          marker.openPopup();
+        }
+      });
+    });
   }
 
   var map = L.map("map").setView([20, 0], 2);
@@ -285,7 +296,7 @@ document.addEventListener("DOMContentLoaded", function () {
             map.fitBounds(worldBounds.pad(0.30));
           }
 
-          countryCard.innerHTML =
+              countryCard.innerHTML =
             "<h2>Select a Destination</h2>" +
             "<p>Click a marker on the map.</p>";
 
