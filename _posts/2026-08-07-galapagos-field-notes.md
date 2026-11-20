@@ -396,13 +396,14 @@ The experience became more rewarding when observation replaced interaction and p
 
 ## If we did it again
 
-We would spend more time and move less. More days on fewer islands. More observation and fewer objectives.
+We would spend more time exploring the other islands. Each had its own character, landscapes, and wildlife, revealing a different side of the Galápagos.
 
-The excursions were excellent, but many of the most memorable moments occurred between them: watching marine iguanas move across volcanic rock, following sea lions from the shoreline, or simply sitting beside the water as the day changed.
+The excursions were excellent, but many of our favorite memories happened in the quiet moments between them: marine iguanas crossing black volcanic rock, sea lions gathering along the shore, or a changing sky reflected on calm water at day's end.
 
 The islands revealed themselves gradually.
+The longer we stayed, the more we noticed.
 
-Given the choice, we would allow even more time for that process.
+Given the choice, we would slow down even further and allow more time for those moments to unfold naturally.
 
 ---
 
