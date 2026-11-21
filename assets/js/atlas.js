@@ -173,7 +173,9 @@ document.addEventListener("DOMContentLoaded", function () {
         var index = parseInt(this.getAttribute("data-stop-index"), 10);
         var marker = currentStopMarkers[index];
         if (marker) {
-          map.setView(marker.getLatLng(), Math.max(map.getZoom(), 11));
+          map.flyTo(marker.getLatLng(), Math.max(map.getZoom(), 11), {
+  duration: 0.75
+});
           marker.openPopup();
         }
       });
